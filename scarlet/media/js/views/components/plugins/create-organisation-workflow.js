@@ -2,6 +2,8 @@ import ko from 'knockout';
 import $ from 'jquery';
 import arches from 'arches';
 import Workflow from 'viewmodels/workflow';
+import 'views/components/workflows/general-info-step';
+import 'views/components/workflows/simon-id-step';
 import quickResourceCreateWorkflowTemplate from 'templates/views/components/plugins/create-organisation-workflow.htm';
 export default ko.components.register('create-organisation-workflow', {
     viewModel: function(params) {

@@ -2,6 +2,8 @@ import ko from 'knockout';
 import $ from 'jquery';
 import arches from 'arches';
 import Workflow from 'viewmodels/workflow';
+import 'views/components/workflows/general-info-step';
+import 'views/components/workflows/simon-id-step';
 import quickResourceCreateWorkflowTemplate from 'templates/views/components/plugins/create-person-workflow.htm';
 export default ko.components.register('create-person-workflow', {
     viewModel: function(params) {

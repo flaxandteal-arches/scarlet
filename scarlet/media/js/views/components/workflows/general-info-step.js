@@ -3,7 +3,7 @@ import ko from 'knockout';
 import koMapping from 'knockout-mapping';
 import uuid from 'uuid';
 import { generateArchesURL } from "@/arches/utils/generate-arches-url.ts";
-import generalInfoStep from 'templates/views/components/plugins/simon-id-step.htm';
+import generalInfoStep from 'templates/views/components/plugins/simon-id-step.htm'; // TODO: confirm why the name mismatch
 
 var viewModel = function(params) {
     this.SIMON_ID_NUMBER_NODE = "c4bad66a-f3f7-11ed-bf80-114c466094e0";
@@ -131,7 +131,7 @@ var viewModel = function(params) {
         delete simonIdTile['resourceinstance'];
   
         await window.fetch(
-            generateArchesURL("api_tiles", {tileid: simonIdTile['tileid'])),
+            generateArchesURL("api_tiles", {tileid: simonIdTile['tileid']}),
             {
                 method: 'POST',
                 credentials: 'include',

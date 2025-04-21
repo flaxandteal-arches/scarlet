@@ -33,7 +33,7 @@ class PlaceFunction(BaseFunction):
             if at_address_node_id in list(tile.data.keys()):
                 resource_instance_id = str(tile.resourceinstance.resourceinstanceid)
                 resource = Resource.objects.get(pk=resource_instance_id)
-                related_resources = resource.get_related_resources()
+                related_resources = resource.get_related_resources(user=True)
                 places = {str(rel["resourceinstanceid"]): rel for rel in related_resources["related_resources"] if str(rel["graph_id"]) == place_graph_id}
                 at_addresses = {str(rel["resourceinstanceid"]): rel for rel in related_resources["related_resources"] if str(rel["graph_id"]) == at_address_graph_id}
                 address_places = set()
