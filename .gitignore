@@ -1,0 +1,22 @@
+*.pyc
+*.log
+node_modules
+coverage/
+scarlet/logs
+scarlet/export_deliverables
+scarlet/cantaloupe/*
+scarlet/staticfiles
+scarlet/media/packages
+scarlet/media/build/
+scarlet/uploadedfiles/*
+scarlet/settings_local.py
+webpack-stats.json
+.vscode/
+*.egg-info
+.DS_STORE
+CACHE
+frontend_configuration
+
+# Packaging
+build/
+dist/
