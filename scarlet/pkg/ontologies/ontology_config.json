@@ -1,0 +1,8 @@
+{
+  "base": "SEMSIMOntology_InternalLinksOnly_V19_20230420.xml.rdfs",
+  "base_name": "SIMEON v.19",
+  "extensions": [
+  ],
+  "base_version": "19",
+  "base_id": "da8d3931-bc44-4432-a963-448bac4f9fa2"
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/203e37f6-f7a1-3fde-a1f2-976b8c6a0b88">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0ea7834f-0d89-3337-958a-cdff91b61175"/>
+        <dcterms:identifier xml:lang="en">{"id": "9bf5c24b-1137-4281-a2f9-717cfaefe547", "value": "http://toolsofknowledge.org/AddressFunctionType/"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d0f82271-2a2a-3418-a609-2041d1c60395"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/87bd91e5-d24d-32b2-836e-0f077d70e270"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/50388c45-a86e-3cb4-9226-ac572243f5d6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4bb4f501-6414-39b7-83b8-ef7e694ba8f5"/>
+        <dcterms:title xml:lang="en">{"id": "c66eaddc-23fd-4a7f-af92-3fb5fd04026f", "value": "Address Function Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/53e51668-96ad-32c5-a957-9a4ac7e8f75a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b8300575-5e2c-3623-b5d6-f7cb81e5ce45"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bbca33fb-23dd-3b7a-a6e2-2fc6f6c6813a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/203e37f6-f7a1-3fde-a1f2-976b8c6a0b88"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bf6ac146-c53f-3a28-9519-28c3d3299f38"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "fba97fe3-98dc-483f-bbec-b6f00e664157", "value": "Additional Outlet"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a4b708d6-0b89-45af-b1c8-84a5381941e8", "value": "http://toolsofknowledge.org/AddressFunctionType/Additional Outlet"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4bb4f501-6414-39b7-83b8-ef7e694ba8f5">
+    <dcterms:identifier xml:lang="en">{"id": "025cf4a5-f412-4cf7-b43c-2f406a0eff69", "value": "http://toolsofknowledge.org/AddressFunctionType/Testing Station"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+    <skos:prefLabel xml:lang="en">{"id": "5b376094-ef72-4712-bab7-3a2d933add77", "value": "Testing Station"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bbca33fb-23dd-3b7a-a6e2-2fc6f6c6813a">
+    <dcterms:identifier xml:lang="en">{"id": "06703d9b-1a0d-4e7a-a511-3fc27dccccdc", "value": "http://toolsofknowledge.org/AddressFunctionType/School"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+    <skos:prefLabel xml:lang="en">{"id": "153a8564-ec4b-4b1f-a3f0-9647409aa414", "value": "School"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bf6ac146-c53f-3a28-9519-28c3d3299f38">
+    <skos:prefLabel xml:lang="en">{"id": "4065198a-62e7-46e3-9afc-142915c609fa", "value": "Multiple Occupancy"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "10776ef9-13ed-4fde-8ade-bbf9014459e9", "value": "http://toolsofknowledge.org/AddressFunctionType/Multiple Occupancy"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b8300575-5e2c-3623-b5d6-f7cb81e5ce45">
+    <skos:prefLabel xml:lang="en">{"id": "21aa275f-716a-42ab-a9df-ccce14e901c2", "value": "Residence"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+    <dcterms:identifier xml:lang="en">{"id": "fdf0b305-f263-4c7c-8a2a-d54d8d97f6fc", "value": "http://toolsofknowledge.org/AddressFunctionType/Residence"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/50388c45-a86e-3cb4-9226-ac572243f5d6">
+    <skos:prefLabel xml:lang="en">{"id": "90b36148-151c-49e7-b574-cf8fff996268", "value": "Agency"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+    <dcterms:identifier xml:lang="en">{"id": "fc048ba5-51a9-4468-a54f-34ec2e80ede9", "value": "http://toolsofknowledge.org/AddressFunctionType/Agency"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/87bd91e5-d24d-32b2-836e-0f077d70e270">
+    <skos:prefLabel xml:lang="en">{"id": "9f63c16f-fa03-4a9f-9fe2-0610e34b8827", "value": "Factory"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "f8fa5c66-25d3-4436-bb24-78281f251e71", "value": "http://toolsofknowledge.org/AddressFunctionType/Factory"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/53e51668-96ad-32c5-a957-9a4ac7e8f75a">
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+    <dcterms:identifier xml:lang="en">{"id": "f6e9c607-632a-4a5a-a4a9-45c41875ba94", "value": "http://toolsofknowledge.org/AddressFunctionType/Country Residence"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "783804f6-0aaa-4a43-a3d6-e284645c24f8", "value": "Country Residence"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d0f82271-2a2a-3418-a609-2041d1c60395">
+    <skos:prefLabel xml:lang="en">{"id": "0f009896-7ddb-4e67-b8eb-be2538ce5953", "value": "Primary Outlet"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "f6768455-eaee-48db-a7ac-daddf5109fe1", "value": "http://toolsofknowledge.org/AddressFunctionType/Primary Outlet"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0ea7834f-0d89-3337-958a-cdff91b61175">
+    <dcterms:identifier xml:lang="en">{"id": "f0743127-1e2b-41ed-a8f8-2e61a1f61a6f", "value": "http://toolsofknowledge.org/AddressFunctionType/Subsidiary"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c8eddc8f-573d-4a8e-9cd8-b7ebb478cfa0", "value": "Subsidiary"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/0c325482-d863-3aef-af52-144f77b6f206"/>
+  </skos:Concept>
+</rdf:RDF>

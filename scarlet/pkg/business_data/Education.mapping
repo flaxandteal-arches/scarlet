@@ -1,0 +1,145 @@
+{
+    "resource_model_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+    "resource_model_name": "Education",
+    "nodes": [
+        {
+            "arches_nodeid": "0ad28ea4-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Educated Person",
+            "file_field_name": "Educated Person",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "724c5c99-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education End Date - Additional Notes",
+            "file_field_name": "Education End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "724c5c98-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Education End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "724c5c96-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education End Date Confidence Note",
+            "file_field_name": "Education End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "724c5c97-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education End Date Confidence Probability Value",
+            "file_field_name": "Education End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "724c5c95-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education End Date Confidence Type",
+            "file_field_name": "Education End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "724c5c9b-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education End Date Type",
+            "file_field_name": "Education End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "724c5c9a-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education End Date Value",
+            "file_field_name": "Education End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "31072594-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Provider",
+            "file_field_name": "Education Provider",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4828ffb7-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Start Date - Additional Notes",
+            "file_field_name": "Education Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4828ffb6-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Education Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4828ffb4-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Start Date Confidence Note",
+            "file_field_name": "Education Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4828ffb5-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Start Date Confidence Probability Value",
+            "file_field_name": "Education Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4828ffb3-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Start Date Confidence Type",
+            "file_field_name": "Education Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4828ffb9-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Start Date Type",
+            "file_field_name": "Education Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4828ffb8-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Education Start Date Value",
+            "file_field_name": "Education Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "24a1fee6-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Educator",
+            "file_field_name": "Educator",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "99304d30-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Educator Role Type",
+            "file_field_name": "Educator Role Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b98a5c56-fa2e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Subject Area",
+            "file_field_name": "Subject Area",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}

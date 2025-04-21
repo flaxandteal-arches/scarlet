@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/127a7673-00fd-3e7d-8f2b-9a77b5b4b902">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/797f270f-3e3d-34bd-8878-6cb7d54ff774">
+        <dcterms:identifier xml:lang="en">{"id": "ffd31a96-4d03-43e3-ae97-5e06eec4c9dd", "value": "http://toolsofknowledge.org/SentenceType"}</dcterms:identifier>
+        <dcterms:description xml:lang="en">{"id": "50beb6a2-752a-499c-9aa0-d7288676b690", "value": "Varieties of punitive sentences"}</dcterms:description>
+        <dcterms:title xml:lang="en">{"id": "f7676eec-50eb-43b1-90a2-abeb6de0f9e6", "value": "Sentence Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/127a7673-00fd-3e7d-8f2b-9a77b5b4b902"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <dcterms:identifier xml:lang="en">{"id": "45e3e6eb-c067-4c87-a03c-a8c2ff83f295", "value": "http://toolsofknowledge.org/SentenceType/Fine"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "6ec458a2-36cb-424e-84a6-0773529b05a0", "value": "Fine"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

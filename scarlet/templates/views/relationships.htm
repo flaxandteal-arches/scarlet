@@ -1,0 +1,65 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Associated Actors -->
+<div class="aher-report-section">
+    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(visible.relationships)}, css: {'fa-angle-double-right': visible.relationships(), 'fa-angle-double-up': !visible.relationships()}" class="fa toggle"></i> {% trans "Associated People and Organizations" %}</h2>
+    <a data-bind="{if: cards.relationships, click: function(){addNewTile(cards.relationships)}}" class="aher-report-a"><i class="fa fa-mail-reply"></i> {% trans "Add People/Organizations" %}</a>
+
+    <!-- Collapsible content -->
+    <div data-bind="visible: visible.relationships" class="aher-report-collapsible-container pad-lft">
+
+        <!-- ko ifnot: relationships().length -->
+        <div class="aher-nodata-note">No relationships for this resource</div>
+        <!-- /ko -->
+
+        <!-- ko if: relationships().length -->
+        <div class="aher-report-subsection">
+            <div class="firstchild-container">
+                <div class="aher-table" data-bind="">
+                    <table class="table table-striped" cellspacing="0" width="100%">
+                        <thead>
+                            <tr class="aher-table-header">
+                                <th>{% trans "Actor" %}</th>
+                                <th>{% trans "Role" %}</th>
+                                <th class="aher-table-control all"></th>
+                            </tr>
+                        </thead>
+                        <tbody data-bind="dataTablesForEach: { data: relationships, dataTableOptions: relationshipsTableConfig}">
+                            <tr>
+                                <td data-bind="text: actor"><a href="" class="aher-table-link"></a></td>
+                                <td data-bind="text: role"></td>
+                                <td>
+                                    [link]
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- /ko -->
+
+        <!-- ko ifnot: marriages().length -->
+        <div class="aher-nodata-note">No marriages for this resource</div>
+        <!-- /ko -->
+
+        <!-- ko if: marriages().length -->
+        <div class="aher-report-subsection">
+            <!-- ko foreach: {data: marriages(), as: 'marriage'}-->
+                <div data-bind="component: {
+                    name: 'views/marriage',
+                    params: {
+                        data: marriage.instance,
+                        ignoreSpouse: marriage.ignoreSpouse
+                    }
+                }"></div>
+            <!-- /ko -->
+        </div>
+        <!-- /ko -->
+    </div>
+</div>
+{% endblock body %}
+{% endblock report %}

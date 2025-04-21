@@ -1,0 +1,23 @@
+{
+    "Confidence Type": {
+        "5a5e765a-c309-473d-a2eb-8615634ac622": "Fuzzy",
+        "4748b66d-1646-4e2d-b3ce-d90b61bdba35": "Uncertain"
+    },
+    "Date Type": {
+        "46863611-d65b-4adf-944e-24394dab676f": "Known Date",
+        "eb931a41-00cd-421c-bcdd-a2ac55d8a7be": "Occurred After",
+        "7b74ea6d-2424-461c-bcd2-7de244f0a31d": "Occurred Before"
+    },
+    "Award Types": {
+        "f1a792f0-4e1f-43c2-84e8-1bbddd4a702c": "Bronze Medal",
+        "84ad7efa-47b5-4363-8b58-bc0a6672d4f2": "Copley Medal",
+        "3b770758-822c-4240-9131-8284fa165edd": "Gold Medal",
+        "e92e48c6-58db-4a26-ac09-4dac3a3231cc": "Grand Prix",
+        "a5a2d5fd-9921-4875-b04e-ac5a522c7dc8": "Honour",
+        "86dba22f-c5d5-492c-8732-9fd7d21c4cf1": "Medal",
+        "7358be26-6a23-42ce-a7a1-c35b96581deb": "Silver Medal"
+    },
+    "Resource to Resource Relationship Types": {
+        "ac41d9be-79db-4256-b368-2f4559cfbe55": "is related to"
+    }
+}

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e">
+    <dcterms:title xml:lang="en">{"id": "78f8f4bd-7863-428d-9cab-ae6db5ab0d3a", "value": "Source Types"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/6f107154-fef9-30ec-9b63-07397a378704">
+        <skos:prefLabel xml:lang="en">{"id": "51f43259-2b27-41f3-abb7-e75715f75f5c", "value": "Lecture Notes"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "e18f5fd7-48c2-4be7-818d-d68e6374e23b", "value": "http://toolsofknowledge.org/SourceType/LectureNotes"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/68888cda-c083-37c2-a4b2-e3cb6323fd0b">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <skos:prefLabel xml:lang="en">{"id": "982f039c-9cb3-4f19-a5f6-25adde91dc8b", "value": "Observation Record"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "9dcb03ac-ba20-4235-b952-b71a587b2d1e", "value": "http://toolsofknowledge.org/SourceType/ObservationRecord"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/8671e72f-3d30-3c11-a27b-27856c44cd8b">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "be7b4d80-8763-4559-9c54-e186c6a105cf", "value": "http://toolsofknowledge.org/SourceType/TrialRecord"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "c59b58ce-03ef-470b-b09b-38c9fcea1b91", "value": "Trial Record"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/60ce6514-6241-3afe-b8c3-588ef059ebd8">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "7d6fbd31-36a4-452c-9b78-3350250925ad", "value": "http://toolsofknowledge.org/SourceType/Directory"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "75e00769-1de5-4111-83fc-b2f0071a1b36", "value": "Directory"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/77cf2d49-7268-3132-9027-55165e95dd96">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <skos:prefLabel xml:lang="en">{"id": "31910d5f-33db-43c5-907e-c8ff1a2ca0a1", "value": "Parish Record"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "5e92985b-b413-4763-9afe-9713a56733a0", "value": "http://toolsofknowledge.org/SourceType/ParishRecord"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/82576907-0225-368b-8ef3-1c506f4b0dec">
+        <dcterms:identifier xml:lang="en">{"id": "96c0f941-daaa-4994-a508-c57535183409", "value": "http://toolsofknowledge.org/SourceType/CollectionRecord"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "c3d77db2-502e-4e43-afa1-a4618e758f98", "value": "Collection Record"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/77ddb969-f200-3646-9b71-42c760689c61">
+        <skos:prefLabel xml:lang="en">{"id": "2be31f82-7895-4bf1-b0d6-e39823183f61", "value": "Death Certificate"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "b7658113-5bfb-4319-8995-4c3fa995fb93", "value": "http://toolsofknowledge.org/SourceType/DeathCertificate"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/bdb86936-5fec-3e78-8354-9462dc0e39a5">
+        <dcterms:identifier xml:lang="en">{"id": "d3e96678-5192-4c18-9eaf-bd6d06581488", "value": "http://toolsofknowledge.org/SourceType/Dictionary"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <skos:prefLabel xml:lang="en">{"id": "d95ef471-4ccd-4dc2-bce8-41bd47d515a1", "value": "Dictionary"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/2c38b05d-e63d-317f-8945-4f7831763f5f">
+        <dcterms:identifier xml:lang="en">{"id": "f8eecc62-44cb-40a1-bff9-6b0ca783d283", "value": "http://toolsofknowledge.org/SourceType/BurialRecord"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "6c8560b5-d972-4076-8ef4-d7f79787370a", "value": "Burial Record"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/8076b84f-3fc8-37bb-9965-e2d402ed893d">
+        <dcterms:identifier xml:lang="en">{"id": "a0724aaf-bfca-425f-a227-9e1700f6a077", "value": "http://toolsofknowledge.org/SourceType/TradeCard"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "e04d9e55-888b-46ae-a4bd-d40de4fe3728", "value": "Trade Card"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/21cf5e6b-b6f1-3a5f-bc66-1c5783682d5f">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "42cd79db-c16e-484a-b88f-23b0609e9e61", "value": "http://toolsofknowledge.org/SourceType/Book"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "e16dcf1b-041d-43a9-905c-ce2cc553cb39", "value": "Book"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3e3e599d-c083-3425-9d46-004082ad83eb">
+        <dcterms:identifier xml:lang="en">{"id": "bfd9b044-480a-4b6a-a04e-670f5060360a", "value": "http://toolsofknowledge.org/SourceType/Will"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "1c0602de-8561-4a40-990f-4c79b1c82c1f", "value": "Will"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/38e2d23f-dd20-3696-800e-67787fcf1c3f">
+        <skos:prefLabel xml:lang="en">{"id": "c63ff2f8-65dd-4f5c-b874-d09c6036eda8", "value": "Patent"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "687950af-5c24-4562-91f5-16509d0ff749", "value": "http://toolsofknowledge.org/SourceType/Patent"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/46634274-0d49-34eb-b93d-1c4547e9512e">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "fbe057db-ee1c-47d4-afe9-814522b2a6fb", "value": "http://toolsofknowledge.org/SourceType/GazetteerEntry"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "ec0fc4f2-d882-4b3d-afd7-d7ebe1ff41bf", "value": "Gazetteer Entry"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/75d2c79b-8120-3ea8-b3f2-6c718673f446">
+        <dcterms:identifier xml:lang="en">{"id": "2f009073-2b55-4a10-b1f1-fd9f45a7bf0d", "value": "http://toolsofknowledge.org/SourceType/LearnedSocietyRecord"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "a08fcbf4-9b2a-49ca-a211-da304ea5902e", "value": "Learned Society Record"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0954e244-e538-3cfa-b705-f9b0e15f28c5">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "fdce85bd-418d-4db6-b9e2-6a1ba1e7c381", "value": "http://toolsofknowledge.org/SourceType/Periodical"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "7399be81-d649-4ffa-9fbc-6103c18158af", "value": "Periodical"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/78ec96dc-7154-3425-91cd-0334ed263a36">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <skos:prefLabel xml:lang="en">{"id": "269d9fb2-254e-454d-a4a7-2a5811f27566", "value": "Archival Document"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "1bdb9bc1-0581-49d7-b229-a459da075666", "value": "http://toolsofknowledge.org/SourceType/ArchivalDocument"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/df64dc60-2a66-358d-b08b-082ec08644a8">
+        <skos:prefLabel xml:lang="en">{"id": "359ac1af-8fa3-4e55-9cd7-91f528893a37", "value": "Calendar"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "d64bf15b-8715-40fd-89c4-af3999059148", "value": "http://toolsofknowledge.org/SourceType/Calendar"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/66689bf1-988d-3e33-9024-9bcd0c23150b">
+        <dcterms:identifier xml:lang="en">{"id": "5dbefe36-22bf-48af-92ae-35872723c9a8", "value": "http://toolsofknowledge.org/SourceType/AuctionCatalogue"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <skos:prefLabel xml:lang="en">{"id": "603a9d46-6e37-40e8-a50b-bf8ba69027ff", "value": "Auction Catalogue"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/34d2cd4c-f8ca-338b-a5e8-424eb73ca0a8">
+        <dcterms:identifier xml:lang="en">{"id": "c07eea12-3ffc-4e31-aeb7-2e1be94b6d79", "value": "http://toolsofknowledge.org/SourceType/Register"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "633c78e1-2561-4248-b6a3-0f87ee10c7b1", "value": "Register"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/d05e3b3b-0268-37a8-9b0c-1885dbe63f6e">
+        <skos:prefLabel xml:lang="en">{"id": "2986eb1f-0b63-4148-a7e3-fcf0d948688f", "value": "Baptism Record"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "a5287681-a3bc-4ad0-be0b-7247eaa8dd29", "value": "http://toolsofknowledge.org/SourceType/BaptismRecord"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/aeaecc97-7291-396c-9b01-337d477f0762">
+        <dcterms:identifier xml:lang="en">{"id": "38d00eb7-d5bf-43d9-a12a-3c5e15276e47", "value": "http://toolsofknowledge.org/SourceType/RateBook"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <skos:prefLabel xml:lang="en">{"id": "08291528-8858-4ac6-8641-b66cf3d7dbd4", "value": "Rate Book"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ded06cfc-ec58-303f-bfb2-95c1b7bd634e">
+        <skos:prefLabel xml:lang="en">{"id": "bf478819-a01c-4a31-8b6d-be12f3ba6b11", "value": "Census Record"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "30d9abfb-6ae1-4f06-aa53-088ad42435ca", "value": "http://toolsofknowledge.org/SourceType/CensusRecord"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/52cfe119-d65a-36bc-87f2-1cd67de81bae">
+        <skos:prefLabel xml:lang="en">{"id": "b2e3f144-88f1-48b7-ba7e-ccb86ab519fc", "value": "Birth Certificate"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "3f894349-b8ba-4043-b559-76b6025e2002", "value": "http://toolsofknowledge.org/SourceType/BirthCertificate"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/dc052db9-78b9-383e-bd49-eb09ad5a15a5">
+        <skos:prefLabel xml:lang="en">{"id": "1850f26c-239f-4978-84ed-468157b3381d", "value": "Tax Return"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "e00f2485-7b79-4857-8cf3-1b6ed84a59b6", "value": "http://toolsofknowledge.org/SourceType/TaxReturn"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/855ddd5c-1a2e-3f52-a443-09c2a7d737be">
+        <dcterms:identifier xml:lang="en">{"id": "559b19aa-4748-4203-b3cc-488ae70b73f9", "value": "http://toolsofknowledge.org/SourceType/MarriageRecord"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "4260c873-15e9-4be4-b1dd-f4ffdc6ff67c", "value": "Marriage Record"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/cc982b77-6769-3d30-aec7-e192b05ba05d">
+        <dcterms:identifier xml:lang="en">{"id": "f9e457f8-8bc2-44e6-91c0-d84fb9c27a7a", "value": "http://toolsofknowledge.org/SourceType/OnlineResource"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "a3cb5a90-6283-442e-8c46-3c741971dca0", "value": "Online Resource"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0ad2dfea-34e5-3e7d-8bf5-7d43797278c3">
+        <dcterms:identifier xml:lang="en">{"id": "3a69e966-1597-4549-8b79-d0734fc98749", "value": "http://toolsofknowledge.org/SourceType/BankruptcyProceedings"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "607712f0-8751-4923-96db-e980f3d64441", "value": "Bankruptcy Proceedings"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:identifier xml:lang="en">{"id": "902fbffd-4e65-4935-9626-24dc20e33929", "value": "http://toolsofknowledge.org/SourceType/"}</dcterms:identifier>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/23742474-a481-3b3c-9c69-84bde1aab398">
+        <skos:prefLabel xml:lang="en">{"id": "e6828701-6041-49fc-b7e4-b5ca5061239f", "value": "Livery Company Record"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "c3729e1e-30d6-4625-8f17-2c155856d184", "value": "http://toolsofknowledge.org/SourceType/LiveryCompanyRecord"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9d5f410c-5e9b-3f28-8336-b48a045435d5">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "6fb2cc81-aea2-44fa-b1bc-5742982c0fad", "value": "http://toolsofknowledge.org/SourceType/PollBook"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "835eeeee-62c6-4cf2-9d31-09a5105290dd", "value": "Poll Book"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/075023c9-4fb8-39b5-8aa4-79e993f6585a">
+        <dcterms:identifier xml:lang="en">{"id": "2f965983-d284-4aaf-94ae-c4766af15f06", "value": "http://toolsofknowledge.org/SourceType/Advertisement"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "83a3cb41-3f4a-4eb3-a946-ff778d10d25a", "value": "Advertisement"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9cb90d05-bfd8-38eb-b58e-451952e45b10">
+        <skos:prefLabel xml:lang="en">{"id": "3e5ca6f9-ee1a-4558-8ec5-34f775cacc0c", "value": "Organisation Record"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "b3ae6b64-89ae-4def-a966-35bc12107ed8", "value": "http://toolsofknowledge.org/SourceType/OrganisationRecord"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/57252813-da1a-3916-9458-54d6e4bbfbc3">
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+        <dcterms:identifier xml:lang="en">{"id": "a2e9cf77-8598-4cbc-9bfe-1f4ae8d2e5c9", "value": "http://toolsofknowledge.org/SourceType/Letter"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "6d2542ef-28dd-453a-b452-8cb2bda97842", "value": "Letter"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3e67564f-9db2-38d6-9150-8d1ee69d45e0">
+        <dcterms:identifier xml:lang="en">{"id": "b8051d85-dea1-4095-945b-c6dab0549022", "value": "http://toolsofknowledge.org/SourceType/Map"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "8bf642c3-ab99-4070-a576-5c4f0182cd12", "value": "Map"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/d62f5929-0d09-38af-9152-6ae0589c2194">
+        <skos:prefLabel xml:lang="en">{"id": "5e22bc5c-910c-477e-bc8a-bf159d32f305", "value": "Catalogue"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "18102966-c2c9-4796-bef9-19fad802ab86", "value": "http://toolsofknowledge.org/SourceType/Catalogue"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3ee3fbb6-e039-3ac0-acfd-42bdcbed46d2">
+        <dcterms:identifier xml:lang="en">{"id": "cb429a9b-dd7e-4b38-b7e2-334da2c33b74", "value": "http://toolsofknowledge.org/SourceType/CensusEntry"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "353d97d2-aa9b-46a0-84d0-e925e6c5bf93", "value": "Census Entry"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e0681db6-9726-3a15-a2ba-022c65663818">
+        <skos:prefLabel xml:lang="en">{"id": "348385e0-dbac-4108-9de1-2d001840a65e", "value": "Exhibition Catalogue"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "5025d54d-813f-481b-831c-876fcf9bd51e", "value": "http://toolsofknowledge.org/SourceType/ExhibitionCatalogue"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/06b33a02-add5-39f9-974b-f157d290c76e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

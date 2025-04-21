@@ -1,0 +1,12 @@
+{
+    "pluginid": "d7594c2c-c905-476e-be74-f5c8ff4df0a6",
+    "name": "Create organisation",
+    "icon": "fa fa-building",
+    "component": "views/components/plugins/create-organisation-workflow",
+    "componentname":"create-organisation-workflow",
+    "config": {
+        "show": false
+    },
+    "slug": "create-organisation-workflow",
+    "sortorder": 0
+}

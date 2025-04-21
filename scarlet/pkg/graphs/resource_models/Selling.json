@@ -1,0 +1,1421 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "16ce5c4f-172d-4b52-adcd-be0c700d1cac",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "16ce5c4f-172d-4b52-adcd-be0c700d1cac",
+                            "constraintid": "5390d71e-f59b-4401-99cb-8a97085d4503",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "16ce5c4f-172d-4b52-adcd-be0c700d1cac",
+                            "constraintid": "c0832bbe-49aa-4805-930c-45842f2e9fb8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Sold By"
+                    },
+                    "nodegroup_id": "419ccdba-7c96-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "19dcd0e5-049a-4393-b675-ba8c234c449d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "19dcd0e5-049a-4393-b675-ba8c234c449d",
+                            "constraintid": "cebd2882-4220-4c4e-9f22-90eb313aa9be",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "19dcd0e5-049a-4393-b675-ba8c234c449d",
+                            "constraintid": "dbc1750e-92c8-44d4-b3f8-80b57e239a3d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Sold Object(s) of Type "
+                    },
+                    "nodegroup_id": "49e66a64-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7c5a15a0-44bf-44df-8705-154852d7fb9c",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7c5a15a0-44bf-44df-8705-154852d7fb9c",
+                            "constraintid": "c7c56a56-5121-4e6a-99b8-b452e1f61a03",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7c5a15a0-44bf-44df-8705-154852d7fb9c",
+                            "constraintid": "cedccc7b-88d4-4395-9103-5f878311e938",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Selling - Additional Notes"
+                    },
+                    "nodegroup_id": "d9c1d9e8-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ad841a96-f69e-42f3-b1ba-589d4a669223",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "ad841a96-f69e-42f3-b1ba-589d4a669223",
+                            "constraintid": "9c7f4323-2b8a-467a-90d1-30c2b7db3f7d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "ad841a96-f69e-42f3-b1ba-589d4a669223",
+                            "constraintid": "81c85c89-f12c-4b3e-ab20-177c3cd33e76",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Sold Specific Object(s)"
+                    },
+                    "nodegroup_id": "7321e840-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ca26f4ef-89c7-4507-8710-876bdd08626b",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "ca26f4ef-89c7-4507-8710-876bdd08626b",
+                            "constraintid": "295d8268-be74-4138-9e2b-8fe070522e55",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "ca26f4ef-89c7-4507-8710-876bdd08626b",
+                            "constraintid": "f8a69d18-573b-47a3-bfc7-a20241d8b1c1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Sold Object(s) By"
+                    },
+                    "nodegroup_id": "8a71a170-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e373426a-7c96-11ee-906b-63b45ef4509d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Selling Start Date"
+                    },
+                    "nodegroup_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e373426c-7c96-11ee-906b-63b45ef4509d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Selling Start Date (confidence)"
+                    },
+                    "nodegroup_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e6330952-7c98-11ee-906b-63b45ef4509d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Selling End Date"
+                    },
+                    "nodegroup_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e6330954-7c98-11ee-906b-63b45ef4509d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Selling End Date (confidence)"
+                    },
+                    "nodegroup_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e924712b-fd72-4acc-abf2-9e5ca3bfe4aa",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "e924712b-fd72-4acc-abf2-9e5ca3bfe4aa",
+                            "constraintid": "8a8caedd-fa96-468d-866b-2acbc512c0b2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "e924712b-fd72-4acc-abf2-9e5ca3bfe4aa",
+                            "constraintid": "791557e4-fc85-461f-b9f6-0e7c98d8ac72",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Sold To"
+                    },
+                    "nodegroup_id": "c8bf6172-7c96-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "7c5a15a0-44bf-44df-8705-154852d7fb9c",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Selling - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "0fe96680-87f6-4a29-be8c-fa32b513c5dd",
+                    "label": {
+                        "en": "Selling - Additional Notes"
+                    },
+                    "node_id": "d9c1d9e8-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "16ce5c4f-172d-4b52-adcd-be0c700d1cac",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Sold By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "5a289caa-0415-4509-b9e0-071743901661",
+                    "label": {
+                        "en": "Sold By"
+                    },
+                    "node_id": "419ccdba-7c96-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "ca26f4ef-89c7-4507-8710-876bdd08626b",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Sold Object(s) By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "67db2eb1-2002-4546-8846-d515571ebcbf",
+                    "label": {
+                        "en": "Sold Object(s) By"
+                    },
+                    "node_id": "8a71a170-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "e924712b-fd72-4acc-abf2-9e5ca3bfe4aa",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Sold To",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "83c42325-d54d-42f6-aa3b-45df7cc85a1c",
+                    "label": {
+                        "en": "Sold To"
+                    },
+                    "node_id": "c8bf6172-7c96-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "19dcd0e5-049a-4393-b675-ba8c234c449d",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Sold Object(s) of Type ",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "dfc0ba94-7b80-4f81-8d32-f13d1924ecbd",
+                    "label": {
+                        "en": "Sold Object(s) of Type "
+                    },
+                    "node_id": "49e66a64-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000012"
+                },
+                {
+                    "card_id": "ad841a96-f69e-42f3-b1ba-589d4a669223",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Sold Specific Object(s)",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "f410fe15-a023-45d1-b904-07104f765862",
+                    "label": {
+                        "en": "Sold Specific Object(s)"
+                    },
+                    "node_id": "7321e840-7c99-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "055a8b4e-4433-4676-8557-3f111f5a5b87",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "e3734269-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "303e834e-8c6b-4fd4-99d4-7799cdfe9b5e",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "d9c1d9e8-7c99-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "6eba0dce-8306-4fcb-a8e9-08919b221160",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#soldObjectType",
+                    "rangenode_id": "49e66a64-7c99-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "6f1abd92-f987-42ad-9e0f-ef1834db460d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "e6330951-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "78d269e2-6707-4e57-a030-a7183b0a68f0",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#soldTo",
+                    "rangenode_id": "c8bf6172-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "d7e21b93-aa82-4473-8636-958c88494dad",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#soldInstrumentsBy",
+                    "rangenode_id": "8a71a170-7c99-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e3734274-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e373426d-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e3734275-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "e373426f-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e3734276-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "e373426e-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e3734277-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "e373426b-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e3734278-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e3734273-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e3734279-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "e3734270-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e373427a-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "e3734271-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e373427b-7c96-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "e3734272-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e410d30c-42b1-4aa6-9a67-8cf19848b478",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#soldBy",
+                    "rangenode_id": "419ccdba-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e633095c-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e6330955-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e633095d-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "e6330957-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e633095e-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "e6330956-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e633095f-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "e6330953-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e6330960-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e633095b-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e6330961-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "e6330958-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e6330962-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "e6330959-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "edgeid": "e6330963-7c98-11ee-906b-63b45ef4509d",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "e633095a-7c98-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "edgeid": "e8879da4-2d2b-4b66-bf21-4280ec5381a1",
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#soldSpecificObject",
+                    "rangenode_id": "7321e840-7c99-11ee-906b-63b45ef4509d"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Selling"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "419ccdba-7c96-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "49e66a64-7c99-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "7321e840-7c99-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8a71a170-7c99-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c8bf6172-7c96-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d9c1d9e8-7c99-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": "e3734269-7c96-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": "e6330951-7c98-11ee-906b-63b45ef4509d"
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": null,
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Selling",
+                    "nodegroup_id": null,
+                    "nodeid": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Selling",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "sold_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Sold By",
+                    "nodegroup_id": "419ccdba-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "419ccdba-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#soldBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "sold_object_s_of_type_",
+                    "config": {
+                        "rdmCollection": "9d71a5a2-23ac-428f-be14-20826c38ab6b"
+                    },
+                    "datatype": "concept-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Sold Object(s) of Type ",
+                    "nodegroup_id": "49e66a64-7c99-11ee-906b-63b45ef4509d",
+                    "nodeid": "49e66a64-7c99-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ObjectType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#soldObjectType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "sold_specific_object_s_",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                                "name": "Object"
+                            }
+                        ],
+                        "rdmCollection": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Sold Specific Object(s)",
+                    "nodegroup_id": "7321e840-7c99-11ee-906b-63b45ef4509d",
+                    "nodeid": "7321e840-7c99-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Object",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#soldSpecificObject",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "sold_object_s_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "rdmCollection": null,
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Sold Object(s) By",
+                    "nodegroup_id": "8a71a170-7c99-11ee-906b-63b45ef4509d",
+                    "nodeid": "8a71a170-7c99-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#soldInstrumentsBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "sold_to",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Sold To",
+                    "nodegroup_id": "c8bf6172-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "c8bf6172-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#soldTo",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling - Additional Notes",
+                    "nodegroup_id": "d9c1d9e8-7c99-11ee-906b-63b45ef4509d",
+                    "nodeid": "d9c1d9e8-7c99-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date",
+                    "nodegroup_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date Confidence Assessment",
+                    "nodegroup_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date - Additional Notes",
+                    "nodegroup_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e373426d-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date Value",
+                    "nodegroup_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e373426e-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date Type",
+                    "nodegroup_id": "e3734269-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e373426f-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date Confidence Probability Value",
+                    "nodegroup_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e3734270-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date Confidence Note",
+                    "nodegroup_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e3734271-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date Confidence Type",
+                    "nodegroup_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e3734272-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "e373426b-7c96-11ee-906b-63b45ef4509d",
+                    "nodeid": "e3734273-7c96-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date",
+                    "nodegroup_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date Confidence Assessment",
+                    "nodegroup_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date - Additional Notes",
+                    "nodegroup_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e6330955-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date Value",
+                    "nodegroup_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e6330956-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date Type",
+                    "nodegroup_id": "e6330951-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e6330957-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date Confidence Probability Value",
+                    "nodegroup_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e6330958-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date Confidence Note",
+                    "nodegroup_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e6330959-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date Confidence Type",
+                    "nodegroup_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e633095a-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "selling_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Selling End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "e6330953-7c98-11ee-906b-63b45ef4509d",
+                    "nodeid": "e633095b-7c98-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                "notes": null,
+                "publicationid": "eedc7cad-d0fd-4714-9950-d2e0a2882db7",
+                "published_time": "2022-07-18T15:38:52.776",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "b7a5c070-afe5-4a2b-802b-48b8f85e354b",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Selling",
+                "nodegroup_id": null,
+                "nodeid": "14225bde-7c96-11ee-906b-63b45ef4509d",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Selling",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

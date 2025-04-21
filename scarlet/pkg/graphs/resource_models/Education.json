@@ -1,0 +1,1321 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "21a6145d-e437-4dec-a5a8-b7f55ea62618",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "21a6145d-e437-4dec-a5a8-b7f55ea62618",
+                            "constraintid": "e2a3c17f-38dc-4164-aab3-d9c528dc1302",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "21a6145d-e437-4dec-a5a8-b7f55ea62618",
+                            "constraintid": "885d8b84-9274-4613-b1d2-09111fc6d586",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Education Provider"
+                    },
+                    "nodegroup_id": "31072594-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4828ffb0-fa2e-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Education Start Date (confidence)"
+                    },
+                    "nodegroup_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4828ffb2-fa2e-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Education Start Date"
+                    },
+                    "nodegroup_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "501a9fb4-bc79-4865-b65d-04ab4cf68960",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "501a9fb4-bc79-4865-b65d-04ab4cf68960",
+                            "constraintid": "20d3abb7-3014-48b6-9124-15fe2ff9fedb",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "501a9fb4-bc79-4865-b65d-04ab4cf68960",
+                            "constraintid": "9ccfd332-1bcb-413c-82df-c29c8d030a99",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Educated Person"
+                    },
+                    "nodegroup_id": "0ad28ea4-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "724c5c92-fa2e-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Education End Date (confidence)"
+                    },
+                    "nodegroup_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "724c5c94-fa2e-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Education End Date"
+                    },
+                    "nodegroup_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "88916808-bb52-4d9a-8db4-c20368afa3da",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "88916808-bb52-4d9a-8db4-c20368afa3da",
+                            "constraintid": "32810cee-5382-4f91-8d7f-1ac35d6a77c4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "88916808-bb52-4d9a-8db4-c20368afa3da",
+                            "constraintid": "db8d7914-38a3-4383-bc60-bb417c42aef1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Educator Role Type"
+                    },
+                    "nodegroup_id": "99304d30-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b0178a47-d094-448e-8c30-d1c74fe71d38",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "b0178a47-d094-448e-8c30-d1c74fe71d38",
+                            "constraintid": "f9ae5259-9148-4ada-ab7e-3c64dd51d3c0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "b0178a47-d094-448e-8c30-d1c74fe71d38",
+                            "constraintid": "4f206fc7-c8a9-45b1-8ae5-006703e3abfb",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Subject Area"
+                    },
+                    "nodegroup_id": "b98a5c56-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b7b45866-0b5e-4144-81a3-81a40ac76041",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "b7b45866-0b5e-4144-81a3-81a40ac76041",
+                            "constraintid": "319ae74f-7605-48df-b23c-aee73a4eb8f2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "b7b45866-0b5e-4144-81a3-81a40ac76041",
+                            "constraintid": "a7c71dff-0952-4335-b2ac-df4efacc1896",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Educator"
+                    },
+                    "nodegroup_id": "24a1fee6-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "21a6145d-e437-4dec-a5a8-b7f55ea62618",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Education Provider",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "4ece4764-d380-4cc7-ab2c-25cdc657d39b",
+                    "label": {
+                        "en": "Education Provider"
+                    },
+                    "node_id": "31072594-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "501a9fb4-bc79-4865-b65d-04ab4cf68960",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Educated Person",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "66e3d9ba-355a-49f4-829b-c16619a560db",
+                    "label": {
+                        "en": "Educated Person"
+                    },
+                    "node_id": "0ad28ea4-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "88916808-bb52-4d9a-8db4-c20368afa3da",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Educator Role Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "7a8adf33-777c-423e-9463-9d852609814b",
+                    "label": {
+                        "en": "Educator Role Type"
+                    },
+                    "node_id": "99304d30-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "b0178a47-d094-448e-8c30-d1c74fe71d38",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Subject Area",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "9b7010d5-3289-4d42-9747-dd6dc4163d09",
+                    "label": {
+                        "en": "Subject Area"
+                    },
+                    "node_id": "b98a5c56-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000012"
+                },
+                {
+                    "card_id": "b7b45866-0b5e-4144-81a3-81a40ac76041",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Educator",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "a15f0da1-fdac-4d85-bad2-a638666e360b",
+                    "label": {
+                        "en": "Educator"
+                    },
+                    "node_id": "24a1fee6-fa2e-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "2b0ab2b8-feb1-4c79-8d1f-8dcf3e61ebc6",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "724c5c93-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffba-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "4828ffb8-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffbb-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "4828ffb9-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffbc-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "4828ffb6-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffbd-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "4828ffb5-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffbe-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "4828ffb4-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffbf-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "4828ffb3-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffc0-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "4828ffb7-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "4828ffc1-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5c9c-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "724c5c9a-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5c9d-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "724c5c9b-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5c9e-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "724c5c98-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5c9f-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "724c5c97-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5ca0-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "724c5c96-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5ca1-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "724c5c95-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5ca2-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "724c5c99-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "edgeid": "724c5ca3-fa2e-11ed-bf80-114c466094e0",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "724c5c91-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "74f9b73a-8e7b-4cd4-94a3-6090c30fc76f",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "808e7e85-10bc-4556-8f4d-be35d31cf3bb",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#associatedPerson",
+                    "rangenode_id": "24a1fee6-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "8c48ee16-ccd8-4528-83be-ff24261e6fff",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#associatedOrganisation",
+                    "rangenode_id": "31072594-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "a1e39ccf-8971-4a43-b548-8c6eb577151d",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#associatedPerson",
+                    "rangenode_id": "0ad28ea4-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "c54a4a9b-ba54-4753-9824-63ebbcd02b97",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "99304d30-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "c8036a57-528c-411b-b027-af0f75bbbf41",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "b98a5c56-fa2e-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "31072594-fa2e-11ed-bf80-114c466094e0",
+                                "string_template": "Educated at: <Education Provider>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "0ad28ea4-fa2e-11ed-bf80-114c466094e0",
+                                "string_template": "\ud83c\udf93 Education of <Educated Person>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "id": "3d3d067f-345e-41df-abfa-edf6adf724c9"
+                }
+            ],
+            "graphid": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Education"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0ad28ea4-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "24a1fee6-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "31072594-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "724c5c93-fa2e-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "99304d30-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "b98a5c56-fa2e-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "educated_person",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Educated Person",
+                    "nodegroup_id": "0ad28ea4-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "0ad28ea4-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#associatedPerson",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "educator",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Educator",
+                    "nodegroup_id": "24a1fee6-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "24a1fee6-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#associatedPerson",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_provider",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Provider",
+                    "nodegroup_id": "31072594-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "31072594-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Organisation",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#associatedOrganisation",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date Confidence Assessment",
+                    "nodegroup_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date",
+                    "nodegroup_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date Confidence Type",
+                    "nodegroup_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb3-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date Confidence Note",
+                    "nodegroup_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb4-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date Confidence Probability Value",
+                    "nodegroup_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb5-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "4828ffaf-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb6-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date - Additional Notes",
+                    "nodegroup_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb7-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date Value",
+                    "nodegroup_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb8-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education Start Date Type",
+                    "nodegroup_id": "4828ffb1-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "4828ffb9-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date Confidence Assessment",
+                    "nodegroup_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date",
+                    "nodegroup_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date Confidence Type",
+                    "nodegroup_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c95-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date Confidence Note",
+                    "nodegroup_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c96-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date Confidence Probability Value",
+                    "nodegroup_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c97-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "724c5c91-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c98-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date - Additional Notes",
+                    "nodegroup_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c99-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date Value",
+                    "nodegroup_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c9a-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Education End Date Type",
+                    "nodegroup_id": "724c5c93-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "724c5c9b-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "educator_role_type",
+                    "config": {
+                        "rdmCollection": "2fd50dfb-b353-475b-a00c-f89ce9982c03"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Educator Role Type",
+                    "nodegroup_id": "99304d30-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "99304d30-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#EducatorRoleType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "subject_area",
+                    "config": {
+                        "rdmCollection": "1331cefb-5a4d-4f77-8d01-6fefdecd3d52"
+                    },
+                    "datatype": "concept-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Subject Area",
+                    "nodegroup_id": "b98a5c56-fa2e-11ed-bf80-114c466094e0",
+                    "nodeid": "b98a5c56-fa2e-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#SubjectArea",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "education",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Education",
+                    "nodegroup_id": null,
+                    "nodeid": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Event",
+                    "parentproperty": "",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                "notes": null,
+                "publicationid": "0efcf4f8-4e4b-11ee-906b-63b45ef4509d",
+                "published_time": "2023-09-08T08:24:37.603",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "education",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "3ed4cc47-c967-48e4-92d6-3acceb586467",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Education",
+                "nodegroup_id": null,
+                "nodeid": "f953e312-fa2d-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Event",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

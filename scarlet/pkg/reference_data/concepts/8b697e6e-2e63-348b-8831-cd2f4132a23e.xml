@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/ffd5876e-47ae-38aa-83e0-17a57a5b3a4d">
+        <skos:prefLabel xml:lang="en">{"id": "061ffb87-2e54-4b8a-8189-60f7de054a92", "value": "Polish"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+        <dcterms:identifier xml:lang="en">{"id": "5ac36ee1-cca5-4c2b-a23e-5cd0165c9a2e", "value": "http://toolsofknowledge.org/Nationality/Polish"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1e4826b5-9505-3bd1-add6-bfcb7179b124">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+        <skos:prefLabel xml:lang="en">{"id": "1cabfb74-cd97-4f44-9d9b-7478141420ca", "value": "Dutch"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "55c15aa5-fc6c-44c2-87af-9b08d96cade4", "value": "http://toolsofknowledge.org/Nationality/Dutch"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f75c766e-87d8-355e-bbc1-e7fbca36a943">
+        <skos:prefLabel xml:lang="en">{"id": "b82b64c9-c2c6-4428-abb9-d918656f73a3", "value": "Spanish"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "5fe57aec-439b-4060-b809-ae832077e2c5", "value": "http://toolsofknowledge.org/Nationality/Spanish"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/5c2ae4e7-3914-3bd5-9581-87e63b6761e9">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+        <dcterms:identifier xml:lang="en">{"id": "eb9c3849-b6f1-47fa-a934-bffbc113f204", "value": "http://toolsofknowledge.org/Nationality/French"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "ef823052-d0a1-4c8e-a6af-65d7c8e9aa2d", "value": "French"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c50147a1-36dd-35d7-a0f5-a68eaeefcde0">
+        <skos:prefLabel xml:lang="en">{"id": "6bfc5cb1-7272-4458-ba5a-059373a065e7", "value": "Belgian"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+        <dcterms:identifier xml:lang="en">{"id": "99183eff-5767-4a4b-bd6d-0964450327ef", "value": "http://toolsofknowledge.org/Nationality/Belgian"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9fe68357-7406-30e7-a1e4-f45a57e1911e">
+        <dcterms:identifier xml:lang="en">{"id": "af4f56f0-36aa-4915-a3a6-55628be83e93", "value": "http://toolsofknowledge.org/Nationality/German"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "8fff5cf9-6dde-4d1d-ac07-cdc99e5f0976", "value": "German"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/52e3fbc4-81d4-310b-84bf-ac09b609fd2b">
+        <dcterms:identifier xml:lang="en">{"id": "d9c1b476-00c4-4051-936a-04ba9b26a64e", "value": "http://toolsofknowledge.org/Nationality/Russian"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+        <skos:prefLabel xml:lang="en">{"id": "1b91af9d-d61f-4f86-9222-e145f5ed2048", "value": "Russian"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a3485531-04ef-39a4-9b52-60e4649843ae">
+        <dcterms:identifier xml:lang="en">{"id": "05535874-0560-4de1-832c-7230b1b75ee0", "value": "http://toolsofknowledge.org/Nationality/Indian"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "6414abd3-4e85-48e0-ac81-191fa2343e52", "value": "Indian"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:identifier xml:lang="en">{"id": "42d0f1f0-2012-49fb-b556-f77c6ed460b9", "value": "http://toolsofknowledge.org/Nationality/"}</dcterms:identifier>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/92e779c9-36d4-3186-b285-9c80e49beb51">
+        <dcterms:identifier xml:lang="en">{"id": "f555e41d-dca1-45d6-89e7-6d6b3cfee16d", "value": "http://toolsofknowledge.org/Nationality/American"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "1ac19723-05f6-48ee-ab6e-b010623c5ef2", "value": "American"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">{"id": "72eb872b-4d8a-479e-9cc3-67ef59f07066", "value": "Nationalities"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/4ea00059-f671-35fd-b554-ae263775b4f7">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+        <skos:prefLabel xml:lang="en">{"id": "ebb2c381-d99e-400e-b678-706af5b599f1", "value": "Danish"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "592b6f2f-02f0-44e6-aab2-6528cd47123e", "value": "http://toolsofknowledge.org/Nationality/Danish"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/12ab3b84-7044-3512-ace5-3d2811075bdb">
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+        <dcterms:identifier xml:lang="en">{"id": "3868033b-7b87-4e69-8831-7b0204e51175", "value": "http://toolsofknowledge.org/Nationality/Swedish"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "ad4a7fc6-723b-4d07-bb9b-96fffd5c2173", "value": "Swedish"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/87c3ea1a-debd-3c92-b899-ffbf0379decc">
+        <dcterms:identifier xml:lang="en">{"id": "a080bddc-1ab8-447d-965a-09244b5b0aa6", "value": "http://toolsofknowledge.org/Nationality/Italian"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "d9588026-0f24-4f3a-b907-e65096826cfb", "value": "Italian"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/8b697e6e-2e63-348b-8831-cd2f4132a23e"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

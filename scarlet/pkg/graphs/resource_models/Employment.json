@@ -1,0 +1,1022 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "117522ba-fa14-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Employment Start Date (confidence)"
+                    },
+                    "nodegroup_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "117522bc-fa14-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Employment Start Date"
+                    },
+                    "nodegroup_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3d99c468-fa14-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Employment End Date (confidence)"
+                    },
+                    "nodegroup_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3d99c46a-fa14-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Employment End Date"
+                    },
+                    "nodegroup_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "95324383-96f9-4816-a3d0-ef9eef962039",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "95324383-96f9-4816-a3d0-ef9eef962039",
+                            "constraintid": "63d5b306-f722-497e-b2fd-3a7bebfb0d69",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "95324383-96f9-4816-a3d0-ef9eef962039",
+                            "constraintid": "e8c557ca-8b7e-4771-a156-823f5c0544e0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Employee"
+                    },
+                    "nodegroup_id": "7070e3c4-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "eee75d26-6f7a-4600-98f8-e5347a6e7b39",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "eee75d26-6f7a-4600-98f8-e5347a6e7b39",
+                            "constraintid": "ae1b5a03-d758-4446-9fb7-d41e7678167e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "eee75d26-6f7a-4600-98f8-e5347a6e7b39",
+                            "constraintid": "fccb3271-2b87-4c14-bddc-050d7000f6f8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Employer"
+                    },
+                    "nodegroup_id": "8a16057a-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "eee75d26-6f7a-4600-98f8-e5347a6e7b39",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Employer",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "2a3297c3-89db-46a5-b7ec-ac282bfeffdd",
+                    "label": {
+                        "en": "Employer"
+                    },
+                    "node_id": "8a16057a-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "95324383-96f9-4816-a3d0-ef9eef962039",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Employee",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "bb3e2001-7ac7-4ac6-8a81-3499b5e71bac",
+                    "label": {
+                        "en": "Employee"
+                    },
+                    "node_id": "7070e3c4-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522c4-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "117522c2-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522c5-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "117522c3-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522c6-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "117522c0-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522c7-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "117522bf-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522c8-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "117522be-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522c9-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "117522bd-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522ca-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "117522c1-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "117522cb-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "117522b9-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ea6f5166-fa13-11ed-bf80-114c466094e0",
+                    "edgeid": "39ccb6e7-72e4-4122-b9ad-35eb06d820f8",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "3d99c469-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c472-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "3d99c470-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c473-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "3d99c471-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c474-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3d99c46e-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c475-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "3d99c46d-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c476-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "3d99c46c-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c477-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "3d99c46b-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c478-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3d99c46f-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "3d99c479-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "3d99c467-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ea6f5166-fa13-11ed-bf80-114c466094e0",
+                    "edgeid": "7f61044d-ccc2-413d-9047-0ea5e32c4a11",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "117522bb-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ea6f5166-fa13-11ed-bf80-114c466094e0",
+                    "edgeid": "823c3f6c-bb77-4aa7-ac44-b642db130eb7",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadEmployee",
+                    "rangenode_id": "7070e3c4-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ea6f5166-fa13-11ed-bf80-114c466094e0",
+                    "edgeid": "b7e7f789-97d4-4724-b55a-c821b094ca8f",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadEmployer",
+                    "rangenode_id": "8a16057a-fa14-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "8a16057a-fa14-11ed-bf80-114c466094e0",
+                                "string_template": "Employed by: <Employer>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "7070e3c4-fa14-11ed-bf80-114c466094e0",
+                                "string_template": "\ud83d\udc68\u200d\ud83d\udd27 Employment of <Employee>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "id": "e3397399-25db-4363-a268-8af75801116d"
+                }
+            ],
+            "graphid": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Employment"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "117522bb-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "3d99c469-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "7070e3c4-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8a16057a-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "employment_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date Confidence Assessment",
+                    "nodegroup_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date",
+                    "nodegroup_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date Confidence Type",
+                    "nodegroup_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522bd-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date Confidence Note",
+                    "nodegroup_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522be-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date Confidence Probability Value",
+                    "nodegroup_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522bf-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "117522b9-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522c0-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date - Additional Notes",
+                    "nodegroup_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522c1-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date Value",
+                    "nodegroup_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522c2-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment Start Date Type",
+                    "nodegroup_id": "117522bb-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "117522c3-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date Confidence Assessment",
+                    "nodegroup_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date",
+                    "nodegroup_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date Confidence Type",
+                    "nodegroup_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c46b-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date Confidence Note",
+                    "nodegroup_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c46c-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date Confidence Probability Value",
+                    "nodegroup_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c46d-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "3d99c467-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c46e-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date - Additional Notes",
+                    "nodegroup_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c46f-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date Value",
+                    "nodegroup_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c470-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employment End Date Type",
+                    "nodegroup_id": "3d99c469-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "3d99c471-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employee",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employee",
+                    "nodegroup_id": "7070e3c4-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "7070e3c4-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadEmployee",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employer",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Employer",
+                    "nodegroup_id": "8a16057a-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "8a16057a-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadEmployer",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "employment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Employment",
+                    "nodegroup_id": null,
+                    "nodeid": "ea6f5166-fa13-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Employment",
+                    "parentproperty": "",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                "notes": null,
+                "publicationid": "3fd58364-05ef-11ee-a549-ff891e817ac1",
+                "published_time": "2023-06-08T06:26:02.134",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "employment",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Employment",
+                "nodegroup_id": null,
+                "nodeid": "ea6f5166-fa13-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Employment",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

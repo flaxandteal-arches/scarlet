@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/32990e99-4e6a-342a-b7f5-9ffb7861e156">
+    <dcterms:identifier xml:lang="en">{"id": "c264a67c-2917-4a88-bc57-36dce2bb4223", "value": "http://toolsofknowledge.org/CivicRoleType/Burgess"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "f75789c3-ebf0-4acd-bb45-cd0e2d5dc2b0", "value": "Burgess"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8ab39cd1-5ea6-312c-bf2e-a19e3e908c61"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/53b482a1-fe15-3640-889f-744c3656bc05"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4fd597c2-6ae1-3436-8a8e-ab134005464c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/70963dc6-f19c-35f0-8785-94f68981dbb6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/516a3fb8-b2a7-3773-9f41-64f586d2a5fd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/44a9c06d-d5dc-3317-b88f-713b3f068a76"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/32990e99-4e6a-342a-b7f5-9ffb7861e156"/>
+        <dcterms:identifier xml:lang="en">{"id": "9bce7c9d-91f3-4ae6-9c35-ca19ba7f48b3", "value": "http://toolsofknowledge.org/CivicRoleType/"}</dcterms:identifier>
+        <dcterms:title xml:lang="en">{"id": "cfee5c3f-1705-4f7f-be79-23fd3935230d", "value": "Civic Role Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7db699ff-5925-3ed8-ade3-fa1c5d29889f"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8ab39cd1-5ea6-312c-bf2e-a19e3e908c61">
+    <dcterms:identifier xml:lang="en">{"id": "7da9c490-e6c8-426d-915b-7f6c862f37a3", "value": "http://toolsofknowledge.org/CivicRoleType/Churchwarden"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "eadae805-b99e-497b-836e-a107d18176c0", "value": "Churchwarden"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/70963dc6-f19c-35f0-8785-94f68981dbb6">
+    <dcterms:identifier xml:lang="en">{"id": "e671c5c0-6aa0-402c-8852-d5fbd7d1d305", "value": "http://toolsofknowledge.org/CivicRoleType/Councillor"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "f53e0b08-cbfa-4f0b-b284-06b2374d7366", "value": "Councillor"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/516a3fb8-b2a7-3773-9f41-64f586d2a5fd">
+    <skos:inScheme rdf:resource="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234"/>
+    <skos:prefLabel xml:lang="en">{"id": "8793ad91-6e6c-44ab-b589-70c84073bd04", "value": "Mayor"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "30328b31-0a5e-46ed-969b-9d3ea19f77b3", "value": "http://toolsofknowledge.org/CivicRoleType/Mayor"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4fd597c2-6ae1-3436-8a8e-ab134005464c">
+    <dcterms:identifier xml:lang="en">{"id": "66912a09-df1d-418f-9b85-e3aa9157b011", "value": "http://toolsofknowledge.org/CivicRoleType/Lord%20Provost"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "05644434-95a7-4e85-a69b-b58ff7b71843", "value": "Lord Provost"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7db699ff-5925-3ed8-ade3-fa1c5d29889f">
+    <skos:inScheme rdf:resource="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234"/>
+    <dcterms:identifier xml:lang="en">{"id": "da99e2ef-3d25-4694-9f8e-e0f447280384", "value": "http://toolsofknowledge.org/CivicRoleType/Lord%20Mayor"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "cf1a8a32-f1ea-4fea-8051-34949f2d0b22", "value": "Lord Mayor"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/53b482a1-fe15-3640-889f-744c3656bc05">
+    <dcterms:identifier xml:lang="en">{"id": "5abcc151-f4f0-488d-82ee-21c1017fa7f2", "value": "http://toolsofknowledge.org/CivicRoleType/Sheriff"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "be240e12-2522-4901-9d5b-d3ab17ca384e", "value": "Sheriff"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/44a9c06d-d5dc-3317-b88f-713b3f068a76">
+    <skos:inScheme rdf:resource="http://localhost:8000/71feb6d5-a379-3ca0-b0fb-18af59995234"/>
+    <dcterms:identifier xml:lang="en">{"id": "c82ecf72-f2a4-4014-9ac2-aa291b258c24", "value": "http://toolsofknowledge.org/CivicRoleType/Alderman"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "fe80bd8a-84dd-4a96-976c-94a3dc7eaf08", "value": "Alderman"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

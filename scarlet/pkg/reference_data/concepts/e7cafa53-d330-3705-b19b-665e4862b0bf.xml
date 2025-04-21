@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/13726d94-022a-3946-ada9-b9fe341c5ff9">
+    <dcterms:identifier xml:lang="en">{"id": "532465af-b3de-471d-b3b8-a198c42d6156", "value": "http://toolsofknowledge.org/educatorRoleType/Teacher"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/e7cafa53-d330-3705-b19b-665e4862b0bf">
+        <dcterms:title xml:lang="en">{"id": "6f44e611-a51e-4dd6-a5bb-70cc95261d73", "value": "Educator Role Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/13726d94-022a-3946-ada9-b9fe341c5ff9"/>
+        <dcterms:identifier xml:lang="en">{"id": "43562108-52c1-4789-ba34-228ef87bc671", "value": "http://toolsofknowledge.org/EducatorRoleType/"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/412af9bb-52cc-3974-a1ac-ba990a36510a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/cc7c6e90-293b-3166-8e4f-a2869f34a56a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/df804799-2e49-37b6-8603-597998e06c87"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "1a35e90f-fed8-40c4-928e-f9a4b3495e0b", "value": "Teacher"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/cc7c6e90-293b-3166-8e4f-a2869f34a56a">
+    <skos:inScheme rdf:resource="http://localhost:8000/e7cafa53-d330-3705-b19b-665e4862b0bf"/>
+    <skos:prefLabel xml:lang="en">{"id": "b9caf188-c5f8-48e0-8dad-de225098b6de", "value": "Examiner"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "969d503d-5f0e-4d35-91e9-6795f8cc832c", "value": "http://toolsofknowledge.org/educatorRoleType/Examiner"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/df804799-2e49-37b6-8603-597998e06c87">
+    <skos:inScheme rdf:resource="http://localhost:8000/e7cafa53-d330-3705-b19b-665e4862b0bf"/>
+    <dcterms:identifier xml:lang="en">{"id": "ebd0c447-9b2a-4c9f-911d-abaae08250e4", "value": "http://toolsofknowledge.org/educatorRoleType/Lecturer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "656b66e7-0871-4f88-89e7-4e1ecb7c6ed6", "value": "Lecturer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/412af9bb-52cc-3974-a1ac-ba990a36510a">
+    <skos:prefLabel xml:lang="en">{"id": "1be14fba-2a45-4c4c-9eee-d308c087c642", "value": "Professor"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/e7cafa53-d330-3705-b19b-665e4862b0bf"/>
+    <dcterms:identifier xml:lang="en">{"id": "451e45b9-ac1f-4ab2-97b3-6813d7c24a15", "value": "http://toolsofknowledge.org/educatorRoleType/Professor"}</dcterms:identifier>
+  </skos:Concept>
+</rdf:RDF>

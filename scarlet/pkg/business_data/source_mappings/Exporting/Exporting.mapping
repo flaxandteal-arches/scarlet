@@ -1,0 +1,137 @@
+{
+    "resource_model_id": "a44d544f-fcb7-4e84-be6a-fef3a2d97192",
+    "resource_model_name": "Exporting",
+    "nodes": [
+        {
+            "arches_nodeid": "f05b04c0-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exported By",
+            "file_field_name": "Exported By",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b67c057e-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exported Objects of Type",
+            "file_field_name": "Exported Objects of Type",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "052d93fe-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exported To",
+            "file_field_name": "Exported To",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "955e7173-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting End Date - Additional Notes",
+            "file_field_name": "Exporting End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "955e7172-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Exporting End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "955e7170-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting End Date Confidence Note",
+            "file_field_name": "Exporting End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "955e7171-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting End Date Confidence Probability Value",
+            "file_field_name": "Exporting End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "955e716f-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting End Date Confidence Type",
+            "file_field_name": "Exporting End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "955e7175-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting End Date Type",
+            "file_field_name": "Exporting End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "955e7174-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting End Date Value",
+            "file_field_name": "Exporting End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "725e4815-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting Start Date - Additional Notes",
+            "file_field_name": "Exporting Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "725e4814-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Exporting Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "725e4812-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting Start Date Confidence Note",
+            "file_field_name": "Exporting Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "725e4813-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting Start Date Confidence Probability Value",
+            "file_field_name": "Exporting Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "725e4811-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting Start Date Confidence Type",
+            "file_field_name": "Exporting Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "725e4817-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting Start Date Type",
+            "file_field_name": "Exporting Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "725e4816-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exporting Start Date Value",
+            "file_field_name": "Exporting Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c83b47c0-fa1e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exxported Specific Object(s)",
+            "file_field_name": "Exxported Specific Object(s)",
+            "data_type": "resource-instance-list",
+            "export": true
+        }
+    ]
+}

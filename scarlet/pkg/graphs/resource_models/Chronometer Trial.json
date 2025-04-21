@@ -1,0 +1,1332 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "1dbf7009-125c-4691-a56e-fe8de273ef31",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "1dbf7009-125c-4691-a56e-fe8de273ef31",
+                            "constraintid": "6f927ee4-dbba-48c0-b1d9-69f77c109f22",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "1dbf7009-125c-4691-a56e-fe8de273ef31",
+                            "constraintid": "3b442d64-efbe-4a51-9e66-1773a4839de6",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial Name"
+                    },
+                    "nodegroup_id": "5af6b958-fa21-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3eb0ac56-fa2b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial Start Date (confidence)"
+                    },
+                    "nodegroup_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3eb0ac58-fa2b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial Start Date"
+                    },
+                    "nodegroup_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4bf6d243-a70b-4735-b8a5-2b28730f2afc",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "4bf6d243-a70b-4735-b8a5-2b28730f2afc",
+                            "constraintid": "059f9793-3667-45e2-9d06-2e4f0f8597ec",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "4bf6d243-a70b-4735-b8a5-2b28730f2afc",
+                            "constraintid": "1f605c52-4953-4552-9fbb-2f4fc8f4dea0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial Occurred on Expedition"
+                    },
+                    "nodegroup_id": "af86cfd0-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "64429768-fa2b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial End Date (confidence)"
+                    },
+                    "nodegroup_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "6442976a-fa2b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial End Date"
+                    },
+                    "nodegroup_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "c51deea5-bba2-4034-80df-510fccdbab41",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "c51deea5-bba2-4034-80df-510fccdbab41",
+                            "constraintid": "b1311290-b92e-43fa-ac7c-399112096463",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "c51deea5-bba2-4034-80df-510fccdbab41",
+                            "constraintid": "74ec2e0e-2e20-4e51-8681-3b504b8920e8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial - Additional Notes"
+                    },
+                    "nodegroup_id": "7d909a8e-4e49-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d59cdace-40f4-4dd0-ac51-36b602d61797",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d59cdace-40f4-4dd0-ac51-36b602d61797",
+                            "constraintid": "9a82be9a-e5d3-435e-acb6-1f9958294bff",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d59cdace-40f4-4dd0-ac51-36b602d61797",
+                            "constraintid": "a5b49a1e-6f04-48d8-9137-c2f3b8edea13",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Trialled Chronometer"
+                    },
+                    "nodegroup_id": "88380e08-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e7de28f5-4648-4d8e-a550-8afd2757e1e8",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "e7de28f5-4648-4d8e-a550-8afd2757e1e8",
+                            "constraintid": "76d885a5-778d-49f0-b1a7-69a825c06180",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "e7de28f5-4648-4d8e-a550-8afd2757e1e8",
+                            "constraintid": "c8ffcd37-31ec-466d-9043-bf29b18916a3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Chronometer Trial Took Place At"
+                    },
+                    "nodegroup_id": "9b170e84-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "e7de28f5-4648-4d8e-a550-8afd2757e1e8",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Chronometer Trial Took Place At",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "2384a8eb-31f7-4b2b-aee5-657bc45066e5",
+                    "label": {
+                        "en": "Chronometer Trial Took Place At"
+                    },
+                    "node_id": "9b170e84-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "d59cdace-40f4-4dd0-ac51-36b602d61797",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Trialled Chronometer",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "61c4d975-f480-42aa-96e7-9d9023fc555a",
+                    "label": {
+                        "en": "Trialled Chronometer"
+                    },
+                    "node_id": "88380e08-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "1dbf7009-125c-4691-a56e-fe8de273ef31",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Chronometer Trial Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "65a65f81-ec54-494f-b25f-5c6cea4f1041",
+                    "label": {
+                        "en": "Chronometer Trial Name"
+                    },
+                    "node_id": "5af6b958-fa21-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "4bf6d243-a70b-4735-b8a5-2b28730f2afc",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Chronometer Trial Occurred on Expedition",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "bc041119-bda0-436f-914c-899b943dfb1e",
+                    "label": {
+                        "en": "Chronometer Trial Occurred on Expedition"
+                    },
+                    "node_id": "af86cfd0-fa2b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "c51deea5-bba2-4034-80df-510fccdbab41",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Chronometer Trial - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "d6ec1125-8195-438a-ae5e-9bcab8c28ea7",
+                    "label": {
+                        "en": "Chronometer Trial - Additional Notes"
+                    },
+                    "node_id": "7d909a8e-4e49-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "edgeid": "08813f7c-8132-4aa2-be3e-73fab3b3fab6",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "7d909a8e-4e49-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac60-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "3eb0ac5e-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac61-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "3eb0ac5f-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac62-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3eb0ac5c-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac63-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "3eb0ac5b-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac64-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "3eb0ac5a-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac65-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "3eb0ac59-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac66-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3eb0ac5d-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "3eb0ac67-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "edgeid": "5a425e82-e1eb-4a22-b2d0-92c9c8cddc53",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#trialledChronometer",
+                    "rangenode_id": "88380e08-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429772-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "64429770-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429773-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "64429771-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429774-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "6442976e-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429775-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "6442976d-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429776-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "6442976c-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429777-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "6442976b-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429778-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "6442976f-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "edgeid": "64429779-fa2b-11ed-bf80-114c466094e0",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "64429767-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "edgeid": "6525b03f-91ed-42f2-aee1-ca33369cce01",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "edgeid": "74527b8b-1307-46db-bfdb-e7b2940b0c9b",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "rangenode_id": "5af6b958-fa21-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "edgeid": "768470cd-acd8-4402-9ac2-f1917e94a87b",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#occurredonExpedition",
+                    "rangenode_id": "af86cfd0-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "edgeid": "7e2f0b17-ec98-45c9-aaaa-7a84f558c55b",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "64429769-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "edgeid": "970d8920-e5c4-4488-a23f-615312d47620",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#tookPlaceAt",
+                    "rangenode_id": "9b170e84-fa2b-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "88380e08-fa2b-11ed-bf80-114c466094e0",
+                                "string_template": "Chronometer Trial of <Trialled Chronometer>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "id": "a6d80558-7d37-43e2-bbb6-39f230465129"
+                }
+            ],
+            "graphid": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Chronometer Trial"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5af6b958-fa21-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "64429769-fa2b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "7d909a8e-4e49-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "88380e08-fa2b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9b170e84-fa2b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "af86cfd0-fa2b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "chronometer_trial_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date Confidence Assessment",
+                    "nodegroup_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date",
+                    "nodegroup_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date Confidence Type",
+                    "nodegroup_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac59-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date Confidence Note",
+                    "nodegroup_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac5a-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date Confidence Probability Value",
+                    "nodegroup_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac5b-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "3eb0ac55-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac5c-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date - Additional Notes",
+                    "nodegroup_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac5d-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date Value",
+                    "nodegroup_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac5e-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Start Date Type",
+                    "nodegroup_id": "3eb0ac57-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "3eb0ac5f-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Chronometer Trial",
+                    "nodegroup_id": null,
+                    "nodeid": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ChronometerTrial",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Name",
+                    "nodegroup_id": "5af6b958-fa21-11ed-bf80-114c466094e0",
+                    "nodeid": "5af6b958-fa21-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date Confidence Assessment",
+                    "nodegroup_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date",
+                    "nodegroup_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date Confidence Type",
+                    "nodegroup_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "6442976b-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date Confidence Note",
+                    "nodegroup_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "6442976c-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date Confidence Probability Value",
+                    "nodegroup_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "6442976d-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "64429767-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "6442976e-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date - Additional Notes",
+                    "nodegroup_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "6442976f-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date Value",
+                    "nodegroup_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "64429770-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial End Date Type",
+                    "nodegroup_id": "64429769-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "64429771-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial - Additional Notes",
+                    "nodegroup_id": "7d909a8e-4e49-11ee-906b-63b45ef4509d",
+                    "nodeid": "7d909a8e-4e49-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "trialled_chronometer",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                                "name": "Object"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Trialled Chronometer",
+                    "nodegroup_id": "88380e08-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "88380e08-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Object",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#trialledChronometer",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_took_place_at",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                                "name": "Place"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Took Place At",
+                    "nodegroup_id": "9b170e84-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "9b170e84-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#tookPlaceAt",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "chronometer_trial_occurred_on_expedition",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                                "name": "Expedition"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Chronometer Trial Occurred on Expedition",
+                    "nodegroup_id": "af86cfd0-fa2b-11ed-bf80-114c466094e0",
+                    "nodeid": "af86cfd0-fa2b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Expedition",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#occurredonExpedition",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                "notes": null,
+                "publicationid": "8f6c8e5c-4e49-11ee-906b-63b45ef4509d",
+                "published_time": "2023-09-08T08:13:54.090",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "chronometer_trial",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Chronometer Trial",
+                "nodegroup_id": null,
+                "nodeid": "40722bf8-fa21-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ChronometerTrial",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

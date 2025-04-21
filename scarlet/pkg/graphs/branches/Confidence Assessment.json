@@ -1,0 +1,256 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "7f1c78b9-d7ea-439a-81cd-e5578bfc1bb5",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "en": ""
+                    },
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Confidence Assessment"
+                    },
+                    "nodegroup_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "edgeid": "0bbd48ee-15eb-4944-9213-70ba5cf4d6fe",
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "e69d9024-ea74-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "edgeid": "7c9323f3-26f6-4744-ba85-8933cd28e98a",
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "07c76d4c-ea75-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "edgeid": "b312a5c4-75cb-4b7a-af9b-c16fbadac604",
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "96eaec8e-ea74-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "edgeid": "d2f45d51-295c-4fb6-80bf-0a745ea2ede3",
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "b22e18d6-ea74-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Confidence Assessment"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "nodeid": "07c76d4c-ea75-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": null,
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Confidence Assessment",
+                    "nodegroup_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "nodeid": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Confidence Note",
+                    "nodegroup_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "nodeid": "96eaec8e-ea74-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Confidence Probability Value",
+                    "nodegroup_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "nodeid": "b22e18d6-ea74-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Confidence Type",
+                    "nodegroup_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                    "nodeid": "e69d9024-ea74-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                "notes": null,
+                "publicationid": "f28fc928-ea75-11ed-bf80-114c466094e0",
+                "published_time": "2023-05-04T07:19:41.994",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": null,
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "870d5754-e06b-472e-8caa-8cccb7c7ee03",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Confidence Assessment",
+                "nodegroup_id": "3633098a-ea74-11ed-bf80-114c466094e0",
+                "nodeid": "3633098a-ea74-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 14.7 (Ubuntu 14.7-1.pgdg22.10+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 12.2.0-3ubuntu1) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "5.19.0-23-generic"
+    }
+}

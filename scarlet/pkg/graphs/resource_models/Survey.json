@@ -1,0 +1,1242 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "1914891a-ee67-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Survey End Date (confidence)"
+                    },
+                    "nodegroup_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "1914891c-ee67-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Survey End Date"
+                    },
+                    "nodegroup_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "28e39845-ada4-4394-a1fc-1e2ecce16462",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "28e39845-ada4-4394-a1fc-1e2ecce16462",
+                            "constraintid": "ee25608e-f041-4349-959d-fd8fa2a32bf4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "28e39845-ada4-4394-a1fc-1e2ecce16462",
+                            "constraintid": "c01838ac-2bc7-4ce0-981e-f9cf39db8da4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Survey Carried Out By"
+                    },
+                    "nodegroup_id": "8232e2b4-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7a3edd98-be19-4b7a-bb80-29677408b460",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7a3edd98-be19-4b7a-bb80-29677408b460",
+                            "constraintid": "e927e901-9968-46af-93e0-51f3fbaeb5e5",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7a3edd98-be19-4b7a-bb80-29677408b460",
+                            "constraintid": "c12be194-9535-41f5-8a44-124e4156a519",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Place(s) Surveyed"
+                    },
+                    "nodegroup_id": "500ce776-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d02761e6-ee66-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Survey Start Date (confidence)"
+                    },
+                    "nodegroup_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d02761e8-ee66-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Survey Start Date"
+                    },
+                    "nodegroup_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d952a11e-d772-42d5-af78-8f1bb7dd7243",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d952a11e-d772-42d5-af78-8f1bb7dd7243",
+                            "constraintid": "8f7a64eb-1f61-43f9-a6c6-d2916ff07e0d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d952a11e-d772-42d5-af78-8f1bb7dd7243",
+                            "constraintid": "250251e8-ec52-4fb1-ab04-54d111133209",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Survey - Additional Notes"
+                    },
+                    "nodegroup_id": "94317700-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f4bf493d-b01d-4b89-86a1-d1a4f3782fcb",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f4bf493d-b01d-4b89-86a1-d1a4f3782fcb",
+                            "constraintid": "13c6ce79-f2f2-4c0e-804e-cd40355fd18a",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f4bf493d-b01d-4b89-86a1-d1a4f3782fcb",
+                            "constraintid": "c8e7728c-cc5b-48cf-a6a8-a99e7d96b470",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Survey Name"
+                    },
+                    "nodegroup_id": "c245e104-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "7a3edd98-be19-4b7a-bb80-29677408b460",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place(s) Surveyed",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "065220e6-2c31-4a37-a538-b875a393c963",
+                    "label": {
+                        "en": "Place(s) Surveyed"
+                    },
+                    "node_id": "500ce776-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "d952a11e-d772-42d5-af78-8f1bb7dd7243",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Survey - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "34e27dd8-88ed-454b-875a-f4742df312fd",
+                    "label": {
+                        "en": "Survey - Additional Notes"
+                    },
+                    "node_id": "94317700-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "28e39845-ada4-4394-a1fc-1e2ecce16462",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Survey Carried Out By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "411b6162-8f09-4362-9a0d-2c84a91e04f0",
+                    "label": {
+                        "en": "Survey Carried Out By"
+                    },
+                    "node_id": "8232e2b4-ee67-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "f4bf493d-b01d-4b89-86a1-d1a4f3782fcb",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Survey Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "70820af7-10ec-4598-9c6b-711f75628427",
+                    "label": {
+                        "en": "Survey Name"
+                    },
+                    "node_id": "c245e104-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "19148924-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "19148922-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "19148925-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "19148923-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "19148926-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "19148920-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "19148927-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "1914891f-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "19148928-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "1914891e-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "19148929-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "1914891d-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "1914892a-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "19148921-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "1914892b-ee67-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "19148919-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "4f1f02a3-8af4-4397-a791-51895edce3d9",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#carriedOutBy",
+                    "rangenode_id": "8232e2b4-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "a0341d5a-93e5-48e6-8979-b1e11083ccb1",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#surveyed",
+                    "rangenode_id": "500ce776-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "adda3d21-0892-49ea-9782-5ffd1008fa1e",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "rangenode_id": "c245e104-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "b254da96-49b1-4f74-8f94-ae0147958950",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "94317700-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "b931486f-1d73-4ca3-907d-bc8d570c7a5d",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "d02761e7-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f0-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "d02761ee-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f1-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "d02761ef-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f2-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "d02761ec-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f3-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "d02761eb-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f4-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "d02761ea-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f5-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "d02761e9-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f6-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "d02761ed-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "d02761f7-ee66-11ed-bf80-114c466094e0",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "d02761e5-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                    "edgeid": "f445373a-095e-4331-8c14-fbb0285e7505",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "rangenode_id": "1914891b-ee67-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "c245e104-ee66-11ed-bf80-114c466094e0",
+                                "string_template": "<Survey Name>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "id": "17388269-de33-4430-9fa4-07c72b73636e"
+                }
+            ],
+            "graphid": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Survey"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "1914891b-ee67-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "500ce776-ee67-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8232e2b4-ee67-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "94317700-ee67-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c245e104-ee66-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "d02761e7-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "survey_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date Confidence Assessment",
+                    "nodegroup_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date",
+                    "nodegroup_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date Confidence Type",
+                    "nodegroup_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "1914891d-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date Confidence Note",
+                    "nodegroup_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "1914891e-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date Confidence Probability Value",
+                    "nodegroup_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "1914891f-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "19148919-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "19148920-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date - Additional Notes",
+                    "nodegroup_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "19148921-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date Value",
+                    "nodegroup_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "19148922-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey End Date Type",
+                    "nodegroup_id": "1914891b-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "19148923-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_s_surveyed",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                                "name": "Place"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place(s) Surveyed",
+                    "nodegroup_id": "500ce776-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "500ce776-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#surveyed",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_carried_out_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            },
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Carried Out By",
+                    "nodegroup_id": "8232e2b4-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "8232e2b4-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#carriedOutBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey - Additional Notes",
+                    "nodegroup_id": "94317700-ee67-11ed-bf80-114c466094e0",
+                    "nodeid": "94317700-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Survey",
+                    "nodegroup_id": null,
+                    "nodeid": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Survey",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Name",
+                    "nodegroup_id": "c245e104-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "c245e104-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date Confidence Assessment",
+                    "nodegroup_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date",
+                    "nodegroup_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date Confidence Type",
+                    "nodegroup_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761e9-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date Confidence Note",
+                    "nodegroup_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761ea-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date Confidence Probability Value",
+                    "nodegroup_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761eb-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "d02761e5-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761ec-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date - Additional Notes",
+                    "nodegroup_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761ed-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date Value",
+                    "nodegroup_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761ee-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "survey_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Survey Start Date Type",
+                    "nodegroup_id": "d02761e7-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "d02761ef-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                "notes": null,
+                "publicationid": "7d15fad2-1f27-11ee-9f07-2b5aee014fa8",
+                "published_time": "2023-07-10T08:41:35.784",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "a44d544f-fcb7-4e84-be6a-fef3a2d97192",
+                "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                "6cdfce15-09ad-46be-bffa-23c113be1c09",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                "0adece94-7565-402a-b211-68e83ca85dd6"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "survey",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Survey",
+                "nodegroup_id": null,
+                "nodeid": "b2001b3e-ee66-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Survey",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

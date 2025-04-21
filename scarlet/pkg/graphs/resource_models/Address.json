@@ -1,0 +1,965 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "01aa89f4-7c42-493f-a886-9c0a060d87a9",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "01aa89f4-7c42-493f-a886-9c0a060d87a9",
+                            "constraintid": "108e775a-3b75-4c3c-8ac5-eaf7e33b7432",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "01aa89f4-7c42-493f-a886-9c0a060d87a9",
+                            "constraintid": "c9c90023-87a0-4acc-af83-dcd57b061d7f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": {
+                        "en": "Postcode area"
+                    },
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Address Code"
+                    },
+                    "nodegroup_id": "1d642990-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "104fccdf-7b0b-4481-b266-85ebadf98f78",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "104fccdf-7b0b-4481-b266-85ebadf98f78",
+                            "constraintid": "358d2d1a-9242-4248-abf3-5bb17c35813d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "104fccdf-7b0b-4481-b266-85ebadf98f78",
+                            "constraintid": "f8b60532-e133-44af-80a1-4014cca3b33d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Geocoded Place"
+                    },
+                    "nodegroup_id": "e6f58bba-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "21b333ba-e1b9-483e-b8f6-98a8a266d56a",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "21b333ba-e1b9-483e-b8f6-98a8a266d56a",
+                            "constraintid": "f8767923-b402-4f64-9798-c62923375812",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "21b333ba-e1b9-483e-b8f6-98a8a266d56a",
+                            "constraintid": "90a17b8f-92fc-4bdc-b31d-aa2445d51933",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Building Name"
+                    },
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3ab31b3d-1987-4f77-b239-d22b325d0592",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "3ab31b3d-1987-4f77-b239-d22b325d0592",
+                            "constraintid": "ba44626d-bdaf-449e-a5c1-28f5351ff705",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "3ab31b3d-1987-4f77-b239-d22b325d0592",
+                            "constraintid": "2d9ea112-1856-4697-b9a6-d0cc7561b22d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Street Address"
+                    },
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "5c20766e-dbc7-46b2-8708-b1a05ae392d5",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "5c20766e-dbc7-46b2-8708-b1a05ae392d5",
+                            "constraintid": "06c4db03-40dc-4f45-b62f-bbf2ccb7438f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "5c20766e-dbc7-46b2-8708-b1a05ae392d5",
+                            "constraintid": "d83c773e-ac49-4598-9f0f-831b86f23b9f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Address Note"
+                    },
+                    "nodegroup_id": "31edc402-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "5d59ad53-d26f-44b9-9340-34600f1e915f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "5d59ad53-d26f-44b9-9340-34600f1e915f",
+                            "constraintid": "e49444ec-c96c-4718-aa53-616072842089",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "5d59ad53-d26f-44b9-9340-34600f1e915f",
+                            "constraintid": "5823cf52-e739-4b0b-b9cf-326b75ca1240",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Area Name"
+                    },
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "72738864-fe15-44c0-8931-d090c2f3dccb",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "72738864-fe15-44c0-8931-d090c2f3dccb",
+                            "constraintid": "789a3117-2264-4dd5-945a-e07be281f603",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "72738864-fe15-44c0-8931-d090c2f3dccb",
+                            "constraintid": "c1d15dd0-8ed0-4a29-a461-40357423e3f1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Identifiers"
+                    },
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f14b1529-0219-4561-8077-f43767209042",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f14b1529-0219-4561-8077-f43767209042",
+                            "constraintid": "4c568de7-ac67-49a2-999b-eebf61d637bd",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f14b1529-0219-4561-8077-f43767209042",
+                            "constraintid": "97438dec-de55-4084-b67e-443a707e5d08",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Geocoding Note"
+                    },
+                    "nodegroup_id": "3fdaf51c-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "3ab31b3d-1987-4f77-b239-d22b325d0592",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Street Address",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "1c8be7ab-b192-4a6a-bd13-5ef86829d879",
+                    "label": {
+                        "en": "Street Address"
+                    },
+                    "node_id": "bba6f7a0-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "01aa89f4-7c42-493f-a886-9c0a060d87a9",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Address Code",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "5ddc1ae5-e9b3-4dac-9ada-8422b86deea8",
+                    "label": {
+                        "en": "Address Code"
+                    },
+                    "node_id": "1d642990-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "104fccdf-7b0b-4481-b266-85ebadf98f78",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Geocoded Place",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "60fde1b3-5269-4ccc-ab05-f5875660a632",
+                    "label": {
+                        "en": "Geocoded Place"
+                    },
+                    "node_id": "e6f58bba-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "5d59ad53-d26f-44b9-9340-34600f1e915f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Area Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "b063868a-be14-4a2c-b79e-fc9079870d10",
+                    "label": {
+                        "en": "Area Name"
+                    },
+                    "node_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "5c20766e-dbc7-46b2-8708-b1a05ae392d5",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Address Note",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "ae1ebfa8-34c9-429f-84f4-ce8328fe0311",
+                    "label": {
+                        "en": "Address Note"
+                    },
+                    "node_id": "31edc402-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "21b333ba-e1b9-483e-b8f6-98a8a266d56a",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Building Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "d8035782-f358-4005-8a18-b092b2b32134",
+                    "label": {
+                        "en": "Building Name"
+                    },
+                    "node_id": "af6d7130-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "f14b1529-0219-4561-8077-f43767209042",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Geocoding Note",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "fffd261c-cd82-4a1c-b40e-f1e9146e0704",
+                    "label": {
+                        "en": "Geocoding Note"
+                    },
+                    "node_id": "3fdaf51c-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "94be636c-ea7b-11ed-bf80-114c466094e0",
+                    "edgeid": "7703f34d-aa66-4703-a7b0-79bda3a55cb4",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasAddressNote",
+                    "rangenode_id": "31edc402-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94be636c-ea7b-11ed-bf80-114c466094e0",
+                    "edgeid": "7c2358b8-0234-4845-aa82-1cc71d5181df",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasGeocodingNote",
+                    "rangenode_id": "3fdaf51c-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94be636c-ea7b-11ed-bf80-114c466094e0",
+                    "edgeid": "7703f34d-aa66-4703-a7b0-79bda3a55cb5",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#relatedTo",
+                    "rangenode_id": "31a1bbd5-c106-4aae-837c-265978d548d2"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "edgeid": "86217cee-e14d-493a-9fa6-3c81a5c825db",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#inVillageTownOrCity",
+                    "rangenode_id": "05a5f518-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94be636c-ea7b-11ed-bf80-114c466094e0",
+                    "edgeid": "90ff7542-6286-4abf-87ad-dddc2291c87b",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#isGeocodedAs",
+                    "rangenode_id": "e6f58bba-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "edgeid": "95f4cdb9-9ba3-4301-907d-784f3031e666",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStreetAddress",
+                    "rangenode_id": "bba6f7a0-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "edgeid": "c31cf0ef-97e4-4707-8ab0-837011e086bd",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasBuildingName",
+                    "rangenode_id": "af6d7130-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "edgeid": "ed4b3014-e170-411c-a2dd-962f39a5ab94",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasAreaName",
+                    "rangenode_id": "a5fd2f3c-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94be636c-ea7b-11ed-bf80-114c466094e0",
+                    "edgeid": "fb76a34e-2c3b-43b6-99f6-2e1e1ab5a421",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasAddressCode",
+                    "rangenode_id": "1d642990-ea7c-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                                "string_template": "<Village/Town/City>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                                "string_template": "\ud83c\udfdb\ufe0f <Building Name>, <Street Address>, <Area Name>, <Village/Town/City>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "id": "7f85c19a-4b09-41ce-9b4b-9160054e3f23"
+                }
+            ],
+            "graphid": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Address"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3fdaf51c-ea7c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "1d642990-ea7c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "31edc402-ea7c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e6f58bba-ea7b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "village_town_city",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                                "name": "Place"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Village/Town/City",
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "nodeid": "05a5f518-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#inVillageTownOrCity",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "address_code",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": "Postcode area",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Address Code",
+                    "nodegroup_id": "1d642990-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "1d642990-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasAddressCode",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "address_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Address Note",
+                    "nodegroup_id": "31edc402-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "31edc402-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasAddressNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "geocoding_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Geocoding Note",
+                    "nodegroup_id": "3fdaf51c-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "3fdaf51c-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasGeocodingNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "address_info",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Address Info Holder",
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "nodeid": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Address",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#relatedTo",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "address",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Address",
+                    "nodegroup_id": null,
+                    "nodeid": "94be636c-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Address",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "area_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Area Name",
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "nodeid": "a5fd2f3c-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasAreaName",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "building_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Building Name",
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "nodeid": "af6d7130-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasBuildingName",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "street_address",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Street Address",
+                    "nodegroup_id": "31a1bbd5-c106-4aae-837c-265978d548d2",
+                    "nodeid": "bba6f7a0-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStreetAddress",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "geocoded_place",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                                "name": "Place"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Geocoded Place",
+                    "nodegroup_id": "e6f58bba-ea7b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6f58bba-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#isGeocodedAs",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "notes": null,
+                "publicationid": "48344b68-05ee-11ee-a549-ff891e817ac1",
+                "published_time": "2023-06-08T06:19:06.680",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                "9207c09b-023e-42c6-9b30-051ac9279055",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "0adece94-7565-402a-b211-68e83ca85dd6"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "address",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Address",
+                "nodegroup_id": null,
+                "nodeid": "94be636c-ea7b-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Address",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

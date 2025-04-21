@@ -1,0 +1,122 @@
+{
+    "resource_model_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+    "resource_model_name": "Ownership",
+    "nodes": [
+        {
+            "arches_nodeid": "ba804fca-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Owned",
+            "file_field_name": "Owned",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a865059c-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Owner",
+            "file_field_name": "Owner",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d78ee6d-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership End Date - Additional Notes",
+            "file_field_name": "Ownership End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d78ee6c-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Ownership End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d78ee6a-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership End Date Confidence Note",
+            "file_field_name": "Ownership End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d78ee6b-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership End Date Confidence Probability Value",
+            "file_field_name": "Ownership End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d78ee69-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership End Date Confidence Type",
+            "file_field_name": "Ownership End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d78ee6f-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership End Date Type",
+            "file_field_name": "Ownership End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d78ee6e-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership End Date Value",
+            "file_field_name": "Ownership End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "043f2757-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership Start Date - Additional Notes",
+            "file_field_name": "Ownership Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "043f2756-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Ownership Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "043f2754-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership Start Date Confidence Note",
+            "file_field_name": "Ownership Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "043f2755-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership Start Date Confidence Probability Value",
+            "file_field_name": "Ownership Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "043f2753-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership Start Date Confidence Type",
+            "file_field_name": "Ownership Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "043f2759-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership Start Date Type",
+            "file_field_name": "Ownership Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "043f2758-ee69-11ed-bf80-114c466094e0",
+            "arches_node_name": "Ownership Start Date Value",
+            "file_field_name": "Ownership Start Date Value",
+            "data_type": "date",
+            "export": true
+        }
+    ]
+}

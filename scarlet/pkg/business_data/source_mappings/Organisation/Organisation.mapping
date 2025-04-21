@@ -1,0 +1,186 @@
+{
+    "resource_model_id": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+    "resource_model_name": "Organisation",
+    "nodes": [
+        {
+            "arches_nodeid": "7fe3ac48-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Alternative Organisation Name",
+            "file_field_name": "Alternative Organisation Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "669590c4-ea7a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Associated Organisation",
+            "file_field_name": "Associated Organisation",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "17fd21d4-ea7a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution - Associated Legal Process",
+            "file_field_name": "Dissolution - Associated Legal Process",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7b9bd357-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution Date - Additional Notes",
+            "file_field_name": "Dissolution Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7b9bd356-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Dissolution Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7b9bd354-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution Date Confidence Note",
+            "file_field_name": "Dissolution Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7b9bd355-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution Date Confidence Probability Value",
+            "file_field_name": "Dissolution Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7b9bd353-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution Date Confidence Type",
+            "file_field_name": "Dissolution Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7b9bd359-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution Date Type",
+            "file_field_name": "Dissolution Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7b9bd358-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Dissolution Date Value",
+            "file_field_name": "Dissolution Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1f4ab357-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Formation Date - Additional Notes",
+            "file_field_name": "Formation Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1f4ab356-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Formation Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Formation Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1f4ab354-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Formation Date Confidence Note",
+            "file_field_name": "Formation Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1f4ab355-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Formation Date Confidence Probability Value",
+            "file_field_name": "Formation Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1f4ab353-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Formation Date Confidence Type",
+            "file_field_name": "Formation Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1f4ab359-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Formation Date Type",
+            "file_field_name": "Formation Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1f4ab358-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Formation Date Value",
+            "file_field_name": "Formation Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "cbebabfc-ea7a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation - Additional Notes",
+            "file_field_name": "Organisation - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "830b564e-ea7a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation Documented in Source",
+            "file_field_name": "Organisation Documented in Source",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "726a1d22-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation Name",
+            "file_field_name": "Organisation Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a36c33ae-ea7a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation - Research Note",
+            "file_field_name": "Organisation - Research Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a78c303a-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation Type",
+            "file_field_name": "Organisation Type",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8e029b2c-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation - VIAF Identifier",
+            "file_field_name": "Organisation - VIAF Identifier",
+            "data_type": "url",
+            "export": true
+        },
+        {
+            "arches_nodeid": "99e650c8-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation - Wikidata Identifier",
+            "file_field_name": "Organisation - Wikidata Identifier",
+            "data_type": "url",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f32f5314-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Organisation - Worked For",
+            "file_field_name": "Organisation - Worked For",
+            "data_type": "resource-instance-list",
+            "export": true
+        }
+    ]
+}

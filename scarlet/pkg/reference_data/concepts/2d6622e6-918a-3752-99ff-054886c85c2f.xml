@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/fe5eebc2-6afe-34a3-b592-4f62b945e6fc">
+    <skos:prefLabel xml:lang="en">{"id": "e92e48c6-58db-4a26-ac09-4dac3a3231cc", "value": "Grand Prix"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/2d6622e6-918a-3752-99ff-054886c85c2f">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/00ce1d6e-d257-3c33-8db6-e1645cc254e5"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ab468fa7-9f7d-3b51-8f1e-5c2d8cf5a047"/>
+        <dcterms:identifier xml:lang="en">{"id": "09076636-350b-49d4-b8a0-9d16b49033a6", "value": "http://toolsofknowledge.org/AwardType/"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b8e32ee7-1928-3fea-988f-389857c44617"/>
+        <dcterms:title xml:lang="en">{"id": "f83a6f68-6bf0-40fe-94fc-4fe9f9caf4e3", "value": "Award Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/26a2887e-5be6-304e-be82-9c61da120542"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0663eff0-e827-3fee-8264-8291c94cd98d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/acf8e811-c6d2-3451-a058-f7a7cdf0ad31"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fe5eebc2-6afe-34a3-b592-4f62b945e6fc"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <dcterms:identifier xml:lang="en">{"id": "504bca60-4be0-4969-a4c9-575369ea4815", "value": "http://toolsofknowledge.org/AwardType/GrandPrix"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ab468fa7-9f7d-3b51-8f1e-5c2d8cf5a047">
+    <skos:inScheme rdf:resource="http://localhost:8000/2d6622e6-918a-3752-99ff-054886c85c2f"/>
+    <dcterms:identifier xml:lang="en">{"id": "9466aafd-635d-472a-9be0-a8465644b7e9", "value": "http://toolsofknowledge.org/AwardType/Medal"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "86dba22f-c5d5-492c-8732-9fd7d21c4cf1", "value": "Medal"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b8e32ee7-1928-3fea-988f-389857c44617">
+    <dcterms:identifier xml:lang="en">{"id": "d5f53e15-a6c2-4d99-9f29-6193bd2ff307", "value": "http://toolsofknowledge.org/AwardType/BronzeMedal"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "f1a792f0-4e1f-43c2-84e8-1bbddd4a702c", "value": "Bronze Medal"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/2d6622e6-918a-3752-99ff-054886c85c2f"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/00ce1d6e-d257-3c33-8db6-e1645cc254e5">
+    <dcterms:identifier xml:lang="en">{"id": "057f78d6-9f62-492b-812c-bfee7d63b311", "value": "http://toolsofknowledge.org/AwardType/GoldMedal"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3b770758-822c-4240-9131-8284fa165edd", "value": "Gold Medal"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/2d6622e6-918a-3752-99ff-054886c85c2f"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/acf8e811-c6d2-3451-a058-f7a7cdf0ad31">
+    <skos:inScheme rdf:resource="http://localhost:8000/2d6622e6-918a-3752-99ff-054886c85c2f"/>
+    <dcterms:identifier xml:lang="en">{"id": "92f5e748-006f-4d83-8b5c-da1c126834e8", "value": "http://toolsofknowledge.org/AwardType/Honour"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "a5a2d5fd-9921-4875-b04e-ac5a522c7dc8", "value": "Honour"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/26a2887e-5be6-304e-be82-9c61da120542">
+    <skos:inScheme rdf:resource="http://localhost:8000/2d6622e6-918a-3752-99ff-054886c85c2f"/>
+    <skos:prefLabel xml:lang="en">{"id": "7358be26-6a23-42ce-a7a1-c35b96581deb", "value": "Silver Medal"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d4ae77f0-59b4-42c1-826e-1c91a3f0eaf9", "value": "http://toolsofknowledge.org/AwardType/SilverMedal"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0663eff0-e827-3fee-8264-8291c94cd98d">
+    <dcterms:identifier xml:lang="en">{"id": "8e54b241-49d4-4bc8-a9b1-d202a207c75e", "value": "http://toolsofknowledge.org/AwardType/CopleyMedal"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/2d6622e6-918a-3752-99ff-054886c85c2f"/>
+    <skos:prefLabel xml:lang="en">{"id": "84ad7efa-47b5-4363-8b58-bc0a6672d4f2", "value": "Copley Medal"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

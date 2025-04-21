@@ -34,7 +34,7 @@ function buildFilepathLookup(path, staticUrlPrefix) {
         const extension = file.match(/[^.]+$/).toString();
         const extensionReplacementRegex = new RegExp(`\\.${extension}$`);
 
-        if (extension === 'js') {
+        if (extension === 'js' || extension == 'json') {
             lookup[file.replace(path,'').replace(/\\/g, '/').replace(extensionReplacementRegex,'').replace(/^\//,'')] = {"import": file, "filename": `${prefix}/[name].[contenthash].${extension}`};
         }
         else if (extension === 'css' || extension === 'scss') {

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/7f7109b2-2398-413b-8d36-5647086dd0b6">
+        <skos:prefLabel xml:lang="en">{"id": "274ce95d-cdae-458c-90a7-ef7b90d276e6", "value": "School"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f0449f40-1ed9-4564-af29-be067a893c26">
+        <skos:prefLabel xml:lang="en">{"id": "36abbedd-ec52-4a99-9a4d-fcd7946c0776", "value": "Agency"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a2de0c26-bf42-4535-bdb2-c76ff600c9ce">
+        <skos:prefLabel xml:lang="en">{"id": "b9c461ed-30f9-424e-a1f1-16c0c5bfd78a", "value": "Additional Outlet"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/d9e666d1-e241-4e2c-be43-5fa364506a71">
+        <skos:prefLabel xml:lang="en">{"id": "d93bcb84-1313-435e-bfec-bb4f53f24f0c", "value": "Subsidiary"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/0c1ded01-6378-41b8-a3db-571ca40b93e6">
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+        <skos:prefLabel xml:lang="en">{"id": "94c3ed6d-1263-4815-a7a5-3ecca3462080", "value": "Factory"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/6ebbef02-f6e3-4c76-ae0b-81ae0898a20c">
+        <skos:prefLabel xml:lang="en">{"id": "b775a16c-0e2f-47af-ad61-00809a9f1045", "value": "Multiple Occupancy"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/242f5481-09e4-4d08-86d9-8961b2a3fffc">
+        <skos:prefLabel xml:lang="en">{"id": "62c3a5ec-4545-44cf-9929-b0e84af940eb", "value": "Primary Outlet"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">{"id": "d9fefc74-da0b-4e26-898d-60730cd80238", "value": "Address Function"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e4f19c49-4204-46d6-b0e0-fa84789bfbe9">
+        <skos:prefLabel xml:lang="en">{"id": "39a4544e-bb0f-4155-ac9d-be637689185d", "value": "Residence"}</skos:prefLabel>
+        <skos:narrower rdf:resource="http://localhost:8000/8d01be0e-df95-4c76-b930-0d3b87531e53"/>
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/450685d4-7107-43e7-9911-c5943e651def">
+        <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+        <skos:prefLabel xml:lang="en">{"id": "878301dd-77b3-4dbe-a3c0-2bfcd6e4fe98", "value": "Testing Station"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://localhost:8000/8d01be0e-df95-4c76-b930-0d3b87531e53">
+    <skos:inScheme rdf:resource="http://localhost:8000/7424a36e-4803-4dcc-9a02-00196ce9e782"/>
+    <skos:prefLabel xml:lang="en">{"id": "cb944f9c-aeef-4e75-bfb7-c6dc5610f8a8", "value": "Country Residence"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

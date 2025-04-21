@@ -1,0 +1,29 @@
+<div class="card-component" style="width: 100%">
+  <div class="row widget-wrapper">
+    <h4 data-bind="text: workflow().name"></h4>
+  </div>
+  <p> Is this <b data-bind="text: workflow().name"></b> a scientific instrument maker?</p>
+  <div class="row widget-wrapper" style="display: flex">
+    <!-- ko if: !workflow().disableStartNew -->
+    <button
+      class="btn btn-shim btn-labeled btn-lg fa fa-check btn-success"
+      style="min-height: 40.56px"
+      data-bind="click: async () => {
+        enableSimonIdGeneration();
+        window.location.href = workflowUrl();
+      }"
+    >
+      <span>Yes</span>
+    </button>
+    <!-- /ko -->
+    <button
+      class="btn btn-shim btn-labeled btn-lg fa fa-times btn-danger"
+      style="min-height: 40.56px"
+      data-bind="click: () => {
+        disableSimonIdGeneration();
+        window.location.href = workflowUrl();
+      }"
+    >
+      <span>No</span>
+    </button>
+</div>

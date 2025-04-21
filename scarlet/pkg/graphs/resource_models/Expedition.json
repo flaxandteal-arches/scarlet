@@ -1,0 +1,1242 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "341ef501-6037-4eff-9dcf-9b767946dd0b",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "341ef501-6037-4eff-9dcf-9b767946dd0b",
+                            "constraintid": "42219814-26b0-433b-a5b0-74030a97e647",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "341ef501-6037-4eff-9dcf-9b767946dd0b",
+                            "constraintid": "9b4b14a2-1f11-4fb5-af44-ef76214ebfe1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Expedition Name"
+                    },
+                    "nodegroup_id": "b19f15d8-ee65-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7110161e-31c5-4111-9321-17d3602bb18e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7110161e-31c5-4111-9321-17d3602bb18e",
+                            "constraintid": "ec7a3e95-fe08-46cd-b78c-09ba678da896",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7110161e-31c5-4111-9321-17d3602bb18e",
+                            "constraintid": "403dd05d-f5fd-4ed4-88ed-06e710d670c6",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Expedition Carried Out By"
+                    },
+                    "nodegroup_id": "586b418e-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "aa8fc236-8832-495f-a0a3-e68a7de2d0e9",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "aa8fc236-8832-495f-a0a3-e68a7de2d0e9",
+                            "constraintid": "2defe0a6-19ec-4024-bc88-dce2928756dd",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "aa8fc236-8832-495f-a0a3-e68a7de2d0e9",
+                            "constraintid": "8a7b60dc-ae89-401e-8721-841bb2fdfeeb",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Place(s) Visited on Expedition"
+                    },
+                    "nodegroup_id": "3e1c84c8-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "c2870e48-ee65-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Expedition Start Date (confidence)"
+                    },
+                    "nodegroup_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "c2870e4a-ee65-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Expedition Start Date"
+                    },
+                    "nodegroup_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "fb59197b-3634-489d-a4d2-1f68d647414d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "fb59197b-3634-489d-a4d2-1f68d647414d",
+                            "constraintid": "dada0ba4-404d-41a6-87d1-f33f6ba27155",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "fb59197b-3634-489d-a4d2-1f68d647414d",
+                            "constraintid": "81fc95ac-d305-4a0c-bac9-b873b0e7ff44",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Expedition - Additional Notes"
+                    },
+                    "nodegroup_id": "6b011b66-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "fe978e30-ee65-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Expedition End Date (confidence)"
+                    },
+                    "nodegroup_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "fe978e32-ee65-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Exhibition End Date"
+                    },
+                    "nodegroup_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "fb59197b-3634-489d-a4d2-1f68d647414d",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Expedition - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "0b1d6d84-753c-44e1-ad30-db8ab2e4489c",
+                    "label": {
+                        "en": "Expedition - Additional Notes"
+                    },
+                    "node_id": "6b011b66-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "aa8fc236-8832-495f-a0a3-e68a7de2d0e9",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place(s) Visited on Expedition",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "3cb336c1-a2c1-4c9b-9004-6f00761e1e19",
+                    "label": {
+                        "en": "Place(s) Visited on Expedition"
+                    },
+                    "node_id": "3e1c84c8-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "7110161e-31c5-4111-9321-17d3602bb18e",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Expedition Carried Out By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "6b20d5db-3677-480f-9bf1-b34931514390",
+                    "label": {
+                        "en": "Expedition Carried Out By"
+                    },
+                    "node_id": "586b418e-ee66-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "341ef501-6037-4eff-9dcf-9b767946dd0b",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Expedition Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "ee2fd1b7-ff46-43b4-a4ce-ce2d2968dfef",
+                    "label": {
+                        "en": "Expedition Name"
+                    },
+                    "node_id": "b19f15d8-ee65-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "2e13214c-03ce-42e5-8146-cc72cc7af72a",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "c2870e49-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "345a2075-9576-42a7-a519-50145685f05d",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "fe978e31-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "4f1956ce-08bd-469e-8d9e-f0ba047c98f2",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "rangenode_id": "b19f15d8-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "5bb28e10-6d2e-4f93-8c6b-8f1d9eca2656",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "6b011b66-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "86970631-d66e-493a-966e-f97bc57e778f",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#tookPlaceAt",
+                    "rangenode_id": "3e1c84c8-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "9450f020-310b-4fef-816a-2af0d10256cb",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#carriedOutBy",
+                    "rangenode_id": "586b418e-ee66-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e52-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "c2870e50-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e53-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "c2870e51-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e54-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "c2870e4e-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e55-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "c2870e4d-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e56-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "c2870e4c-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e57-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "c2870e4b-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e58-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "c2870e4f-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "c2870e59-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "c2870e47-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e3a-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "fe978e38-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e3b-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "fe978e39-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e3c-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "fe978e36-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e3d-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "fe978e35-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e3e-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "fe978e34-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e3f-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "fe978e33-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e40-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "fe978e37-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "edgeid": "fe978e41-ee65-11ed-bf80-114c466094e0",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "fe978e2f-ee65-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "586b418e-ee66-11ed-bf80-114c466094e0",
+                                "string_template": "Expedition carried out by: <Expedition Carried Out By>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "3e1c84c8-ee66-11ed-bf80-114c466094e0",
+                                "string_template": "<Place(s) Visited on Expedition>"
+                            },
+                            "name": {
+                                "nodegroup_id": "b19f15d8-ee65-11ed-bf80-114c466094e0",
+                                "string_template": "<Expedition Name>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "id": "ac1f7a8c-3d4f-4dbd-bc7d-15a4c0628baf"
+                }
+            ],
+            "graphid": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Expedition"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3e1c84c8-ee66-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "586b418e-ee66-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "6b011b66-ee66-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "b19f15d8-ee65-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "c2870e49-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "fe978e31-ee65-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "place_s_visited_on_expedition",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                                "name": "Place"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place(s) Visited on Expedition",
+                    "nodegroup_id": "3e1c84c8-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "3e1c84c8-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#tookPlaceAt",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_carried_out_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Carried Out By",
+                    "nodegroup_id": "586b418e-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "586b418e-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#carriedOutBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition - Additional Notes",
+                    "nodegroup_id": "6b011b66-ee66-11ed-bf80-114c466094e0",
+                    "nodeid": "6b011b66-ee66-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Expedition",
+                    "nodegroup_id": null,
+                    "nodeid": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Expedition",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Name",
+                    "nodegroup_id": "b19f15d8-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "b19f15d8-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date Confidence Assessment",
+                    "nodegroup_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date",
+                    "nodegroup_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date Confidence Type",
+                    "nodegroup_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e4b-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date Confidence Note",
+                    "nodegroup_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e4c-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date Confidence Probability Value",
+                    "nodegroup_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e4d-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "c2870e47-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e4e-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date - Additional Notes",
+                    "nodegroup_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e4f-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date Value",
+                    "nodegroup_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e50-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "expedition_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Expedition Start Date Type",
+                    "nodegroup_id": "c2870e49-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "c2870e51-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date Confidence Assessment",
+                    "nodegroup_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date",
+                    "nodegroup_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date Confidence Type",
+                    "nodegroup_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e33-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date Confidence Note",
+                    "nodegroup_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e34-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date Confidence Probability Value",
+                    "nodegroup_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e35-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "fe978e2f-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e36-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date - Additional Notes",
+                    "nodegroup_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e37-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date Value",
+                    "nodegroup_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e38-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "exhibition_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Exhibition End Date Type",
+                    "nodegroup_id": "fe978e31-ee65-11ed-bf80-114c466094e0",
+                    "nodeid": "fe978e39-ee65-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                "notes": null,
+                "publicationid": "a076237e-1cd6-11ee-9f07-2b5aee014fa8",
+                "published_time": "2023-07-07T09:57:43.574",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "a44d544f-fcb7-4e84-be6a-fef3a2d97192",
+                "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "6cdfce15-09ad-46be-bffa-23c113be1c09",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "0adece94-7565-402a-b211-68e83ca85dd6"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "expedition",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Expedition",
+                "nodegroup_id": null,
+                "nodeid": "9941bd06-ee65-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Expedition",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

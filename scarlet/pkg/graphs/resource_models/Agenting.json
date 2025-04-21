@@ -1,0 +1,1337 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "5350e376-fa1f-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agenting Start Date (confidence)"
+                    },
+                    "nodegroup_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "5350e378-fa1f-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agenting Start Date"
+                    },
+                    "nodegroup_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "728c339e-fa1f-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agenting End Date (confidence)"
+                    },
+                    "nodegroup_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "728c33a0-fa1f-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agenting End Date"
+                    },
+                    "nodegroup_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "80616db7-e693-480c-8567-e2d268eb7c82",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "80616db7-e693-480c-8567-e2d268eb7c82",
+                            "constraintid": "0ff89b10-dacf-436a-8b88-2a7e803a7103",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "80616db7-e693-480c-8567-e2d268eb7c82",
+                            "constraintid": "5267eef8-2587-4c46-a1bf-5610af1abcc8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agent"
+                    },
+                    "nodegroup_id": "e17f6bd4-fa1f-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "9d62958a-879b-4f38-9a12-b1c4cf160bc2",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "9d62958a-879b-4f38-9a12-b1c4cf160bc2",
+                            "constraintid": "e4fbe57b-47c7-4f65-98c9-d0ad5f97acd4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "9d62958a-879b-4f38-9a12-b1c4cf160bc2",
+                            "constraintid": "c621e934-388a-4813-929a-4758584b9078",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agent for Objects of Type"
+                    },
+                    "nodegroup_id": "3dfd9f5c-fa20-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "a7c6ae41-7c6e-4724-af61-87fc4ea63ef4",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "a7c6ae41-7c6e-4724-af61-87fc4ea63ef4",
+                            "constraintid": "52e5d5e2-5de4-482f-b9f2-688835e7d6c0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "a7c6ae41-7c6e-4724-af61-87fc4ea63ef4",
+                            "constraintid": "dcf56403-748e-4003-95c0-b47dbbb09edd",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agent for Specific Object(s)"
+                    },
+                    "nodegroup_id": "6ab97bf6-fa20-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d695db8f-c1a8-4d88-a3e6-964726eadbf9",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d695db8f-c1a8-4d88-a3e6-964726eadbf9",
+                            "constraintid": "da835542-e565-4754-9566-ea9f03a5a790",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d695db8f-c1a8-4d88-a3e6-964726eadbf9",
+                            "constraintid": "7267b48e-c131-47a6-b085-29c65649e6b4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Client"
+                    },
+                    "nodegroup_id": "0edc2f4a-fa20-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f5651b3b-cbf2-4a66-930d-9f204de1292a",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f5651b3b-cbf2-4a66-930d-9f204de1292a",
+                            "constraintid": "a93d5a36-6a7d-40c8-a7db-d24ba5b60a02",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f5651b3b-cbf2-4a66-930d-9f204de1292a",
+                            "constraintid": "a91d3e89-5a63-425c-83af-7a33f99b3a66",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Agenting - Additional Notes"
+                    },
+                    "nodegroup_id": "375acaf0-4e29-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "80616db7-e693-480c-8567-e2d268eb7c82",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Agent",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "13618b4d-94c9-418d-b3a1-c755c01a0ff0",
+                    "label": {
+                        "en": "Agent"
+                    },
+                    "node_id": "e17f6bd4-fa1f-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "a7c6ae41-7c6e-4724-af61-87fc4ea63ef4",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Agent for Specific Object(s)",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "44e32fde-cccf-497a-b0d3-fc3b2b6ccbc7",
+                    "label": {
+                        "en": "Agent for Specific Object(s)"
+                    },
+                    "node_id": "6ab97bf6-fa20-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "d695db8f-c1a8-4d88-a3e6-964726eadbf9",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Client",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "70f764d1-86cc-4693-a2cb-3d09b9fe81e8",
+                    "label": {
+                        "en": "Client"
+                    },
+                    "node_id": "0edc2f4a-fa20-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "9d62958a-879b-4f38-9a12-b1c4cf160bc2",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Agent for Objects of Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "b6592c4a-95cd-4ee7-9463-c7d52c982365",
+                    "label": {
+                        "en": "Agent for Objects of Type"
+                    },
+                    "node_id": "3dfd9f5c-fa20-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000012"
+                },
+                {
+                    "card_id": "f5651b3b-cbf2-4a66-930d-9f204de1292a",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Agenting - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "eb1513d9-860e-4b4f-8563-1ea5542f82ab",
+                    "label": {
+                        "en": "Agenting - Additional Notes"
+                    },
+                    "node_id": "375acaf0-4e29-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "29f25c43-8f2f-4b6f-a8b0-66efcb70cbd7",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "rangenode_id": "0edc2f4a-fa20-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e380-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "5350e37e-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e381-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "5350e37f-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e382-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "5350e37c-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e383-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "5350e37b-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e384-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "5350e37a-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e385-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "5350e379-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e386-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "5350e37d-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5350e387-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "5350e375-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "5829f3f2-76c8-428a-bf6f-ee78e897b5fc",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "375acaf0-4e29-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "6f3bb258-9f54-4ae8-83de-5a9f21cc354f",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "5350e377-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33a8-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "728c33a6-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33a9-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "728c33a7-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33aa-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "728c33a4-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33ab-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "728c33a3-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33ac-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "728c33a2-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33ad-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "728c33a1-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33ae-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "728c33a5-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "728c33af-fa1f-11ed-bf80-114c466094e0",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "728c339d-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "9759eb6c-998c-4759-b64d-b943b0a06121",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "728c339f-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "a5988929-4171-4c19-8457-9335509558bc",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedObjectType",
+                    "rangenode_id": "3dfd9f5c-fa20-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "f21e5554-37f1-40e3-8f9a-eee19eef31ce",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedSpecificObject",
+                    "rangenode_id": "6ab97bf6-fa20-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "edgeid": "f3816d6a-cc86-4fad-a042-39eb5c2d1b6b",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "rangenode_id": "e17f6bd4-fa1f-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "0edc2f4a-fa20-11ed-bf80-114c466094e0",
+                                "string_template": "Client: <Client>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "e17f6bd4-fa1f-11ed-bf80-114c466094e0",
+                                "string_template": "<Agent> acting as Agent"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "id": "0567debd-940e-490d-9a71-17f13397a622"
+                }
+            ],
+            "graphid": "1af8df78-4306-4954-a2c9-40050dbad8af",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Agenting"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0edc2f4a-fa20-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "375acaf0-4e29-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3dfd9f5c-fa20-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "5350e377-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "6ab97bf6-fa20-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "728c339f-fa1f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e17f6bd4-fa1f-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "client",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Client",
+                    "nodegroup_id": "0edc2f4a-fa20-11ed-bf80-114c466094e0",
+                    "nodeid": "0edc2f4a-fa20-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Agenting",
+                    "nodegroup_id": null,
+                    "nodeid": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Event",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting - Additional Notes",
+                    "nodegroup_id": "375acaf0-4e29-11ee-906b-63b45ef4509d",
+                    "nodeid": "375acaf0-4e29-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agent_for_objects_of_type",
+                    "config": {
+                        "rdmCollection": "9d71a5a2-23ac-428f-be14-20826c38ab6b"
+                    },
+                    "datatype": "concept-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agent for Objects of Type",
+                    "nodegroup_id": "3dfd9f5c-fa20-11ed-bf80-114c466094e0",
+                    "nodeid": "3dfd9f5c-fa20-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ObjectType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedObjectType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date Confidence Assessment",
+                    "nodegroup_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date",
+                    "nodegroup_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date Confidence Type",
+                    "nodegroup_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e379-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date Confidence Note",
+                    "nodegroup_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e37a-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date Confidence Probability Value",
+                    "nodegroup_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e37b-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "5350e375-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e37c-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date - Additional Notes",
+                    "nodegroup_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e37d-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date Value",
+                    "nodegroup_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e37e-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting Start Date Type",
+                    "nodegroup_id": "5350e377-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "5350e37f-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agent_for_specific_object_s_",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                                "name": "Object"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agent for Specific Object(s)",
+                    "nodegroup_id": "6ab97bf6-fa20-11ed-bf80-114c466094e0",
+                    "nodeid": "6ab97bf6-fa20-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Object",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedSpecificObject",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date Confidence Assessment",
+                    "nodegroup_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date",
+                    "nodegroup_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date Confidence Type",
+                    "nodegroup_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c33a1-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date Confidence Note",
+                    "nodegroup_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c33a2-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date Confidence Probability Value",
+                    "nodegroup_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c33a3-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "728c339d-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c33a4-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date - Additional Notes",
+                    "nodegroup_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c33a5-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date Value",
+                    "nodegroup_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c33a6-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agenting_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agenting End Date Type",
+                    "nodegroup_id": "728c339f-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "728c33a7-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "agent",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            },
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Agent",
+                    "nodegroup_id": "e17f6bd4-fa1f-11ed-bf80-114c466094e0",
+                    "nodeid": "e17f6bd4-fa1f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                "notes": null,
+                "publicationid": "463d51a0-4e29-11ee-906b-63b45ef4509d",
+                "published_time": "2023-09-08T04:22:47.412",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "agenting",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Agenting",
+                "nodegroup_id": null,
+                "nodeid": "3282b744-fa1f-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Event",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

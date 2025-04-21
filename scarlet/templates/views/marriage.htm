@@ -1,0 +1,73 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<div data-bind="visible: !!dataConfig.name" class="aher-report-section">
+    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(visible.marriage)}, css: {'fa-angle-double-right': visible.marriage(), 'fa-angle-double-up': !visible.marriage()}" class="fa toggle"></i> Marriage</h2>
+         <div class="aher-report-subsection" >
+              <!-- ko if: dates().length -->
+              <div class="aher-report-subsection">
+                  <div class="aher-report-subsection" >
+                      <div>
+                          <div class="aher-table pad-btm">
+                              <table class="table table-striped" cellspacing="0" width="100%">
+                                  <thead>
+                                      <tr class="aher-table-header">
+                                          <th></th>
+                                          <th>{% trans "Date" %}</th>
+                                          <th class="min-tabletl">Type</th>
+                                          <th class="min-tabletl">Additional Notes</th>
+                                          <th class="aher-table-control all"></th>
+                                      </tr>
+                                  </thead>
+                                  <tbody data-bind="dataTablesForEach: { data: dates, dataTableOptions: datesTableConfig }">
+                                      <tr>
+                                          <td data-bind="text: field"></td>
+                                          <td data-bind="text: date"></td>
+                                          <td data-bind="text: type"></td>
+                                          <td data-bind="text: note"></td>
+                                          <td class="aher-table-control">
+                                          </td>
+                                      </tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <!-- /ko -->
+              <!-- ko if: spouses().length -->
+              <div class="aher-report-subsection">
+                  <div class="aher-report-subsection" >
+                      <div>
+                          <div class="aher-table pad-btm">
+                              <table class="table table-striped" cellspacing="0" width="100%">
+                                  <thead>
+                                      <tr class="aher-table-header">
+                                          <th>{% trans "Full Name" %}</th>
+                                          <th class="min-tabletl"></th>
+                                          <th class="aher-table-control all"></th>
+                                      </tr>
+                                  </thead>
+                                  <tbody data-bind="dataTablesForEach: { data: spouses, dataTableOptions: spouseTableConfig }">
+                                      <tr>
+                                          <td data-bind="text: name"></td>
+                                          <td class="min-tabletl">Spouse</td>
+                                          <td class="aher-table-control">
+                                          </td>
+                                      </tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <!-- /ko -->
+             </div>
+         </div>
+    </div>
+</div>
+
+{% endblock body %}
+{% endblock report %}

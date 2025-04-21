@@ -1,0 +1,1076 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "077e6d9a-9570-42e2-8c77-064673386663",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "077e6d9a-9570-42e2-8c77-064673386663",
+                            "constraintid": "1cdc9bfd-0628-4968-adf4-7e815a6fe1a4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "077e6d9a-9570-42e2-8c77-064673386663",
+                            "constraintid": "14cc7be1-4621-4d81-beee-b184ce50718d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patent Number"
+                    },
+                    "nodegroup_id": "ac5f9f5e-f89a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "6aad153b-a506-4ed1-a5c1-d38f99fc82fe",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "6aad153b-a506-4ed1-a5c1-d38f99fc82fe",
+                            "constraintid": "5f373290-c057-488e-8dc7-e3a5689f6f8e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "6aad153b-a506-4ed1-a5c1-d38f99fc82fe",
+                            "constraintid": "ae36219b-e8fc-49dc-8ec1-cccca5acfc98",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patent Description"
+                    },
+                    "nodegroup_id": "caea3c5e-f89a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7c242de5-a7a0-4ce1-87dd-2d3c15e95ebd",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7c242de5-a7a0-4ce1-87dd-2d3c15e95ebd",
+                            "constraintid": "ca358eeb-acfc-41bf-b811-5243a7d19332",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7c242de5-a7a0-4ce1-87dd-2d3c15e95ebd",
+                            "constraintid": "f9270b46-a067-4794-9714-766c975503bc",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patented Objects of Type"
+                    },
+                    "nodegroup_id": "0d1ef164-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ac7b8cdf-0e88-4c8f-bda7-58c598df1672",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "ac7b8cdf-0e88-4c8f-bda7-58c598df1672",
+                            "constraintid": "034ad671-e56f-4549-85fe-f7137f0e82df",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "ac7b8cdf-0e88-4c8f-bda7-58c598df1672",
+                            "constraintid": "fd470425-2998-4ca6-91c6-b9e59e7a3ffa",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patenting - Additional Notes"
+                    },
+                    "nodegroup_id": "2002713e-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "bea592b5-120f-4de9-9078-f3256f96171c",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "bea592b5-120f-4de9-9078-f3256f96171c",
+                            "constraintid": "deb42769-4bad-4e3c-8181-4ce2a651dd3e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "bea592b5-120f-4de9-9078-f3256f96171c",
+                            "constraintid": "b16353d8-f54d-4518-9f7d-c80fe8287c46",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patented By"
+                    },
+                    "nodegroup_id": "bac901d4-f89a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d641def6-f89a-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patent Date (confidence)"
+                    },
+                    "nodegroup_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d641def8-f89a-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patent Date"
+                    },
+                    "nodegroup_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ee90a576-bcea-4668-9af4-a9c60d698b66",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "ee90a576-bcea-4668-9af4-a9c60d698b66",
+                            "constraintid": "9bf45da0-ebbe-43b3-8ab0-5def762690e4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "ee90a576-bcea-4668-9af4-a9c60d698b66",
+                            "constraintid": "91bc28fd-9248-4693-a553-8c10cf55c560",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Patent Record"
+                    },
+                    "nodegroup_id": "2c4b2a3a-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "7c242de5-a7a0-4ce1-87dd-2d3c15e95ebd",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Patented Objects of Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "36431ab3-134b-4e68-8c72-09145805e54a",
+                    "label": {
+                        "en": "Patented Objects of Type"
+                    },
+                    "node_id": "0d1ef164-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "bea592b5-120f-4de9-9078-f3256f96171c",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Patented By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "4daade20-69fe-4dbf-b036-df0f27ebc013",
+                    "label": {
+                        "en": "Patented By"
+                    },
+                    "node_id": "bac901d4-f89a-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "6aad153b-a506-4ed1-a5c1-d38f99fc82fe",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Patent Description",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "5261afa2-556e-4353-bbb9-b44a2e9965ff",
+                    "label": {
+                        "en": "Patent Description"
+                    },
+                    "node_id": "caea3c5e-f89a-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "ac7b8cdf-0e88-4c8f-bda7-58c598df1672",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "9d8f6ead-c155-4854-8e72-eb704ddb83b4",
+                    "label": {
+                        "en": "Additional Notes"
+                    },
+                    "node_id": "2002713e-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "ee90a576-bcea-4668-9af4-a9c60d698b66",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Patent Record",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "acd505f7-1ff6-4dbd-842b-ba88a4b7c5d1",
+                    "label": {
+                        "en": "Patent Record"
+                    },
+                    "node_id": "2c4b2a3a-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "4c31b15a-313e-4e00-9b41-a49f55cdcb22",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#patentedBy",
+                    "rangenode_id": "bac901d4-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "5c059c4d-91d4-4468-94c7-307c5f663357",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasPatentNumber",
+                    "rangenode_id": "ac5f9f5e-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "60b4c67e-47b7-4784-a71e-ce06cb34b002",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#isDocumentedIn",
+                    "rangenode_id": "2c4b2a3a-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "7545f9b2-9957-41b4-8445-2f691b9facad",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "rangenode_id": "d641def7-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "9d998271-4185-493f-8697-06eb38f10644",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "2002713e-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "9fd58e79-9a1d-405e-b711-f74c64bd5f1d",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasPatentDescription",
+                    "rangenode_id": "caea3c5e-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df00-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "d641defe-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df01-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "d641deff-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df02-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "d641defc-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df03-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "d641defb-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df04-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "d641defa-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df05-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "d641def9-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df06-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "d641defd-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "d641df07-f89a-11ed-bf80-114c466094e0",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "d641def5-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "edgeid": "db03c52c-5830-47e7-b633-8f826dc5135f",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#patentForObjectType",
+                    "rangenode_id": "0d1ef164-f89b-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "ac5f9f5e-f89a-11ed-bf80-114c466094e0",
+                                "string_template": "Patent number: <Patent Number>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "bac901d4-f89a-11ed-bf80-114c466094e0",
+                                "string_template": "Patent by <Patented By>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "id": "698fd29f-3ebf-4df0-a6cd-b50348d1c4f0"
+                }
+            ],
+            "graphid": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Patenting"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0d1ef164-f89b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "2002713e-f89b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "2c4b2a3a-f89b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ac5f9f5e-f89a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "bac901d4-f89a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "caea3c5e-f89a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "d641def7-f89a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "patented_objects_of_type",
+                    "config": {
+                        "rdmCollection": "9d71a5a2-23ac-428f-be14-20826c38ab6b"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patented Objects of Type",
+                    "nodegroup_id": "0d1ef164-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "0d1ef164-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ObjectType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#patentForObjectType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patenting_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patenting - Additional Notes",
+                    "nodegroup_id": "2002713e-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "2002713e-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_record",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "0adece94-7565-402a-b211-68e83ca85dd6",
+                                "name": "Source"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Record",
+                    "nodegroup_id": "2c4b2a3a-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "2c4b2a3a-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Source",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#isDocumentedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patenting",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Patenting",
+                    "nodegroup_id": null,
+                    "nodeid": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Patenting",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_number",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Number",
+                    "nodegroup_id": "ac5f9f5e-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "ac5f9f5e-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasPatentNumber",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patented_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patented By",
+                    "nodegroup_id": "bac901d4-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "bac901d4-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#patentedBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_description",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Description",
+                    "nodegroup_id": "caea3c5e-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "caea3c5e-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasPatentDescription",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date Confidence Assessment",
+                    "nodegroup_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date",
+                    "nodegroup_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date Confidence Type",
+                    "nodegroup_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641def9-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date Confidence Note",
+                    "nodegroup_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641defa-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date Confidence Probability Value",
+                    "nodegroup_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641defb-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "d641def5-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641defc-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date - Additional Notes",
+                    "nodegroup_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641defd-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date Value",
+                    "nodegroup_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641defe-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "patent_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Patent Date Type",
+                    "nodegroup_id": "d641def7-f89a-11ed-bf80-114c466094e0",
+                    "nodeid": "d641deff-f89a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "notes": null,
+                "publicationid": "eab9ca8e-77e0-11ee-906b-63b45ef4509d",
+                "published_time": "2023-10-31T06:30:38.949",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "78dbd0df-288f-4896-9c93-a91719f73381",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "42296fdb-0e83-45c1-b462-ac78c35b4f71",
+                "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "a939c5db-9267-47e1-a8fa-db21af722c43",
+                "9ef79519-0b47-42fe-b66c-3879bfa9666b",
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "0adece94-7565-402a-b211-68e83ca85dd6"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "patenting",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Patenting",
+                "nodegroup_id": null,
+                "nodeid": "9093dcb8-f89a-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Patenting",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/47bdcb35-3ccf-3bbe-ad59-0d1e0315c372">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/97e8dbf7-e1d5-369c-949d-1d6d0840098f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/38b2a2f5-048c-3853-8074-3cf2770e410b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a66a968f-4371-36cc-a0b0-975a4122d552"/>
+        <dcterms:description xml:lang="en">{"id": "cd2767ea-b600-4262-913c-050e7880cdd0", "value": "Roles that people can have in organisations related to the manufacture of scientific instruments"}</dcterms:description>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d8e22236-3411-354b-a18d-b033c0f90e49"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f2340142-c487-32cd-84de-1197e79c1ebc"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d9eed45f-1f74-3cdc-bf50-ae476b340062"/>
+        <dcterms:title xml:lang="en">{"id": "b1bc85c7-7cc8-444e-ab0f-bf76b546ad82", "value": "Role Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/47bdcb35-3ccf-3bbe-ad59-0d1e0315c372"/>
+        <dcterms:identifier xml:lang="en">{"id": "8fd11114-4db7-413e-9e7b-9311a421cd17", "value": "http://toolsofknowledge.org/RoleType"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e480651c-8029-30f0-8131-2f9b3572f91c"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <dcterms:identifier xml:lang="en">{"id": "60d5322e-40cc-41be-b5a9-64f8b3b365d1", "value": "http://toolsofknowledge.org/RoleType/PrimeWarden"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "731c2b26-b381-4733-83d8-16f041d09652", "value": "Prime Warden"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f2340142-c487-32cd-84de-1197e79c1ebc">
+    <skos:prefLabel xml:lang="en">{"id": "461c2a08-45f8-433d-8c06-2c085edcb0ca", "value": "Assistant"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032"/>
+    <dcterms:identifier xml:lang="en">{"id": "2407bd37-f6af-4725-8055-627819763587", "value": "http://toolsofknowledge.org/RoleType/Assistant"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/97e8dbf7-e1d5-369c-949d-1d6d0840098f">
+    <skos:prefLabel xml:lang="en">{"id": "ab421e18-5815-4f18-a720-8ec08811661f", "value": "Crown Agent"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a46bc896-acc7-4d3a-948a-ce54a5b82f65", "value": "http://toolsofknowledge.org/RoleType/CrownAgent"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d9eed45f-1f74-3cdc-bf50-ae476b340062">
+    <dcterms:identifier xml:lang="en">{"id": "8ee7d3ce-0382-462d-be2d-370385170724", "value": "http://toolsofknowledge.org/RoleType/Warden"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "5aee4422-56b8-4798-a55c-a7dc8658860c", "value": "Warden"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d8e22236-3411-354b-a18d-b033c0f90e49">
+    <skos:prefLabel xml:lang="en">{"id": "a8da084b-76c5-4aa3-97d2-70a5e10215cc", "value": "Master Of Livery Company"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "56cd6491-9689-4dc9-83b4-735d77601ff8", "value": "http://toolsofknowledge.org/RoleType/MasterOfLiveryCompany"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a66a968f-4371-36cc-a0b0-975a4122d552">
+    <skos:inScheme rdf:resource="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032"/>
+    <dcterms:identifier xml:lang="en">{"id": "f875922f-b98e-40ca-9926-0af84e51a7af", "value": "http://toolsofknowledge.org/RoleType/Master"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3c14b0d6-af67-4d7a-a897-88dc848dd223", "value": "Master"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e480651c-8029-30f0-8131-2f9b3572f91c">
+    <skos:prefLabel xml:lang="en">{"id": "4401554e-9076-4542-82c1-75bacaf9bc17", "value": "Master Of Guild"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032"/>
+    <dcterms:identifier xml:lang="en">{"id": "970c23f4-10e9-4fce-88ef-10738c466c8c", "value": "http://toolsofknowledge.org/RoleType/MasterOfGuild"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/38b2a2f5-048c-3853-8074-3cf2770e410b">
+    <skos:inScheme rdf:resource="http://localhost:8000/9a756a30-b312-3e4f-9f2a-e04ad12d4032"/>
+    <skos:prefLabel xml:lang="en">{"id": "1dacc96e-2033-4544-9179-c827ea82bbef", "value": "Journeyman"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "fc5fd5db-e45c-4cb4-8fef-bb1a1daa51b0", "value": "http://toolsofknowledge.org/RoleType/Journeyman"}</dcterms:identifier>
+  </skos:Concept>
+</rdf:RDF>

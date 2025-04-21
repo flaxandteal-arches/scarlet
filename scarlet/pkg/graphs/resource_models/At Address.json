@@ -1,0 +1,1341 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "0e627acd-fd19-43ee-90f5-1873b52e55de",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "0e627acd-fd19-43ee-90f5-1873b52e55de",
+                            "constraintid": "19fffc10-cc7e-47d8-a0f2-bdc22187881c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "0e627acd-fd19-43ee-90f5-1873b52e55de",
+                            "constraintid": "2c53c59d-4180-4a1e-8d16-653018344e7a",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Shared Address With"
+                    },
+                    "nodegroup_id": "020696d6-7e21-11ee-a492-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "1eb7672c-ea7d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "At Address End Date (confidence)"
+                    },
+                    "nodegroup_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "1eb7672e-ea7d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "At Address End Date"
+                    },
+                    "nodegroup_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3562936a-dee9-4ca2-bd8c-4b941c2d453b",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "3562936a-dee9-4ca2-bd8c-4b941c2d453b",
+                            "constraintid": "3b536e0f-f42e-45b4-afa2-c369d93f9140",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "3562936a-dee9-4ca2-bd8c-4b941c2d453b",
+                            "constraintid": "4dce7187-4766-42ed-b578-aee68771b5f3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Involved Occupant(s)"
+                    },
+                    "nodegroup_id": "de88d386-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "5609e454-2a63-4da2-aa48-c7eae120fd89",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "5609e454-2a63-4da2-aa48-c7eae120fd89",
+                            "constraintid": "8d0577e2-0f9b-45aa-9f18-732b5f4c20ad",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "5609e454-2a63-4da2-aa48-c7eae120fd89",
+                            "constraintid": "002c900c-6277-4cd1-96a5-81de45fe7c40",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "At Address - Additional Notes"
+                    },
+                    "nodegroup_id": "f28b1556-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "c7819022-ea7c-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "At Address Start Date (confidence)"
+                    },
+                    "nodegroup_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "c7819024-ea7c-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "At Address Start Date"
+                    },
+                    "nodegroup_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e5acbf31-0163-4dd2-b67c-66688af49004",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "e5acbf31-0163-4dd2-b67c-66688af49004",
+                            "constraintid": "cb00ff8d-0ed8-4ed8-a871-d43c86b019ab",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "e5acbf31-0163-4dd2-b67c-66688af49004",
+                            "constraintid": "b2ed9f2e-8991-480f-838c-ab742dfd2f1c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Occupied Address"
+                    },
+                    "nodegroup_id": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "eec2763c-a876-45e0-882a-d6d86b58fcbc",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "eec2763c-a876-45e0-882a-d6d86b58fcbc",
+                            "constraintid": "2440e0f9-a7af-4381-9ebd-e4f7faa53f54",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "eec2763c-a876-45e0-882a-d6d86b58fcbc",
+                            "constraintid": "637b8510-378d-4ba1-9d19-ee2a6e1ea43b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Address Function"
+                    },
+                    "nodegroup_id": "c9ec010a-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "5609e454-2a63-4da2-aa48-c7eae120fd89",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "At Address - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2be419dc-3059-47b3-b70e-f3961b16bab6",
+                    "label": {
+                        "en": "At Address - Additional Notes"
+                    },
+                    "node_id": "f28b1556-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "0e627acd-fd19-43ee-90f5-1873b52e55de",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Shared Address With",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "3c0d4818-066b-481e-8a75-0baacbb6db4e",
+                    "label": {
+                        "en": "Shared Address With"
+                    },
+                    "node_id": "020696d6-7e21-11ee-a492-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "eec2763c-a876-45e0-882a-d6d86b58fcbc",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Address Function",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "74fdf442-de49-431a-a935-d1800b44d9ee",
+                    "label": {
+                        "en": "Address Function"
+                    },
+                    "node_id": "c9ec010a-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000012"
+                },
+                {
+                    "card_id": "e5acbf31-0163-4dd2-b67c-66688af49004",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Occupied Address",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "cd7c75a7-3290-4680-a43f-2f36ecc48e65",
+                    "label": {
+                        "en": "Occupied Address"
+                    },
+                    "node_id": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "3562936a-dee9-4ca2-bd8c-4b941c2d453b",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Involved Occupant(s)",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "d9e2d2bc-ba50-4312-b5d9-84c4281ac41a",
+                    "label": {
+                        "en": "Involved Occupant(s)"
+                    },
+                    "node_id": "de88d386-ea7d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "08841884-61f3-4dbf-9bc7-c9a9f0c09728",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedOccupant",
+                    "rangenode_id": "de88d386-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "13254011-c620-45aa-95d8-45835b8f1d4a",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasFunction",
+                    "rangenode_id": "c9ec010a-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb76736-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "1eb76734-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb76737-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "1eb76735-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb76738-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "1eb76732-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb76739-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "1eb76731-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb7673a-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "1eb76730-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb7673b-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "1eb7672f-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb7673c-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "1eb76733-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "edgeid": "1eb7673d-ea7d-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "2e2a2972-3d35-4d0b-83e4-d926a4e3e4f3",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#occupied",
+                    "rangenode_id": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "3f7d3d4a-e275-4762-b3e2-271cc106e8c4",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "f28b1556-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "7ef2402e-a42e-4b14-94ec-7639b7d0294f",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "c7819023-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "ae089606-f5a7-4ce5-8e3d-80897b7bcfde",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#sharedAddressWith",
+                    "rangenode_id": "020696d6-7e21-11ee-a492-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "aec43105-43bb-47cf-a393-7d830d1181b5",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c781902c-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "c781902a-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c781902d-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "c781902b-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c781902e-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "c7819028-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c781902f-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "c7819027-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c7819030-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "c7819026-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c7819031-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "c7819025-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c7819032-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "c7819029-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "edgeid": "c7819033-ea7c-11ed-bf80-114c466094e0",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "c7819021-ea7c-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "de88d386-ea7d-11ed-bf80-114c466094e0",
+                                "string_template": "Involved Occupants: <Involved Occupant(s)>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0",
+                                "string_template": "Occupied Address: <Occupied Address>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "id": "73bd24c6-5978-409f-a28f-f4842dd92bf7"
+                }
+            ],
+            "graphid": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "At Address"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "020696d6-7e21-11ee-a492-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "c7819023-ea7c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c9ec010a-ea7d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "de88d386-ea7d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f28b1556-ea7d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "shared_address_with",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Shared Address With",
+                    "nodegroup_id": "020696d6-7e21-11ee-a492-63b45ef4509d",
+                    "nodeid": "020696d6-7e21-11ee-a492-63b45ef4509d",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#sharedAddressWith",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date Confidence Assessment",
+                    "nodegroup_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date",
+                    "nodegroup_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date Confidence Type",
+                    "nodegroup_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb7672f-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date Confidence Note",
+                    "nodegroup_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb76730-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date Confidence Probability Value",
+                    "nodegroup_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb76731-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "1eb7672b-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb76732-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date - Additional Notes",
+                    "nodegroup_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb76733-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date Value",
+                    "nodegroup_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb76734-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address End Date Type",
+                    "nodegroup_id": "1eb7672d-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "1eb76735-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "occupied_address",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                                "name": "Address"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Occupied Address",
+                    "nodegroup_id": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Address",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#occupied",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "At Address",
+                    "nodegroup_id": null,
+                    "nodeid": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#AtAddress",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date Confidence Assessment",
+                    "nodegroup_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date",
+                    "nodegroup_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date Confidence Type",
+                    "nodegroup_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c7819025-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date Confidence Note",
+                    "nodegroup_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c7819026-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date Confidence Probability Value",
+                    "nodegroup_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c7819027-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "c7819021-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c7819028-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date - Additional Notes",
+                    "nodegroup_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c7819029-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date Value",
+                    "nodegroup_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c781902a-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address Start Date Type",
+                    "nodegroup_id": "c7819023-ea7c-11ed-bf80-114c466094e0",
+                    "nodeid": "c781902b-ea7c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "address_function",
+                    "config": {
+                        "rdmCollection": "08639131-a71a-4e7e-bc09-686b4a178350"
+                    },
+                    "datatype": "concept-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Address Function",
+                    "nodegroup_id": "c9ec010a-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "c9ec010a-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#AddressFunctionType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasFunction",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "involved_occupant_s_",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            },
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Involved Occupant(s)",
+                    "nodegroup_id": "de88d386-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "de88d386-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedOccupant",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "at_address_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "At Address - Additional Notes",
+                    "nodegroup_id": "f28b1556-ea7d-11ed-bf80-114c466094e0",
+                    "nodeid": "f28b1556-ea7d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                "notes": null,
+                "publicationid": "cd573fcc-5e37-4954-8f42-9cf137134075",
+                "published_time": "2022-07-18T15:38:52.776",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "at_address",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "At Address",
+                "nodegroup_id": null,
+                "nodeid": "b39cb184-ea7c-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#AtAddress",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

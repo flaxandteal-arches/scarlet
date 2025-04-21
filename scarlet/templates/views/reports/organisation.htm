@@ -1,0 +1,308 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+
+{% block report %}
+    {% block report_title_bar %}
+    <!-- Custom Template Report Title Bar -->
+    <div class="relative">
+
+        <!-- Title Block -->
+        <div class="aher-report-toolbar">
+            <h1 class="aher-report-toolbar-title"><span class="aher-report-name">{% trans "Organisation" %}:</span><span data-bind="text: displayname" class="aher-report-instance-name"></span></h1>
+        </div>
+
+    </div>
+    {% endblock report_title_bar %}
+
+
+    {% block body %}
+    <!-- Link nav -->
+    <div class="aher-report-anchor-container">
+        <ol class="aher-report-anchors breadcrumb">
+            <!-- ko foreach: {data: sections, as: 'section'} -->
+            <li tabindex="0" data-bind="click: function(){$parent.activeSection(section.id)}, css: {active: $parent.activeSection() === section.id}, text: section.title" class="aher-report-a" onkeyup="if(event.which == 13 || event.keyCode == 13){ $(this).trigger('click'); }"></li>
+            <!-- /ko -->
+        </ol>
+    </div>
+    <div class="aher-tabbed-report">
+        <div class="aher-tabbed-report-content">
+            <div class="aher-report-page" data-bind="if: activeSection() === 'basic-info'">
+                <div class="aher-report-section mb-2">
+                    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(visible.names)}, css: {'fa-angle-double-right': visible.names(), 'fa-angle-double-up': !visible.names()}" class="fa toggle"></i> {% trans "General Information" %}</h2>
+                    <span data-bind="if: cards.names && (!names().length || cards.names.cardinality == 'n')">
+                        <a class="aher-report-a" data-bind="click: function(){addNewTile(cards.names)}"><i class="fa fa-mail-reply"></i> {% trans "Add Name" %}</a>
+                    </span>
+
+                    <!-- Collapsible content -->
+                    <div data-bind="visible: visible.names" class="aher-report-collapsible-container pad-lft">
+
+                        <!-- ko ifnot: names().length -->
+                        <div class="aher-nodata-note">No general information for this resource</div>
+                        <!-- /ko -->
+
+                        <!-- ko if: names().length -->
+                        <div class="aher-report-subsection" >
+                            <div>
+                                <div class="aher-table pad-btm">
+                                    <table class="table table-striped" cellspacing="0" width="100%">
+                                        <thead>
+                                            <tr class="aher-table-header">
+                                                <th>{% trans "Full Name" %}</th>
+                                                <th class="min-tabletl">{% trans "Name Use Type" %}</th>
+                                                <th class="aher-table-control all"></th>
+                                            </tr>
+                                        </thead>
+                                        <tbody data-bind="dataTablesForEach: { data: names, dataTableOptions: nameTableConfig }">
+                                            <tr>
+                                                <td data-bind="text: name"></td>
+                                                <td data-bind="text: nameUseType"></td>
+                                                <td class="aher-table-control">
+                                                    <div data-bind="if: $parent.cards && $parent.cards.names">
+                                                        <a href="#" data-bind="click: function() {$parent.editTile(tileid, $parent.cards.names)}" onkeyup="if(event.which == 13 || event.keyCode == 13){ $(this).trigger('click'); }">
+                                                            <i class="fa fa-mail-reply"></i>
+                                                        </a>
+                                                        <a href="#" data-bind="click: $parent.deleteTile.bind($data, tileid, $parent.cards.names)" onkeyup="if(event.which == 13 || event.keyCode == 13){ $(this).trigger('click'); }">
+                                                            <i class="fa fa-trash"></i>
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /ko -->
+                    </div>
+                </div>
+
+                <div class="aher-report-section">
+                    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(visible.formation)}, css: {'fa-angle-double-right': visible.formation(), 'fa-angle-double-up': !visible.formation()}" class="fa toggle"></i> {% trans "Formation" %}</h2>
+
+                    <!-- Collapsible content -->
+                    <div data-bind="visible: visible.formation" class="aher-report-collapsible-container pad-lft">
+
+                        <!-- ko ifnot: formation().length -->
+                        <div class="aher-nodata-note">No formation data for this resource</div>
+                        <!-- /ko -->
+
+                        <!-- ko if: formation().length -->
+                        <div class="aher-report-subsection" >
+                            <div>
+                                <div class="aher-table pad-btm">
+                                    <table class="table table-striped" cellspacing="0" width="100%">
+                                        <thead>
+                                            <tr class="aher-table-header">
+                                                <th>{% trans "Value" %}</th>
+                                                <th class="min-tabletl">{% trans "Key" %}</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody data-bind="dataTablesForEach: { data: formation, dataTableOptions: formationTableConfig }">
+                                            <tr>
+                                                <td data-bind="text: name"></td>
+                                                <td data-bind="text: nameUseType"></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /ko -->
+                    </div>
+                </div>
+
+                 <div class="aher-report-section">
+                    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(visible.dissolution)}, css: {'fa-angle-double-right': visible.dissolution(), 'fa-angle-double-up': !visible.dissolution()}" class="fa toggle"></i> {% trans "Dissolution" %}</h2>
+
+                    <!-- Collapsible content -->
+                    <div data-bind="visible: visible.formation" class="aher-report-collapsible-container pad-lft">
+
+                        <!-- ko ifnot: dissolution().length -->
+                        <div class="aher-nodata-note">No dissolution data for this resource</div>
+                        <!-- /ko -->
+
+                        <!-- ko if: dissolution().length > 0 -->
+                        <div class="aher-report-subsection" >
+                            <div>
+                                <div class="aher-table pad-btm">
+                                    <table class="table table-striped" cellspacing="0" width="100%">
+                                        <thead>
+                                            <tr class="aher-table-header">
+                                                <th>{% trans "Value" %}</th>
+                                                <th class="min-tabletl">{% trans "Key" %}</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody data-bind="dataTablesForEach: { data: dissolution, dataTableOptions: dissolutionTableConfig }">
+                                            <tr>
+                                                <td data-bind="text: name"></td>
+                                                <td data-bind="text: nameUseType"></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /ko -->
+                    </div>
+                </div>
+            </div>
+            <!-- Description Tab -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'description'">
+                <div data-bind="component: {
+                    name: 'views/description',
+                    params: {
+                        data: resource,
+                        cards: descriptionCards,
+                        dataConfig: descriptionDataConfig
+                    }
+                }"></div>
+            </div>
+            <!-- Relationships (People) Tab -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'relationships'">
+                <div data-bind="component: {
+                    name: 'views/relationships',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                    }
+                }"></div>
+            </div>
+            <!-- Addressess Tab -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'addresses'">
+                <div data-bind="component: {
+                    name: 'views/addresses',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+             <!-- Work Events Tab -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'work-events'">
+                <div data-bind="component: {
+                    name: 'views/work-events',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+             <!-- Productive Activity Tab -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'productive-activity'">
+                <div data-bind="component: {
+                    name: 'views/productive-activity',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+             <!-- Research and Recognition Tab -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'research-and-recognition'">
+                <div data-bind="component: {
+                    name: 'views/research-and-recognition',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+             <!-- Appointments -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'appointments'">
+                <div data-bind="component: {
+                    name: 'views/appointments',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+             <!-- Legal and Financial -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'legal-and-financial'">
+                <div data-bind="component: {
+                    name: 'views/legal-and-financial',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+             <!-- Life Events -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'life-events'">
+                <div data-bind="component: {
+                    name: 'views/life-events',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+             <!-- Life Events -->
+            <div class="aher-report-page" data-bind="if: activeSection() === 'sources'">
+                <div data-bind="component: {
+                    name: 'views/sources',
+                    params: {
+                        data: resource,
+                        report: report,
+                        resourceId: resourceId,
+                        cards: relationshipsCards,
+                        reportSpecification: reportSpecification,
+                    }
+                }"></div>
+            </div>
+        </div>
+    </div>
+    {% endblock body %}
+{% endblock report %}
+
+{% block summary %}
+<div class="aher-summary-report-header">
+    <h1 class="aher-summary-report-title"><span data-bind="text: displayname" class="aher-report-instance-name"></span><span class="aher-report-name pad-lft-sm">{% trans "(Organisation)" %}</span></h1>
+</div>
+<div class="model-summary-report">
+    <div class="aher-report-page">
+        <!-- Names -->
+        <div data-bind="component: {
+            name: 'views/name',
+            params: {
+                data: resource,
+                cards: nameCards,
+                dataConfig: nameDataConfig
+            }
+        }"></div>
+        <!-- Description -->
+        <div data-bind="component: {
+            name: 'views/description',
+            params: {
+                data: resource,
+                cards: descriptionCards,
+                dataConfig: descriptionDataConfig
+            }
+        }"></div>
+    </div>
+</div>
+
+{% endblock summary %}

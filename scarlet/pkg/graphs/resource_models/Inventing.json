@@ -1,0 +1,1231 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "2e0c3d4f-a014-4575-945e-8fbf82f32c66",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "2e0c3d4f-a014-4575-945e-8fbf82f32c66",
+                            "constraintid": "932a1732-c9da-4910-9581-569acf602e7d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "2e0c3d4f-a014-4575-945e-8fbf82f32c66",
+                            "constraintid": "543976f6-833b-4370-a5d9-7a60835ca1d6",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Inventor"
+                    },
+                    "nodegroup_id": "9070ab0a-f898-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4d8b1153-07e4-4fe8-b6f3-ae25094f9680",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "4d8b1153-07e4-4fe8-b6f3-ae25094f9680",
+                            "constraintid": "cc8b6ba7-f204-43dc-91cb-6f84046fd4b5",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "4d8b1153-07e4-4fe8-b6f3-ae25094f9680",
+                            "constraintid": "d55bd74c-44e1-4e1f-885d-38fb1aeb4fd5",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Inventing - Additional Notes"
+                    },
+                    "nodegroup_id": "3d4f8990-f899-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b90afc20-f898-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Inventing Start Date (confidence)"
+                    },
+                    "nodegroup_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b90afc22-f898-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Inventing Start Date"
+                    },
+                    "nodegroup_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "bb28d9ac-c123-4612-8feb-8873ba2e696b",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "bb28d9ac-c123-4612-8feb-8873ba2e696b",
+                            "constraintid": "0dee6fa0-190f-4fa7-9aee-8622932304ee",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "bb28d9ac-c123-4612-8feb-8873ba2e696b",
+                            "constraintid": "ce394c95-b333-43b4-958f-81d3904dde16",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Invented Object Type"
+                    },
+                    "nodegroup_id": "2a5f9abe-f899-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d62c1999-45ee-4ff3-8931-f38439099a31",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d62c1999-45ee-4ff3-8931-f38439099a31",
+                            "constraintid": "1c8eee63-a3ce-42b8-82dd-b62191f6e9b3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d62c1999-45ee-4ff3-8931-f38439099a31",
+                            "constraintid": "77fcc357-4ef2-43ee-b8ca-28f77eaa4293",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Inventing Type"
+                    },
+                    "nodegroup_id": "a895e2b8-f898-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f1747082-f898-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Inventing End Date (confidence)"
+                    },
+                    "nodegroup_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f1747084-f898-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Inventing End Date"
+                    },
+                    "nodegroup_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "bb28d9ac-c123-4612-8feb-8873ba2e696b",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Invented Object Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "17459728-2dfe-4b9c-b67d-661654a0a340",
+                    "label": {
+                        "en": "Invented Object Type"
+                    },
+                    "node_id": "2a5f9abe-f899-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "d62c1999-45ee-4ff3-8931-f38439099a31",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Inventing Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "3f1afca7-fbfa-4483-ac9a-3f5c5bc6eace",
+                    "label": {
+                        "en": "Inventing Type"
+                    },
+                    "node_id": "a895e2b8-f898-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "2e0c3d4f-a014-4575-945e-8fbf82f32c66",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Inventor",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "43bfd309-2e7a-4006-b87f-089c110a578e",
+                    "label": {
+                        "en": "Inventor"
+                    },
+                    "node_id": "9070ab0a-f898-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "4d8b1153-07e4-4fe8-b6f3-ae25094f9680",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Inventing - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "d6db3a4a-166a-4ecf-8203-832ced1418b8",
+                    "label": {
+                        "en": "Inventing - Additional Notes"
+                    },
+                    "node_id": "3d4f8990-f899-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "693fec26-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "21bb5d3e-5b36-4431-9636-af9796bffcd2",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#wasInventedBy",
+                    "rangenode_id": "9070ab0a-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "693fec26-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "2a2f0d18-5d26-454e-920c-b26d5e7a3a21",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasInventingType",
+                    "rangenode_id": "a895e2b8-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "693fec26-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "4c17220a-fd3d-423b-9065-ed022540eeb6",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#inventedObjectType",
+                    "rangenode_id": "2a5f9abe-f899-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "693fec26-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "98721aae-01d0-4de9-9f9f-bc60e62f5e0e",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3d4f8990-f899-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "693fec26-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "9b375b9d-9be7-41e0-8c7b-422305b4f7f0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "f1747083-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc2a-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "b90afc28-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc2b-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "b90afc29-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc2c-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "b90afc26-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc2d-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "b90afc25-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc2e-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "b90afc24-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc2f-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "b90afc23-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc30-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "b90afc27-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "b90afc31-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "b90afc1f-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f174708c-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "f174708a-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f174708d-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "f174708b-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f174708e-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "f1747088-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f174708f-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "f1747087-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f1747090-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "f1747086-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f1747091-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "f1747085-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f1747092-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "f1747089-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f1747093-f898-11ed-bf80-114c466094e0",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "f1747081-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "693fec26-f898-11ed-bf80-114c466094e0",
+                    "edgeid": "f75c3367-0d4a-4580-b201-a6ded001e435",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "b90afc21-f898-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "2a5f9abe-f899-11ed-bf80-114c466094e0",
+                                "string_template": "Invention of <Invented Object Type> by <Inventor>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "id": "3caa6b9d-e0b1-4df1-9874-30a399bf7440"
+                }
+            ],
+            "graphid": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Inventing"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "2a5f9abe-f899-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3d4f8990-f899-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9070ab0a-f898-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "a895e2b8-f898-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "b90afc21-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "f1747083-f898-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "invented_object_type",
+                    "config": {
+                        "rdmCollection": "9d71a5a2-23ac-428f-be14-20826c38ab6b"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Invented Object Type",
+                    "nodegroup_id": "2a5f9abe-f899-11ed-bf80-114c466094e0",
+                    "nodeid": "2a5f9abe-f899-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ObjectType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#inventedObjectType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing - Additional Notes",
+                    "nodegroup_id": "3d4f8990-f899-11ed-bf80-114c466094e0",
+                    "nodeid": "3d4f8990-f899-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Inventing",
+                    "nodegroup_id": null,
+                    "nodeid": "693fec26-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Inventing",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventor",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventor",
+                    "nodegroup_id": "9070ab0a-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "9070ab0a-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#wasInventedBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_type",
+                    "config": {
+                        "rdmCollection": "ed665d62-a583-4cc8-94b1-e3efc7c1d42e"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Type",
+                    "nodegroup_id": "a895e2b8-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "a895e2b8-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#InventingType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasInventingType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date Confidence Assessment",
+                    "nodegroup_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date",
+                    "nodegroup_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date Confidence Type",
+                    "nodegroup_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc23-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date Confidence Note",
+                    "nodegroup_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc24-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date Confidence Probability Value",
+                    "nodegroup_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc25-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "b90afc1f-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc26-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date - Additional Notes",
+                    "nodegroup_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc27-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date Value",
+                    "nodegroup_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc28-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing Start Date Type",
+                    "nodegroup_id": "b90afc21-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "b90afc29-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date Confidence Assessment",
+                    "nodegroup_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date",
+                    "nodegroup_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date Confidence Type",
+                    "nodegroup_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f1747085-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date Confidence Note",
+                    "nodegroup_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f1747086-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date Confidence Probability Value",
+                    "nodegroup_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f1747087-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "f1747081-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f1747088-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date - Additional Notes",
+                    "nodegroup_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f1747089-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date Value",
+                    "nodegroup_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f174708a-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "inventing_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Inventing End Date Type",
+                    "nodegroup_id": "f1747083-f898-11ed-bf80-114c466094e0",
+                    "nodeid": "f174708b-f898-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "notes": null,
+                "publicationid": "ab266f68-1cd6-11ee-9f07-2b5aee014fa8",
+                "published_time": "2023-07-07T09:58:01.506",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "9ef79519-0b47-42fe-b66c-3879bfa9666b",
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "78dbd0df-288f-4896-9c93-a91719f73381",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "42296fdb-0e83-45c1-b462-ac78c35b4f71",
+                "32f7e6d9-2911-40ab-8147-db6645f1422e"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "inventing",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Inventing",
+                "nodegroup_id": null,
+                "nodeid": "693fec26-f898-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Inventing",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

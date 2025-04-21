@@ -1,0 +1,1139 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "04f9f4b6-95f7-42ed-becc-9a1d6374cdda",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "04f9f4b6-95f7-42ed-becc-9a1d6374cdda",
+                            "constraintid": "e4c4d910-e900-4f52-b9c2-1fedef6e5f57",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "04f9f4b6-95f7-42ed-becc-9a1d6374cdda",
+                            "constraintid": "f83d33d5-e6d7-46b3-b4fe-03fda42cef94",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Royal Appointment Made By"
+                    },
+                    "nodegroup_id": "ea93c758-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3963b6c4-f89d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Royal Appointment End Date (confidence)"
+                    },
+                    "nodegroup_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3963b6c6-f89d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Royal Appointment End Date"
+                    },
+                    "nodegroup_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7e67d067-122a-48d8-9c18-da50ac8c0e4d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7e67d067-122a-48d8-9c18-da50ac8c0e4d",
+                            "constraintid": "98f08b1f-bf60-4f3c-b9c2-6aa500c0f78b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7e67d067-122a-48d8-9c18-da50ac8c0e4d",
+                            "constraintid": "f369264e-e3c2-4d38-adbd-2b6778091842",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Royal Appointment - Maker Appointed"
+                    },
+                    "nodegroup_id": "d3744962-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e6389bfd-26f6-47a5-b539-8d0eb34bc84c",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "e6389bfd-26f6-47a5-b539-8d0eb34bc84c",
+                            "constraintid": "c9b28432-637b-4fb4-a25d-238e1737e897",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "e6389bfd-26f6-47a5-b539-8d0eb34bc84c",
+                            "constraintid": "e9e8c0f0-98f5-484f-ac6d-b0f026e64357",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Royal Appointment - Additional Notes"
+                    },
+                    "nodegroup_id": "77abf908-f89d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ff15674c-f89c-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Royal Appointment Start Date (confidence)"
+                    },
+                    "nodegroup_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ff15674e-f89c-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Royal Appointment Start Date"
+                    },
+                    "nodegroup_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "7e67d067-122a-48d8-9c18-da50ac8c0e4d",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Royal Appointment - Maker Appointed",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "84a4d618-2d33-4159-a9c2-417e10b67fda",
+                    "label": {
+                        "en": "Royal Appointment - Maker Appointed"
+                    },
+                    "node_id": "d3744962-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "04f9f4b6-95f7-42ed-becc-9a1d6374cdda",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Royal Appointment Made By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "cdab77d5-f315-4e0f-907a-c623570ca3e5",
+                    "label": {
+                        "en": "Royal Appointment Made By"
+                    },
+                    "node_id": "ea93c758-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "e6389bfd-26f6-47a5-b539-8d0eb34bc84c",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Royal Appointment - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "e433b031-13ba-4799-9e22-6b5a6925656c",
+                    "label": {
+                        "en": "Royal Appointment - Additional Notes"
+                    },
+                    "node_id": "77abf908-f89d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "a3527132-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "122f36c7-edd0-4750-9350-ec4bd8ddbccc",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#appointedBy",
+                    "rangenode_id": "ea93c758-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6ce-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "3963b6cc-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6cf-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "3963b6cd-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6d0-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3963b6ca-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6d1-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "3963b6c9-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6d2-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "3963b6c8-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6d3-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "3963b6c7-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6d4-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3963b6cb-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "edgeid": "3963b6d5-f89d-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "3963b6c3-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "a3527132-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "94e0767a-5a9a-49c1-967c-d6c990e7a47a",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "ff15674d-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "a3527132-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "c18208cc-b236-4e04-8044-28b00a34cfbe",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#appointed",
+                    "rangenode_id": "d3744962-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "a3527132-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "d24d9de9-5a8b-4337-88a3-364a4da7efcc",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "77abf908-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "a3527132-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "f2a84519-c4a1-400f-a4ab-474a9d39a139",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "3963b6c5-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff156756-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "ff156754-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff156757-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "ff156755-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff156758-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "ff156752-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff156759-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "ff156751-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff15675a-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "ff156750-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff15675b-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "ff15674f-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff15675c-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "ff156753-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "ff15675d-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "ff15674b-f89c-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "ea93c758-f89c-11ed-bf80-114c466094e0",
+                                "string_template": "By Royal Appointment To: <Royal Appointment Made By>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "d3744962-f89c-11ed-bf80-114c466094e0",
+                                "string_template": "\ud83d\udc51 <Royal Appointment - Maker Appointed> appointed by <Royal Appointment Made By>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "id": "1366e688-2fcc-40bc-9847-61756b8049ae"
+                }
+            ],
+            "graphid": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Royal Appointment"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "3963b6c5-f89d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "77abf908-f89d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d3744962-f89c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ea93c758-f89c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "ff15674d-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "royal_appointment_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date Confidence Assessment",
+                    "nodegroup_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date",
+                    "nodegroup_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date Confidence Type",
+                    "nodegroup_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6c7-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date Confidence Note",
+                    "nodegroup_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6c8-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date Confidence Probability Value",
+                    "nodegroup_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6c9-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "3963b6c3-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6ca-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date - Additional Notes",
+                    "nodegroup_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6cb-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date Value",
+                    "nodegroup_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6cc-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment End Date Type",
+                    "nodegroup_id": "3963b6c5-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "3963b6cd-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment - Additional Notes",
+                    "nodegroup_id": "77abf908-f89d-11ed-bf80-114c466094e0",
+                    "nodeid": "77abf908-f89d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Royal Appointment",
+                    "nodegroup_id": null,
+                    "nodeid": "a3527132-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#RoyalAppointment",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_-_maker_appointed",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment - Maker Appointed",
+                    "nodegroup_id": "d3744962-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "d3744962-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#appointed",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_made_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Made By",
+                    "nodegroup_id": "ea93c758-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ea93c758-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#appointedBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date Confidence Assessment",
+                    "nodegroup_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date",
+                    "nodegroup_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date Confidence Type",
+                    "nodegroup_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff15674f-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date Confidence Note",
+                    "nodegroup_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff156750-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date Confidence Probability Value",
+                    "nodegroup_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff156751-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "ff15674b-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff156752-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date - Additional Notes",
+                    "nodegroup_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff156753-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date Value",
+                    "nodegroup_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff156754-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "royal_appointment_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Royal Appointment Start Date Type",
+                    "nodegroup_id": "ff15674d-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "ff156755-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                "notes": null,
+                "publicationid": "e0b27abe-1f10-11ee-9f07-2b5aee014fa8",
+                "published_time": "2023-07-10T05:59:44.479",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "42296fdb-0e83-45c1-b462-ac78c35b4f71",
+                "78dbd0df-288f-4896-9c93-a91719f73381",
+                "0ee9c9aa-94b2-476b-bc18-b077c41418cc"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "royal_appointment",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Royal Appointment",
+                "nodegroup_id": null,
+                "nodeid": "a3527132-f89c-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#RoyalAppointment",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

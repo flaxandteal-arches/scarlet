@@ -1,0 +1,11 @@
+{
+    "name": "Organisation Template",
+    "component": "reports/organisation",
+    "defaultconfig": {
+        "uncompacted_reporting": true
+    },
+    "description": "Organisation report",
+    "componentname": "organisation-report",
+    "templateid": "2c76e522-9424-4292-92cd-29c71548befa",
+    "preload_resource_data": true
+}

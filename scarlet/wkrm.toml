@@ -1,0 +1,111 @@
+[Agenting]
+model_name = "Agenting"
+graphid = "1af8df78-4306-4954-a2c9-40050dbad8af"
+
+[Advertising]
+model_name = "Advertising"
+graphid = "42296fdb-0e83-45c1-b462-ac78c35b4f71"
+
+[Apprenticeship]
+model_name = "Apprenticeship"
+graphid = "bbd6166a-d895-4deb-90f5-a2107e3a58e1"
+
+["At_Address"]
+model_name = "At Address"
+graphid = "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419"
+
+[Award]
+model_name = "Award"
+graphid = "3af5f01d-7d9f-4259-9201-0c882ac70183"
+
+["Business_Appointment"]
+model_name = "Business Appointment"
+graphid = "78dbd0df-288f-4896-9c93-a91719f73381"
+
+[Education]
+model_name = "Education"
+graphid = "3ed4cc47-c967-48e4-92d6-3acceb586467"
+
+[Employment]
+model_name = "Employment"
+graphid = "bd95223f-ccd8-4b87-b582-5975fbe25c04"
+
+[Exhibition]
+model_name = "Exhibition"
+graphid = "9207c09b-023e-42c6-9b30-051ac9279055"
+
+[Expedition]
+model_name = "Expedition"
+graphid = "bea79143-c7cb-442a-8bf7-84dde201ad34"
+
+[Exporting]
+model_name = "Exporting"
+graphid = "a44d544f-fcb7-4e84-be6a-fef3a2d97192"
+
+[Importing]
+model_name = "Importing"
+graphid = "142e15e7-73f9-11ee-906b-63b45ef4509d"
+
+[Inventing]
+model_name = "Inventing"
+graphid = "32f7e6d9-2911-40ab-8147-db6645f1422e"
+
+[Legal_Process]
+model_name = "Legal Process"
+graphid = "7e3950db-e847-4f90-ac8c-f2e12ddea3dd"
+
+[Management]
+model_name = "Management"
+graphid = "ef80a7e9-a85a-45a5-90cc-23d493d0019d"
+
+[Marriage]
+model_name = "Marriage"
+graphid = "f048673a-903f-4665-a334-18efabbbe981"
+
+[Membership]
+model_name = "Membership"
+graphid = "139a6ee5-cc4f-49e1-9618-f982f0ee5198"
+
+[Organisation]
+model_name = "Organisation"
+graphid = "df15d072-2b97-42eb-adff-a4262a0afd2b"
+
+[Ownership]
+model_name = "Ownership"
+graphid = "a939c5db-9267-47e1-a8fa-db21af722c43"
+
+[Patenting]
+model_name = "Patenting"
+graphid = "eaa03b9b-a67c-4fa0-b474-961af4136375"
+
+[Person]
+model_name = "Person"
+graphid = "16fef9f0-10e5-4f4e-bc17-d0125cf54741"
+
+[Producing]
+model_name = "Producing"
+graphid = "9ef79519-0b47-42fe-b66c-3879bfa9666b"
+
+["Royal_Appointment"]
+model_name = "Royal Appointment"
+graphid = "0ee9c9aa-94b2-476b-bc18-b077c41418cc"
+
+[Selling]
+model_name = "Selling"
+graphid = "b7a5c070-afe5-4a2b-802b-48b8f85e354b"
+
+[Source]
+model_name = "Source"
+graphid ="0adece94-7565-402a-b211-68e83ca85dd6"
+
+[Supplying]
+model_name = "Supplying"
+graphid = "6cdfce15-09ad-46be-bffa-23c113be1c09"
+
+[Survey]
+model_name = "Survey"
+graphid = "317b11aa-6069-4fc3-a326-c36d0fad4c69"
+
+[Takeover]
+model_name = "Takeover"
+graphid = "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048"

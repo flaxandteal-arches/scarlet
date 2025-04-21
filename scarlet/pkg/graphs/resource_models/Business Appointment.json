@@ -1,0 +1,1142 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "276fc6de-f89c-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Business Appointment End Date (confidence)"
+                    },
+                    "nodegroup_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "276fc6e0-f89c-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Business Appointment End Date"
+                    },
+                    "nodegroup_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3b65eca7-9100-4d4c-b39f-d0446e275be5",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "3b65eca7-9100-4d4c-b39f-d0446e275be5",
+                            "constraintid": "7d90e05e-7f3c-4bee-9437-d67ab7846498",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "3b65eca7-9100-4d4c-b39f-d0446e275be5",
+                            "constraintid": "2d563300-1541-4c27-b7d3-61cff68e25e3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Business Appointment Made By"
+                    },
+                    "nodegroup_id": "ad68f052-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "45c9078e-922f-43db-9f8d-0ba8859d5a3b",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "45c9078e-922f-43db-9f8d-0ba8859d5a3b",
+                            "constraintid": "ec49b217-20de-4df6-ac33-f6c28a01f223",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "45c9078e-922f-43db-9f8d-0ba8859d5a3b",
+                            "constraintid": "eb02a0e1-11e2-48dd-acd0-52aefb5f2be9",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Business Appointment - Additional Notes"
+                    },
+                    "nodegroup_id": "5a939430-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "565aced1-4451-420b-b2b9-84d56adb9e45",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "565aced1-4451-420b-b2b9-84d56adb9e45",
+                            "constraintid": "70454006-b378-4228-b6c0-2906d5d904d7",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "565aced1-4451-420b-b2b9-84d56adb9e45",
+                            "constraintid": "078b886d-03ef-48f5-8bc9-09d4904658f0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Business Appointment - Maker Appointed"
+                    },
+                    "nodegroup_id": "98c9c61c-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e6278df6-f89b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Business Appointment Start Date (confidence)"
+                    },
+                    "nodegroup_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e6278df8-f89b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Business Appointment Start Date"
+                    },
+                    "nodegroup_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "3b65eca7-9100-4d4c-b39f-d0446e275be5",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Business Appointment Made By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "2733f06b-1c79-4163-b720-a71a8f6fd325",
+                    "label": {
+                        "en": "Business Appointment Made By"
+                    },
+                    "node_id": "ad68f052-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "45c9078e-922f-43db-9f8d-0ba8859d5a3b",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Business Appointment - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "9d8fc2ee-b89e-48c2-a5b5-e5c405be73b8",
+                    "label": {
+                        "en": "Business Appointment - Additional Notes"
+                    },
+                    "node_id": "5a939430-f89c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "565aced1-4451-420b-b2b9-84d56adb9e45",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Business Appointment Appointed",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "f44aebd8-aefa-416e-a13e-7952daeedd6a",
+                    "label": {
+                        "en": "Business Appointment Appointed"
+                    },
+                    "node_id": "98c9c61c-f89b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "7ce95e8a-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "02f6a60b-64a7-44df-8b98-4cce5ecd6d67",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "5a939430-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "7ce95e8a-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "2100ea38-50d7-43e2-b4e1-c8dbb7cab5e2",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#appointedBy",
+                    "rangenode_id": "ad68f052-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6e8-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "276fc6e6-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6e9-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "276fc6e7-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6ea-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "276fc6e4-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6eb-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "276fc6e3-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6ec-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "276fc6e2-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6ed-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "276fc6e1-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6ee-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "276fc6e5-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "edgeid": "276fc6ef-f89c-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "276fc6dd-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "7ce95e8a-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "41ca0670-2680-4406-9a17-0c9ae0cc0faf",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "276fc6df-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "7ce95e8a-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "41f04ff0-f0b1-4223-81c8-575070904532",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "e6278df7-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "7ce95e8a-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "6728c5ea-04dc-4da2-92cd-bb35bcd1f1f7",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#appointed",
+                    "rangenode_id": "98c9c61c-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e00-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "e6278dfe-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e01-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "e6278dff-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e02-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e6278dfc-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e03-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "e6278dfb-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e04-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "e6278dfa-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e05-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "e6278df9-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e06-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e6278dfd-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "edgeid": "e6278e07-f89b-11ed-bf80-114c466094e0",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "e6278df5-f89b-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "ad68f052-f89b-11ed-bf80-114c466094e0",
+                                "string_template": "Appointed By: <Business Appointment Made By>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "98c9c61c-f89b-11ed-bf80-114c466094e0",
+                                "string_template": "<Business Appointment - Maker Appointed> appointed by <Business Appointment Made By>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "id": "80a736f7-04f2-41e3-8447-dee6ce77eede"
+                }
+            ],
+            "graphid": "78dbd0df-288f-4896-9c93-a91719f73381",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Business Appointment"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "276fc6df-f89c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5a939430-f89c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "98c9c61c-f89b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ad68f052-f89b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "e6278df7-f89b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "business_appointment_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date Confidence Assessment",
+                    "nodegroup_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date",
+                    "nodegroup_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date Confidence Type",
+                    "nodegroup_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6e1-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date Confidence Note",
+                    "nodegroup_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6e2-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date Confidence Probability Value",
+                    "nodegroup_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6e3-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "276fc6dd-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6e4-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date - Additional Notes",
+                    "nodegroup_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6e5-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date Value",
+                    "nodegroup_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6e6-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment End Date Type",
+                    "nodegroup_id": "276fc6df-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "276fc6e7-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment - Additional Notes",
+                    "nodegroup_id": "5a939430-f89c-11ed-bf80-114c466094e0",
+                    "nodeid": "5a939430-f89c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Business Appointment",
+                    "nodegroup_id": null,
+                    "nodeid": "7ce95e8a-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#BusinessAppointment",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_-_maker_appointed",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment - Maker Appointed",
+                    "nodegroup_id": "98c9c61c-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "98c9c61c-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#appointed",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_made_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Made By",
+                    "nodegroup_id": "ad68f052-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "ad68f052-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#appointedBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date Confidence Assessment",
+                    "nodegroup_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date",
+                    "nodegroup_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date Confidence Type",
+                    "nodegroup_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278df9-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date Confidence Note",
+                    "nodegroup_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278dfa-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date Confidence Probability Value",
+                    "nodegroup_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278dfb-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "e6278df5-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278dfc-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date - Additional Notes",
+                    "nodegroup_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278dfd-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date Value",
+                    "nodegroup_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278dfe-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "business_appointment_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Business Appointment Start Date Type",
+                    "nodegroup_id": "e6278df7-f89b-11ed-bf80-114c466094e0",
+                    "nodeid": "e6278dff-f89b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                "notes": null,
+                "publicationid": "8dc79a0a-1cd6-11ee-9f07-2b5aee014fa8",
+                "published_time": "2023-07-07T09:57:12.231",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "78dbd0df-288f-4896-9c93-a91719f73381",
+                "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "42296fdb-0e83-45c1-b462-ac78c35b4f71",
+                "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "9ef79519-0b47-42fe-b66c-3879bfa9666b",
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "78dbd0df-288f-4896-9c93-a91719f73381"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "business_appointment",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "78dbd0df-288f-4896-9c93-a91719f73381",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Business Appointment",
+                "nodegroup_id": null,
+                "nodeid": "7ce95e8a-f89b-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#BusinessAppointment",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

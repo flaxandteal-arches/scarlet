@@ -2,9 +2,18 @@
 Django settings for scarlet project.
 """
 
+try:
+    import tomllib
+except ImportError:
+    from pip._vendor import tomli as tomllib
+
+import json
 import os
+import sys
+import arches
 import inspect
 import semantic_version
+from pathlib import Path
 from datetime import datetime, timedelta
 from django.utils.translation import gettext_lazy as _
 
@@ -16,6 +25,16 @@ except ImportError:
 APP_NAME = "scarlet"
 APP_VERSION = semantic_version.Version(major=0, minor=0, patch=0)
 APP_ROOT = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+MIN_ARCHES_VERSION = arches.__version__
+MAX_ARCHES_VERSION = arches.__version__
+
+
+try:
+    with (Path(__file__).parent / "wkrm.toml").open("rb") as wkrm_f:
+        WELL_KNOWN_RESOURCE_MODELS = [model for _, model in tomllib.load(wkrm_f).items()]
+except:
+    with (Path(__file__).parent / "wkrm.toml").open("r") as wkrm_f:
+        WELL_KNOWN_RESOURCE_MODELS = [model for _, model in tomllib.load(wkrm_f).items()]
 
 WEBPACK_LOADER = {
     "DEFAULT": {
@@ -51,7 +70,7 @@ FILENAME_GENERATOR = "arches.app.utils.storage_filename_generator.generate_filen
 UPLOADED_FILES_DIR = "uploadedfiles"
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-k!!#r1&p&fiwap9ayny3*##n$=@w(ge*m)jl5ry_mc(i0g^!js"
+SECRET_KEY = '10adiav#x+9@+lcbls15@gl0+k*u@lrf%*l-nhnbxtx)n59x!u'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -163,8 +182,9 @@ MIDDLEWARE = [
     "oauth2_provider.middleware.OAuth2TokenMiddleware",
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
-    "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    # "django.middleware.clickjacking.XFrameOptionsMiddleware",
     "arches.app.utils.middleware.SetAnonymousUser",
+    "arches_orm.arches_django.middleware.ArchesORMContextFreeMiddleware",
     # "silk.middleware.SilkyMiddleware",
 ]
 
@@ -195,7 +215,7 @@ WSGI_APPLICATION = "scarlet.wsgi.application"
 MEDIA_URL = "/files/"
 
 # Absolute filesystem path to the directory that will hold user-uploaded files.
-MEDIA_ROOT = os.path.join(APP_ROOT)
+MEDIA_ROOT =  os.path.join(APP_ROOT)
 
 # URL prefix for static files.
 # Example: "http://media.lawrence.com/static/"
@@ -289,11 +309,11 @@ DATE_IMPORT_EXPORT_FORMAT = (
 # ordered as seen in the resource cards or not.
 EXPORT_DATA_FIELDS_IN_CARD_ORDER = False
 
-# Identify the usernames and duration (seconds) for which you want to cache the time wheel
+#Identify the usernames and duration (seconds) for which you want to cache the time wheel
 CACHE_BY_USER = {"default": 3600 * 24, "anonymous": 3600 * 24}  # 24hrs  # 24hrs
 
-TILE_CACHE_TIMEOUT = 600  # seconds
-CLUSTER_DISTANCE_MAX = 5000  # meters
+TILE_CACHE_TIMEOUT = 600 #seconds
+CLUSTER_DISTANCE_MAX = 5000 #meters
 GRAPH_MODEL_CACHE_TIMEOUT = None
 
 OAUTH_CLIENT_ID = ""  #'9JCibwrWQ4hwuGn5fu2u1oRZSs9V6gK8Vu8hpRC4'
@@ -308,6 +328,9 @@ ENABLE_CAPTCHA = False
 # RECAPTCHA_USE_SSL = False
 NOCAPTCHA = True
 # RECAPTCHA_PROXY = 'http://127.0.0.1:8000'
+if DEBUG is True:
+    SILENCED_SYSTEM_CHECKS = ["django_recaptcha.recaptcha_test_key_error"]
+
 
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'  #<-- Only need to uncomment this for testing without an actual email server
 # EMAIL_USE_TLS = True
@@ -318,7 +341,7 @@ EMAIL_HOST_USER = "xxxx@xxx.com"
 
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
-CELERY_BROKER_URL = ""  # RabbitMQ --> "amqp://guest:guest@localhost",  Redis --> "redis://localhost:6379/0"
+CELERY_BROKER_URL = "" # RabbitMQ --> "amqp://guest:guest@localhost",  Redis --> "redis://localhost:6379/0"
 CELERY_ACCEPT_CONTENT = ["json"]
 CELERY_RESULT_BACKEND = (
     "django-db"  # Use 'django-cache' if you want to use your cache as your backend
@@ -421,15 +444,15 @@ LANGUAGE_CODE = "en"
 # {langcode}-{regioncode} eg: en, en-gb ....
 # a list of language codes can be found here http://www.i18nguy.com/unicode/language-identifiers.html
 LANGUAGES = [
-    #   ('de', _('German')),
+#   ('de', _('German')),
     ("en", _("English")),
-    #   ('en-gb', _('British English')),
-    #   ('es', _('Spanish')),
+#   ('en-gb', _('British English')),
+#   ('es', _('Spanish')),
 ]
 
 # override this to permenantly display/hide the language switcher
 SHOW_LANGUAGE_SWITCH = len(LANGUAGES) > 1
-
+PERMISSION_FRAMEWORK = os.getenv("PERMISSION_FRAMEWORK", "arches_default_deny.ArchesDefaultDenyPermissionFramework")
 # Implement this class to associate custom documents to the ES resource index
 # See tests.views.search_tests.TestEsMappingModifier class for example
 # ES_MAPPING_MODIFIER_CLASSES = ["scarlet.search.es_mapping_modifier.EsMappingModifier"]

@@ -1,0 +1,137 @@
+{
+    "resource_model_id": "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+    "resource_model_name": "At Address",
+    "nodes": [
+        {
+            "arches_nodeid": "c9ec010a-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Address Function",
+            "file_field_name": "Address Function",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f28b1556-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address - Additional Notes",
+            "file_field_name": "At Address - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1eb76733-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address End Date - Additional Notes",
+            "file_field_name": "At Address End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1eb76732-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "At Address End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1eb76730-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address End Date Confidence Note",
+            "file_field_name": "At Address End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1eb76731-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address End Date Confidence Probability Value",
+            "file_field_name": "At Address End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1eb7672f-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address End Date Confidence Type",
+            "file_field_name": "At Address End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1eb76735-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address End Date Type",
+            "file_field_name": "At Address End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1eb76734-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address End Date Value",
+            "file_field_name": "At Address End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c7819029-ea7c-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address Start Date - Additional Notes",
+            "file_field_name": "At Address Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c7819028-ea7c-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "At Address Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c7819026-ea7c-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address Start Date Confidence Note",
+            "file_field_name": "At Address Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c7819027-ea7c-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address Start Date Confidence Probability Value",
+            "file_field_name": "At Address Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c7819025-ea7c-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address Start Date Confidence Type",
+            "file_field_name": "At Address Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c781902b-ea7c-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address Start Date Type",
+            "file_field_name": "At Address Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c781902a-ea7c-11ed-bf80-114c466094e0",
+            "arches_node_name": "At Address Start Date Value",
+            "file_field_name": "At Address Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "de88d386-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Involved Occupant(s)",
+            "file_field_name": "Involved Occupant(s)",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5ae2ee5e-ea7d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Address",
+            "file_field_name": "Occupied Address",
+            "data_type": "resource-instance",
+            "export": true
+        }
+    ]
+}

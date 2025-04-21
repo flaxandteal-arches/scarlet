@@ -1,0 +1,57 @@
+define([
+    'underscore',
+    'knockout',
+    'jquery',
+    'arches',
+    './base.js',
+    'templates/views/producings.htm',
+    'bindings/datatable',
+], function(_, ko, $, arches, BasePersonReport, producingsReportTemplate) {
+    return ko.components.register('views/producings', {
+        viewModel: function(params) {
+            const groups = [
+                {
+                    title: "As Producer",
+                    visible: ko.observable(true),
+                    related: ko.observableArray([]),
+                    match: data => this.dataValueIsResource(data, "Producer", this.resourceId),
+                    label: data => this.labelFirstDefined(
+                        data,
+                        "Produced Objects By",
+                        "Produced Objects of Type(s)",
+                        "Produced Objects For"
+                    )
+                },
+                {
+                    title: "As Designer",
+                    visible: ko.observable(true),
+                    related: ko.observableArray([]),
+                    match: data => this.dataValueIsResource(data, "Produced Objects By", this.resourceId),
+                    label: data => this.labelFirstDefined(
+                        data,
+                        "Producer",
+                        "Produced Objects of Type(s)",
+                        "Produced Objects For"
+                    )
+                },
+                {
+                    title: "As Intended Recipient",
+                    visible: ko.observable(true),
+                    related: ko.observableArray([]),
+                    match: data => this.dataValueIsResource(data, "Produced Objects For", this.resourceId),
+                    label: data => this.labelFirstDefined(
+                        data,
+                        "Producer",
+                        "Produced Objects By",
+                        "Produced Objects of Type(s)",
+                        "Produced Objects For"
+                    )
+                }
+            ];
+
+            BasePersonReport.apply(this, [params, groups]);
+            this.fetchRelated("Producing", groups);
+        },
+        template: producingsReportTemplate
+    });
+});

@@ -23,7 +23,8 @@ classifiers = [
 ]
 requires-python = ">=3.11"
 dependencies = [
-    "arches>=8.0.0,<8.1.0",
+    "arches>=8.0.0a3,<8.1.0",
+    "arches_orm @ git+https://github.com/flaxandteal/arches-orm@fix/version-mismatches",
 ]
 version = "0.0.1"
 

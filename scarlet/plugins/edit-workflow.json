@@ -1,0 +1,26 @@
+{
+  "pluginid": "90d00be6-c447-4fef-8b98-cf0579fb4a65",
+  "name": "Edit Workflow",
+  "icon": "fa fa-edit",
+  "component": "views/components/plugins/edit-workflow",
+  "componentname": "edit-workflow",
+  "config": {
+    "show": false,
+    "editableWorkflows": [
+      {
+        "slug": "create-person-workflow",
+        "name": "Person",
+        "graphId": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+        "setupFunction": "loadPersonData"
+      },
+      {
+        "slug": "create-organisation-workflow",
+        "name": "Organisation",
+        "graphId": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+        "setupFunction": "loadOrganisationData"
+      }
+    ]
+  },
+  "slug": "edit-workflow",
+  "sortorder": 0
+}

@@ -1,0 +1,12 @@
+{
+  "pluginid": "feb188c0-3a0c-4c83-938d-4d074bf24200",
+  "name": "Add Simon Id",
+  "icon": "fa fa-edit",
+  "component": "views/components/workflows/simon-id-step",
+  "componentname": "simon-id-step",
+  "config": {
+    "show": false
+    },
+  "slug": "simon-id-step",
+  "sortorder": 0
+}

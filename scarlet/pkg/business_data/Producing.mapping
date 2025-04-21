@@ -1,0 +1,144 @@
+{
+    "resource_model_id": "9ef79519-0b47-42fe-b66c-3879bfa9666b",
+    "resource_model_name": "Producing",
+    "nodes": [
+        {
+            "arches_nodeid": "37af66ee-f89a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Produced Objects By",
+            "file_field_name": "Produced Objects By",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4dedfdee-f89a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Produced Objects For",
+            "file_field_name": "Produced Objects For",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f97441a6-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Produced Objects of Type(s)",
+            "file_field_name": "Produced Objects of Type(s)",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "12902894-f89a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Produced Specific Object(s)",
+            "file_field_name": "Produced Specific Object(s)",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "736888d8-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Producer",
+            "file_field_name": "Producer",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "be9aba5f-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production End Date - Additional Notes",
+            "file_field_name": "Production End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "be9aba5e-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Production End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "be9aba5c-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production End Date Confidence Note",
+            "file_field_name": "Production End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "be9aba5d-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production End Date Confidence Probability Value",
+            "file_field_name": "Production End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "be9aba5b-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production End Date Confidence Type",
+            "file_field_name": "Production End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "be9aba61-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production End Date Type",
+            "file_field_name": "Production End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "be9aba60-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production End Date Value",
+            "file_field_name": "Production End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88c81779-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production Start Date - Additional Notes",
+            "file_field_name": "Production Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88c81778-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Production Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88c81776-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production Start Date Confidence Note",
+            "file_field_name": "Production Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88c81777-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production Start Date Confidence Probability Value",
+            "file_field_name": "Production Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88c81775-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production Start Date Confidence Type",
+            "file_field_name": "Production Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88c8177b-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production Start Date Type",
+            "file_field_name": "Production Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88c8177a-f899-11ed-bf80-114c466094e0",
+            "arches_node_name": "Production Start Date Value",
+            "file_field_name": "Production Start Date Value",
+            "data_type": "date",
+            "export": true
+        }
+    ]
+}

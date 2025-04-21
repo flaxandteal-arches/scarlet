@@ -1,0 +1,12 @@
+{
+    "pluginid": "59b9a9cb-1654-43a6-abb7-7e4ca4c5bfea",
+    "name": "Create Person",
+    "icon": "fa fa-user",
+    "component": "views/components/plugins/create-person-workflow",
+    "componentname":"create-person-workflow",
+    "config": {
+        "show": false
+    },
+    "slug": "create-person-workflow",
+    "sortorder": 0
+}

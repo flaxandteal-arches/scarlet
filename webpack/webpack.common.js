@@ -62,6 +62,7 @@ module.exports = () => {
             return acc;
         }, {});
         const projectJavascriptRelativeFilepathToAbsoluteFilepathLookup = Object.entries(projectEntryPointConfiguration).reduce((acc, [path, config]) => {
+            console.log(path);
             acc[path + '$'] = Path.resolve(__dirname, path, config['import']);
             return acc;
         }, {});

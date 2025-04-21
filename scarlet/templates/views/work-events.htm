@@ -1,0 +1,110 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Associated Actors -->
+<div class="aher-report-section">
+    <h1 class="aher-report-section-title"> {% trans "Apprenticeships" %}</h1>
+     <!-- Apprenticeships Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/apprenticeships',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+     <!-- ko if: showEducation -->
+    <h1 class="aher-report-section-title"> {% trans "Education" %}</h1>
+     <!-- Education Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/educations',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <!-- /ko -->
+    <h1 class="aher-report-section-title"> {% trans "Management" %}</h1>
+     <!-- Management Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/managements',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Employment" %}</h1>
+     <!-- Employment Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/employments',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Memberships" %}</h1>
+     <!-- Memberships Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/memberships',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Ownerships" %}</h1>
+     <!-- Ownerships Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/ownerships',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Takeovers" %}</h1>
+     <!-- Takeovers Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/takeovers',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+</div>
+{% endblock body %}
+{% endblock report %}

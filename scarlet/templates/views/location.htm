@@ -1,0 +1,37 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Geometry/Map -->
+<div class="aher-report-section" data-bind="if: !!dataConfig.geometry">
+    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(visible.coordinates)}, css: {'fa-angle-double-right': visible.coordinates(), 'fa-angle-double-up': !visible.coordinates()}" class="fa toggle"></i> {% trans "Geospatial Coordinates" %}</h2>
+
+    <!-- Collapsible content -->
+    <div data-bind="visible: visible.coordinates" class="aher-report-collapsible-container pad-lft">
+
+        <div class="aher-report-subsection">
+            <div class="aher-report-subsection-container no-flex map-container">
+                <h3><i data-bind="css: {'fa-angle-double-right': visible.geometry(), 'fa-angle-double-up': !visible.geometry()}" class="fa toggle"></i> {% trans "Geometry " %}</h3>
+                <div data-bind="if: coordinateData">
+                    <div data-bind="component: {
+                        name: 'views/map',
+                        params: {
+                            geojson: coordinateData
+                        }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock body %}
+{% endblock report %}
+{% block summary %}
+
+<div class="model-summary-report">
+Do not use - yet.
+</div>
+
+{% endblock summary %}

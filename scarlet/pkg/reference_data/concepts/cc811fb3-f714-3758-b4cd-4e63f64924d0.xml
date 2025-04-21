@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/a52e3921-459f-3fae-b0c6-bf76b2c75082">
+        <skos:prefLabel xml:lang="en">{"id": "cd6336a2-9f60-4e71-82dc-6886561a4e1b", "value": "Chemistry"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "6689b6e4-a5bb-4511-8125-4337721bf0bb", "value": "http://toolsofknowledge.org/SubjectArea/Chemistry"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/100ead4d-31c8-399f-ae17-65200e091619">
+        <dcterms:identifier xml:lang="en">{"id": "5a021580-2d81-41b8-b466-4cc4e3c41c79", "value": "http://toolsofknowledge.org/SubjectArea/Navigation"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <skos:prefLabel xml:lang="en">{"id": "e44910f0-1af7-4bee-8f01-929aae32e9ee", "value": "Navigation"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/1f9c6800-5388-34fc-8b81-afe2733e2c4a">
+        <skos:prefLabel xml:lang="en">{"id": "498f0a9b-1fc5-45e9-964d-82e9e114655c", "value": "Telegraph"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "3a1a520d-0ed6-4c18-953d-eedfe8c59909", "value": "http://toolsofknowledge.org/SubjectArea/Telegraph"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/9ad1731b-0d59-3e4d-bac2-ad1678adb6a8">
+        <skos:prefLabel xml:lang="en">{"id": "058a7580-6565-4d64-8af8-afdd210b16f6", "value": "Film"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <dcterms:identifier xml:lang="en">{"id": "4f98d291-3356-4da9-91f2-3d92975623e3", "value": "http://toolsofknowledge.org/SubjectArea/Film"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/f8e40803-9024-37c9-92d2-1b3583e85ce0">
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <dcterms:identifier xml:lang="en">{"id": "9e33ebfe-014c-4ac1-bf6e-4a93cf086479", "value": "http://toolsofknowledge.org/SubjectArea/Photography"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "74872763-8cfb-4214-8185-55a553807c65", "value": "Photography"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b690f9dd-fde9-3e87-ab1f-5731ce266f2b">
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <skos:prefLabel xml:lang="en">{"id": "24912409-ab4e-4ca3-bd7b-0accf2067a75", "value": "Electrical"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "85c4fb0c-0cab-4adc-91ff-6ce1d1006045", "value": "http://toolsofknowledge.org/SubjectArea/Electrical"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/e8701eb3-7f4b-3f90-83ed-d0ccc047ff99">
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <dcterms:identifier xml:lang="en">{"id": "ee261e88-a586-4264-aa48-8f4cd0959e4c", "value": "http://toolsofknowledge.org/SubjectArea/Astronomy"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "c43cc84a-ca0e-475b-9175-69580fe73632", "value": "Astronomy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:identifier xml:lang="en">{"id": "12d3dbf3-c69a-435d-bdd0-642e666a5c7b", "value": "http://toolsofknowledge.org/SubjectArea/"}</dcterms:identifier>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3db39118-6bbd-33e0-81df-8389fca679af">
+        <dcterms:identifier xml:lang="en">{"id": "cd1244a5-5c02-46a4-a233-d00d8a8a1f9a", "value": "http://toolsofknowledge.org/SubjectArea/Accounts"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <skos:prefLabel xml:lang="en">{"id": "8e44dc8a-ac61-41db-9162-79944211d0a6", "value": "Accounts"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/88648163-e353-3d7b-b3d1-a1b8ff92cd56">
+        <skos:prefLabel xml:lang="en">{"id": "44896f5d-14b4-423c-9f34-91b73c2a03f4", "value": "Cinematography"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <dcterms:identifier xml:lang="en">{"id": "d3861207-09e7-4425-8fbd-8f4a3adf7038", "value": "http://toolsofknowledge.org/SubjectArea/Cinematography"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">{"id": "05bd0aab-c0c4-48e1-a74b-9f1d7221f1ae", "value": "Subject Areas"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/b99659b7-7702-3ef8-93bc-bfc93261b984">
+        <skos:inScheme rdf:resource="http://localhost:8000/cc811fb3-f714-3758-b4cd-4e63f64924d0"/>
+        <dcterms:identifier xml:lang="en">{"id": "cd649e29-7b43-4a57-9978-af038e1eb168", "value": "http://toolsofknowledge.org/SubjectArea/Natural_Philosophy"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "023d9efc-9936-4436-9c28-437ae80bbba6", "value": "Natural Philosophy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

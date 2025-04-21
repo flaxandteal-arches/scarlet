@@ -1,0 +1,173 @@
+{
+    "resource_model_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+    "resource_model_name": "Legal Process",
+    "nodes": [
+        {
+            "arches_nodeid": "d36b8dbc-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Case Description",
+            "file_field_name": "Case Description",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "cc654680-fa2c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Defendant",
+            "file_field_name": "Defendant",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94ba5bd3-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process End Date - Additional Notes",
+            "file_field_name": "Legal Process End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94ba5bd2-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Legal Process End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94ba5bd0-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process End Date Confidence Note",
+            "file_field_name": "Legal Process End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94ba5bd1-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process End Date Confidence Probability Value",
+            "file_field_name": "Legal Process End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94ba5bcf-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process End Date Confidence Type",
+            "file_field_name": "Legal Process End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94ba5bd5-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process End Date Type",
+            "file_field_name": "Legal Process End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94ba5bd4-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process End Date Value",
+            "file_field_name": "Legal Process End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e32dd318-ea79-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Name",
+            "file_field_name": "Legal Process Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73021e1d-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Start Date - Additional Notes",
+            "file_field_name": "Legal Process Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73021e1c-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Legal Process Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73021e1a-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Start Date Confidence Note",
+            "file_field_name": "Legal Process Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73021e1b-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Start Date Confidence Probability Value",
+            "file_field_name": "Legal Process Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73021e19-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Start Date Confidence Type",
+            "file_field_name": "Legal Process Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73021e1f-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Start Date Type",
+            "file_field_name": "Legal Process Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "73021e1e-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Start Date Value",
+            "file_field_name": "Legal Process Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8341ab06-fa2c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Legal Process Type",
+            "file_field_name": "Legal Process Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9d119078-fa2c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Petitioner",
+            "file_field_name": "Petitioner",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bd732e44-fa2c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Prosecutor",
+            "file_field_name": "Prosecutor",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c508acf0-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sentence Type",
+            "file_field_name": "Sentence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4dbb53a0-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sued",
+            "file_field_name": "Sued",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3cc286d6-fa2d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Suer",
+            "file_field_name": "Suer",
+            "data_type": "resource-instance",
+            "export": true
+        }
+    ]
+}

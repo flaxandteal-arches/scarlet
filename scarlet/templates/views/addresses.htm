@@ -1,0 +1,71 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Associated Actors -->
+<div class="aher-report-section">
+    <!-- ko if: locations().length -->
+    <h2 class="aher-report-section-title"> {% trans "Locations" %}</h2>
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/location',
+            params: {
+                data: resource,
+                locations: locations(),
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <!-- /ko -->
+    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(visible.addresses)}, css: {'fa-angle-double-right': visible.addresses(), 'fa-angle-double-up': !visible.addresses()}" class="fa toggle"></i> {% trans "Addresses" %}</h2>
+
+    <!-- <p><i data-bind="click: function() {toggleVisibility(showUnordered)}, css: {'fa-plus': showUnordered(), 'fa-minus': !showUnordered()}" class="fa toggle"></i> Toggle Unknown Fields</p> -->
+
+    <!-- Collapsible content -->
+    <div data-bind="visible: visible.addresses" class="aher-report-collapsible-container pad-lft">
+
+        <!-- ko ifnot: addresses().length -->
+        <div class="aher-nodata-note">No addresses for this resource</div>
+        <!-- /ko -->
+
+        <!-- ko foreach: {data: addresses(), as: 'address', noChildContext: true}-->
+
+        <div class="aher-report-subsection">
+            <h3 class="aher-report-section-subtitle"><i data-bind="click: function() {toggleVisibility(address.visible)}, css: {'fa-angle-double-right': address.visible(), 'fa-angle-double-up': !address.visible()}" class="fa toggle"></i> <span data-bind="text: address.name"></span></h3>
+
+            <div class="aher-report-subsection" data-bind="visible: address.visible">
+                <div class="firstchild-container">
+                    <div class="aher-table" data-bind="">
+                        <table class="table table-striped" cellspacing="0" width="100%">
+                            <thead>
+                                <tr class="aher-table-header">
+                                    <th></th>
+                                    <th></th>
+                                    <th>{% trans "Detail" %}</th>
+                                    <th class="aher-table-control all"></th>
+                                </tr>
+                            </thead>
+                            <tbody data-bind="dataTablesForEach: { data: address.fields, dataTableOptions: addressesTableConfig}">
+                                <tr>
+                                    <td data-bind="text: _order"></td>
+                                    <td data-bind="text: key"><a href="" class="aher-table-link"></a></td>
+                                    <td data-bind="text: value"></td>
+                                    <td>
+                                        [link]
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /ko -->
+    </div>
+</div>
+{% endblock body %}
+{% endblock report %}

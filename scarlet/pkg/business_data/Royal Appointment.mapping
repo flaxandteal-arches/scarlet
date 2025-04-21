@@ -1,0 +1,129 @@
+{
+    "resource_model_id": "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+    "resource_model_name": "Royal Appointment",
+    "nodes": [
+        {
+            "arches_nodeid": "77abf908-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment - Additional Notes",
+            "file_field_name": "Royal Appointment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3963b6cb-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment End Date - Additional Notes",
+            "file_field_name": "Royal Appointment End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3963b6ca-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Royal Appointment End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3963b6c8-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment End Date Confidence Note",
+            "file_field_name": "Royal Appointment End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3963b6c9-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment End Date Confidence Probability Value",
+            "file_field_name": "Royal Appointment End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3963b6c7-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment End Date Confidence Type",
+            "file_field_name": "Royal Appointment End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3963b6cd-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment End Date Type",
+            "file_field_name": "Royal Appointment End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3963b6cc-f89d-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment End Date Value",
+            "file_field_name": "Royal Appointment End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ea93c758-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Made By",
+            "file_field_name": "Royal Appointment Made By",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d3744962-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment - Maker Appointed",
+            "file_field_name": "Royal Appointment - Maker Appointed",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff156753-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Start Date - Additional Notes",
+            "file_field_name": "Royal Appointment Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff156752-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Royal Appointment Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff156750-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Start Date Confidence Note",
+            "file_field_name": "Royal Appointment Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff156751-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Start Date Confidence Probability Value",
+            "file_field_name": "Royal Appointment Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff15674f-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Start Date Confidence Type",
+            "file_field_name": "Royal Appointment Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff156755-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Start Date Type",
+            "file_field_name": "Royal Appointment Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff156754-f89c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Royal Appointment Start Date Value",
+            "file_field_name": "Royal Appointment Start Date Value",
+            "data_type": "date",
+            "export": true
+        }
+    ]
+}

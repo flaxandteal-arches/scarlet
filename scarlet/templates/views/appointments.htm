@@ -1,0 +1,38 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Associated Actors -->
+<div class="aher-report-section">
+     <!-- Business Appointments -->
+    <h1 class="aher-report-section-title"> {% trans "Business Appointments" %}</h1>
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/business-appointments',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+     <!-- Royal Appointments Tab -->
+    <h1 class="aher-report-section-title"> {% trans "Royal Appointments" %}</h1>
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/royal-appointments',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+</div>
+{% endblock body %}
+{% endblock report %}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/c95c5ce6-0499-4bf3-bff6-5351bbde1212">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/25687c2f-c0ae-4c45-9301-85a1846e5325">
+        <skos:inScheme rdf:resource="http://localhost:8000/c95c5ce6-0499-4bf3-bff6-5351bbde1212"/>
+        <skos:prefLabel xml:lang="en">{"id": "5a5e765a-c309-473d-a2eb-8615634ac622", "value": "Fuzzy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">{"id": "9a6c9b3d-46f4-4358-bb31-d8861b022a03", "value": "Confidence Type"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c834fee1-17e4-40ed-b5d7-5bc5e3e9018e">
+        <skos:inScheme rdf:resource="http://localhost:8000/c95c5ce6-0499-4bf3-bff6-5351bbde1212"/>
+        <skos:prefLabel xml:lang="en">{"id": "4748b66d-1646-4e2d-b3ce-d90b61bdba35", "value": "Uncertain"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

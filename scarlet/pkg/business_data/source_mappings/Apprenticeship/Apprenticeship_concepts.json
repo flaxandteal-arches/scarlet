@@ -1,0 +1,26 @@
+{
+    "Confidence Type": {
+        "5a5e765a-c309-473d-a2eb-8615634ac622": "Fuzzy",
+        "4748b66d-1646-4e2d-b3ce-d90b61bdba35": "Uncertain"
+    },
+    "Date Type": {
+        "46863611-d65b-4adf-944e-24394dab676f": "Known Date",
+        "eb931a41-00cd-421c-bcdd-a2ac55d8a7be": "Occurred After",
+        "7b74ea6d-2424-461c-bcd2-7de244f0a31d": "Occurred Before"
+    },
+    "Freed Category": {
+        "2c24474b-bd63-40c6-8f20-4c65300c04da": "Brother",
+        "9665324a-33b0-4e5c-b1d1-359adc41b000": "Foreign Brother",
+        "584a1107-1bff-41d6-b244-818498bf539e": "Loose"
+    },
+    "Freed Mode": {
+        "96cc8215-ce3c-4da8-8db6-9b694598c128": "Charitable Support",
+        "0a193277-13d0-426d-a6bc-b674c4c2406c": "Examination",
+        "dd8457a7-0007-4409-81ec-76b47cd4fae2": "Patrimony",
+        "803ff382-dd82-492c-9e10-178c43ddf419": "Purchase",
+        "a9125a79-a131-495c-a8da-276d0d146936": "Reduced Fees"
+    },
+    "Resource to Resource Relationship Types": {
+        "ac41d9be-79db-4256-b368-2f4559cfbe55": "is related to"
+    }
+}

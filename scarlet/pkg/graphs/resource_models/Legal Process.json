@@ -1,0 +1,1837 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "1c48acc2-104e-4918-aa8d-256706c53440",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "1c48acc2-104e-4918-aa8d-256706c53440",
+                            "constraintid": "b48cf38f-8efa-4bfb-9712-1f2ed8837c35",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "1c48acc2-104e-4918-aa8d-256706c53440",
+                            "constraintid": "95eb9d7a-f98c-4e03-9c99-521aa5b4c51c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Legal Process Type"
+                    },
+                    "nodegroup_id": "8341ab06-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "35278d10-5560-436e-b38e-322926361eb7",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "35278d10-5560-436e-b38e-322926361eb7",
+                            "constraintid": "4ecca9d1-f0c5-4247-b8b4-c78eae4aa7aa",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "35278d10-5560-436e-b38e-322926361eb7",
+                            "constraintid": "33c6e214-9b5a-4d14-9709-2ea718714ff7",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Sentence Type"
+                    },
+                    "nodegroup_id": "c508acf0-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3a48525a-9746-4354-ad31-9de7a9b5cda5",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "3a48525a-9746-4354-ad31-9de7a9b5cda5",
+                            "constraintid": "640b9f19-f804-4c8d-9f65-4903680836bd",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "3a48525a-9746-4354-ad31-9de7a9b5cda5",
+                            "constraintid": "6614faff-ce04-4303-95b2-0cfd28b369eb",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Defendant"
+                    },
+                    "nodegroup_id": "cc654680-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "433a4928-cd43-4531-a1e8-63a314724f67",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Case Description"
+                    },
+                    "nodegroup_id": "d36b8dbc-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "6bfd66c3-5335-4773-8d6e-35d09971aa49",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "6bfd66c3-5335-4773-8d6e-35d09971aa49",
+                            "constraintid": "ad707570-dac2-46c1-8f17-fe8221f9a38a",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "6bfd66c3-5335-4773-8d6e-35d09971aa49",
+                            "constraintid": "c87afaaa-e5dc-4cec-94bd-8e0c2e5b7319",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Suer"
+                    },
+                    "nodegroup_id": "3cc286d6-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "73021e16-fa2d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Legal Process Start Date (confidence)"
+                    },
+                    "nodegroup_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "73021e18-fa2d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Legal Process Start Date"
+                    },
+                    "nodegroup_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "94ba5bcc-fa2d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Legal Process End Date (confidence)"
+                    },
+                    "nodegroup_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "94ba5bce-fa2d-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Legal Process End Date"
+                    },
+                    "nodegroup_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "952eac9a-11d2-4ead-bdb8-4ed2156d78fb",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "952eac9a-11d2-4ead-bdb8-4ed2156d78fb",
+                            "constraintid": "9dac6b2a-fc50-4802-a5bc-a101cff02c14",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "952eac9a-11d2-4ead-bdb8-4ed2156d78fb",
+                            "constraintid": "5d1bebab-a782-42e9-b55b-1917e9a1f0ae",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Legal Process Name"
+                    },
+                    "nodegroup_id": "e32dd318-ea79-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b02df8c9-c1f5-41ac-a490-3481cb6f6a7d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "b02df8c9-c1f5-41ac-a490-3481cb6f6a7d",
+                            "constraintid": "6f013296-beda-4c35-891c-6d7c726ba152",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "b02df8c9-c1f5-41ac-a490-3481cb6f6a7d",
+                            "constraintid": "0dcf3804-d22e-4a29-af2d-93dd2f83d133",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Prosecutor"
+                    },
+                    "nodegroup_id": "bd732e44-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b17c1efc-a80a-4f26-9c0a-ff5860bc2003",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "b17c1efc-a80a-4f26-9c0a-ff5860bc2003",
+                            "constraintid": "c51eff09-aae3-4790-99ae-729844965d86",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "b17c1efc-a80a-4f26-9c0a-ff5860bc2003",
+                            "constraintid": "3d33fbe4-1787-4fc5-9e59-e3c1af421d1c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Legal Process - Additional Notes"
+                    },
+                    "nodegroup_id": "69a45fb6-77d8-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b9cedf75-ccfc-4386-a425-bc13204f5012",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "b9cedf75-ccfc-4386-a425-bc13204f5012",
+                            "constraintid": "eb9d178f-4ac1-4605-9cd6-d8148c5e4fad",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "b9cedf75-ccfc-4386-a425-bc13204f5012",
+                            "constraintid": "77ddac91-181a-4d63-bda4-ac9bf1e95edb",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Petitioner"
+                    },
+                    "nodegroup_id": "9d119078-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "cdc71b6c-ccbe-4e59-b2e3-bee3ed96150d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "cdc71b6c-ccbe-4e59-b2e3-bee3ed96150d",
+                            "constraintid": "302c8428-a3af-4916-8698-c451aeffce13",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "cdc71b6c-ccbe-4e59-b2e3-bee3ed96150d",
+                            "constraintid": "0a75649f-a93a-4d93-90f7-2b8ddb3afb3b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Sued"
+                    },
+                    "nodegroup_id": "4dbb53a0-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "cdc71b6c-ccbe-4e59-b2e3-bee3ed96150d",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Sued",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "17be706b-6f71-4392-b35e-d4cc8abe3a29",
+                    "label": {
+                        "en": "Sued"
+                    },
+                    "node_id": "4dbb53a0-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "6bfd66c3-5335-4773-8d6e-35d09971aa49",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Suer",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "2913d8dd-939d-43ab-95db-b702a489a454",
+                    "label": {
+                        "en": "Suer"
+                    },
+                    "node_id": "3cc286d6-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "1c48acc2-104e-4918-aa8d-256706c53440",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Legal Process Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "430199b3-9fd7-428f-bb60-5865b7870cae",
+                    "label": {
+                        "en": "Legal Process Type"
+                    },
+                    "node_id": "8341ab06-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "b17c1efc-a80a-4f26-9c0a-ff5860bc2003",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Legal Process - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "75439f87-aeb4-44fb-8071-ac749bc48c80",
+                    "label": {
+                        "en": "Legal Process - Additional Notes"
+                    },
+                    "node_id": "69a45fb6-77d8-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "b02df8c9-c1f5-41ac-a490-3481cb6f6a7d",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Prosecutor",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "7e9d233c-8680-42f0-86cd-ea6ee46c9500",
+                    "label": {
+                        "en": "Prosecutor"
+                    },
+                    "node_id": "bd732e44-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "b9cedf75-ccfc-4386-a425-bc13204f5012",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Petitioner",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "952c2e62-b0cf-45f1-8a49-27169120a107",
+                    "label": {
+                        "en": "Petitioner"
+                    },
+                    "node_id": "9d119078-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "952eac9a-11d2-4ead-bdb8-4ed2156d78fb",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Legal Process Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "aa3a5200-2e96-463d-8cd4-ef429d9dbadd",
+                    "label": {
+                        "en": "Legal Process Name"
+                    },
+                    "node_id": "e32dd318-ea79-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "35278d10-5560-436e-b38e-322926361eb7",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Sentence Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "d21c5c1c-87c0-47cf-b868-7ff2dc816017",
+                    "label": {
+                        "en": "Sentence Type"
+                    },
+                    "node_id": "c508acf0-fa2d-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "3a48525a-9746-4354-ad31-9de7a9b5cda5",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Prosecuted",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "fc64e294-805c-4432-aa29-b8c86ac80342",
+                    "label": {
+                        "en": "Prosecuted"
+                    },
+                    "node_id": "cc654680-fa2c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "12b04d1d-3ec8-45c3-b400-c036bc1f99e1",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "rangenode_id": "3cc286d6-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "4311b4a2-e8cc-4d49-999b-815126e481ad",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "8341ab06-fa2c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "4b0df1de-0156-424a-904d-846736e39258",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "69a45fb6-77d8-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "504c56eb-d825-4724-8412-f155f5a2f8b5",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "rangenode_id": "e32dd318-ea79-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "6df87209-ca3b-4b3d-8359-99f394d5f56d",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCaseDescription",
+                    "rangenode_id": "d36b8dbc-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e20-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "73021e1e-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e21-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "73021e1f-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e22-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "73021e1c-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e23-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "73021e1b-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e24-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "73021e1a-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e25-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "73021e19-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e26-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "73021e1d-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "73021e27-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "73021e15-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "73da4fb0-8dc6-4625-8ad5-4a39522cf5e8",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "rangenode_id": "4dbb53a0-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "870968df-6893-4e76-b5d1-5f0119320c09",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasSentenceType",
+                    "rangenode_id": "c508acf0-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "87ab87cc-6a79-446b-b7df-aeccd7d2cf7e",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadPetitioner",
+                    "rangenode_id": "9d119078-fa2c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "895d74dc-5125-4b02-b498-410c2b822838",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadProsecutor",
+                    "rangenode_id": "bd732e44-fa2c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bd6-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "94ba5bd4-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bd7-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "94ba5bd5-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bd8-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "94ba5bd2-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bd9-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "94ba5bd1-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bda-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "94ba5bd0-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bdb-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "94ba5bcf-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bdc-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "94ba5bd3-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "edgeid": "94ba5bdd-fa2d-11ed-bf80-114c466094e0",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "e9c896e5-66db-4b08-a18e-334a0bd52566",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadDefendant",
+                    "rangenode_id": "cc654680-fa2c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "ecbfea58-6ff2-4ae7-8bcb-8f6d91b7ca73",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "fc62cf8c-6d2f-4a0e-b1cf-45874af36c2b",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "73021e17-fa2d-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "cc654680-fa2c-11ed-bf80-114c466094e0",
+                                "string_template": "Legal process involving <Defendant> <Suer> <Sued> <Prosecutor> <Petitioner>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "id": "d17f4a90-1678-4a9f-a646-edd9466a1f3e"
+                }
+            ],
+            "graphid": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Legal Process"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3cc286d6-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4dbb53a0-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "69a45fb6-77d8-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "73021e17-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8341ab06-fa2c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9d119078-fa2c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "bd732e44-fa2c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "c508acf0-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "cc654680-fa2c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d36b8dbc-fa2d-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e32dd318-ea79-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "suer",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Suer",
+                    "nodegroup_id": "3cc286d6-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "3cc286d6-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "sued",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Sued",
+                    "nodegroup_id": "4dbb53a0-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "4dbb53a0-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process - Additional Notes",
+                    "nodegroup_id": "69a45fb6-77d8-11ee-906b-63b45ef4509d",
+                    "nodeid": "69a45fb6-77d8-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date Confidence Assessment",
+                    "nodegroup_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date",
+                    "nodegroup_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date Confidence Type",
+                    "nodegroup_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e19-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date Confidence Note",
+                    "nodegroup_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e1a-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date Confidence Probability Value",
+                    "nodegroup_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e1b-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "73021e15-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e1c-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date - Additional Notes",
+                    "nodegroup_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e1d-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date Value",
+                    "nodegroup_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e1e-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Start Date Type",
+                    "nodegroup_id": "73021e17-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "73021e1f-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_type",
+                    "config": {
+                        "rdmCollection": "fef0e27f-e7c0-4d71-bc4d-2474f3633a01"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Type",
+                    "nodegroup_id": "8341ab06-fa2c-11ed-bf80-114c466094e0",
+                    "nodeid": "8341ab06-fa2c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#LegalProcessType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date Confidence Assessment",
+                    "nodegroup_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date",
+                    "nodegroup_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date Confidence Type",
+                    "nodegroup_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bcf-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date Confidence Note",
+                    "nodegroup_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bd0-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date Confidence Probability Value",
+                    "nodegroup_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bd1-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "94ba5bcb-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bd2-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date - Additional Notes",
+                    "nodegroup_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bd3-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date Value",
+                    "nodegroup_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bd4-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process End Date Type",
+                    "nodegroup_id": "94ba5bcd-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "94ba5bd5-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "petitioner",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Petitioner",
+                    "nodegroup_id": "9d119078-fa2c-11ed-bf80-114c466094e0",
+                    "nodeid": "9d119078-fa2c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadPetitioner",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "prosecutor",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Prosecutor",
+                    "nodegroup_id": "bd732e44-fa2c-11ed-bf80-114c466094e0",
+                    "nodeid": "bd732e44-fa2c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadProsecutor",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "sentence_type",
+                    "config": {
+                        "rdmCollection": "1a42bd5c-46a3-44f2-a687-4a63833c7eaf"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Sentence Type",
+                    "nodegroup_id": "c508acf0-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "c508acf0-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#SentenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasSentenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "defendant",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Defendant",
+                    "nodegroup_id": "cc654680-fa2c-11ed-bf80-114c466094e0",
+                    "nodeid": "cc654680-fa2c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadDefendant",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "case_description",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Case Description",
+                    "nodegroup_id": "d36b8dbc-fa2d-11ed-bf80-114c466094e0",
+                    "nodeid": "d36b8dbc-fa2d-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCaseDescription",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Legal Process",
+                    "nodegroup_id": null,
+                    "nodeid": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#LegalProcess",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "legal_process_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Legal Process Name",
+                    "nodegroup_id": "e32dd318-ea79-11ed-bf80-114c466094e0",
+                    "nodeid": "e32dd318-ea79-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "notes": null,
+                "publicationid": "78046dee-77d8-11ee-906b-63b45ef4509d",
+                "published_time": "2023-10-31T05:30:10.527",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "9ef79519-0b47-42fe-b66c-3879bfa9666b",
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "legal_process",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Legal Process",
+                "nodegroup_id": null,
+                "nodeid": "d4feafc4-ea79-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#LegalProcess",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

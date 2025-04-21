@@ -1,0 +1,16 @@
+<!-- ko if: ko.unwrap(tile) && ko.unwrap(card) -->
+    <!-- ko component: {
+        name: 'default-card',
+        params: {
+            card: ko.unwrap(card),
+            tile: ko.unwrap(tile),
+            disabled: true,
+            provisionalTileViewModel: provisionalTileViewModel,
+            reviewer: false,
+            loading: loading,
+            form: $data,
+            state: 'form',
+            pageVm: $data.pageVm
+        }
+    } --><!-- /ko -->
+<!-- /ko -->

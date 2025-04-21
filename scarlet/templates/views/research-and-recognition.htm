@@ -1,0 +1,80 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Associated Actors -->
+<div class="aher-report-section">
+    <h1 class="aher-report-section-title"> {% trans "Expedition(s)" %}</h1>
+     <!-- Expeditions Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/expeditions',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Survey(s)" %}</h1>
+     <!-- Survey(s) Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/surveys',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Chronometer Trial(s)" %}</h1>
+     <!-- Chronometer Trial(s) Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/chronometer-trials',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Work Exhibited" %}</h1>
+     <!-- Work Exhibited Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/work-exhibited',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Awards" %}</h1>
+     <!-- Awards Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/awards',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+</div>
+{% endblock body %}
+{% endblock report %}

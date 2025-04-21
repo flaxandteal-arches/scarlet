@@ -1,0 +1,275 @@
+{
+    "resource_model_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+    "resource_model_name": "Apprenticeship",
+    "nodes": [
+        {
+            "arches_nodeid": "f365f502-ea7f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Apprentice",
+            "file_field_name": "Apprentice",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "dfab5f1e-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Apprenticeship - Additional Notes",
+            "file_field_name": "Apprenticeship - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "16b6c068-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Apprenticeship Involved Guild",
+            "file_field_name": "Apprenticeship Involved Guild",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3512453c-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Apprenticeship Money Paid By",
+            "file_field_name": "Apprenticeship Money Paid By",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "59bff685-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bound Date - Additional Notes",
+            "file_field_name": "Bound Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "59bff684-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bound Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Bound Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "59bff682-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bound Date Confidence Note",
+            "file_field_name": "Bound Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "59bff683-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bound Date Confidence Probability Value",
+            "file_field_name": "Bound Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "59bff681-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bound Date Confidence Type",
+            "file_field_name": "Bound Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "59bff687-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bound Date Type",
+            "file_field_name": "Bound Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "59bff686-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bound Date Value",
+            "file_field_name": "Bound Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bc501b90-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed Category",
+            "file_field_name": "Freed Category",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8940f1fb-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed From Bounds Date - Additional Notes",
+            "file_field_name": "Freed From Bounds Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8940f1fa-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed From Bounds Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Freed From Bounds Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8940f1f8-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed From Bounds Date Confidence Note",
+            "file_field_name": "Freed From Bounds Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8940f1f9-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed From Bounds Date Confidence Probability Value",
+            "file_field_name": "Freed From Bounds Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8940f1f7-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed From Bounds Date Confidence Type",
+            "file_field_name": "Freed From Bounds Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8940f1fd-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed From Bounds Date Type",
+            "file_field_name": "Freed From Bounds Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8940f1fc-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed From Bounds Date Value",
+            "file_field_name": "Freed From Bounds Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ce4ea208-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Freed Mode",
+            "file_field_name": "Freed Mode",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0765aa16-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Master",
+            "file_field_name": "Master",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4ccf806c-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "New Guild",
+            "file_field_name": "New Guild",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f209b562-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "New Master",
+            "file_field_name": "New Master",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "183094cb-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translated Date - Additional Notes",
+            "file_field_name": "Translated Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "183094ca-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translated Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Translated Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "183094c8-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translated Date Confidence Note",
+            "file_field_name": "Translated Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "183094c9-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translated Date Confidence Probability Value",
+            "file_field_name": "Translated Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "183094c7-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translated Date Confidence Type",
+            "file_field_name": "Translated Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "183094cd-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translated Date Type",
+            "file_field_name": "Translated Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "183094cc-ea81-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translated Date Value",
+            "file_field_name": "Translated Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab1b88ff-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Turned Over Date - Additional Notes",
+            "file_field_name": "Turned Over Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab1b88fe-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Turned Over Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Turned Over Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab1b88fc-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Turned Over Date Confidence Note",
+            "file_field_name": "Turned Over Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab1b88fd-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Turned Over Date Confidence Probability Value",
+            "file_field_name": "Turned Over Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab1b88fb-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Turned Over Date Confidence Type",
+            "file_field_name": "Turned Over Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab1b8901-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Turned Over Date Type",
+            "file_field_name": "Turned Over Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab1b8900-ea80-11ed-bf80-114c466094e0",
+            "arches_node_name": "Turned Over Date Value",
+            "file_field_name": "Turned Over Date Value",
+            "data_type": "date",
+            "export": true
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Associated Actors -->
+<div class="aher-report-section">
+    <!-- ko foreach: {data: groups, as: 'group', noChildContext: true}-->
+    <h2 class="aher-report-section-title"><i data-bind="click: function() {toggleVisibility(group.visible)}, css: {'fa-angle-double-right': group.visible(), 'fa-angle-double-up': !group.visible()}" class="fa toggle"></i> <span data-bind="text: group.title"></span> (<span data-bind="text: group.related().length"></span>)</h2>
+
+    <!-- Collapsible content -->
+    <div data-bind="visible: group.visible()" class="aher-report-collapsible-container pad-lft">
+
+        <!-- ko ifnot: group.related().length -->
+        <div class="aher-nodata-note">No related resources</div>
+        <!-- /ko -->
+
+        <!-- ko foreach: {data: group.related, as: 'chronometerTrial', noChildContext: true}-->
+
+        <div class="aher-report-subsection">
+            <h3 class="aher-report-section-subtitle"><i data-bind="click: function() {toggleVisibility(chronometerTrial.visible)}, css: {'fa-angle-double-right': chronometerTrial.visible(), 'fa-angle-double-up': !chronometerTrial.visible()}" class="fa toggle"></i> <span data-bind="text: chronometerTrial.name"></span></h3>
+
+            <div class="aher-report-subsection" data-bind="visible: chronometerTrial.visible">
+                <div class="firstchild-container">
+                    <div class="aher-table" data-bind="">
+                        <table class="table table-striped" cellspacing="0" width="100%">
+                            <thead>
+                                <tr class="aher-table-header">
+                                    <th></th>
+                                    <th></th>
+                                    <th>{% trans "Detail" %}</th>
+                                    <th class="aher-table-control all"></th>
+                                </tr>
+                            </thead>
+                            <tbody data-bind="dataTablesForEach: { data: chronometerTrial.fields, dataTableOptions: tableConfig}">
+                                <tr>
+                                    <td data-bind="text: _order"></td>
+                                    <td data-bind="text: key"><a href="" class="aher-table-link"></a></td>
+                                    <td data-bind="text: value"></td>
+                                    <td>
+                                        [link]
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /ko -->
+    </div>
+    <!-- /ko -->
+</div>
+{% endblock body %}
+{% endblock report %}

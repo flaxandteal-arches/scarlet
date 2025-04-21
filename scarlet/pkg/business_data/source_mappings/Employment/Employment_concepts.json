@@ -1,0 +1,14 @@
+{
+    "Confidence Type": {
+        "5a5e765a-c309-473d-a2eb-8615634ac622": "Fuzzy",
+        "4748b66d-1646-4e2d-b3ce-d90b61bdba35": "Uncertain"
+    },
+    "Date Type": {
+        "46863611-d65b-4adf-944e-24394dab676f": "Known Date",
+        "eb931a41-00cd-421c-bcdd-a2ac55d8a7be": "Occurred After",
+        "7b74ea6d-2424-461c-bcd2-7de244f0a31d": "Occurred Before"
+    },
+    "Resource to Resource Relationship Types": {
+        "ac41d9be-79db-4256-b368-2f4559cfbe55": "is related to"
+    }
+}

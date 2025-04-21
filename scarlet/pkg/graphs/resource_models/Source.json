@@ -1,0 +1,3549 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "05eed252-fa18-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Source Creation Date (confidence)"
+                    },
+                    "nodegroup_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "05eed254-fa18-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Creation Date"
+                    },
+                    "nodegroup_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "11f455f6-fa1b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Source Publication End Date (confidence)"
+                    },
+                    "nodegroup_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "11f455f8-fa1b-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Publication End Date"
+                    },
+                    "nodegroup_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "144794d2-d6b3-4abe-98dc-41699541e606",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "144794d2-d6b3-4abe-98dc-41699541e606",
+                            "constraintid": "2a3e59d8-e392-4f2f-a7e7-7ad57c419d9e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "144794d2-d6b3-4abe-98dc-41699541e606",
+                            "constraintid": "8bd84f29-2bde-4733-9097-bdf42a36992d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Page Range"
+                    },
+                    "nodegroup_id": "9d181544-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "189229fe-5a62-4e1f-9bd8-a447f60a706e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "189229fe-5a62-4e1f-9bd8-a447f60a706e",
+                            "constraintid": "fb27e109-c2e4-462b-a328-ff1a25faf31e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "189229fe-5a62-4e1f-9bd8-a447f60a706e",
+                            "constraintid": "88fec656-8b3f-4da5-bf89-9bff757bfb7a",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Creator"
+                    },
+                    "nodegroup_id": "9567f5fc-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "2d771e7a-d21a-414d-9029-70a30934762e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "2d771e7a-d21a-414d-9029-70a30934762e",
+                            "constraintid": "16b871b4-4fd0-436a-ba67-f106984292df",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "2d771e7a-d21a-414d-9029-70a30934762e",
+                            "constraintid": "72317495-43a3-4e14-95aa-fcf9f1a18a38",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Title"
+                    },
+                    "nodegroup_id": "0062abc0-ea7a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "306f939a-fa18-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Source Publication Date (confidence)"
+                    },
+                    "nodegroup_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "306f939c-fa18-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Publication Single Date"
+                    },
+                    "nodegroup_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4397ae9d-187b-48c7-9633-3e2380f8a0ef",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "4397ae9d-187b-48c7-9633-3e2380f8a0ef",
+                            "constraintid": "26ed94b5-ff16-4413-8b23-3b1cc54389c3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "4397ae9d-187b-48c7-9633-3e2380f8a0ef",
+                            "constraintid": "fc039bf2-896e-4958-a2b5-929d3f05c398",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Addressee"
+                    },
+                    "nodegroup_id": "d100f524-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "57edd38c-9273-4c66-98c4-99cac67c8972",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "57edd38c-9273-4c66-98c4-99cac67c8972",
+                            "constraintid": "0a07dffa-f44a-43be-9d2e-81ea9cac673f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "57edd38c-9273-4c66-98c4-99cac67c8972",
+                            "constraintid": "063fc481-1686-4cec-90c5-593a935f1872",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Translator"
+                    },
+                    "nodegroup_id": "e1c8c05c-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "638b690a-466f-4ac8-96df-2ea3c9c4e8bc",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "638b690a-466f-4ac8-96df-2ea3c9c4e8bc",
+                            "constraintid": "c50c6cda-7471-43ca-820d-201a2dc1ac66",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "638b690a-466f-4ac8-96df-2ea3c9c4e8bc",
+                            "constraintid": "c763511e-e98d-4730-865c-34bafe5486b0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Place of Publication"
+                    },
+                    "nodegroup_id": "39ab0aac-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "6cd7685b-8b1a-4a21-9744-633d97578655",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "6cd7685b-8b1a-4a21-9744-633d97578655",
+                            "constraintid": "8302dc24-6b0b-48ee-908f-7bc612096606",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "6cd7685b-8b1a-4a21-9744-633d97578655",
+                            "constraintid": "004478f5-f9bb-4efa-9cd5-7f26410d7892",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Citation"
+                    },
+                    "nodegroup_id": "ed071974-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "7ae9055f-ce83-468b-bc7d-a90d8c85a791",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "7ae9055f-ce83-468b-bc7d-a90d8c85a791",
+                            "constraintid": "ce298d2a-034f-4443-ba1a-c9085a6d773c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "7ae9055f-ce83-468b-bc7d-a90d8c85a791",
+                            "constraintid": "0d31bf5b-bee8-4a27-9187-87d91c7edfd6",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Has Part"
+                    },
+                    "nodegroup_id": "ae362e6a-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "8bda5200-b0f6-4858-98d3-ac1b32fafea7",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "8bda5200-b0f6-4858-98d3-ac1b32fafea7",
+                            "constraintid": "c5bf733d-532e-4503-82a8-9fe77477d55e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "8bda5200-b0f6-4858-98d3-ac1b32fafea7",
+                            "constraintid": "0634de78-660e-43f0-be25-f5e1397a29b0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Held By"
+                    },
+                    "nodegroup_id": "4fd2714e-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "8d225073-d2f8-4332-bd5f-d06779d12065",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "8d225073-d2f8-4332-bd5f-d06779d12065",
+                            "constraintid": "ae57d359-f0a1-4dd6-8d41-68018ebc03f4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "8d225073-d2f8-4332-bd5f-d06779d12065",
+                            "constraintid": "4e8359ed-88f2-4cde-bcff-2b01959e1651",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Research Note"
+                    },
+                    "nodegroup_id": "049ac2d4-fa1c-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "a0fc5ba9-44ee-473b-93a8-31b9415d57ac",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "a0fc5ba9-44ee-473b-93a8-31b9415d57ac",
+                            "constraintid": "352dcd2f-3069-47a9-883a-260705cf1674",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "a0fc5ba9-44ee-473b-93a8-31b9415d57ac",
+                            "constraintid": "6f8dacf7-7eea-432b-bbb4-d1e9a23d0acc",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Editor"
+                    },
+                    "nodegroup_id": "ccc195b2-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "aac80c94-80de-44fc-b5d5-1c8c7a3fd63d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "aac80c94-80de-44fc-b5d5-1c8c7a3fd63d",
+                            "constraintid": "dbb5e7b1-e916-4eef-bb9c-312cbbf1ed86",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "aac80c94-80de-44fc-b5d5-1c8c7a3fd63d",
+                            "constraintid": "a096c58c-eff2-4607-93b2-24e428bfb0d4",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Catalogue Record URL"
+                    },
+                    "nodegroup_id": "61bb3558-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ba2b0816-310a-4d26-b51f-626baca49364",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "ba2b0816-310a-4d26-b51f-626baca49364",
+                            "constraintid": "72130c6b-0912-4e28-baa7-2d7f64015ab3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "ba2b0816-310a-4d26-b51f-626baca49364",
+                            "constraintid": "3732bd73-1784-4a55-9cb3-c842445f1611",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Publisher"
+                    },
+                    "nodegroup_id": "af1d113a-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d3e62b88-e21d-461e-9639-723634a52dbc",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d3e62b88-e21d-461e-9639-723634a52dbc",
+                            "constraintid": "67758559-6a65-40e6-8f66-41b010b398ef",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d3e62b88-e21d-461e-9639-723634a52dbc",
+                            "constraintid": "f9aed7a1-2678-4cb6-b9c9-e8cdb6a8337f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Source Type"
+                    },
+                    "nodegroup_id": "8347b1dc-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ddee5619-6842-429e-a0e5-a8c47c4672a9",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "ddee5619-6842-429e-a0e5-a8c47c4672a9",
+                            "constraintid": "5e04bec2-7c5a-4358-8569-fd8e6784bb5f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "ddee5619-6842-429e-a0e5-a8c47c4672a9",
+                            "constraintid": "c1c29587-c4c3-4fca-895d-362fc397f36b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Source - Additional Notes"
+                    },
+                    "nodegroup_id": "7862e6b2-4ca4-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e1f96ac3-05a9-4f76-ae6a-a8b8626231f6",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "e1f96ac3-05a9-4f76-ae6a-a8b8626231f6",
+                            "constraintid": "22669ad8-b07b-4b33-b931-83565d7990af",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "e1f96ac3-05a9-4f76-ae6a-a8b8626231f6",
+                            "constraintid": "9995ca22-72f0-4f36-ab06-f757b6455c9d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "MSS Reference"
+                    },
+                    "nodegroup_id": "9128267a-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "eff2c7b2-3eef-4309-bb70-44d9c110d6a5",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "eff2c7b2-3eef-4309-bb70-44d9c110d6a5",
+                            "constraintid": "64a3206f-10f2-4abb-94dc-9cd949af786f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "eff2c7b2-3eef-4309-bb70-44d9c110d6a5",
+                            "constraintid": "ce311af7-bb7e-4d48-9165-de5988275958",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "SIMON Source Identifier"
+                    },
+                    "nodegroup_id": "77971bda-4ca0-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f039cafb-3fc5-4915-af85-2a5fb1a782e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f039cafb-3fc5-4915-af85-2a5fb1a782e0",
+                            "constraintid": "7576a0b1-41c6-48b7-b305-66ac9947754b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f039cafb-3fc5-4915-af85-2a5fb1a782e0",
+                            "constraintid": "0e9e5813-926c-4eb7-997b-c63c17edb8e7",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Abbreviated Citation"
+                    },
+                    "nodegroup_id": "f77c9a6e-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f0572540-fa1a-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Source Publication Start Date (confidence)"
+                    },
+                    "nodegroup_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f0572542-fa1a-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Publication Start Date"
+                    },
+                    "nodegroup_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "fe296ac4-7e14-4382-8bfe-41751de9f53f",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "fe296ac4-7e14-4382-8bfe-41751de9f53f",
+                            "constraintid": "90ca15bf-e72f-4444-8f0f-9eef1a5732f5",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "fe296ac4-7e14-4382-8bfe-41751de9f53f",
+                            "constraintid": "6ba70f74-eea8-4874-84f5-433a54adbb10",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Has Catalogue Identifier"
+                    },
+                    "nodegroup_id": "76946d6e-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "57edd38c-9273-4c66-98c4-99cac67c8972",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Translator",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "01eb6c9d-3e2b-4e07-9354-f71a27e0667d",
+                    "label": {
+                        "en": "Translator"
+                    },
+                    "node_id": "e1c8c05c-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "aac80c94-80de-44fc-b5d5-1c8c7a3fd63d",
+                    "config": {
+                        "i18n_properties": [
+                            "url_label_placeholder",
+                            "url_placeholder"
+                        ],
+                        "label": "Catalogue Record URL",
+                        "link_color": "#0055a0",
+                        "url_label_placeholder": {
+                            "en": "Enter URL Label... "
+                        },
+                        "url_placeholder": {
+                            "en": "Enter URL... "
+                        }
+                    },
+                    "id": "102d373d-f073-4ff3-a8ba-8ec2d498a6e2",
+                    "label": {
+                        "en": "Catalogue Record URL"
+                    },
+                    "node_id": "61bb3558-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ca0c43ff-af73-4349-bafd-53ff9f22eebd"
+                },
+                {
+                    "card_id": "8bda5200-b0f6-4858-98d3-ac1b32fafea7",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Held By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "10573cea-416b-4414-8134-781d93b95f21",
+                    "label": {
+                        "en": "Held By"
+                    },
+                    "node_id": "4fd2714e-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "189229fe-5a62-4e1f-9bd8-a447f60a706e",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Creator",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "10f50d92-ad70-4cca-ab14-0aa535ad8831",
+                    "label": {
+                        "en": "Creator"
+                    },
+                    "node_id": "9567f5fc-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "ddee5619-6842-429e-a0e5-a8c47c4672a9",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Source - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "191b50ec-87da-4f89-8dcc-f3ccfa64b45d",
+                    "label": {
+                        "en": "Source - Additional Notes"
+                    },
+                    "node_id": "7862e6b2-4ca4-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "d3e62b88-e21d-461e-9639-723634a52dbc",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Source Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "305ec17f-ec81-461e-8279-cb816270e05b",
+                    "label": {
+                        "en": "Source Type"
+                    },
+                    "node_id": "8347b1dc-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "4397ae9d-187b-48c7-9633-3e2380f8a0ef",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Addressee",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "34874906-7cb9-4415-8d4d-c729e3ec4b4a",
+                    "label": {
+                        "en": "Addressee"
+                    },
+                    "node_id": "d100f524-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "ba2b0816-310a-4d26-b51f-626baca49364",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Publisher",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "3dc90e73-b11c-43ac-929a-0d339d2a5596",
+                    "label": {
+                        "en": "Publisher"
+                    },
+                    "node_id": "af1d113a-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "638b690a-466f-4ac8-96df-2ea3c9c4e8bc",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place of Publication",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "5f9f9bd4-907f-4bff-9be6-a5a1cc682fc3",
+                    "label": {
+                        "en": "Place of Publication"
+                    },
+                    "node_id": "39ab0aac-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "eff2c7b2-3eef-4309-bb70-44d9c110d6a5",
+                    "config": {
+                        "defaultValue": "",
+                        "format": "",
+                        "i18n_properties": [
+                            "placeholder",
+                            "prefix",
+                            "suffix"
+                        ],
+                        "label": "SIMON Source Identifier",
+                        "max": "",
+                        "min": "",
+                        "placeholder": {
+                            "en": "Enter number"
+                        },
+                        "precision": "",
+                        "prefix": {
+                            "en": ""
+                        },
+                        "step": "",
+                        "suffix": {
+                            "en": ""
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "6bba988b-05ea-4cae-b632-d230f2739d1b",
+                    "label": {
+                        "en": "SIMON Source Identifier"
+                    },
+                    "node_id": "77971bda-4ca0-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000008"
+                },
+                {
+                    "card_id": "6cd7685b-8b1a-4a21-9744-633d97578655",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Citation",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "7be04bd6-2aa4-4186-947e-0e02145b2da0",
+                    "label": {
+                        "en": "Citation"
+                    },
+                    "node_id": "ed071974-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "8d225073-d2f8-4332-bd5f-d06779d12065",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Research Note",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "7dbb8ed3-1327-4c14-8113-b9e9f8817219",
+                    "label": {
+                        "en": "Research Note"
+                    },
+                    "node_id": "049ac2d4-fa1c-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "e1f96ac3-05a9-4f76-ae6a-a8b8626231f6",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "MSS Reference",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "803fef75-676b-4359-9e1b-c61226da5384",
+                    "label": {
+                        "en": "MSS Reference"
+                    },
+                    "node_id": "9128267a-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "fe296ac4-7e14-4382-8bfe-41751de9f53f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Has Catalogue Identifier",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "9a0374a7-c2d6-4e5f-88ca-b895a1b2ca6a",
+                    "label": {
+                        "en": "Has Catalogue Identifier"
+                    },
+                    "node_id": "76946d6e-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "144794d2-d6b3-4abe-98dc-41699541e606",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Page Range",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "a12db3e1-38cd-4a1b-85c5-bd66027aa582",
+                    "label": {
+                        "en": "Page Range"
+                    },
+                    "node_id": "9d181544-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "2d771e7a-d21a-414d-9029-70a30934762e",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Title",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "c4163996-deb3-4c9a-acf2-c7a3b6b26e21",
+                    "label": {
+                        "en": "Title"
+                    },
+                    "node_id": "0062abc0-ea7a-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "a0fc5ba9-44ee-473b-93a8-31b9415d57ac",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Editor",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "e2c70198-88af-4ee5-b03b-bc34bcbafd82",
+                    "label": {
+                        "en": "Editor"
+                    },
+                    "node_id": "ccc195b2-fa17-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "f039cafb-3fc5-4915-af85-2a5fb1a782e0",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Abbreviated Citation",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "ed7afa43-88d7-4d2f-9836-63ec099925f5",
+                    "label": {
+                        "en": "Abbreviated Citation"
+                    },
+                    "node_id": "f77c9a6e-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "7ae9055f-ce83-468b-bc7d-a90d8c85a791",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Has Part",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "fbe611b6-db72-4aa5-bf58-b850bd5c7c84",
+                    "label": {
+                        "en": "Has Part"
+                    },
+                    "node_id": "ae362e6a-fa1b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "00112589-3722-4fff-8578-a627cde7764e",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasIdentifier",
+                    "rangenode_id": "61bb3558-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed25c-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "05eed25a-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed25d-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "05eed25b-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed25e-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "05eed258-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed25f-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "05eed257-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed260-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "05eed256-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed261-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "05eed255-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed262-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "05eed259-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "05eed263-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "05eed251-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45600-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "11f455fe-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45601-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "11f455ff-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45602-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "11f455fc-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45603-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "11f455fb-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45604-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "11f455fa-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45605-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "11f455f9-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45606-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "11f455fd-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "edgeid": "11f45607-fa1b-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "11f455f5-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "14de1203-347c-494d-b504-75b36bb660ca",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCatalogueIdentifier",
+                    "rangenode_id": "76946d6e-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "1b7ae617-b3d1-4dd9-9769-ba39741f7f15",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasMSSreference",
+                    "rangenode_id": "9128267a-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "1da541d7-b12d-4630-a4c7-337044bd9fd3",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasSIMONidentifier",
+                    "rangenode_id": "77971bda-4ca0-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "2b37d39e-34dd-49c5-adba-7e92616c42f8",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#addressee",
+                    "rangenode_id": "d100f524-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93a4-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "306f93a2-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93a5-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "306f93a3-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93a6-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "306f93a0-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93a7-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "306f939f-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93a8-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "306f939e-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93a9-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "306f939d-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93aa-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "306f93a1-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "edgeid": "306f93ab-fa18-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "306f9399-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "308c8ca8-d978-42f5-a12b-43db717306f0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasTranslator",
+                    "rangenode_id": "e1c8c05c-fa17-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "31b4791f-42c7-4e13-98b1-2a4c7fe8ce67",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCitationAbbreviation",
+                    "rangenode_id": "f77c9a6e-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "36fdcaa3-1d07-47a1-9210-f5eb275ad9e6",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/hasPart",
+                    "rangenode_id": "ae362e6a-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "38da60d4-82a8-42c9-9edf-70f4b817356b",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/creator",
+                    "rangenode_id": "9567f5fc-fa17-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "3c0f28d1-cfb6-414e-a25f-cacabb653dd6",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#heldBy",
+                    "rangenode_id": "4fd2714e-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "4228e827-4c8c-4463-853f-24e74812b9b7",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "f0572541-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "425e4ef0-07fc-4827-b65e-49b69c587db5",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "7862e6b2-4ca4-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "47a39273-0711-4f66-a74c-c585180659d3",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/publisher",
+                    "rangenode_id": "af1d113a-fa17-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "866742ba-5648-47c1-b3de-3c7ca254b304",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/spar/fabio/hasPlaceOfPublication",
+                    "rangenode_id": "39ab0aac-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "b346b722-2f38-4336-bcb4-27b5fdc87878",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "rangenode_id": "306f939b-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "c8414067-a134-4119-92d5-3a5a75cde4e8",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasSourceType",
+                    "rangenode_id": "8347b1dc-fa17-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "cc74b576-c907-4d79-9f0e-e820ef5e9b88",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCitation",
+                    "rangenode_id": "ed071974-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "d87928f8-5ed0-4c65-9c33-2b4193f34a75",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "rangenode_id": "05eed253-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "dc9c00bb-1514-42c4-9a2a-02cab5791b79",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://purl.org/dc/terms/title",
+                    "rangenode_id": "0062abc0-ea7a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "e1d47555-ab45-4b14-a6ff-c051f9424e34",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEditor",
+                    "rangenode_id": "ccc195b2-fa17-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "e23696b2-2284-4178-8f8b-5849bc65d93b",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "11f455f7-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "e7fab63c-ae70-4389-8299-bd50da944a7d",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasResearchNote",
+                    "rangenode_id": "049ac2d4-fa1c-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f057254a-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "f0572548-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f057254b-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "f0572549-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f057254c-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "f0572546-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f057254d-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "f0572545-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f057254e-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "f0572544-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f057254f-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "f0572543-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f0572550-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "f0572547-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "edgeid": "f0572551-fa1a-11ed-bf80-114c466094e0",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "f057253f-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "edgeid": "f3114e7d-89d6-47fa-b426-b9ec3f2aef63",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasPageRange",
+                    "rangenode_id": "9d181544-fa1b-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "0062abc0-ea7a-11ed-bf80-114c466094e0",
+                                "string_template": "<Title>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "id": "8320f5d3-93af-4f4d-866d-b37b98cf6f90"
+                }
+            ],
+            "graphid": "0adece94-7565-402a-b211-68e83ca85dd6",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Source"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0062abc0-ea7a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "049ac2d4-fa1c-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "05eed253-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "11f455f7-fa1b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "306f939b-fa18-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "39ab0aac-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4fd2714e-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "61bb3558-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "76946d6e-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "77971bda-4ca0-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "7862e6b2-4ca4-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8347b1dc-fa17-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9128267a-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9567f5fc-fa17-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9d181544-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ae362e6a-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "af1d113a-fa17-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ccc195b2-fa17-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d100f524-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e1c8c05c-fa17-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ed071974-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "f0572541-fa1a-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f77c9a6e-fa1b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "title",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Title",
+                    "nodegroup_id": "0062abc0-ea7a-11ed-bf80-114c466094e0",
+                    "nodeid": "0062abc0-ea7a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://purl.org/dc/terms/title",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "research_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Research Note",
+                    "nodegroup_id": "049ac2d4-fa1c-11ed-bf80-114c466094e0",
+                    "nodeid": "049ac2d4-fa1c-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasResearchNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date Confidence Assessment",
+                    "nodegroup_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date",
+                    "nodegroup_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date Confidence Type",
+                    "nodegroup_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed255-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date Confidence Note",
+                    "nodegroup_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed256-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date Confidence Probability Value",
+                    "nodegroup_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed257-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "05eed251-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed258-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date - Additional Notes",
+                    "nodegroup_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed259-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date Value",
+                    "nodegroup_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed25a-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creation_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creation Date Type",
+                    "nodegroup_id": "05eed253-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "05eed25b-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date Confidence Assessment",
+                    "nodegroup_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date",
+                    "nodegroup_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date Confidence Type",
+                    "nodegroup_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455f9-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date Confidence Note",
+                    "nodegroup_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455fa-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date Confidence Probability Value",
+                    "nodegroup_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455fb-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "11f455f5-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455fc-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date - Additional Notes",
+                    "nodegroup_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455fd-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date Value",
+                    "nodegroup_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455fe-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication End Date Type",
+                    "nodegroup_id": "11f455f7-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "11f455ff-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date Confidence Assessment",
+                    "nodegroup_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date",
+                    "nodegroup_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date Confidence Type",
+                    "nodegroup_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f939d-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date Confidence Note",
+                    "nodegroup_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f939e-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date Confidence Probability Value",
+                    "nodegroup_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f939f-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "306f9399-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f93a0-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date - Additional Notes",
+                    "nodegroup_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f93a1-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date Value",
+                    "nodegroup_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f93a2-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_single_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Single Date Type",
+                    "nodegroup_id": "306f939b-fa18-11ed-bf80-114c466094e0",
+                    "nodeid": "306f93a3-fa18-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_of_publication",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                                "name": "Place"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place of Publication",
+                    "nodegroup_id": "39ab0aac-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "39ab0aac-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                    "parentproperty": "http://purl.org/spar/fabio/hasPlaceOfPublication",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "held_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            },
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Held By",
+                    "nodegroup_id": "4fd2714e-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "4fd2714e-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#heldBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "catalogue_record_url",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "url",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Catalogue Record URL",
+                    "nodegroup_id": "61bb3558-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "61bb3558-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasIdentifier",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "has_catalogue_identifier",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Has Catalogue Identifier",
+                    "nodegroup_id": "76946d6e-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "76946d6e-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCatalogueIdentifier",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "simon_source_identifier",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "SIMON Source Identifier",
+                    "nodegroup_id": "77971bda-4ca0-11ee-906b-63b45ef4509d",
+                    "nodeid": "77971bda-4ca0-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#integer",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasSIMONidentifier",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "source_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Source - Additional Notes",
+                    "nodegroup_id": "7862e6b2-4ca4-11ee-906b-63b45ef4509d",
+                    "nodeid": "7862e6b2-4ca4-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "source_type",
+                    "config": {
+                        "rdmCollection": "2f1f82f7-cd78-4330-8cef-843fab65fed3"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Source Type",
+                    "nodegroup_id": "8347b1dc-fa17-11ed-bf80-114c466094e0",
+                    "nodeid": "8347b1dc-fa17-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#SourceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasSourceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "mss_reference",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "MSS Reference",
+                    "nodegroup_id": "9128267a-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "9128267a-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasMSSreference",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "creator",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Creator",
+                    "nodegroup_id": "9567f5fc-fa17-11ed-bf80-114c466094e0",
+                    "nodeid": "9567f5fc-fa17-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://purl.org/dc/terms/creator",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "page_range",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Page Range",
+                    "nodegroup_id": "9d181544-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "9d181544-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasPageRange",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "has_part",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                                "name": "Object"
+                            },
+                            {
+                                "graphid": "0adece94-7565-402a-b211-68e83ca85dd6",
+                                "name": "Source"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Has Part",
+                    "nodegroup_id": "ae362e6a-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "ae362e6a-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Source",
+                    "parentproperty": "http://purl.org/dc/terms/hasPart",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publisher",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publisher",
+                    "nodegroup_id": "af1d113a-fa17-11ed-bf80-114c466094e0",
+                    "nodeid": "af1d113a-fa17-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://purl.org/dc/terms/publisher",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "editor",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Editor",
+                    "nodegroup_id": "ccc195b2-fa17-11ed-bf80-114c466094e0",
+                    "nodeid": "ccc195b2-fa17-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEditor",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "addressee",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Addressee",
+                    "nodegroup_id": "d100f524-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "d100f524-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#addressee",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translator",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translator",
+                    "nodegroup_id": "e1c8c05c-fa17-11ed-bf80-114c466094e0",
+                    "nodeid": "e1c8c05c-fa17-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasTranslator",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "citation",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Citation",
+                    "nodegroup_id": "ed071974-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "ed071974-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCitation",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date Confidence Assessment",
+                    "nodegroup_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date",
+                    "nodegroup_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date Confidence Type",
+                    "nodegroup_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572543-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date Confidence Note",
+                    "nodegroup_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572544-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date Confidence Probability Value",
+                    "nodegroup_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572545-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "f057253f-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572546-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date - Additional Notes",
+                    "nodegroup_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572547-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date Value",
+                    "nodegroup_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572548-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "publication_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Publication Start Date Type",
+                    "nodegroup_id": "f0572541-fa1a-11ed-bf80-114c466094e0",
+                    "nodeid": "f0572549-fa1a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "source",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Source",
+                    "nodegroup_id": null,
+                    "nodeid": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Source",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "abbreviated_citation",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Abbreviated Citation",
+                    "nodegroup_id": "f77c9a6e-fa1b-11ed-bf80-114c466094e0",
+                    "nodeid": "f77c9a6e-fa1b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasCitationAbbreviation",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                "notes": null,
+                "publicationid": "4a928126-d90e-4a70-b0e5-f5aa4801755e",
+                "published_time": "2022-07-18T15:38:52.776",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                "9207c09b-023e-42c6-9b30-051ac9279055",
+                "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                "a939c5db-9267-47e1-a8fa-db21af722c43",
+                "42296fdb-0e83-45c1-b462-ac78c35b4f71",
+                "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "9ef79519-0b47-42fe-b66c-3879bfa9666b",
+                "78dbd0df-288f-4896-9c93-a91719f73381",
+                "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "e9619bc4-560e-4dd0-949b-87f799c96558",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd",
+                "0adece94-7565-402a-b211-68e83ca85dd6"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "source",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Source",
+                "nodegroup_id": null,
+                "nodeid": "f1b2e982-ea79-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Source",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

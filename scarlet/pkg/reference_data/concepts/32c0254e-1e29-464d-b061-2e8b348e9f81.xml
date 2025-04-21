@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/93dbced9-d481-437f-ae0e-e9ebfd42e450">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b2fdc5e9-9af7-4b33-aed3-66f622246435"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ae754ccb-a9ff-4702-90ca-5446a42a8436"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/409c7bd6-a52c-4bbe-858f-460c6b722f4c"/>
+        <dcterms:title xml:lang="en">{"id": "b0bce94e-b7ea-4e71-b0a8-03897454f15e", "value": "Membership Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/dbe85ca7-19af-48e6-ba0e-9c1f850cb3ec"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/93dbced9-d481-437f-ae0e-e9ebfd42e450"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/55f66d0c-f5f5-44b9-acfb-ac11a34cdff3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/651934cf-b765-4de6-94cf-e32ad8d73645"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3add0e4d-6520-4f0c-a0f3-d704905aaa5c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4efefbcc-1395-436f-89b1-c55c79666ae2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/323be33a-ec63-403c-958d-aa2bd98baa49"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ed380f73-f99b-4d71-bfda-760846aa241a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/264ac861-6407-4fc7-9d94-0cd77c9f7571"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "670c9608-94bc-4f94-bd99-0c381f02c4f3", "value": "Crown Agent"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3add0e4d-6520-4f0c-a0f3-d704905aaa5c">
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+    <skos:prefLabel xml:lang="en">{"id": "a910cf4d-b004-4783-8251-f53809b7b588", "value": "Master"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/abe3c146-971d-4568-be36-3a6a8e051e81">
+        <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+        <skos:prefLabel xml:lang="en">{"id": "0d905dba-0ff7-4cd8-a1c6-9b0c0adf2242", "value": "Master of Livery Company"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3551acaa-b27d-4640-af38-5f1e71b65d25">
+        <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+        <skos:prefLabel xml:lang="en">{"id": "6ab03e73-f647-4af2-b7d3-414e88dd9739", "value": "Master of Guild"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/264ac861-6407-4fc7-9d94-0cd77c9f7571">
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+    <skos:prefLabel xml:lang="en">{"id": "fbd816e1-b66c-4203-a72b-01c063518ed0", "value": "President"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/651934cf-b765-4de6-94cf-e32ad8d73645">
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+    <skos:prefLabel xml:lang="en">{"id": "a3e89096-538a-41b7-b6e3-b17f15b2289b", "value": "Assistant"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b2fdc5e9-9af7-4b33-aed3-66f622246435">
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+    <skos:prefLabel xml:lang="en">{"id": "1bb75281-1f44-4798-bb2a-f6c67efea7b5", "value": "Council Member"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/409c7bd6-a52c-4bbe-858f-460c6b722f4c">
+    <skos:prefLabel xml:lang="en">{"id": "9a53e45b-11c8-4fc8-8c52-907bc370c4be", "value": "Vice President"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b40503c0-a841-4b92-b1be-13fc9bb77437">
+    <skos:prefLabel xml:lang="en">{"id": "8ef63d37-d263-4adb-9172-a281819c76c0", "value": "Prime Warden"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/55f66d0c-f5f5-44b9-acfb-ac11a34cdff3">
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+    <skos:prefLabel xml:lang="en">{"id": "f6d7f636-bfee-40db-9cad-3bb52a1b07a3", "value": "Fellow"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/323be33a-ec63-403c-958d-aa2bd98baa49">
+    <skos:prefLabel xml:lang="en">{"id": "edecaa0c-8b4c-452d-9b50-362a1d729883", "value": "Journeyman"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ed380f73-f99b-4d71-bfda-760846aa241a">
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+    <skos:prefLabel xml:lang="en">{"id": "8bff4ed8-dc6c-48e8-9ad9-25fce94dccd4", "value": "Member"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dbe85ca7-19af-48e6-ba0e-9c1f850cb3ec">
+    <skos:prefLabel xml:lang="en">{"id": "86aeaee6-98ad-4e36-a40b-b9735ebe2947", "value": "Founder Member"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4efefbcc-1395-436f-89b1-c55c79666ae2">
+    <skos:prefLabel xml:lang="en">{"id": "b961178d-88c7-4404-9f2a-ef4ef93d3c5d", "value": "Warden"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/b40503c0-a841-4b92-b1be-13fc9bb77437"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ae754ccb-a9ff-4702-90ca-5446a42a8436">
+    <skos:prefLabel xml:lang="en">{"id": "4746e165-4fee-4323-9914-38dd6f9cdfa3", "value": "Honorary Member"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/32c0254e-1e29-464d-b061-2e8b348e9f81"/>
+  </skos:Concept>
+</rdf:RDF>

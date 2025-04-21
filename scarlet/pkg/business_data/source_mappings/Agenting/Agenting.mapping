@@ -1,0 +1,137 @@
+{
+    "resource_model_id": "1af8df78-4306-4954-a2c9-40050dbad8af",
+    "resource_model_name": "Agenting",
+    "nodes": [
+        {
+            "arches_nodeid": "e17f6bd4-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agent",
+            "file_field_name": "Agent",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3dfd9f5c-fa20-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agent for Objects of Type",
+            "file_field_name": "Agent for Objects of Type",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6ab97bf6-fa20-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agent for Specific Object(s)",
+            "file_field_name": "Agent for Specific Object(s)",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "728c33a5-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting End Date - Additional Notes",
+            "file_field_name": "Agenting End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "728c33a4-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Agenting End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "728c33a2-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting End Date Confidence Note",
+            "file_field_name": "Agenting End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "728c33a3-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting End Date Confidence Probability Value",
+            "file_field_name": "Agenting End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "728c33a1-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting End Date Confidence Type",
+            "file_field_name": "Agenting End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "728c33a7-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting End Date Type",
+            "file_field_name": "Agenting End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "728c33a6-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting End Date Value",
+            "file_field_name": "Agenting End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5350e37d-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting Start Date - Additional Notes",
+            "file_field_name": "Agenting Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5350e37c-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Agenting Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5350e37a-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting Start Date Confidence Note",
+            "file_field_name": "Agenting Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5350e37b-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting Start Date Confidence Probability Value",
+            "file_field_name": "Agenting Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5350e379-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting Start Date Confidence Type",
+            "file_field_name": "Agenting Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5350e37f-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting Start Date Type",
+            "file_field_name": "Agenting Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5350e37e-fa1f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Agenting Start Date Value",
+            "file_field_name": "Agenting Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0edc2f4a-fa20-11ed-bf80-114c466094e0",
+            "arches_node_name": "Client",
+            "file_field_name": "Client",
+            "data_type": "resource-instance",
+            "export": true
+        }
+    ]
+}

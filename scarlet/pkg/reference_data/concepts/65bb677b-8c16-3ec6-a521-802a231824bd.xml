@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/46f58d2a-bbf9-3d4f-9c47-7e5f896186eb">
+    <skos:prefLabel xml:lang="en">{"id": "31da98e8-00c8-4dc1-a14a-47846a15167b", "value": "Royal Appointment - Hydrographer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "02d087ff-ffaf-4b24-931b-f97e760e73ce", "value": "http://toolsofknowledge.org/BusinessAppointmentType/Royal Appointment - Hydrographer"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/65bb677b-8c16-3ec6-a521-802a231824bd">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4a6b7322-62f8-3a61-b2e4-b59edbb583ae"/>
+        <dcterms:title xml:lang="en">{"id": "0d2a451b-a6a1-464f-a8c7-fc37f257424f", "value": "Business Appointment Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/46f58d2a-bbf9-3d4f-9c47-7e5f896186eb"/>
+        <dcterms:identifier xml:lang="en">{"id": "6fec8fff-5b68-4b16-a7c2-53c10828685a", "value": "http://toolsofknowledge.org/BusinessAppointmentType/"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/12ba0e90-a75e-3603-80d1-b58e48325a51"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4a6b7322-62f8-3a61-b2e4-b59edbb583ae">
+    <skos:prefLabel xml:lang="en">{"id": "6fb7f766-f13d-4be3-9ac4-dba8fa56dbc4", "value": "Royal Appointment"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/65bb677b-8c16-3ec6-a521-802a231824bd"/>
+    <dcterms:identifier xml:lang="en">{"id": "9b8fd86c-4107-455c-9917-a16a08d84394", "value": "http://toolsofknowledge.org/BusinessAppointmentType/Royal Appointment"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/12ba0e90-a75e-3603-80d1-b58e48325a51">
+    <dcterms:identifier xml:lang="en">{"id": "9b511abe-c90d-464c-97ef-caec376ff968", "value": "http://toolsofknowledge.org/BusinessAppointmentType/Optician"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/65bb677b-8c16-3ec6-a521-802a231824bd"/>
+    <skos:prefLabel xml:lang="en">{"id": "8999b0d4-6e4e-4ce9-8512-1ebc99e0ce63", "value": "Optician"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

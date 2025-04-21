@@ -1,0 +1,136 @@
+{
+    "resource_model_id": "9207c09b-023e-42c6-9b30-051ac9279055",
+    "resource_model_name": "Exhibition",
+    "nodes": [
+        {
+            "arches_nodeid": "40a06896-ee65-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibited Work By",
+            "file_field_name": "Exhibited Work By",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "58dec286-ee65-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition - Additional Notes",
+            "file_field_name": "Exhibition - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "29f5a20f-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition End Date - Additional Notes",
+            "file_field_name": "Exhibition End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "29f5a20e-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Exhibition End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "29f5a20c-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition End Date Confidence Note",
+            "file_field_name": "Exhibition End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "29f5a20d-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition End Date Confidence Probability Value",
+            "file_field_name": "Exhibition End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "29f5a20b-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition End Date Confidence Type",
+            "file_field_name": "Exhibition End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "29f5a211-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition End Date Type",
+            "file_field_name": "Exhibition End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "29f5a210-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition End Date Value",
+            "file_field_name": "Exhibition End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b86de1b6-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Name",
+            "file_field_name": "Exhibition Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c714e5e7-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Start Date - Additional Notes",
+            "file_field_name": "Exhibition Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c714e5e6-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Exhibition Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c714e5e4-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Start Date Confidence Note",
+            "file_field_name": "Exhibition Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c714e5e5-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Start Date Confidence Probability Value",
+            "file_field_name": "Exhibition Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c714e5e3-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Start Date Confidence Type",
+            "file_field_name": "Exhibition Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c714e5e9-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Start Date Type",
+            "file_field_name": "Exhibition Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c714e5e8-ee63-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Start Date Value",
+            "file_field_name": "Exhibition Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "608f9416-ee64-11ed-bf80-114c466094e0",
+            "arches_node_name": "Exhibition Took Place At",
+            "file_field_name": "Exhibition Took Place At",
+            "data_type": "resource-instance-list",
+            "export": true
+        }
+    ]
+}

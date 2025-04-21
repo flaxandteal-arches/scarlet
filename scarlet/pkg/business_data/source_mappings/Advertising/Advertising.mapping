@@ -1,0 +1,125 @@
+{
+    "resource_model_id": "42296fdb-0e83-45c1-b462-ac78c35b4f71",
+    "resource_model_name": "Advertising",
+    "nodes": [
+        {
+            "arches_nodeid": "c596dea0-f3e1-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertised Maker",
+            "file_field_name": "Advertised Maker",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e1e47496-f3e1-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertised Maker Occupation",
+            "file_field_name": "Advertised Maker Occupation",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "19917c4e-f898-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertised Objects for use in Occupation(s)",
+            "file_field_name": "Advertised Objects for use in Occupation(s)",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bb3ef34c-f897-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertised Objects in Scientific Domain(s)",
+            "file_field_name": "Advertised Objects in Scientific Domain(s)",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "036ee35c-f898-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertised Objects of Material(s)",
+            "file_field_name": "Advertised Objects of Material(s)",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "57608174-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertised Objects of Type(s)",
+            "file_field_name": "Advertised Objects of Type(s)",
+            "data_type": "concept-list",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "412e5412-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertised Specific Object(s)",
+            "file_field_name": "Advertised Specific Object(s)",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4dcfa8f0-f898-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising - Additional Notes",
+            "file_field_name": "Advertising - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0242081f-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising Date - Additional Notes",
+            "file_field_name": "Advertising Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0242081e-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Advertising Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0242081c-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising Date Confidence Note",
+            "file_field_name": "Advertising Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0242081d-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising Date Confidence Probability Value",
+            "file_field_name": "Advertising Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0242081b-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising Date Confidence Type",
+            "file_field_name": "Advertising Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "02420821-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising Date Type",
+            "file_field_name": "Advertising Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "02420820-f3e2-11ed-bf80-114c466094e0",
+            "arches_node_name": "Advertising Date Value",
+            "file_field_name": "Advertising Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3613ad24-f898-11ed-bf80-114c466094e0",
+            "arches_node_name": "Produced Advertisement",
+            "file_field_name": "Produced Advertisement",
+            "data_type": "resource-instance",
+            "export": true
+        }
+    ]
+}

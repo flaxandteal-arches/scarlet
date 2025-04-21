@@ -1,0 +1,912 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "13e9bd8e-fa15-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Marriage End Date (confidence)"
+                    },
+                    "nodegroup_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "13e9bd90-fa15-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Marriage End Date"
+                    },
+                    "nodegroup_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "48ce38e8-3b1d-47f7-bba1-2dce9ec440b6",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "48ce38e8-3b1d-47f7-bba1-2dce9ec440b6",
+                            "constraintid": "6a94bb33-7568-4be3-a971-aeaafe3ba0c2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "48ce38e8-3b1d-47f7-bba1-2dce9ec440b6",
+                            "constraintid": "242c3b7c-9694-4010-be2b-79e4474234e5",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Spouse"
+                    },
+                    "nodegroup_id": "4b2f42ee-fa15-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e5fac486-fa14-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Marriage Start Date (confidence)"
+                    },
+                    "nodegroup_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e5fac488-fa14-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Marriage Start Date"
+                    },
+                    "nodegroup_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "48ce38e8-3b1d-47f7-bba1-2dce9ec440b6",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Spouse",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "a1e2a2d0-53f8-4582-89b8-e6ecb2cbf7ad",
+                    "label": {
+                        "en": "Spouse"
+                    },
+                    "node_id": "4b2f42ee-fa15-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd98-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "13e9bd96-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd99-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "13e9bd97-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd9a-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "13e9bd94-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd9b-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "13e9bd93-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd9c-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "13e9bd92-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd9d-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "13e9bd91-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd9e-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "13e9bd95-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "edgeid": "13e9bd9f-fa15-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c9ce7e90-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "2f415103-2c10-4ead-b851-85ac8671152f",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "e5fac487-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c9ce7e90-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "52f4ae56-8c26-4ed4-a97d-7b2e6b8d6c43",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadSpouse",
+                    "rangenode_id": "4b2f42ee-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "c9ce7e90-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "8b69bb34-3e9b-4ce5-a4a8-e3c58d07ea38",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac490-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "e5fac48e-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac491-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "e5fac48f-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac492-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e5fac48c-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac493-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "e5fac48b-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac494-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "e5fac48a-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac495-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "e5fac489-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac496-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "e5fac48d-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "edgeid": "e5fac497-fa14-11ed-bf80-114c466094e0",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "e5fac485-fa14-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                                "string_template": "<Marriage Start Date Value>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "4b2f42ee-fa15-11ed-bf80-114c466094e0",
+                                "string_template": "Marriage of <Spouse>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "id": "b44c1629-e0ab-43da-8d7f-542febd66901"
+                }
+            ],
+            "graphid": "f048673a-903f-4665-a334-18efabbbe981",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Marriage"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4b2f42ee-fa15-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "e5fac487-fa14-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "marriage_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date Confidence Assessment",
+                    "nodegroup_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date",
+                    "nodegroup_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date Confidence Type",
+                    "nodegroup_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd91-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date Confidence Note",
+                    "nodegroup_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd92-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date Confidence Probability Value",
+                    "nodegroup_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd93-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "13e9bd8d-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd94-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date - Additional Notes",
+                    "nodegroup_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd95-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date Value",
+                    "nodegroup_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd96-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage End Date Type",
+                    "nodegroup_id": "13e9bd8f-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "13e9bd97-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "spouse",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Spouse",
+                    "nodegroup_id": "4b2f42ee-fa15-11ed-bf80-114c466094e0",
+                    "nodeid": "4b2f42ee-fa15-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadSpouse",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Marriage",
+                    "nodegroup_id": null,
+                    "nodeid": "c9ce7e90-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Marriage",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date Confidence Assessment",
+                    "nodegroup_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date",
+                    "nodegroup_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date Confidence Type",
+                    "nodegroup_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac489-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date Confidence Note",
+                    "nodegroup_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac48a-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date Confidence Probability Value",
+                    "nodegroup_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac48b-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "e5fac485-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac48c-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date - Additional Notes",
+                    "nodegroup_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac48d-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date Value",
+                    "nodegroup_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac48e-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "marriage_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Marriage Start Date Type",
+                    "nodegroup_id": "e5fac487-fa14-11ed-bf80-114c466094e0",
+                    "nodeid": "e5fac48f-fa14-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                "notes": null,
+                "publicationid": "ec32da4a-05ee-11ee-a549-ff891e817ac1",
+                "published_time": "2023-06-08T06:23:41.817",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "marriage",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "f048673a-903f-4665-a334-18efabbbe981",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Marriage",
+                "nodegroup_id": null,
+                "nodeid": "c9ce7e90-fa14-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Marriage",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

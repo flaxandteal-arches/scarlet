@@ -1,0 +1,1109 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "043f2750-ee69-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Ownership Start Date (confidence)"
+                    },
+                    "nodegroup_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "043f2752-ee69-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Ownership Start Date"
+                    },
+                    "nodegroup_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3d78ee66-ee69-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Ownership End Date (confidence)"
+                    },
+                    "nodegroup_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3d78ee68-ee69-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Ownership End Date"
+                    },
+                    "nodegroup_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "516efe49-f29f-4a4f-9c3b-b33530de7e4e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "516efe49-f29f-4a4f-9c3b-b33530de7e4e",
+                            "constraintid": "929c3f62-3718-43ad-9367-2c58b227cddf",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "516efe49-f29f-4a4f-9c3b-b33530de7e4e",
+                            "constraintid": "e57595da-b9c5-468b-b56d-78a2349fbab7",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Ownership - Additional Notes"
+                    },
+                    "nodegroup_id": "936b0cf2-73e4-11ee-906b-63b45ef4509d",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e040a3fc-b787-420c-bdc3-a5ddb57423d3",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "e040a3fc-b787-420c-bdc3-a5ddb57423d3",
+                            "constraintid": "65e51acd-fa05-4347-8b20-cae4bd1dd076",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "e040a3fc-b787-420c-bdc3-a5ddb57423d3",
+                            "constraintid": "fb8abfbc-908b-4f45-9db1-7fce0cd6d7d8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Owned"
+                    },
+                    "nodegroup_id": "ba804fca-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f4be5186-3959-4c08-ba3d-355296d71830",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f4be5186-3959-4c08-ba3d-355296d71830",
+                            "constraintid": "472166d6-18ef-4a51-b32c-8b20b61855d8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f4be5186-3959-4c08-ba3d-355296d71830",
+                            "constraintid": "5d89ef92-62a8-4753-9f59-7c38faed82f1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Owner"
+                    },
+                    "nodegroup_id": "a865059c-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "516efe49-f29f-4a4f-9c3b-b33530de7e4e",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Ownership - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "0684e356-5005-4fce-8fce-9c3040509a02",
+                    "label": {
+                        "en": "Ownership - Additional Notes"
+                    },
+                    "node_id": "936b0cf2-73e4-11ee-906b-63b45ef4509d",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "f4be5186-3959-4c08-ba3d-355296d71830",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Owner",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "cb77da07-afbd-4115-9cdf-a175c51341ed",
+                    "label": {
+                        "en": "Owner"
+                    },
+                    "node_id": "a865059c-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f275a-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "043f2758-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f275b-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "043f2759-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f275c-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "043f2756-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f275d-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "043f2755-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f275e-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "043f2754-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f275f-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "043f2753-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f2760-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "043f2757-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "043f2761-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "043f274f-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "96037e06-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "115b2c53-1d36-4980-932b-81f424e3a87b",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "043f2751-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "96037e06-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "24e3319a-d8c2-49e4-a0e0-cb9dd14f9498",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "936b0cf2-73e4-11ee-906b-63b45ef4509d"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee70-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "3d78ee6e-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee71-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "3d78ee6f-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee72-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3d78ee6c-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee73-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "3d78ee6b-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee74-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "3d78ee6a-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee75-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "3d78ee69-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee76-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "3d78ee6d-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "edgeid": "3d78ee77-ee69-11ed-bf80-114c466094e0",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "3d78ee65-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "96037e06-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "4df06a6a-90c4-47c8-9fc6-2f4b937442d9",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "rangenode_id": "ba804fca-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "96037e06-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "5c461afd-3823-4fc7-9988-5f55a2235548",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadOwner",
+                    "rangenode_id": "a865059c-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "96037e06-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "61c8c9ef-f107-4665-ad50-b6193083d731",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "rangenode_id": "3d78ee67-ee69-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "string_template": "Ownership of <Owned> by <Owner>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "id": "b22a402b-e90c-4652-9571-9280a8cc30d3"
+                }
+            ],
+            "graphid": "a939c5db-9267-47e1-a8fa-db21af722c43",
+            "iconclass": "",
+            "is_editable": true,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Ownership"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "043f2751-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "3d78ee67-ee69-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "936b0cf2-73e4-11ee-906b-63b45ef4509d",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "a865059c-ee68-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ba804fca-ee68-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "ownership_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date Confidence Assessment",
+                    "nodegroup_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date",
+                    "nodegroup_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date Confidence Type",
+                    "nodegroup_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2753-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date Confidence Note",
+                    "nodegroup_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2754-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date Confidence Probability Value",
+                    "nodegroup_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2755-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "043f274f-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2756-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date - Additional Notes",
+                    "nodegroup_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2757-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date Value",
+                    "nodegroup_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2758-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership Start Date Type",
+                    "nodegroup_id": "043f2751-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "043f2759-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date Confidence Assessment",
+                    "nodegroup_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date",
+                    "nodegroup_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date Confidence Type",
+                    "nodegroup_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee69-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date Confidence Note",
+                    "nodegroup_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee6a-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date Confidence Probability Value",
+                    "nodegroup_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee6b-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "3d78ee65-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee6c-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date - Additional Notes",
+                    "nodegroup_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee6d-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date Value",
+                    "nodegroup_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee6e-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership End Date Type",
+                    "nodegroup_id": "3d78ee67-ee69-11ed-bf80-114c466094e0",
+                    "nodeid": "3d78ee6f-ee69-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Ownership - Additional Notes",
+                    "nodegroup_id": "936b0cf2-73e4-11ee-906b-63b45ef4509d",
+                    "nodeid": "936b0cf2-73e4-11ee-906b-63b45ef4509d",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "ownership",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Ownership",
+                    "nodegroup_id": null,
+                    "nodeid": "96037e06-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Ownership",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "owner",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            },
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Owner",
+                    "nodegroup_id": "a865059c-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "a865059c-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadOwner",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "owned",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Owned",
+                    "nodegroup_id": "ba804fca-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "ba804fca-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Organisation",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involved",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                "notes": null,
+                "publicationid": "a27c370c-73e4-11ee-906b-63b45ef4509d",
+                "published_time": "2023-10-26T04:47:11.085",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "0adece94-7565-402a-b211-68e83ca85dd6"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "ownership",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "a939c5db-9267-47e1-a8fa-db21af722c43",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Ownership",
+                "nodegroup_id": null,
+                "nodeid": "96037e06-ee68-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Ownership",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

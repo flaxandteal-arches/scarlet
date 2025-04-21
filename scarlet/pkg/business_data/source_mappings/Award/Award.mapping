@@ -1,0 +1,93 @@
+{
+    "resource_model_id": "3af5f01d-7d9f-4259-9201-0c882ac70183",
+    "resource_model_name": "Award",
+    "nodes": [
+        {
+            "arches_nodeid": "f31b7f01-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Date - Additional Notes",
+            "file_field_name": "Award Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f31b7f00-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Award Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f31b7efe-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Date Confidence Note",
+            "file_field_name": "Award Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f31b7eff-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Date Confidence Probability Value",
+            "file_field_name": "Award Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f31b7efd-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Date Confidence Type",
+            "file_field_name": "Award Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f31b7f03-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Date Type",
+            "file_field_name": "Award Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f31b7f02-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Date Value",
+            "file_field_name": "Award Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "15b9fdfe-fa2c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Awarded By",
+            "file_field_name": "Awarded By",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5645cb64-fa2c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Awarded For",
+            "file_field_name": "Awarded For",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2d539b32-fa2c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Awarded To",
+            "file_field_name": "Awarded To",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2cb6fc24-fa21-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Name",
+            "file_field_name": "Award Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "cccdd2d2-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Award Type",
+            "file_field_name": "Award Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}

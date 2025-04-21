@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/e5792024-3c07-325a-b6d6-13bbfd6f8bbc">
+    <skos:prefLabel xml:lang="en">{"id": "07cee18b-f528-49fb-bbd1-5d2c601dfd87", "value": "Quaker"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "efaf2732-09f3-44f5-9cbf-3896d7b5c761", "value": "http://toolsofknowledge.org/Religion/Quaker"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/cde09fa3-ac99-3d25-9c3f-36dfd321dc9e">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2ebd7bd7-2cc3-3ba3-8c20-589b574b2715"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d72701d9-1512-3ff1-8ca4-dbd0458470ef"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e5792024-3c07-325a-b6d6-13bbfd6f8bbc"/>
+        <dcterms:identifier xml:lang="en">{"id": "5f229fbd-5cc6-4358-81d3-5b4a5df53090", "value": "http://toolsofknowledge.org/Religion/"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6e66afd0-6054-3c0a-9ab1-3d713d3a0669"/>
+        <dcterms:title xml:lang="en">{"id": "62842bad-2791-4de7-a407-3ba0c5f9c3f9", "value": "Religions"}</dcterms:title>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6e66afd0-6054-3c0a-9ab1-3d713d3a0669">
+    <skos:inScheme rdf:resource="http://localhost:8000/cde09fa3-ac99-3d25-9c3f-36dfd321dc9e"/>
+    <dcterms:identifier xml:lang="en">{"id": "a2af75fa-d241-4e26-b3ac-4763d532f74f", "value": "http://toolsofknowledge.org/Religion/Jewish"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3b6c9350-0c78-4a0a-b69c-4da398aa5672", "value": "Jewish"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2ebd7bd7-2cc3-3ba3-8c20-589b574b2715">
+    <skos:prefLabel xml:lang="en">{"id": "64e3f401-fada-44e7-a69a-f5f0efdf5fdd", "value": "Swedenborgian"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/cde09fa3-ac99-3d25-9c3f-36dfd321dc9e"/>
+    <dcterms:identifier xml:lang="en">{"id": "87db5283-d272-4f7f-af78-118ad7876beb", "value": "http://toolsofknowledge.org/Religion/Swedenborgian"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d72701d9-1512-3ff1-8ca4-dbd0458470ef">
+    <skos:prefLabel xml:lang="en">{"id": "1a95ed06-c076-4887-9406-607e93ce540a", "value": "Free Church"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/cde09fa3-ac99-3d25-9c3f-36dfd321dc9e"/>
+    <dcterms:identifier xml:lang="en">{"id": "1b03a855-2a09-49e3-9b4b-eb77138554f9", "value": "http://toolsofknowledge.org/Religion/Free%20Church"}</dcterms:identifier>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,137 @@
+{
+    "resource_model_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+    "resource_model_name": "Membership",
+    "nodes": [
+        {
+            "arches_nodeid": "7f4517e0-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Member",
+            "file_field_name": "Member",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "94e31c28-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Member of Organisation",
+            "file_field_name": "Member of Organisation",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "630e9262-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership - Additional Notes",
+            "file_field_name": "Membership - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "058fb27d-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership End Date - Additional Notes",
+            "file_field_name": "Membership End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "058fb27c-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Membership End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "058fb27a-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership End Date Confidence Note",
+            "file_field_name": "Membership End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "058fb27b-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership End Date Confidence Probability Value",
+            "file_field_name": "Membership End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "058fb279-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership End Date Confidence Type",
+            "file_field_name": "Membership End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "058fb27f-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership End Date Type",
+            "file_field_name": "Membership End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "058fb27e-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership End Date Value",
+            "file_field_name": "Membership End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab95e8d7-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Start Date - Additional Notes",
+            "file_field_name": "Membership Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab95e8d6-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Membership Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab95e8d4-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Start Date Confidence Note",
+            "file_field_name": "Membership Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab95e8d5-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Start Date Confidence Probability Value",
+            "file_field_name": "Membership Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab95e8d3-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Start Date Confidence Type",
+            "file_field_name": "Membership Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab95e8d9-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Start Date Type",
+            "file_field_name": "Membership Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ab95e8d8-ea82-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Start Date Value",
+            "file_field_name": "Membership Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3154b6ca-ea83-11ed-bf80-114c466094e0",
+            "arches_node_name": "Membership Type",
+            "file_field_name": "Membership Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}

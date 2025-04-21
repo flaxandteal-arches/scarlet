@@ -1,0 +1,78 @@
+{
+    "resource_model_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+    "resource_model_name": "Takeover",
+    "nodes": [
+        {
+            "arches_nodeid": "154f3fb6-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Taken Over By",
+            "file_field_name": "Taken Over By",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6ea3665a-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover - Additional Notes",
+            "file_field_name": "Takeover - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a90bd45-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover Date - Additional Notes",
+            "file_field_name": "Takeover Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a90bd44-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Takeover Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a90bd42-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover Date Confidence Note",
+            "file_field_name": "Takeover Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a90bd43-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover Date Confidence Probability Value",
+            "file_field_name": "Takeover Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a90bd41-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover Date Confidence Type",
+            "file_field_name": "Takeover Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a90bd47-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover Date Type",
+            "file_field_name": "Takeover Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2a90bd46-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Takeover Date Value",
+            "file_field_name": "Takeover Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "01fa36a0-ee68-11ed-bf80-114c466094e0",
+            "arches_node_name": "Took Over",
+            "file_field_name": "Took Over",
+            "data_type": "resource-instance",
+            "export": true
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "resource_model_id": "bd95223f-ccd8-4b87-b582-5975fbe25c04",
+    "resource_model_name": "Employment",
+    "nodes": [
+        {
+            "arches_nodeid": "7070e3c4-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employee",
+            "file_field_name": "Employee",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8a16057a-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employer",
+            "file_field_name": "Employer",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d99c46f-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment End Date - Additional Notes",
+            "file_field_name": "Employment End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d99c46e-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Employment End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d99c46c-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment End Date Confidence Note",
+            "file_field_name": "Employment End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d99c46d-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment End Date Confidence Probability Value",
+            "file_field_name": "Employment End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d99c46b-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment End Date Confidence Type",
+            "file_field_name": "Employment End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d99c471-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment End Date Type",
+            "file_field_name": "Employment End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3d99c470-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment End Date Value",
+            "file_field_name": "Employment End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "117522c1-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment Start Date - Additional Notes",
+            "file_field_name": "Employment Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "117522c0-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Employment Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "117522be-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment Start Date Confidence Note",
+            "file_field_name": "Employment Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "117522bf-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment Start Date Confidence Probability Value",
+            "file_field_name": "Employment Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "117522bd-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment Start Date Confidence Type",
+            "file_field_name": "Employment Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "117522c3-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment Start Date Type",
+            "file_field_name": "Employment Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "117522c2-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Employment Start Date Value",
+            "file_field_name": "Employment Start Date Value",
+            "data_type": "date",
+            "export": true
+        }
+    ]
+}

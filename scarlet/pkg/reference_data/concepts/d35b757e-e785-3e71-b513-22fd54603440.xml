@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/a55e6d64-9a58-33da-8fdb-5af5a017d711">
+    <dcterms:identifier xml:lang="en">{"id": "1c03f71e-b921-4db6-af82-b85fa9b5b1ef", "value": "http://toolsofknowledge.org/Gender/Female"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c52f32b2-82e7-40de-850d-9a1a7b600203", "value": "Female"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/d35b757e-e785-3e71-b513-22fd54603440">
+        <dcterms:title xml:lang="en">{"id": "60d38a98-4022-47a8-9a50-664dc1752865", "value": "Genders"}</dcterms:title>
+        <dcterms:identifier xml:lang="en">{"id": "0f8aa32a-98c7-433f-952d-d5a94939073c", "value": "http://toolsofknowledge.org/Gender"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a55e6d64-9a58-33da-8fdb-5af5a017d711"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/676e5cc3-eec0-39ed-8538-9a7a918b3691"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/676e5cc3-eec0-39ed-8538-9a7a918b3691">
+    <dcterms:identifier xml:lang="en">{"id": "42100b87-4672-4640-9ccb-7a9cbf4bd50f", "value": "http://toolsofknowledge.org/Gender/Male"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3e97aab8-44f2-4008-b228-5d79290ca10e", "value": "Male"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/d35b757e-e785-3e71-b513-22fd54603440"/>
+  </skos:Concept>
+</rdf:RDF>

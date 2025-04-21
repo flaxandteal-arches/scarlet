@@ -1,0 +1,32 @@
+{
+    "Confidence Type": {
+        "5a5e765a-c309-473d-a2eb-8615634ac622": "Fuzzy",
+        "4748b66d-1646-4e2d-b3ce-d90b61bdba35": "Uncertain"
+    },
+    "Date Type": {
+        "46863611-d65b-4adf-944e-24394dab676f": "Known Date",
+        "eb931a41-00cd-421c-bcdd-a2ac55d8a7be": "Occurred After",
+        "7b74ea6d-2424-461c-bcd2-7de244f0a31d": "Occurred Before"
+    },
+    "Organisation Type": {
+        "0614c5dc-288d-4eb3-a6c5-a218ddd6a154": "Business",
+        "866ecc1d-1c4a-4c76-96e0-7b045d8a6b87": "Government Body",
+        "78dbd84f-0036-4521-9293-ed3882dfeb52": "Guild",
+        "55d9f727-77f8-4e84-af2f-066aa8245202": "Laboratory",
+        "9e1ac4a6-181c-4fb5-808d-5ef3d70341e9": "Learned Society",
+        "8dc72545-2756-424e-ac9b-ee657c3ee38e": "Limited Company",
+        "51f9c24e-5371-48c2-ba17-9d393fdf4ad0": "Livery Company",
+        "b92f3f88-dddf-4225-b6cc-7d2985750802": "Observatory",
+        "741863c8-fb4f-4007-b1a8-0646fe581d75": "Overseas Trading Company",
+        "0341f688-d318-4074-ac10-56e62f409883": "Partnership",
+        "b382cba8-e276-4493-8f33-b095d3025f98": "Research Institution",
+        "f65084bd-ad1f-4064-92cb-f998512ca075": "School",
+        "801cac4a-b9fa-4ca5-8a30-6658b6f722ef": "Sole Trader",
+        "38b61cc6-21ee-41f1-8d7f-e41086e784bd": "Survey",
+        "34110121-41c2-4a8d-a5e0-340239e0ffa4": "Training Institution",
+        "cc628b92-6139-40e5-a73d-727bbef2569b": "University"
+    },
+    "Resource to Resource Relationship Types": {
+        "ac41d9be-79db-4256-b368-2f4559cfbe55": "is related to"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Confidence Type": {
+        "5a5e765a-c309-473d-a2eb-8615634ac622": "Fuzzy",
+        "4748b66d-1646-4e2d-b3ce-d90b61bdba35": "Uncertain"
+    },
+    "Date Type": {
+        "46863611-d65b-4adf-944e-24394dab676f": "Known Date",
+        "eb931a41-00cd-421c-bcdd-a2ac55d8a7be": "Occurred After",
+        "7b74ea6d-2424-461c-bcd2-7de244f0a31d": "Occurred Before"
+    },
+    "Educator Role Types": {
+        "b9caf188-c5f8-48e0-8dad-de225098b6de": "Examiner",
+        "656b66e7-0871-4f88-89e7-4e1ecb7c6ed6": "Lecturer",
+        "1be14fba-2a45-4c4c-9eee-d308c087c642": "Professor",
+        "1a35e90f-fed8-40c4-928e-f9a4b3495e0b": "Teacher"
+    },
+    "Subject Areas": {
+        "8e44dc8a-ac61-41db-9162-79944211d0a6": "Accounts",
+        "c43cc84a-ca0e-475b-9175-69580fe73632": "Astronomy",
+        "cd6336a2-9f60-4e71-82dc-6886561a4e1b": "Chemistry",
+        "44896f5d-14b4-423c-9f34-91b73c2a03f4": "Cinematography",
+        "24912409-ab4e-4ca3-bd7b-0accf2067a75": "Electrical",
+        "058a7580-6565-4d64-8af8-afdd210b16f6": "Film",
+        "023d9efc-9936-4436-9c28-437ae80bbba6": "Natural Philosophy",
+        "e44910f0-1af7-4bee-8f01-929aae32e9ee": "Navigation",
+        "74872763-8cfb-4214-8185-55a553807c65": "Photography",
+        "498f0a9b-1fc5-45e9-964d-82e9e114655c": "Telegraph"
+    },
+    "Resource to Resource Relationship Types": {
+        "ac41d9be-79db-4256-b368-2f4559cfbe55": "is related to"
+    }
+}

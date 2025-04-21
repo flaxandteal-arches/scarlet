@@ -1,0 +1,31 @@
+{
+    "Confidence Type": {
+        "5a5e765a-c309-473d-a2eb-8615634ac622": "Fuzzy",
+        "4748b66d-1646-4e2d-b3ce-d90b61bdba35": "Uncertain"
+    },
+    "Date Type": {
+        "46863611-d65b-4adf-944e-24394dab676f": "Known Date",
+        "eb931a41-00cd-421c-bcdd-a2ac55d8a7be": "Occurred After",
+        "7b74ea6d-2424-461c-bcd2-7de244f0a31d": "Occurred Before"
+    },
+    "Membership Type": {
+        "a3e89096-538a-41b7-b6e3-b17f15b2289b": "Assistant",
+        "1bb75281-1f44-4798-bb2a-f6c67efea7b5": "Council Member",
+        "670c9608-94bc-4f94-bd99-0c381f02c4f3": "Crown Agent",
+        "f6d7f636-bfee-40db-9cad-3bb52a1b07a3": "Fellow",
+        "86aeaee6-98ad-4e36-a40b-b9735ebe2947": "Founder Member",
+        "4746e165-4fee-4323-9914-38dd6f9cdfa3": "Honorary Member",
+        "edecaa0c-8b4c-452d-9b50-362a1d729883": "Journeyman",
+        "a910cf4d-b004-4783-8251-f53809b7b588": "Master",
+        "6ab03e73-f647-4af2-b7d3-414e88dd9739": "Master of Guild",
+        "0d905dba-0ff7-4cd8-a1c6-9b0c0adf2242": "Master of Livery Company",
+        "8bff4ed8-dc6c-48e8-9ad9-25fce94dccd4": "Member",
+        "fbd816e1-b66c-4203-a72b-01c063518ed0": "President",
+        "8ef63d37-d263-4adb-9172-a281819c76c0": "Prime Warden",
+        "9a53e45b-11c8-4fc8-8c52-907bc370c4be": "Vice President",
+        "b961178d-88c7-4404-9f2a-ef4ef93d3c5d": "Warden"
+    },
+    "Resource to Resource Relationship Types": {
+        "ac41d9be-79db-4256-b368-2f4559cfbe55": "is related to"
+    }
+}

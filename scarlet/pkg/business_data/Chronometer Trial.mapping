@@ -1,0 +1,136 @@
+{
+    "resource_model_id": "aca52e56-af5d-426a-88ca-b2b524dcc02b",
+    "resource_model_name": "Chronometer Trial",
+    "nodes": [
+        {
+            "arches_nodeid": "6442976f-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial End Date - Additional Notes",
+            "file_field_name": "Chronometer Trial End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6442976e-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Chronometer Trial End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6442976c-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial End Date Confidence Note",
+            "file_field_name": "Chronometer Trial End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6442976d-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial End Date Confidence Probability Value",
+            "file_field_name": "Chronometer Trial End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6442976b-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial End Date Confidence Type",
+            "file_field_name": "Chronometer Trial End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "64429771-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial End Date Type",
+            "file_field_name": "Chronometer Trial End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "64429770-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial End Date Value",
+            "file_field_name": "Chronometer Trial End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5af6b958-fa21-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Name",
+            "file_field_name": "Chronometer Trial Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "af86cfd0-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Occurred on Expedition",
+            "file_field_name": "Chronometer Trial Occurred on Expedition",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3eb0ac5d-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Start Date - Additional Notes",
+            "file_field_name": "Chronometer Trial Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3eb0ac5c-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Chronometer Trial Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3eb0ac5a-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Start Date Confidence Note",
+            "file_field_name": "Chronometer Trial Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3eb0ac5b-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Start Date Confidence Probability Value",
+            "file_field_name": "Chronometer Trial Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3eb0ac59-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Start Date Confidence Type",
+            "file_field_name": "Chronometer Trial Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3eb0ac5f-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Start Date Type",
+            "file_field_name": "Chronometer Trial Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3eb0ac5e-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Start Date Value",
+            "file_field_name": "Chronometer Trial Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9b170e84-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Chronometer Trial Took Place At",
+            "file_field_name": "Chronometer Trial Took Place At",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "88380e08-fa2b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Trialled Chronometer",
+            "file_field_name": "Trialled Chronometer",
+            "data_type": "resource-instance",
+            "export": true
+        }
+    ]
+}

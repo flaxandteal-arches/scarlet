@@ -1,0 +1,1014 @@
+{
+    "resource_model_id": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+    "resource_model_name": "Person",
+    "nodes": [
+        {
+            "arches_nodeid": "e1103a52-f3f3-11ed-bf80-114c466094e0",
+            "arches_node_name": "Alternative Given Name",
+            "file_field_name": "Alternative Given Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ff5c79b2-f3f3-11ed-bf80-114c466094e0",
+            "arches_node_name": "Alternative Surname",
+            "file_field_name": "Alternative Surname",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4c66c3fe-f3f7-11ed-bf80-114c466094e0",
+            "arches_node_name": "Associated Organisation",
+            "file_field_name": "Associated Organisation",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "38b60806-f3f7-11ed-bf80-114c466094e0",
+            "arches_node_name": "Associated Person",
+            "file_field_name": "Associated Person",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b3a55564-f3f5-11ed-bf80-114c466094e0",
+            "arches_node_name": "Aunt/Uncle",
+            "file_field_name": "Aunt/Uncle",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b7cf6fc3-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bankruptcy Date - Additional Notes",
+            "file_field_name": "Bankruptcy Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b7cf6fc2-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bankruptcy Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Bankruptcy Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b7cf6fc0-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bankruptcy Date Confidence Note",
+            "file_field_name": "Bankruptcy Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b7cf6fc1-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bankruptcy Date Confidence Probability Value",
+            "file_field_name": "Bankruptcy Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b7cf6fbf-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bankruptcy Date Confidence Type",
+            "file_field_name": "Bankruptcy Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b7cf6fc5-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bankruptcy Date Type",
+            "file_field_name": "Bankruptcy Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b7cf6fc4-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Bankruptcy Date Value",
+            "file_field_name": "Bankruptcy Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f38987ef-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Baptism Date - Additional Notes",
+            "file_field_name": "Baptism Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f38987ee-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Baptism Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Baptism Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f38987ec-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Baptism Date Confidence Note",
+            "file_field_name": "Baptism Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f38987ed-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Baptism Date Confidence Probability Value",
+            "file_field_name": "Baptism Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f38987eb-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Baptism Date Confidence Type",
+            "file_field_name": "Baptism Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f38987f1-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Baptism Date Type",
+            "file_field_name": "Baptism Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f38987f0-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Baptism Date Value",
+            "file_field_name": "Baptism Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3f6eaf70-f3f4-11ed-bf80-114c466094e0",
+            "arches_node_name": "Biographical Description",
+            "file_field_name": "Biographical Description",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "90875de9-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Birth Date - Additional Notes",
+            "file_field_name": "Birth Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "90875de8-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Birth Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Birth Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "90875de6-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Birth Date Confidence Note",
+            "file_field_name": "Birth Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "90875de7-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Birth Date Confidence Probability Value",
+            "file_field_name": "Birth Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "90875de5-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Birth Date Confidence Type",
+            "file_field_name": "Birth Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "90875deb-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Birth Date Type",
+            "file_field_name": "Birth Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "90875dea-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Birth Date Value",
+            "file_field_name": "Birth Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed435371-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Burial Date - Additional Notes",
+            "file_field_name": "Burial Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed435370-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Burial Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Burial Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed43536e-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Burial Date Confidence Note",
+            "file_field_name": "Burial Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed43536f-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Burial Date Confidence Probability Value",
+            "file_field_name": "Burial Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed43536d-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Burial Date Confidence Type",
+            "file_field_name": "Burial Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed435373-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Burial Date Type",
+            "file_field_name": "Burial Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed435372-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Burial Date Value",
+            "file_field_name": "Burial Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6351549a-f3f6-11ed-bf80-114c466094e0",
+            "arches_node_name": "Child-in-law",
+            "file_field_name": "Child-in-law",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "22ca5607-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Death Date - Additional Notes",
+            "file_field_name": "Death Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "22ca5606-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Death Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Death Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "22ca5604-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Death Date Confidence Note",
+            "file_field_name": "Death Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "22ca5605-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Death Date Confidence Probability Value",
+            "file_field_name": "Death Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "22ca5603-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Death Date Confidence Type",
+            "file_field_name": "Death Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "22ca5609-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Death Date Type",
+            "file_field_name": "Death Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "22ca5608-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Death Date Value",
+            "file_field_name": "Death Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ffd150c6-f3f7-11ed-bf80-114c466094e0",
+            "arches_node_name": "Documented In",
+            "file_field_name": "Documented In",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e47-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing End Date - Additional Notes",
+            "file_field_name": "Flourishing End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e52-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Flourishing End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e50-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing End Date Confidence Note",
+            "file_field_name": "Flourishing End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e51-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing End Date Confidence Probability Value",
+            "file_field_name": "Flourishing End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e4e-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing End Date Confidence Type",
+            "file_field_name": "Flourishing End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e4f-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing End Date Type",
+            "file_field_name": "Flourishing End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e48-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing End Date Value",
+            "file_field_name": "Flourishing End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e45-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing Start Date - Additional Notes",
+            "file_field_name": "Flourishing Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e4d-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Flourishing Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e4b-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing Start Date Confidence Note",
+            "file_field_name": "Flourishing Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e4c-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing Start Date Confidence Probability Value",
+            "file_field_name": "Flourishing Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e4a-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing Start Date Confidence Type",
+            "file_field_name": "Flourishing Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e46-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing Start Date Type",
+            "file_field_name": "Flourishing Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "04659e49-fa10-11ed-bf80-114c466094e0",
+            "arches_node_name": "Flourishing Start Date Value",
+            "file_field_name": "Flourishing Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "25b2719a-f3f7-11ed-bf80-114c466094e0",
+            "arches_node_name": "Friend Of",
+            "file_field_name": "Friend Of",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "581e7032-f3f4-11ed-bf80-114c466094e0",
+            "arches_node_name": "Gender",
+            "file_field_name": "Gender",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d69f0f64-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Given Name",
+            "file_field_name": "Given Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7362932a-fa0f-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarcerating Institution",
+            "file_field_name": "Incarcerating Institution",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128cb-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration End Date - Additional Notes",
+            "file_field_name": "Incarceration End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128d6-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Incarceration End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128d4-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration End Date Confidence Note",
+            "file_field_name": "Incarceration End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128d5-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration End Date Confidence Probability Value",
+            "file_field_name": "Incarceration End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128d2-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration End Date Confidence Type",
+            "file_field_name": "Incarceration End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128d3-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration End Date Type",
+            "file_field_name": "Incarceration End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128cc-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration End Date Value",
+            "file_field_name": "Incarceration End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128c9-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration Start Date - Additional Notes",
+            "file_field_name": "Incarceration Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128d1-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Incarceration Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128cf-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration Start Date Confidence Note",
+            "file_field_name": "Incarceration Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128d0-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration Start Date Confidence Probability Value",
+            "file_field_name": "Incarceration Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128ce-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration Start Date Confidence Type",
+            "file_field_name": "Incarceration Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128ca-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration Start Date Type",
+            "file_field_name": "Incarceration Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d59128cd-fa0e-11ed-bf80-114c466094e0",
+            "arches_node_name": "Incarceration Start Date Value",
+            "file_field_name": "Incarceration Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7a30d836-f3f4-11ed-bf80-114c466094e0",
+            "arches_node_name": "Nationality",
+            "file_field_name": "Nationality",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "93c630ec-f3f5-11ed-bf80-114c466094e0",
+            "arches_node_name": "Nationality Assessment Note",
+            "file_field_name": "Nationality Assessment Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72c88007-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalisation Date - Additional Notes",
+            "file_field_name": "Naturalisation Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72c88006-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalisation Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Naturalisation Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72c88004-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalisation Date Confidence Note",
+            "file_field_name": "Naturalisation Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72c88005-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalisation Date Confidence Probability Value",
+            "file_field_name": "Naturalisation Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72c88003-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalisation Date Confidence Type",
+            "file_field_name": "Naturalisation Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72c88009-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalisation Date Type",
+            "file_field_name": "Naturalisation Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "72c88008-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalisation Date Value",
+            "file_field_name": "Naturalisation Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a2a0f9f4-f3f9-11ed-bf80-114c466094e0",
+            "arches_node_name": "Naturalised Nationality",
+            "file_field_name": "Naturalised Nationality",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "91353f0c-f3f6-11ed-bf80-114c466094e0",
+            "arches_node_name": "Niece/Nephew",
+            "file_field_name": "Niece/Nephew",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6aca9-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse End Date - Additional Notes",
+            "file_field_name": "Occupied Workhouse End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acb4-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Occupied Workhouse End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acb2-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse End Date Confidence Note",
+            "file_field_name": "Occupied Workhouse End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acb3-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse End Date Confidence Probability Value",
+            "file_field_name": "Occupied Workhouse End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acb0-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse End Date Confidence Type",
+            "file_field_name": "Occupied Workhouse End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acb1-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse End Date Type",
+            "file_field_name": "Occupied Workhouse End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acaa-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse End Date Value",
+            "file_field_name": "Occupied Workhouse End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6aca7-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse Start Date - Additional Notes",
+            "file_field_name": "Occupied Workhouse Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acaf-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Occupied Workhouse Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acad-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse Start Date Confidence Note",
+            "file_field_name": "Occupied Workhouse Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acae-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse Start Date Confidence Probability Value",
+            "file_field_name": "Occupied Workhouse Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acac-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse Start Date Confidence Type",
+            "file_field_name": "Occupied Workhouse Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6aca8-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse Start Date Type",
+            "file_field_name": "Occupied Workhouse Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a8d6acab-fa11-11ed-bf80-114c466094e0",
+            "arches_node_name": "Occupied Workhouse Start Date Value",
+            "file_field_name": "Occupied Workhouse Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a2b54844-f3f6-11ed-bf80-114c466094e0",
+            "arches_node_name": "Parent",
+            "file_field_name": "Parent",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "cf6441f6-f3f6-11ed-bf80-114c466094e0",
+            "arches_node_name": "Parent-in-law",
+            "file_field_name": "Parent-in-law",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "370550f4-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Place of Baptism",
+            "file_field_name": "Place of Baptism",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d2734fa2-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Place of Birth",
+            "file_field_name": "Place of Birth",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0f6efe48-f3f8-11ed-bf80-114c466094e0",
+            "arches_node_name": "Research Note",
+            "file_field_name": "Research Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3c3fdb19-fa13-11ed-bf80-114c466094e0",
+            "arches_node_name": "Retirement Date - Additional Notes",
+            "file_field_name": "Retirement Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3c3fdb18-fa13-11ed-bf80-114c466094e0",
+            "arches_node_name": "Retirement Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Retirement Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3c3fdb16-fa13-11ed-bf80-114c466094e0",
+            "arches_node_name": "Retirement Date Confidence Note",
+            "file_field_name": "Retirement Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3c3fdb17-fa13-11ed-bf80-114c466094e0",
+            "arches_node_name": "Retirement Date Confidence Probability Value",
+            "file_field_name": "Retirement Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3c3fdb15-fa13-11ed-bf80-114c466094e0",
+            "arches_node_name": "Retirement Date Confidence Type",
+            "file_field_name": "Retirement Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3c3fdb1b-fa13-11ed-bf80-114c466094e0",
+            "arches_node_name": "Retirement Date Type",
+            "file_field_name": "Retirement Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "3c3fdb1a-fa13-11ed-bf80-114c466094e0",
+            "arches_node_name": "Retirement Date Value",
+            "file_field_name": "Retirement Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8ab4e41a-f3f7-11ed-bf80-114c466094e0",
+            "arches_node_name": "See Also",
+            "file_field_name": "See Also",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "80b45eab-fa12-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sequestration Date - Additional Notes",
+            "file_field_name": "Sequestration Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "80b45eaa-fa12-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sequestration Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Sequestration Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "80b45ea8-fa12-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sequestration Date Confidence Note",
+            "file_field_name": "Sequestration Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "80b45ea9-fa12-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sequestration Date Confidence Probability Value",
+            "file_field_name": "Sequestration Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "80b45ea7-fa12-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sequestration Date Confidence Type",
+            "file_field_name": "Sequestration Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "80b45ead-fa12-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sequestration Date Type",
+            "file_field_name": "Sequestration Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "80b45eac-fa12-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sequestration Date Value",
+            "file_field_name": "Sequestration Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bd9e458e-f3f6-11ed-bf80-114c466094e0",
+            "arches_node_name": "Sibling",
+            "file_field_name": "Sibling",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "122e6d7a-f3f4-11ed-bf80-114c466094e0",
+            "arches_node_name": "SIMON Disambiguation Numeral",
+            "file_field_name": "SIMON Disambiguation Numeral",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c4bad66a-f3f7-11ed-bf80-114c466094e0",
+            "arches_node_name": "Simon ID",
+            "file_field_name": "Simon ID",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e058a9ca-ea78-11ed-bf80-114c466094e0",
+            "arches_node_name": "Surname",
+            "file_field_name": "Surname",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e4a53d90-f3f6-11ed-bf80-114c466094e0",
+            "arches_node_name": "Worked For",
+            "file_field_name": "Worked For",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e55d-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working End Date - Additional Notes",
+            "file_field_name": "Working End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e568-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Working End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e566-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working End Date Confidence Note",
+            "file_field_name": "Working End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e567-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working End Date Confidence Probability Value",
+            "file_field_name": "Working End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e564-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working End Date Confidence Type",
+            "file_field_name": "Working End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e565-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working End Date Type",
+            "file_field_name": "Working End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e55e-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working End Date Value",
+            "file_field_name": "Working End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e55b-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working Start Date - Additional Notes",
+            "file_field_name": "Working Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e563-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Working Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e561-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working Start Date Confidence Note",
+            "file_field_name": "Working Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e562-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working Start Date Confidence Probability Value",
+            "file_field_name": "Working Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e560-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working Start Date Confidence Type",
+            "file_field_name": "Working Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e55c-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working Start Date Type",
+            "file_field_name": "Working Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9f79e55f-f3fa-11ed-bf80-114c466094e0",
+            "arches_node_name": "Working Start Date Value",
+            "file_field_name": "Working Start Date Value",
+            "data_type": "date",
+            "export": true
+        }
+    ]
+}

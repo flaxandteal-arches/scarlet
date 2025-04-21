@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/e5b1c8fa-0e6c-4e24-86fc-77f8aecc79c2">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/29fe6f3b-b424-4369-a531-f2037017f7b2">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e780e517-9e77-43b5-8f74-6b29f487c365"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e5b1c8fa-0e6c-4e24-86fc-77f8aecc79c2"/>
+        <dcterms:title xml:lang="en">{"id": "75c1a218-50e4-4768-8b6e-49561069f4cc", "value": "Freed Category"}</dcterms:title>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "2c24474b-bd63-40c6-8f20-4c65300c04da", "value": "Brother"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/159785c0-94ba-4597-8380-f52154a29846">
+        <skos:prefLabel xml:lang="en">{"id": "9665324a-33b0-4e5c-b1d1-359adc41b000", "value": "Foreign Brother"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/29fe6f3b-b424-4369-a531-f2037017f7b2"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e780e517-9e77-43b5-8f74-6b29f487c365">
+    <skos:prefLabel xml:lang="en">{"id": "584a1107-1bff-41d6-b244-818498bf539e", "value": "Loose"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/29fe6f3b-b424-4369-a531-f2037017f7b2"/>
+  </skos:Concept>
+</rdf:RDF>

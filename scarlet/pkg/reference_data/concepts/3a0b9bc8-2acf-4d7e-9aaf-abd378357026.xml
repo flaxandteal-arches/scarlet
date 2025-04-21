@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/25aa42de-71bb-4485-b870-26530e614824">
+    <skos:prefLabel xml:lang="en">{"id": "eb931a41-00cd-421c-bcdd-a2ac55d8a7be", "value": "Occurred After"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/3a0b9bc8-2acf-4d7e-9aaf-abd378357026">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/25aa42de-71bb-4485-b870-26530e614824"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/487868b5-8b92-406e-b959-637eb8163177"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a3081d44-587a-4d8b-a4d8-2b90a99ad82b"/>
+        <dcterms:title xml:lang="en">{"id": "283f6613-52bf-4c49-9ed5-ea934943796a", "value": "Date Type"}</dcterms:title>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/487868b5-8b92-406e-b959-637eb8163177">
+    <skos:prefLabel xml:lang="en">{"id": "7b74ea6d-2424-461c-bcd2-7de244f0a31d", "value": "Occurred Before"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/3a0b9bc8-2acf-4d7e-9aaf-abd378357026"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a3081d44-587a-4d8b-a4d8-2b90a99ad82b">
+    <skos:inScheme rdf:resource="http://localhost:8000/3a0b9bc8-2acf-4d7e-9aaf-abd378357026"/>
+    <skos:prefLabel xml:lang="en">{"id": "46863611-d65b-4adf-944e-24394dab676f", "value": "Known Date"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/759364b0-bbe5-3d9b-9763-0224c32bd702">
+    <dcterms:identifier xml:lang="en">{"id": "2277fe8d-d24d-424c-a278-f74b16b949fa", "value": "http://toolsofknowledge.org/LegalProcessType/Patent"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/5487048b-b195-3b15-9977-ee42dd453140">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/759364b0-bbe5-3d9b-9763-0224c32bd702"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5ca2c6b3-bd85-395b-a216-fac6253862b1"/>
+        <dcterms:title xml:lang="en">{"id": "7ac9e280-8aa5-4353-af0a-ade055086798", "value": "Types of Legal Process"}</dcterms:title>
+        <dcterms:identifier xml:lang="en">{"id": "f1994105-4050-492d-b9cd-b91188a9f949", "value": "http://toolsofknowledge.org/LegalProcessType"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/290ed8f5-bb70-3d01-9128-7f3b23383b34"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/70f480ad-5549-3e16-bf98-176b1f52fcac"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "c0be1141-1ed6-4053-a634-40e5c6b9a099", "value": "Patent"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5ca2c6b3-bd85-395b-a216-fac6253862b1">
+    <skos:inScheme rdf:resource="http://localhost:8000/5487048b-b195-3b15-9977-ee42dd453140"/>
+    <dcterms:identifier xml:lang="en">{"id": "99a5a235-69fe-4f5a-adfc-865932d92f39", "value": "http://toolsofknowledge.org/LegalProcessType/Prosecution"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "ca898b88-02f4-4aa0-a0b7-127a7c274b1e", "value": "Prosecution"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/290ed8f5-bb70-3d01-9128-7f3b23383b34">
+    <dcterms:identifier xml:lang="en">{"id": "3694e197-f450-436a-bdc3-e6179136b8fe", "value": "http://toolsofknowledge.org/LegalProcessType/Probate"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/5487048b-b195-3b15-9977-ee42dd453140"/>
+    <skos:prefLabel xml:lang="en">{"id": "a103101b-c0aa-4837-8cf9-1af244e95fa4", "value": "Probate"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/70f480ad-5549-3e16-bf98-176b1f52fcac">
+    <skos:inScheme rdf:resource="http://localhost:8000/5487048b-b195-3b15-9977-ee42dd453140"/>
+    <skos:prefLabel xml:lang="en">{"id": "12e06b26-15c1-44ac-bef4-78ccd8f659ba", "value": "Petition"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "80c8e3e8-9c4e-4c5a-bec9-91937e79866c", "value": "http://toolsofknowledge.org/LegalProcessType/Petition"}</dcterms:identifier>
+  </skos:Concept>
+</rdf:RDF>

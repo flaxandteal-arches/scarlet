@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/f329d436-de96-347d-aafc-97c229357312">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6860e85c-1082-33e5-8123-9c757bf66bcc"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e1981efe-2d50-3d59-8198-3f44f41393b0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/13ad75f9-1837-38fd-8bc3-ae6dfc009b26"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/445c8414-4c7a-3c4d-80df-52a04b006a48"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ec30e3ab-0875-3aa6-a0b9-7c8453d95a95"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/dbbfe9ed-dcb5-3881-86e1-2dc5a842ffe6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a57fac14-25f4-3f56-9cfd-95e1a0d7d40c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0cf73f86-faac-3681-b119-d3f3a5f04d75"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/89714f67-1480-34aa-bdd7-07f49a8a4f71"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f67b150a-ed1a-3816-b1d1-6355e1ae3b2d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7f1c90df-af10-3594-82ab-f6506c2818f1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ce627692-e0b2-3640-bdc9-f636b5a7247f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/36f48c67-e178-3d94-9309-634ae47d6fc1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b3492862-a6ec-3a5e-ad22-3bbceb15fd26"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/dacd75a0-1c8d-311a-bd10-bf08b4e5c1ed"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/57378b5e-489b-35bb-8aba-fadf683c44ac"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/beb523cc-5e48-3d9d-ac9c-be7b186f05d8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0c19a87a-fa8b-30ba-9f75-c71ac86f5820"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f077540f-949a-37ae-b197-c2dbf9fdad2c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/339778d6-0e77-351a-9cd0-1c14956e22fa"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c30602c4-7199-3d08-84b0-2af099597697"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/52117114-2e33-3bf6-8c51-45354e4abf8d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/81bddb77-9f9d-3291-8e36-06fe95036ec6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/080105ea-9fbf-336a-829d-46fce6aa7e90"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/06c22537-50aa-3caf-8d9f-08724db199d8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5e3bd1ce-aa0c-30be-b6f8-4f240d37ccbc"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/84e83612-0c8f-3180-a22c-bdb1b9da7110"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/474fa3bc-9ec2-380e-844a-bbee89f2dad4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6242b2cc-5549-3117-bfce-d56a8a54d73c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0fb58b72-04cb-307b-8d97-f922fbfacc30"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/27919689-6ef2-3fdc-8654-acb70f7e99c8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/094bee78-924d-3d2f-9098-7e7528e3a952"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0a2384b3-53df-3440-a07f-bb1fa874f63b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/13b03e9c-468e-3f98-9124-0705377f613b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/28522dc5-521e-3a3b-89fd-48cb749a025d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/970ed88b-30fc-3c5c-8f0e-c11e24ec0194"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9c56fb49-7491-3c40-b5e3-775071ad2dfc"/>
+        <dcterms:title xml:lang="en">{"id": "e62e1f73-32e6-4a33-baa5-1f628d661895", "value": "Occupation Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6bf2f42d-82aa-3edf-868e-6f81e2c39e04"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3e2ac65c-e6dd-3097-8e32-188aa5846e41"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3db15437-137d-3c62-a176-9efe4a3536e0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ad5c651f-7f11-32e7-a89a-8f52f1b7824d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/31c457d0-9185-3f5d-a342-11892f66a96a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5f1b1c6f-e6a2-3399-9107-dfb6c1250504"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d5f4fb6a-cc31-3b91-9ec5-96e9cdb8ff60"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2844e709-c8c6-3f78-b32f-c187424279b6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6967a68b-a2e5-3098-a5fc-c65f3e27dc8e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/97aaa0c0-f8ef-3b6a-b0b7-e7aa0a75485c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9ff330c0-1474-3ee0-bbb9-3ef81cbf339a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a2803c5c-1efc-36bc-ae04-5ca44078f11d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/53e5f837-d46f-39b7-b9d4-09dfc22fbe81"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2996cc96-5796-360e-b29a-5679dff6d83e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c78fa7eb-4f58-3ab8-9210-31c4430ff9a1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/85aea018-c495-3b8b-b491-00d58f2f2910"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/42f11eec-5d7c-3a33-9054-e4be43a8f4d4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ffb008c9-e621-3af6-82a8-a81869b185af"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/230c39c5-6f8a-3ecf-a3b6-0042ce168b7e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9b92245f-489e-319b-8beb-315e3fba7a21"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ce0bce51-8f6d-30a1-8c28-9ef1cf1b1d4b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d6f418db-998a-3c55-b8e2-e01b80ad3407"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/457b118a-774a-3232-9f53-f06a249eaaf6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f51c26f1-6eba-3285-b282-72594f07a9e3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/04ef6e5d-60a5-3ad4-83cf-de3f0d29dbc0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3b0f4a00-f1e2-35e4-8122-d016b4b7b2b6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/db02feba-ab93-3c15-bf39-eb6c54273cad"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/12a473b0-5072-3dcc-b145-9b0f696d922b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b49f7d09-658f-358d-9200-1aabf6f92704"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f29cdeae-9bad-3999-af0c-f5636fd32a98"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6049793b-535a-3549-892d-7646a22b05c3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d44236a9-4fb5-3614-9d8b-527304d83477"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4799eb7d-ca85-3a08-8863-605536e327bf"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4fc8eda5-0968-3357-b725-9112ef289502"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a138eab9-ad7d-3032-8359-85712de4c805"/>
+        <dcterms:identifier xml:lang="en">{"id": "6b612450-2ff8-4679-996b-5da3fdca1a3e", "value": "http://toolsofknowledge.org/OccupationType/"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1f237ca8-aac4-389f-ad0a-a73cc1e91897"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/26e50876-b699-315d-bc38-4b1de7bfe0c4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bbe52a75-1a70-3a81-9e89-2bb86398155b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fd9e55f4-760e-3183-93f2-e022797da51b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ead2014b-f288-3b8f-b26c-2916e07517cd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2db9f40a-50ee-39e2-b615-270c8b6b6744"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/913fa2b7-a871-3e8a-9cca-b96a785f2ef3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bf2e22c0-7afe-344d-9d51-de66dc1536f9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/db56f6cd-d45f-36ea-838f-565bd78d0c7c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/915bb332-240a-3365-857b-4e54bfaf4445"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0a6b284d-3307-3690-907c-53504d0572b6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/eb2040d9-228b-3aa4-967e-24eaa8f7452c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fccfdec3-fbb8-3535-b371-15853c85658e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8b9ed0cd-0aeb-3974-83e1-93df928fc490"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5b4cbec1-06d7-3f16-9671-55b40ddf86c2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1341e617-69e9-31d4-97e7-ae59696b3f03"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3a5b88d5-7076-3bf9-880e-e87b63a3f1b6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5104565e-b570-3559-9eb3-8fa374acd9a4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/175966fa-911c-3df2-a55d-599e80dca843"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f3a973a9-92fa-3d7d-a6f8-7a5226760501"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f3a7be57-fbf8-3650-9ab3-6f0db94812bb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f4379253-87e6-3a03-b3c9-2a426cc70971"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/125b553b-293c-3f4b-aad0-4f43f6f4e267"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e7aa4bbb-78e5-356b-96f1-f6023cf00e3a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f418a2b8-cd77-3f93-8e0c-d77cf4018aea"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5b49c860-d36e-3055-8064-73bd6c4b22a7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/13d95d4b-d88c-3bee-b81b-18894f5b5ba4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/01e04425-9c1c-3e4a-b906-b53128838858"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/eb6bd782-f4a2-34ef-8585-f0d37f35c757"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c2b73ae7-0a20-38ca-881c-77101f9abc82"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d908a4fb-7575-32d4-853f-aa143dc234fb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/85b09038-3248-3140-911c-fa590b26cfc2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/14605e90-f146-3c66-b68d-deb69b1c0899"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bb58fe81-1c12-3418-b6b0-f9e2094d0f26"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/52bec52d-aa1a-3f05-8b94-b3244a25266e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a27166c6-f20b-30e7-b2af-209eb46998b9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f329d436-de96-347d-aafc-97c229357312"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5df65a56-b4b6-377d-ac0c-0450194833f0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/22681a13-609d-303f-a4c9-763784c2124b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bdc2bbde-523e-3a96-9059-555ce0519119"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/df91cae9-083b-3792-850a-6ce5a6482b8c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a9b6195a-12b8-320d-8c1b-a067068608a1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/31a06fce-cfdc-3349-abfe-3452990445d9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3145c7aa-70e6-3c4c-86aa-2c6b0bd9a0e9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/00eff935-b2ae-3278-9290-be18028c16a9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ff3a20b8-03f9-3dd6-b30a-75c5a2c053d8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/528f5f48-0d6d-3427-88f1-7d56955b169b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6f408b3b-e8a3-3fc9-b5a4-53f17a9adfb4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/62c24534-d0f2-3c20-afbd-29f4d5976201"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/597dc6da-3a07-3da0-aa57-618eb49b4753"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2a3b424b-8c3f-3142-b7da-08218538d862"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/899d18b9-1ca4-37d5-82aa-e93a6e41b047"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6d512030-d90d-35df-8941-51e824d78545"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0b5ce426-08a7-3b1c-96d7-41bed0eaefd8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5c51ca9b-93a6-39f7-a5a8-146f9751378d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fe36e0d9-ae5e-39c4-a394-673b31ad2a90"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9b635786-85ec-3b18-844f-63397858263f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/38cc5bb0-7872-3e17-9456-9685480ac73f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c9827875-18ce-37d2-9134-da793c5cee76"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3ff4bc9b-e8f6-34da-a469-b2c4a832c458"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b6378175-0ce6-374d-a469-66439c6805ce"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c91b8a2b-213f-37a5-bbfa-3c67623e6170"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8c5b3ae1-a425-370c-8fc1-779ea6249376"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/98c89e8e-f19b-3649-9ae6-6626f748fd7f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/439aa122-019c-3785-8ff6-8b64541fee10"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c3ffe0b1-21b1-3d23-af36-daa972eb9fd7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/339736fd-6b6d-30de-b9db-9f0f9912c86c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4ee56648-2e85-3e13-8c9d-5f993862d4e8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/aa8b3e7f-b971-38d1-bfce-525c7bfc8dc2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/189527ec-9a15-3a92-8a2d-f7ae5423b879"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a00b838c-7951-39fe-99b0-23dd79eafb00"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/211d1872-fa95-3438-a8e3-2135d5d9f1f2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c37c0aa6-0c3d-3547-a345-05c648074640"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0b3208c5-b8df-3459-8ae8-cc16e01df702"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/dbe9c855-30c7-37c4-9857-8104f4ceb4a8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/84450343-8e85-3590-82d8-4eea2f56ec2e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5e438a14-906a-3b28-8023-fd2f05a3da4a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8c7bc378-cf17-350d-a7c0-c5e69f98c810"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/04f44fdb-56c0-3a0e-be68-d2a0b1bf3994"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f743d2e8-1f62-3ecf-904f-f512d5189cc2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f9d0be51-968b-3724-bdaa-535f6b5dda44"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0915cb01-2e0e-3b4f-872c-d8c7f24b9a0d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/391d1f37-d6af-3ebd-9f1f-0a8c47697f04"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9b44000f-abbf-3683-818d-641f65689be6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6e61a962-e6da-3ba3-9735-c6aa88f4a917"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/50edbc8b-1005-399b-a804-5f3c1fd5d7b4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/93175642-63dc-30bd-9c84-26e049bb8bda"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e25ff833-834a-33f4-9e75-47bbdf18a53d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fa935d95-185d-3af4-b936-ed8f598d38e8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e3f6360b-4f70-350c-88e1-3d20d54a08ec"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fe1b9d3f-daa9-329f-93a5-6bb5f9491de8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b0b25313-92ec-3436-9f2a-2aad114ca74b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/850b9e62-3ecb-322c-98ba-4fd37ebc7d32"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b4270196-44d7-3e92-9cf2-da8c2223fdb6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f42f7c69-96fb-3d88-817a-72fe2c60283f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/edeff8bc-f3a1-3b13-b39e-cafa2d6b1bd8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d5203a85-bdcc-3a77-9582-f12ee4eaa529"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/067a44ed-b85e-31a0-a5fd-fab68ec8844e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/cae2bd72-d7b3-3f5c-8e77-f1af8f825bec"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8780121a-47cb-3609-ac5c-a9a6fad13456"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a1856a2f-df70-3120-8713-ddb32343e515"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/661d62cf-cb1f-3314-b75e-270545b2fa0c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9e466b51-f595-3072-93e0-84f5b936b95f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/45c19f74-38ba-334e-8b36-57aea5fe1080"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7fefb611-e90c-3a90-b7d2-5be3559a002b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e9f23e35-7ca5-335c-96f8-f250ed8b2a6c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3a271ccb-7946-3176-a343-14db776aab79"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c6c98308-2a10-33b5-852c-59f05b0d3e3b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/12df926d-a580-3501-a805-8da4bf0723a7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9710eeb2-7f88-3273-a4ab-558792479383"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a2bee3f6-eece-3df6-ae37-c2c6849bdede"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/34b07d18-d99e-39d6-b065-bba9293c5108"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/587c6222-045a-3c7a-82d3-c5c68e59d34f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/773fe896-40b3-3120-8177-ebe7b06e81ae"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b017758c-53b6-3586-989d-4cf03a6a6ffe"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/12a214b3-5760-3cf8-9692-dc9d658f8ad0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bbb7c1be-b014-3dda-b6f8-77245d1ab0bc"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/80e7cfd8-f903-3995-a05b-82522c6aed32"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3e5b3ec0-e96a-39ec-8eef-0c6bf94f4cf2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/66176fa4-dff0-3902-a224-6d1bfe1b847e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6955e26d-2436-34a8-8631-71669814fad0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3d297c7a-ed8d-395a-97c5-145d6a0cfa41"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/baacfa24-ae40-3e4b-8ff2-34e94cb8712c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/aa700af2-4945-36e7-828d-156f825edefd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b7657d0c-60fe-3ddc-9d8c-caaae078fda2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/83292d06-b228-3955-94fa-b5303940534e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ad50b184-2e8e-3955-88e6-55c8b4527086"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/82abe12c-c6f0-39ae-9934-46ae7ecce300"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4cb851d0-d566-3c79-8aeb-98fdfee9a159"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/18a3d984-c720-3475-83b2-173b18e9747b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d981173c-c1fb-3ec1-b6df-23a94abff1f0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7b90d7c0-c1ab-3ee3-8df0-43f0d9d54c5b"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "689ce71b-42f2-42ca-b31c-5949dc8f8f7f", "value": "sinker"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "b10971af-b86e-4ead-a511-7c1ef018bdaf", "value": "http://toolsofknowledge.org/OccupationType/sinker"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9e466b51-f595-3072-93e0-84f5b936b95f">
+    <dcterms:identifier xml:lang="en">{"id": "39a7b1aa-b6fd-46c3-a957-57f7f4228003", "value": "http://toolsofknowledge.org/OccupationType/builder"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "024240b8-a156-49b3-a8a8-a46d88309b22", "value": "builder"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/189527ec-9a15-3a92-8a2d-f7ae5423b879">
+    <skos:prefLabel xml:lang="en">{"id": "49d7c12d-6164-4217-a055-e18aed8673f5", "value": "shopkeeper"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "bf5402f0-140e-402f-ac65-3867071ff474", "value": "http://toolsofknowledge.org/OccupationType/shopkeeper"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/01e04425-9c1c-3e4a-b906-b53128838858">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "7b9137f9-3477-41ce-a3f3-8201847a5762", "value": "http://toolsofknowledge.org/OccupationType/practitioner"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "4d862f9a-dcf4-4274-83ea-42bf1d91dcf3", "value": "practitioner"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/beb523cc-5e48-3d9d-ac9c-be7b186f05d8">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "28419e3b-19a5-49c8-96ad-f74064fec5ea", "value": "painter, portrait"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "494b0967-087a-4dbf-931a-5608bb9c7802", "value": "http://toolsofknowledge.org/OccupationType/painter_portrait"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a9b6195a-12b8-320d-8c1b-a067068608a1">
+    <skos:prefLabel xml:lang="en">{"id": "823c0c81-ebce-4dcb-b44e-54d37a12063c", "value": "inventor"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "9234c6ab-b4fb-4ba5-b7bc-0afe820bd93c", "value": "http://toolsofknowledge.org/OccupationType/inventor"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f51c26f1-6eba-3285-b282-72594f07a9e3">
+    <dcterms:identifier xml:lang="en">{"id": "9cd4273f-5dce-4e08-81f2-08d1802b0c4c", "value": "http://toolsofknowledge.org/OccupationType/millwright"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "22bed01c-54ac-45fc-b264-0bfa92cf3fad", "value": "millwright"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/528f5f48-0d6d-3427-88f1-7d56955b169b">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "71b0175d-1d10-4e5c-ab52-1f6f10459560", "value": "http://toolsofknowledge.org/OccupationType/refiner"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3d64f852-8ec4-407b-9ca8-120958b5eac8", "value": "refiner"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/12a214b3-5760-3cf8-9692-dc9d658f8ad0">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "ba64ef30-53f9-409d-952b-736d14c50553", "value": "victualler"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "dc4763a7-77d1-48f7-8f01-22966f378a0c", "value": "http://toolsofknowledge.org/OccupationType/victualler"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3145c7aa-70e6-3c4c-86aa-2c6b0bd9a0e9">
+    <dcterms:identifier xml:lang="en">{"id": "bb79ad91-f025-4349-bb7d-409b51ea5f4e", "value": "http://toolsofknowledge.org/OccupationType/filter"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "8203a5c9-1c98-4afb-ae61-a20841e315c4", "value": "filter"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/45c19f74-38ba-334e-8b36-57aea5fe1080">
+    <dcterms:identifier xml:lang="en">{"id": "3a30c77b-8fba-4f76-8cf0-424948d8cd06", "value": "http://toolsofknowledge.org/OccupationType/gymbler"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "338b55d1-2d11-45c7-b01f-cdb7e64228a3", "value": "gymbler"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0fb58b72-04cb-307b-8d97-f922fbfacc30">
+    <skos:prefLabel xml:lang="en">{"id": "2542379a-212e-46be-be7d-de8aefb347e1", "value": "lecturer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "0057fa58-ba00-4632-9eb5-c59c11e2169c", "value": "http://toolsofknowledge.org/OccupationType/lecturer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b7657d0c-60fe-3ddc-9d8c-caaae078fda2">
+    <dcterms:identifier xml:lang="en">{"id": "200482ec-ab4e-4b31-8dba-41cc5f59e896", "value": "http://toolsofknowledge.org/OccupationType/silversmith"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "7af363aa-fee1-4408-b71f-e25f3d45cf04", "value": "silversmith"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bdc2bbde-523e-3a96-9059-555ce0519119">
+    <skos:prefLabel xml:lang="en">{"id": "3ba8335d-9b6d-4e62-b31d-4d976ccf43cb", "value": "writer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "3e6126a4-4910-425f-b29a-54a33a0d9241", "value": "http://toolsofknowledge.org/OccupationType/writer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0915cb01-2e0e-3b4f-872c-d8c7f24b9a0d">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "97206396-bcae-4308-9da0-ba3ac7c3e521", "value": "astronomer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "707dfc65-d4b2-4052-9314-d75d8c7cdd55", "value": "http://toolsofknowledge.org/OccupationType/astronomer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e25ff833-834a-33f4-9e75-47bbdf18a53d">
+    <skos:prefLabel xml:lang="en">{"id": "7a35a58f-4b2b-484d-9969-93ce19a1692b", "value": "electro-plater"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "a434869f-0578-4c32-922e-501996e96078", "value": "http://toolsofknowledge.org/OccupationType/electro-plater"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/18a3d984-c720-3475-83b2-173b18e9747b">
+    <dcterms:identifier xml:lang="en">{"id": "c83c3118-11a8-4f25-8b45-6a5d0d49589a", "value": "http://toolsofknowledge.org/OccupationType/worker"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "44bfb2f4-77e5-4bfa-ade1-75b10d9e1673", "value": "worker"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/df91cae9-083b-3792-850a-6ce5a6482b8c">
+    <dcterms:identifier xml:lang="en">{"id": "bb5c8dcf-e47d-463a-8dc2-4b34de640a72", "value": "http://toolsofknowledge.org/OccupationType/polisher"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "f6ed1153-39a6-42de-b451-d18dec883ab5", "value": "polisher"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/899d18b9-1ca4-37d5-82aa-e93a6e41b047">
+    <dcterms:identifier xml:lang="en">{"id": "4cfbcf30-661d-4fa9-9547-8c81c1aa3db1", "value": "http://toolsofknowledge.org/OccupationType/maker_scientific_instruments"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "e8754e4c-f8b0-437f-a54c-66ee927f1eb0", "value": "maker, scientific instruments"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/66176fa4-dff0-3902-a224-6d1bfe1b847e">
+    <dcterms:identifier xml:lang="en">{"id": "9b4e6fb1-68df-49a4-9361-edea8b2012cb", "value": "http://toolsofknowledge.org/OccupationType/galvanist_medical"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "52cb5c59-ff1e-48a6-919f-e58452081d5f", "value": "galvanist, medical"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/83292d06-b228-3955-94fa-b5303940534e">
+    <dcterms:identifier xml:lang="en">{"id": "66c3bed0-5e9f-43de-a34a-4ae20e36c949", "value": "http://toolsofknowledge.org/OccupationType/colourer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "21fe608f-5391-46a5-aa5e-e989a80c4862", "value": "colourer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/aa700af2-4945-36e7-828d-156f825edefd">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "956ca4cf-4411-46c1-90c0-2837bad6cffe", "value": "factor"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "860bfa85-1f58-4e48-8866-63a892eb012e", "value": "http://toolsofknowledge.org/OccupationType/factor"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5c51ca9b-93a6-39f7-a5a8-146f9751378d">
+    <skos:prefLabel xml:lang="en">{"id": "b12b4d49-00d7-4b4f-ab0c-55a25fecbd53", "value": "teacher"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a73c8255-4c14-483f-a7e7-5b00dd95844d", "value": "http://toolsofknowledge.org/OccupationType/teacher"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a00b838c-7951-39fe-99b0-23dd79eafb00">
+    <skos:prefLabel xml:lang="en">{"id": "4891e27d-1449-4ca9-ab41-c0d7e2b788d8", "value": "theologer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "710d25f1-b1b2-45a5-96aa-6e2ab93ee118", "value": "http://toolsofknowledge.org/OccupationType/theologer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8b9ed0cd-0aeb-3974-83e1-93df928fc490">
+    <skos:prefLabel xml:lang="en">{"id": "286d39b7-04f9-4650-a433-33f188d4246a", "value": "manager, financial"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "d0a1e2f6-dcf5-4948-814a-0de74ee74296", "value": "http://toolsofknowledge.org/OccupationType/manager_financial"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/eb6bd782-f4a2-34ef-8585-f0d37f35c757">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "9bc99225-437d-45ef-8892-97b543f6bdf3", "value": "watchmaker"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d93443af-8495-4f58-be1c-4be9ef0c31b4", "value": "http://toolsofknowledge.org/OccupationType/watchmaker"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e7aa4bbb-78e5-356b-96f1-f6023cf00e3a">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "4d145a9a-5426-4a41-bac4-17c212a86f8e", "value": "exporter"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "7f0a627e-55ac-4f23-aea1-36db39bd5d47", "value": "http://toolsofknowledge.org/OccupationType/exporter"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f077540f-949a-37ae-b197-c2dbf9fdad2c">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "6836d59a-b059-45ae-b64d-3b739662d4b4", "value": "druggist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "532c504e-f074-48fc-8527-1b986e44410e", "value": "http://toolsofknowledge.org/OccupationType/druggist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8c5b3ae1-a425-370c-8fc1-779ea6249376">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "fa2fe18b-4a2c-40f3-b21f-3e39d136384e", "value": "http://toolsofknowledge.org/OccupationType/japanner"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "25e3bed7-dda4-44a0-af01-68b65d9dbf10", "value": "japanner"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/93175642-63dc-30bd-9c84-26e049bb8bda">
+    <dcterms:identifier xml:lang="en">{"id": "66400c41-4429-4592-b9d2-12edf3690f1a", "value": "http://toolsofknowledge.org/OccupationType/postmaster"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "9c5e069e-55a5-44d2-8830-277ab91b0aa5", "value": "postmaster"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/84450343-8e85-3590-82d8-4eea2f56ec2e">
+    <skos:prefLabel xml:lang="en">{"id": "670afe61-2cb4-4055-8aa3-bcf8a375ab80", "value": "lapidary"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "1c166185-6fa9-489f-9dbd-83839d06d73c", "value": "http://toolsofknowledge.org/OccupationType/lapidary"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fd9e55f4-760e-3183-93f2-e022797da51b">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "d9af357d-f7ae-40f8-ac21-58a12287c388", "value": "electrician"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d2cd51b2-8f3d-494b-8a8c-85c795e2806b", "value": "http://toolsofknowledge.org/OccupationType/electrician"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/97aaa0c0-f8ef-3b6a-b0b7-e7aa0a75485c">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "a7a8930f-bc9f-4683-8323-49ce52c54b32", "value": "tobacconist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "12f3f7f5-2206-4c21-959f-5a275a2333fc", "value": "http://toolsofknowledge.org/OccupationType/tobacconist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bbb7c1be-b014-3dda-b6f8-77245d1ab0bc">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "a273fcb0-4700-44b7-94e2-8e939e2833e3", "value": "http://toolsofknowledge.org/OccupationType/physician"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "8faf426c-cbc5-488e-8d5b-1626f314ae2e", "value": "physician"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d5f4fb6a-cc31-3b91-9ec5-96e9cdb8ff60">
+    <dcterms:identifier xml:lang="en">{"id": "a8d0b3cf-0908-43bd-906d-b8103bc42483", "value": "http://toolsofknowledge.org/OccupationType/revenue_official"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "10839932-3d5d-4e7b-ace6-21e55bcd0d68", "value": "revenue official"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f9d0be51-968b-3724-bdaa-535f6b5dda44">
+    <skos:prefLabel xml:lang="en">{"id": "8070f4ed-24d2-4642-9d8f-3859a8f47de1", "value": "gentleman"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "90623952-6297-4656-a46d-3f33cf13a1a5", "value": "http://toolsofknowledge.org/OccupationType/gentleman"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/53e5f837-d46f-39b7-b9d4-09dfc22fbe81">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "efb61a4a-5aec-456d-8884-178a11b368ca", "value": "artist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "70f24cfa-fd5e-454f-ace4-12574335b9a7", "value": "http://toolsofknowledge.org/OccupationType/artist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4cb851d0-d566-3c79-8aeb-98fdfee9a159">
+    <dcterms:identifier xml:lang="en">{"id": "9b10e430-afad-4d0b-a3ae-d99cc0b84200", "value": "http://toolsofknowledge.org/OccupationType/joiner"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "47721779-249f-483c-b40d-3ec432d88ff5", "value": "joiner"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6e61a962-e6da-3ba3-9735-c6aa88f4a917">
+    <skos:prefLabel xml:lang="en">{"id": "fd11fe36-7e4f-4b84-9c75-3f9cf7c512ff", "value": "machinist"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "7795adeb-ff13-4a65-bf10-fc6af81393ca", "value": "http://toolsofknowledge.org/OccupationType/machinist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/13d95d4b-d88c-3bee-b81b-18894f5b5ba4">
+    <dcterms:identifier xml:lang="en">{"id": "20759280-2468-4589-9f3b-7c2b41cea013", "value": "http://toolsofknowledge.org/OccupationType/pewterer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "811ec269-62ff-4f67-aacf-bd8010251cfd", "value": "pewterer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a57fac14-25f4-3f56-9cfd-95e1a0d7d40c">
+    <dcterms:identifier xml:lang="en">{"id": "c9bd14c8-3c27-4a39-a07a-87e77a174158", "value": "http://toolsofknowledge.org/OccupationType/hatter"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c46aa3b0-51cc-4ae3-b309-e62842c24e5d", "value": "hatter"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7f1c90df-af10-3594-82ab-f6506c2818f1">
+    <dcterms:identifier xml:lang="en">{"id": "16391fe2-4b85-48f7-b2b9-20c4a84e05eb", "value": "http://toolsofknowledge.org/OccupationType/judge"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "180589ca-2f03-4001-bd51-efa70d0717f7", "value": "judge"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ce0bce51-8f6d-30a1-8c28-9ef1cf1b1d4b">
+    <skos:prefLabel xml:lang="en">{"id": "05e81cfb-969c-44af-b642-166706814024", "value": "wheelwright"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "957c5340-8f18-40d3-b3a7-8fa8d3d99649", "value": "http://toolsofknowledge.org/OccupationType/wheelwright"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/edeff8bc-f3a1-3b13-b39e-cafa2d6b1bd8">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "fcedba86-e69c-4c2d-b197-ba192bec8948", "value": "draughtsman"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "4f175589-1ffb-4fed-8138-b6c2490693ec", "value": "http://toolsofknowledge.org/OccupationType/draughtsman"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2996cc96-5796-360e-b29a-5679dff6d83e">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "8829165a-4bd7-4cbf-9677-e9179b5588a9", "value": "barrister"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "2bb5de52-205b-4a40-8214-574049967e3b", "value": "http://toolsofknowledge.org/OccupationType/barrister"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6f408b3b-e8a3-3fc9-b5a4-53f17a9adfb4">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "47fb72c3-2c68-4262-a99d-c2fafcd8f9a9", "value": "smith"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "90de8283-42cc-4eda-b4cc-80547d1a02ef", "value": "http://toolsofknowledge.org/OccupationType/smith"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/175966fa-911c-3df2-a55d-599e80dca843">
+    <dcterms:identifier xml:lang="en">{"id": "91887e87-be3e-48d4-ae73-877ab1d1cdef", "value": "http://toolsofknowledge.org/OccupationType/engineer_electical"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "ff864896-56c7-4031-ad50-2030fe896451", "value": "engineer, electical"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/38cc5bb0-7872-3e17-9456-9685480ac73f">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "a3e2b6b8-ec95-404a-a4e7-9a5825217c1e", "value": "http://toolsofknowledge.org/OccupationType/managing_director"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "719cba2d-d506-48f8-bc64-8f86b13f0012", "value": "managing director"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a2bee3f6-eece-3df6-ae37-c2c6849bdede">
+    <dcterms:identifier xml:lang="en">{"id": "aefe00f5-d71e-4c2f-9685-ee9f77543c70", "value": "http://toolsofknowledge.org/OccupationType/ironmonger"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "37cf43d6-f4d4-4391-a860-f53fd4da90af", "value": "ironmonger"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fe36e0d9-ae5e-39c4-a394-673b31ad2a90">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "7aa21452-1f8e-4d46-97f3-7af311f5cf06", "value": "gunsmith"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "38d49bd7-e97a-426d-9fe9-83ff72f85668", "value": "http://toolsofknowledge.org/OccupationType/gunsmith"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f42f7c69-96fb-3d88-817a-72fe2c60283f">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "a09fc1e1-4f51-42b4-936b-05f915116518", "value": "http://toolsofknowledge.org/OccupationType/fellow"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1a532cad-3b1a-4098-8860-ea51ae914a0b", "value": "fellow"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/14605e90-f146-3c66-b68d-deb69b1c0899">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "93afacb8-1157-4528-8913-1980ecebd3c9", "value": "turner"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "01d0485a-1403-434c-83bf-cc41640d05f4", "value": "http://toolsofknowledge.org/OccupationType/turner"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/915bb332-240a-3365-857b-4e54bfaf4445">
+    <skos:prefLabel xml:lang="en">{"id": "6a5c6f8e-8cf3-41b8-86f3-20fa78aa82b5", "value": "mineralogist"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "29a365b9-aebb-4e8f-a872-5d816e1373c8", "value": "http://toolsofknowledge.org/OccupationType/mineralogist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/587c6222-045a-3c7a-82d3-c5c68e59d34f">
+    <skos:prefLabel xml:lang="en">{"id": "b2add21d-befe-402d-a783-88fc20d0c670", "value": "hammerman"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "61318d96-4c29-402e-9fbe-2d1574028789", "value": "http://toolsofknowledge.org/OccupationType/hammerman"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d5203a85-bdcc-3a77-9582-f12ee4eaa529">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "3899df5e-a14a-432a-9d6b-df4671980156", "value": "shipper"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "4fb068ec-d8f1-4021-a273-eab885f03a99", "value": "http://toolsofknowledge.org/OccupationType/shipper"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4ee56648-2e85-3e13-8c9d-5f993862d4e8">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "507ba65b-3102-49cd-82da-cb712e801750", "value": "http://toolsofknowledge.org/OccupationType/carrier"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "e5d8db20-d35d-4c91-8251-2738d95eb940", "value": "carrier"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fa935d95-185d-3af4-b936-ed8f598d38e8">
+    <dcterms:identifier xml:lang="en">{"id": "b5ed8eb6-8ff5-4a9d-8f82-140dfedd0edc", "value": "http://toolsofknowledge.org/OccupationType/presser"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "5b47f4d9-ee8d-42d6-bdbb-fa4b8b355ff8", "value": "presser"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e1981efe-2d50-3d59-8198-3f44f41393b0">
+    <dcterms:identifier xml:lang="en">{"id": "e706ca0b-c38e-4831-86cf-4fea18523db4", "value": "http://toolsofknowledge.org/OccupationType/tailor"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "85aa0097-7264-4d3b-8cd0-b9d112c69fca", "value": "tailor"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ad50b184-2e8e-3955-88e6-55c8b4527086">
+    <dcterms:identifier xml:lang="en">{"id": "739240f3-84d5-4c61-ae94-3d251df8455f", "value": "http://toolsofknowledge.org/OccupationType/map_roller"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "33f51844-a622-40a1-852a-b335bcf7f5d4", "value": "map roller"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/445c8414-4c7a-3c4d-80df-52a04b006a48">
+    <skos:prefLabel xml:lang="en">{"id": "47f90ed1-c685-4b35-956f-0358d9528a97", "value": "assistant"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "7bc5e7cc-bf73-492c-b24a-8ddc696eb474", "value": "http://toolsofknowledge.org/OccupationType/assistant"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6d512030-d90d-35df-8941-51e824d78545">
+    <skos:prefLabel xml:lang="en">{"id": "c7924b42-e560-4a77-94b0-06bcbc295a26", "value": "chemist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "28ea0f16-0e0c-4e63-be8f-9c0dea594d7b", "value": "http://toolsofknowledge.org/OccupationType/chemist"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a138eab9-ad7d-3032-8359-85712de4c805">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "7c799efd-0bb6-4363-87fe-897107394af7", "value": "mechanic"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "e790be5a-6f98-4852-aac4-3f9ba806ce76", "value": "http://toolsofknowledge.org/OccupationType/mechanic"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1f237ca8-aac4-389f-ad0a-a73cc1e91897">
+    <skos:prefLabel xml:lang="en">{"id": "e34fb8cb-6ce1-49d0-84c9-89ac0990bcc5", "value": "sculptor"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "8336df22-6cc0-4342-a550-d4143fee9cd4", "value": "http://toolsofknowledge.org/OccupationType/sculptor"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fe1b9d3f-daa9-329f-93a5-6bb5f9491de8">
+    <skos:prefLabel xml:lang="en">{"id": "cb3e228b-5834-4db2-85b6-8c3cd4a30f92", "value": "wright"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "0b71b4fd-c21d-40f5-973c-92b034545be3", "value": "http://toolsofknowledge.org/OccupationType/wright"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/28522dc5-521e-3a3b-89fd-48cb749a025d">
+    <dcterms:identifier xml:lang="en">{"id": "53b3a48e-621d-4d6b-bdca-4e2c88a02df0", "value": "http://toolsofknowledge.org/OccupationType/metallurgist"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "3d270c80-bf22-41dd-9128-af1065f9c259", "value": "metallurgist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/db02feba-ab93-3c15-bf39-eb6c54273cad">
+    <skos:prefLabel xml:lang="en">{"id": "b05a7989-f47c-4225-8529-3ddbac728f89", "value": "grinder"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "cceb9449-94f2-4154-89c3-2ad0716fcad2", "value": "http://toolsofknowledge.org/OccupationType/grinder"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0a2384b3-53df-3440-a07f-bb1fa874f63b">
+    <dcterms:identifier xml:lang="en">{"id": "2245c2f7-ab23-447f-a26c-7f2aae036cbf", "value": "http://toolsofknowledge.org/OccupationType/stainer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "46bf8331-8c83-4394-a0a3-a5e8e8f1b559", "value": "stainer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6955e26d-2436-34a8-8631-71669814fad0">
+    <dcterms:identifier xml:lang="en">{"id": "a62a161b-a9eb-4c6a-8241-5df50f557538", "value": "http://toolsofknowledge.org/OccupationType/clergyman"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "256e5d84-873b-47bc-b98d-c51fea4f734e", "value": "clergyman"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3e2ac65c-e6dd-3097-8e32-188aa5846e41">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "7796be3f-e2ee-44cf-80ff-b4f542d51d1e", "value": "http://toolsofknowledge.org/OccupationType/chandler_ship"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "cbc29463-7329-4c0a-88ef-9b380c53cb07", "value": "chandler, ship"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c3ffe0b1-21b1-3d23-af36-daa972eb9fd7">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "374e4672-ee0d-4c76-ad86-d13b4131c2d2", "value": "http://toolsofknowledge.org/OccupationType/coppersmith"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c7c6cda7-6c89-4c27-88c8-65aed89fedf2", "value": "coppersmith"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5e3bd1ce-aa0c-30be-b6f8-4f240d37ccbc">
+    <dcterms:identifier xml:lang="en">{"id": "d3a5d640-68f9-4229-a00c-0f50eb00946c", "value": "http://toolsofknowledge.org/OccupationType/stopperer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "d008c438-8f30-4fb2-9bf2-97abaf527c61", "value": "stopperer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/13b03e9c-468e-3f98-9124-0705377f613b">
+    <skos:prefLabel xml:lang="en">{"id": "05fd10aa-0fbb-43ef-8062-9351d4791d87", "value": "carver"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "367ee04a-4258-460e-af3c-74c8c07bc36f", "value": "http://toolsofknowledge.org/OccupationType/carver"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9c56fb49-7491-3c40-b5e3-775071ad2dfc">
+    <dcterms:identifier xml:lang="en">{"id": "378940b5-ddf4-47ee-af4d-d9ec1fb99e6c", "value": "http://toolsofknowledge.org/OccupationType/engraver"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "0640de84-65ce-4bf3-8bdc-d42fa123a623", "value": "engraver"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6bf2f42d-82aa-3edf-868e-6f81e2c39e04">
+    <dcterms:identifier xml:lang="en">{"id": "7f9d23c5-7293-4e53-8283-c429d0a8a09c", "value": "http://toolsofknowledge.org/OccupationType/chandler"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "b268b156-71c0-40d0-814d-1a044a0e2d7c", "value": "chandler"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d908a4fb-7575-32d4-853f-aa143dc234fb">
+    <dcterms:identifier xml:lang="en">{"id": "035602cc-044a-44d8-be03-4663d44e59f1", "value": "http://toolsofknowledge.org/OccupationType/cutter"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "a2cad961-11e9-4347-92ad-58510a3cbe12", "value": "cutter"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/98c89e8e-f19b-3649-9ae6-6626f748fd7f">
+    <dcterms:identifier xml:lang="en">{"id": "6f768ade-1c6e-4502-bd2e-9560ae080cfc", "value": "http://toolsofknowledge.org/OccupationType/framer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "1d7bfcdf-f46a-4198-9ae8-047cc5b1b3be", "value": "framer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3d297c7a-ed8d-395a-97c5-145d6a0cfa41">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "37e02698-eb01-449e-a37a-80a8fa97738f", "value": "plater"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d3c238dc-a254-4247-980a-3d4753fca1b9", "value": "http://toolsofknowledge.org/OccupationType/plater"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0a6b284d-3307-3690-907c-53504d0572b6">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "b55459a8-4eaf-41e2-9974-433a0521a647", "value": "adjuster"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "e19c3e9b-04d1-433b-befb-d7cb64b0f953", "value": "http://toolsofknowledge.org/OccupationType/adjuster"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6242b2cc-5549-3117-bfce-d56a8a54d73c">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "98d0a2d4-15c3-4f1f-8c50-e3f258df858d", "value": "decorator"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "1384e2bb-988e-4aba-bf2b-04f80b69bb22", "value": "http://toolsofknowledge.org/OccupationType/decorator"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d44236a9-4fb5-3614-9d8b-527304d83477">
+    <skos:prefLabel xml:lang="en">{"id": "d3a2bbda-82e7-42ac-9a33-3748a187482c", "value": "bar fitter"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6d1aed2a-a37c-463f-8c51-27c7437b2c4f", "value": "http://toolsofknowledge.org/OccupationType/bar_fitter"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6860e85c-1082-33e5-8123-9c757bf66bcc">
+    <skos:prefLabel xml:lang="en">{"id": "f4025d57-1573-4d0b-bc0a-6f0bce8cbe4e", "value": "artist, philosophical"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "94540b13-42a4-4252-8cbf-2c7ad60d4c97", "value": "http://toolsofknowledge.org/OccupationType/artist_philosophical"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e3f6360b-4f70-350c-88e1-3d20d54a08ec">
+    <skos:prefLabel xml:lang="en">{"id": "07c7ff43-83ed-443b-a53c-ba072446782d", "value": "money changer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "8215b031-1860-441d-8b30-9aeec75ee8cd", "value": "http://toolsofknowledge.org/OccupationType/money_changer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/84e83612-0c8f-3180-a22c-bdb1b9da7110">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "627d1ca6-8f3a-4570-a62f-6cce0d7adc23", "value": "http://toolsofknowledge.org/OccupationType/journalist"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "dcc368dd-a7af-4cc3-bca7-695d8415fdfb", "value": "journalist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9b44000f-abbf-3683-818d-641f65689be6">
+    <dcterms:identifier xml:lang="en">{"id": "14f35db0-64dd-4eb1-b9d8-2538b06360dc", "value": "http://toolsofknowledge.org/OccupationType/chairman"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "2261f19f-7cc1-465d-934e-0ed9ac20cc00", "value": "chairman"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/42f11eec-5d7c-3a33-9054-e4be43a8f4d4">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "058d7085-acdb-43d0-9d8a-7d82bfad54cc", "value": "http://toolsofknowledge.org/OccupationType/assayer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "fcbeb916-3139-442a-88f6-db2bffac1f2e", "value": "assayer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ff3a20b8-03f9-3dd6-b30a-75c5a2c053d8">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "15800325-5f8a-4577-8ee3-b7dac68752d7", "value": "galvanist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "0c0d27b5-6ac5-4440-a83f-5bdc9a84171f", "value": "http://toolsofknowledge.org/OccupationType/galvanist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a2803c5c-1efc-36bc-ae04-5ca44078f11d">
+    <dcterms:identifier xml:lang="en">{"id": "cc69881e-65d1-4500-aec3-eb613d852450", "value": "http://toolsofknowledge.org/OccupationType/potter"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "695a51ac-09d9-4f00-a1ec-c7df2126fd31", "value": "potter"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f3a7be57-fbf8-3650-9ab3-6f0db94812bb">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "313bf69e-50bb-4806-9d9e-1b862f5938f6", "value": "magnetician"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "4d7b4bca-7baa-4e29-83c4-889c74ea3786", "value": "http://toolsofknowledge.org/OccupationType/magnetician"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b49f7d09-658f-358d-9200-1aabf6f92704">
+    <dcterms:identifier xml:lang="en">{"id": "ab8ea7b8-9496-46a9-8497-3ab9835df417", "value": "http://toolsofknowledge.org/OccupationType/schoolmaster"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "f34a3129-68fe-4294-8e9a-a20bcc7f9b16", "value": "schoolmaster"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/067a44ed-b85e-31a0-a5fd-fab68ec8844e">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "5a915489-11c8-4339-af77-3251cc7bb8ef", "value": "http://toolsofknowledge.org/OccupationType/seller_scientific_instruments"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "e7872c3b-e611-4c92-8033-e44a42492f49", "value": "seller, scientific instruments"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c6c98308-2a10-33b5-852c-59f05b0d3e3b">
+    <skos:prefLabel xml:lang="en">{"id": "f787146a-b4bb-4859-a338-a10614d4667c", "value": "finisher"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "8cfcd117-8f69-48a4-88fc-5fb0e09a58d8", "value": "http://toolsofknowledge.org/OccupationType/finisher"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/26e50876-b699-315d-bc38-4b1de7bfe0c4">
+    <skos:prefLabel xml:lang="en">{"id": "fc289607-6f46-49fc-a609-f0143975239b", "value": "boatbuilder"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "d56bc35c-fd06-4779-9428-bd50b28e6311", "value": "http://toolsofknowledge.org/OccupationType/boatbuilder"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bf2e22c0-7afe-344d-9d51-de66dc1536f9">
+    <skos:prefLabel xml:lang="en">{"id": "35524c1d-b315-4c4a-8b98-091da6b1ab93", "value": "divider"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "14d049cf-7a91-4cc1-a39c-3e149f6c70ae", "value": "http://toolsofknowledge.org/OccupationType/divider"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/12df926d-a580-3501-a805-8da4bf0723a7">
+    <dcterms:identifier xml:lang="en">{"id": "53c652d6-4aa2-465f-8b6c-b2666b0f7d74", "value": "http://toolsofknowledge.org/OccupationType/upholsterer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "fc810ded-08ad-4033-89ba-a5e300729890", "value": "upholsterer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d981173c-c1fb-3ec1-b6df-23a94abff1f0">
+    <skos:prefLabel xml:lang="en">{"id": "ce807927-86a5-487e-bea0-6a0157dd812b", "value": "gangsman"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "255f513d-2638-45d6-b463-4f57f48a595c", "value": "http://toolsofknowledge.org/OccupationType/gangsman"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5b49c860-d36e-3055-8064-73bd6c4b22a7">
+    <dcterms:identifier xml:lang="en">{"id": "79dca7ba-ba4b-49b3-a1c6-3947472fb809", "value": "http://toolsofknowledge.org/OccupationType/mathematician"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "a4949704-7ffc-4aa4-83d7-d5ff39637260", "value": "mathematician"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/52bec52d-aa1a-3f05-8b94-b3244a25266e">
+    <dcterms:identifier xml:lang="en">{"id": "5584c2b6-8a4e-48ce-8aba-b4509fc6941a", "value": "http://toolsofknowledge.org/OccupationType/captain"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "194719b0-7f60-4947-8d55-f8d1d420a984", "value": "captain"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c2b73ae7-0a20-38ca-881c-77101f9abc82">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "e2300b6a-ae41-42b5-b779-2cea61e5d357", "value": "jeweller"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "10e0b815-f60f-4dfb-8ee0-fcc9d28313d7", "value": "http://toolsofknowledge.org/OccupationType/jeweller"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/22681a13-609d-303f-a4c9-763784c2124b">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "0305d812-1509-45e3-80a9-c635bc67e6de", "value": "http://toolsofknowledge.org/OccupationType/roller"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "26fe902f-2db8-49e5-905d-8c7f45522d69", "value": "roller"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3e5b3ec0-e96a-39ec-8eef-0c6bf94f4cf2">
+    <skos:prefLabel xml:lang="en">{"id": "6606a661-a5ac-459a-85d7-e6ddc54ab503", "value": "maltster"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "bd9ac6bc-13f4-45b7-bdfc-8cad47f03528", "value": "http://toolsofknowledge.org/OccupationType/maltster"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9b635786-85ec-3b18-844f-63397858263f">
+    <skos:prefLabel xml:lang="en">{"id": "365427ec-ddfa-454d-8c4c-dccbd45e77c5", "value": "hardwareman"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "7926c757-4ccc-4259-a563-04c6bcf175af", "value": "http://toolsofknowledge.org/OccupationType/hardwareman"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/339778d6-0e77-351a-9cd0-1c14956e22fa">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "d686981f-4221-4c24-a2f5-475f1fd89803", "value": "bell hanger"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "b6e07243-6dc1-488a-8675-fddf7b7e3866", "value": "http://toolsofknowledge.org/OccupationType/bell_hanger"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/eb2040d9-228b-3aa4-967e-24eaa8f7452c">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "b59c8a1a-43e4-4531-b693-514909a12193", "value": "auctioneer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "5ac8f780-3dff-4979-94b8-5ffb2e48fc02", "value": "http://toolsofknowledge.org/OccupationType/auctioneer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/04ef6e5d-60a5-3ad4-83cf-de3f0d29dbc0">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "4f735fab-6f47-41e4-bbf2-c8d3eaf94b66", "value": "painter"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a65044b5-d902-463d-8e1f-2b7d8172b0a1", "value": "http://toolsofknowledge.org/OccupationType/painter"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fccfdec3-fbb8-3535-b371-15853c85658e">
+    <dcterms:identifier xml:lang="en">{"id": "441d0a50-4f77-405f-a9b1-e91394a7fa6d", "value": "http://toolsofknowledge.org/OccupationType/author"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1f9344cd-31cd-4760-bfce-25d42c5b1eca", "value": "author"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/85b09038-3248-3140-911c-fa590b26cfc2">
+    <dcterms:identifier xml:lang="en">{"id": "79dd644d-1bb7-4f39-962a-9ab4327b9fc4", "value": "http://toolsofknowledge.org/OccupationType/collector"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "ed303e47-8773-45c8-a968-9144c9003b7d", "value": "collector"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ce627692-e0b2-3640-bdc9-f636b5a7247f">
+    <dcterms:identifier xml:lang="en">{"id": "4b10d09a-91f3-47ed-8ca9-ea338306b743", "value": "http://toolsofknowledge.org/OccupationType/flour-man"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "72dac747-4309-4213-9e42-d10267eee579", "value": "flour-man"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5df65a56-b4b6-377d-ac0c-0450194833f0">
+    <skos:prefLabel xml:lang="en">{"id": "562a42f0-4fcd-4e65-830a-299b6e8e5153", "value": "corrector"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "9f75d69c-d7f6-4be7-b808-484c440a7fa5", "value": "http://toolsofknowledge.org/OccupationType/corrector"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/773fe896-40b3-3120-8177-ebe7b06e81ae">
+    <skos:prefLabel xml:lang="en">{"id": "b69bbe72-7245-4237-af0f-a5ff2c866d36", "value": "provider"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "601db7ed-b2b5-4874-b884-e7de8062f9cf", "value": "http://toolsofknowledge.org/OccupationType/provider"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/82abe12c-c6f0-39ae-9934-46ae7ecce300">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "5c273fdd-ceea-45bb-9ab9-fc98de98a7a1", "value": "http://toolsofknowledge.org/OccupationType/artist_photographic"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1da77f17-17a0-410d-9581-c8e98214032b", "value": "artist, photographic"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a27166c6-f20b-30e7-b2af-209eb46998b9">
+    <skos:prefLabel xml:lang="en">{"id": "fef2ae40-1836-45e6-b62e-01a96645c546", "value": "locksmith"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "28f89528-15e9-4a35-8b64-e2cae792fd13", "value": "http://toolsofknowledge.org/OccupationType/locksmith"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ffb008c9-e621-3af6-82a8-a81869b185af">
+    <skos:prefLabel xml:lang="en">{"id": "a03f916d-d743-45cf-a9d5-791690fa0626", "value": "surveyor"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6a6c012f-a1f6-49c4-9b37-283c6e691e1a", "value": "http://toolsofknowledge.org/OccupationType/surveyor"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/aa8b3e7f-b971-38d1-bfce-525c7bfc8dc2">
+    <skos:prefLabel xml:lang="en">{"id": "687f94a7-ad8c-47b3-a5f9-cbfed584ce87", "value": "modeller"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "8f62b695-9ac1-4d3c-bad5-51b25bd458f0", "value": "http://toolsofknowledge.org/OccupationType/modeller"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b3492862-a6ec-3a5e-ad22-3bbceb15fd26">
+    <skos:prefLabel xml:lang="en">{"id": "d8906510-6129-400f-bc31-ea49cf8252ca", "value": "diallist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d63e993f-5ff3-4415-aee5-1aa0263599b7", "value": "http://toolsofknowledge.org/OccupationType/diallist"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2a3b424b-8c3f-3142-b7da-08218538d862">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "f8b6e421-e97c-4ac3-a361-d0a4dfe622a6", "value": "http://toolsofknowledge.org/OccupationType/outfitter_laboratory"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "274d1d61-a414-49c7-9557-968c2272b400", "value": "outfitter, laboratory"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/12a473b0-5072-3dcc-b145-9b0f696d922b">
+    <skos:prefLabel xml:lang="en">{"id": "14097d4e-f15c-4fd7-bd45-8abe9123bace", "value": "colourman, artists'"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "1f029b11-ab85-4c40-bc4c-71ae6c9d22e0", "value": "http://toolsofknowledge.org/OccupationType/colourman_artists"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f4379253-87e6-3a03-b3c9-2a426cc70971">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "d9026164-19da-4544-ba72-ceee5b0bc221", "value": "http://toolsofknowledge.org/OccupationType/naturalist"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "5be3462e-0312-46d2-9b7c-95cdf2e6d94a", "value": "naturalist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0c19a87a-fa8b-30ba-9f75-c71ac86f5820">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "567e7596-e729-4b00-a84e-a14efd439617", "value": "http://toolsofknowledge.org/OccupationType/restauranteur"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "f4a43181-eaef-41ac-a169-712e122b64f0", "value": "restauranteur"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/13ad75f9-1837-38fd-8bc3-ae6dfc009b26">
+    <skos:prefLabel xml:lang="en">{"id": "092178ee-5ddc-4b1c-abfc-1c280316d45d", "value": "wholesaler"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "2c16695c-faf3-4e87-8d07-a41b0c70225c", "value": "http://toolsofknowledge.org/OccupationType/wholesaler"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4799eb7d-ca85-3a08-8863-605536e327bf">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "14583c13-7529-41c2-91e6-a07d78911492", "value": "http://toolsofknowledge.org/OccupationType/photographer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "900e97cb-1a71-4df8-907f-ddfa9da073f5", "value": "photographer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bbe52a75-1a70-3a81-9e89-2bb86398155b">
+    <skos:prefLabel xml:lang="en">{"id": "a17b452a-923c-4ea0-bab1-9070f6159d34", "value": "microscopist"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "92e26b44-c3e1-4825-bc7b-5bc751c0ca64", "value": "http://toolsofknowledge.org/OccupationType/microscopist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b017758c-53b6-3586-989d-4cf03a6a6ffe">
+    <skos:prefLabel xml:lang="en">{"id": "a6e0e250-dcb5-45cf-b0e5-5b19f7f48df0", "value": "printer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d86353b3-319f-4d03-b601-af8fb1ce30d2", "value": "http://toolsofknowledge.org/OccupationType/printer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/094bee78-924d-3d2f-9098-7e7528e3a952">
+    <dcterms:identifier xml:lang="en">{"id": "04a82715-888c-43a3-9056-971d07648ece", "value": "http://toolsofknowledge.org/OccupationType/gas_fitter"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "7ea7b5ea-8d57-4f21-b99a-e380e664f5d8", "value": "gas fitter"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/34b07d18-d99e-39d6-b065-bba9293c5108">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "2f5448c2-839c-4b4d-9517-4073f0668b9e", "value": "http://toolsofknowledge.org/OccupationType/salesman"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c9262cb6-6f91-4486-bf63-e45da0cdfe64", "value": "salesman"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0b3208c5-b8df-3459-8ae8-cc16e01df702">
+    <dcterms:identifier xml:lang="en">{"id": "665348f0-5f95-4530-a343-dec224605e7c", "value": "http://toolsofknowledge.org/OccupationType/cooper"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "4ef15f98-76e7-4103-a89f-9bc3373a83b7", "value": "cooper"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dacd75a0-1c8d-311a-bd10-bf08b4e5c1ed">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "4b0e9cc9-7165-41ab-b663-c991cdc7c778", "value": "oculist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "e6a3cde4-d9a7-4695-915a-7c793c81baa4", "value": "http://toolsofknowledge.org/OccupationType/oculist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/31a06fce-cfdc-3349-abfe-3452990445d9">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "0180e74c-a1ac-4781-8d4f-4830721a0ae4", "value": "haberdasher"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d513ac48-f2ea-45d7-9933-eb89b048379a", "value": "http://toolsofknowledge.org/OccupationType/haberdasher"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/db56f6cd-d45f-36ea-838f-565bd78d0c7c">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "79a0bda8-30f0-4b16-abdf-d874c8d54249", "value": "hawker"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d1565e71-5cbe-4f99-9f75-2b3905e388de", "value": "http://toolsofknowledge.org/OccupationType/hawker"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c78fa7eb-4f58-3ab8-9210-31c4430ff9a1">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "5229bbf8-93fe-46c0-bb94-7f9eeac524ec", "value": "http://toolsofknowledge.org/OccupationType/machinegraphist"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "7236e3d5-bdb4-45e7-835c-03cc3e351227", "value": "machinegraphist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/52117114-2e33-3bf6-8c51-45354e4abf8d">
+    <dcterms:identifier xml:lang="en">{"id": "4354d75c-b82b-4184-b2e1-6ac275969867", "value": "http://toolsofknowledge.org/OccupationType/blower"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "38189601-34f5-4072-a54c-76833325bf02", "value": "blower"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2844e709-c8c6-3f78-b32f-c187424279b6">
+    <skos:prefLabel xml:lang="en">{"id": "f93c9672-db1f-47e6-a88b-3de1cdcb7492", "value": "chemist, operative"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "8530c543-1902-415c-91dd-f4a0e2064beb", "value": "http://toolsofknowledge.org/OccupationType/chemist_operative"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/474fa3bc-9ec2-380e-844a-bbee89f2dad4">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "0ad36d61-9f39-405e-90b9-b322825dc8f6", "value": "cheesemonger"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d777f3d6-38cc-4071-9a9d-096944f6aa97", "value": "http://toolsofknowledge.org/OccupationType/cheesemonger"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f3a973a9-92fa-3d7d-a6f8-7a5226760501">
+    <skos:prefLabel xml:lang="en">{"id": "b8e60d1c-c82a-4e8a-8d69-1e768578fa63", "value": "engineer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "78d8f8f6-b981-4569-8055-e1dd940d1064", "value": "http://toolsofknowledge.org/OccupationType/engineer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/970ed88b-30fc-3c5c-8f0e-c11e24ec0194">
+    <dcterms:identifier xml:lang="en">{"id": "0a3a3203-a435-4d20-911b-6a69fead71b1", "value": "http://toolsofknowledge.org/OccupationType/forger"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "094431ad-15e9-41ee-a8d7-f7aaa41d6b66", "value": "forger"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3db15437-137d-3c62-a176-9efe4a3536e0">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "7499d387-14e4-48c4-ac5e-081640a2e569", "value": "baker"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "110aeb11-9076-4542-9652-0c3f09e4c80c", "value": "http://toolsofknowledge.org/OccupationType/baker"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8780121a-47cb-3609-ac5c-a9a6fad13456">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "3ff96781-cfc7-461c-9732-8785310704f3", "value": "perfumer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "0aaa70b4-2d5c-446b-b44f-6b3c43a97b74", "value": "http://toolsofknowledge.org/OccupationType/perfumer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/597dc6da-3a07-3da0-aa57-618eb49b4753">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "a3e772e7-9561-473d-93da-a0bf7d77f42e", "value": "restorer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a5282dd2-e058-44e4-b639-d568ead55ab3", "value": "http://toolsofknowledge.org/OccupationType/restorer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/230c39c5-6f8a-3ecf-a3b6-0042ce168b7e">
+    <skos:prefLabel xml:lang="en">{"id": "b970829e-7298-4861-aaaa-8afe33dbd6b1", "value": "hydrographer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "ce1c96e5-596e-46c2-9923-77bdb1890909", "value": "http://toolsofknowledge.org/OccupationType/hydrographer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/850b9e62-3ecb-322c-98ba-4fd37ebc7d32">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "adec22e9-8f18-40a0-bfd5-c25e61ee5c08", "value": "bookseller"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "8ed58fb9-6bc2-4b73-93ae-456a5b235142", "value": "http://toolsofknowledge.org/OccupationType/bookseller"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8c7bc378-cf17-350d-a7c0-c5e69f98c810">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "79a96619-f75f-482b-9430-449960576241", "value": "agent"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "05146375-e64e-414d-b81e-af57d63dad60", "value": "http://toolsofknowledge.org/OccupationType/agent"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7b90d7c0-c1ab-3ee3-8df0-43f0d9d54c5b">
+    <skos:prefLabel xml:lang="en">{"id": "611431c8-474d-4862-b7cd-25b528a79f63", "value": "brewer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "64bcabb4-8a29-41e9-b95c-dcaf11d3bd6c", "value": "http://toolsofknowledge.org/OccupationType/brewer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/04f44fdb-56c0-3a0e-be68-d2a0b1bf3994">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "84afbb26-5327-41a1-a2f3-26df58455189", "value": "http://toolsofknowledge.org/OccupationType/mathematician_naval"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "08994d33-78a4-49e7-879e-b9e74d962f67", "value": "mathematician, naval"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/89714f67-1480-34aa-bdd7-07f49a8a4f71">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "0fba5afb-df0f-4346-9d5f-be76a5c957b9", "value": "http://toolsofknowledge.org/OccupationType/oilman"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1db4d299-774f-486f-af3c-c043b7e24a2f", "value": "oilman"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/661d62cf-cb1f-3314-b75e-270545b2fa0c">
+    <skos:prefLabel xml:lang="en">{"id": "0ad24551-8a43-4ed8-9a94-9c690e44bcb1", "value": "ploughwright"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "5134d1cc-b150-4798-9ba4-8d325c6c64df", "value": "http://toolsofknowledge.org/OccupationType/ploughwright"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9ff330c0-1474-3ee0-bbb9-3ef81cbf339a">
+    <skos:prefLabel xml:lang="en">{"id": "1979aeb4-b5a0-49e1-94f9-6a07b5c1bc45", "value": "mechanician"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "8b781bb7-5394-4950-b711-36b0626f92e7", "value": "http://toolsofknowledge.org/OccupationType/mechanician"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b6378175-0ce6-374d-a469-66439c6805ce">
+    <skos:prefLabel xml:lang="en">{"id": "181a48a8-a86f-4ae0-9d0d-1e2d5a8799fb", "value": "architect"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "10a4b7c6-7ba2-4b4a-bc27-847dd7da5c19", "value": "http://toolsofknowledge.org/OccupationType/architect"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b0b25313-92ec-3436-9f2a-2aad114ca74b">
+    <dcterms:identifier xml:lang="en">{"id": "6f44758c-534a-4ddb-b771-4f687fc1d5f1", "value": "http://toolsofknowledge.org/OccupationType/confectioner"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "91965791-2ff4-4ea1-9cf4-c2fe8e32ca31", "value": "confectioner"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6049793b-535a-3549-892d-7646a22b05c3">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "d6d1c742-5166-4471-99f9-b0846b78bd31", "value": "regulator"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "22c7d234-b980-4f2e-a262-88aae450b5e3", "value": "http://toolsofknowledge.org/OccupationType/regulator"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/80e7cfd8-f903-3995-a05b-82522c6aed32">
+    <dcterms:identifier xml:lang="en">{"id": "5da0ff4b-3d92-40e9-9ed2-7dddb1a9b2fc", "value": "http://toolsofknowledge.org/OccupationType/blacksmith"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "457efedc-1146-4188-a07c-7ff9bb1823f2", "value": "blacksmith"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a1856a2f-df70-3120-8713-ddb32343e515">
+    <dcterms:identifier xml:lang="en">{"id": "579fca96-6e13-4304-b11c-716e5092a4b5", "value": "http://toolsofknowledge.org/OccupationType/contractor"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "85b714d0-e16f-4332-becb-ed6b9cebbf47", "value": "contractor"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c91b8a2b-213f-37a5-bbfa-3c67623e6170">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "e13c9ff5-a9ee-41b6-8ad8-c5892b11f65e", "value": "http://toolsofknowledge.org/OccupationType/pawnbroker"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "50f47933-5461-4fd6-8bf8-1c67787fc07e", "value": "pawnbroker"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/339736fd-6b6d-30de-b9db-9f0f9912c86c">
+    <skos:prefLabel xml:lang="en">{"id": "d591690e-8ba3-457d-8cba-e2b1fc2eaade", "value": "journeyman"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "04b9833f-a0dd-4f15-bbcd-b011d27e2271", "value": "http://toolsofknowledge.org/OccupationType/journeyman"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c9827875-18ce-37d2-9134-da793c5cee76">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "008799bf-03c1-40ab-acde-735d3d43e053", "value": "merchant"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "efd4bafc-9444-4865-9666-1ba50dc728eb", "value": "http://toolsofknowledge.org/OccupationType/merchant"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b4270196-44d7-3e92-9cf2-da8c2223fdb6">
+    <skos:prefLabel xml:lang="en">{"id": "8ff297f1-6e74-48f6-8003-01f8271209f9", "value": "broker"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "6338c88f-389c-4f9c-b03d-064e50b6aa62", "value": "http://toolsofknowledge.org/OccupationType/broker"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/36f48c67-e178-3d94-9309-634ae47d6fc1">
+    <skos:prefLabel xml:lang="en">{"id": "bcf58a0d-e21f-4bed-8e2c-3afde401325d", "value": "decorator, houses"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "094245e7-7e93-47ea-bb23-7629e667c300", "value": "http://toolsofknowledge.org/OccupationType/decorator_houses"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/57378b5e-489b-35bb-8aba-fadf683c44ac">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "45160a90-3957-44d7-8ffb-63cd347b8bfd", "value": "founder"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "91917951-3188-440d-aa75-9d24e9d11507", "value": "http://toolsofknowledge.org/OccupationType/founder"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4fc8eda5-0968-3357-b725-9112ef289502">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "9d7d5133-47f6-4f87-9dfe-5c3b0a029f6d", "value": "carpenter"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6daae190-a7c6-411d-8bbc-dd84be1b9d16", "value": "http://toolsofknowledge.org/OccupationType/carpenter"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d6f418db-998a-3c55-b8e2-e01b80ad3407">
+    <dcterms:identifier xml:lang="en">{"id": "c6b25c9d-3c1a-4e33-8c40-869812b08eb7", "value": "http://toolsofknowledge.org/OccupationType/warehouseman"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "f1e99a7e-02a2-4350-993c-2d7b1f908966", "value": "warehouseman"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5f1b1c6f-e6a2-3399-9107-dfb6c1250504">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "1a793859-5a55-4235-af41-1a9a9de0c5dc", "value": "http://toolsofknowledge.org/OccupationType/gardener"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "238f72ac-cdde-4301-9778-070694beee8d", "value": "gardener"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/913fa2b7-a871-3e8a-9cca-b96a785f2ef3">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "b106237e-263a-46ff-ac4c-301a93c6fef7", "value": "gilder"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "613c0340-d6e8-44c2-8d48-bd69beab88d3", "value": "http://toolsofknowledge.org/OccupationType/gilder"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/00eff935-b2ae-3278-9290-be18028c16a9">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "b72e82e4-98cc-4ae7-b070-5d6d6405bd9d", "value": "http://toolsofknowledge.org/OccupationType/mounter"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "38fd2072-d5f3-4f79-b072-6b55ef018dc8", "value": "mounter"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/391d1f37-d6af-3ebd-9f1f-0a8c47697f04">
+    <skos:prefLabel xml:lang="en">{"id": "52887001-c7f6-42ff-81d3-3890fd435d55", "value": "geographer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "19b9c745-4716-4dc8-b350-ea4dad70a56c", "value": "http://toolsofknowledge.org/OccupationType/geographer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ead2014b-f288-3b8f-b26c-2916e07517cd">
+    <skos:prefLabel xml:lang="en">{"id": "83d5ea77-4f36-4c6d-af10-1334e98dd599", "value": "pharmacist"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "618158ed-74f8-43c5-80b2-afe9ac782f5f", "value": "http://toolsofknowledge.org/OccupationType/pharmacist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f743d2e8-1f62-3ecf-904f-f512d5189cc2">
+    <skos:prefLabel xml:lang="en">{"id": "db7c4ea2-d111-4d07-aef4-477a5459e094", "value": "tinman"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "807e9a4a-6387-4654-82da-3bc2319682e3", "value": "http://toolsofknowledge.org/OccupationType/tinman"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f29cdeae-9bad-3999-af0c-f5636fd32a98">
+    <skos:prefLabel xml:lang="en">{"id": "0a3baedf-a76b-4596-85c9-67de47edcea6", "value": "stationer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "5ac251f7-9fa7-4751-8e28-fae9a9382c5e", "value": "http://toolsofknowledge.org/OccupationType/stationer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/080105ea-9fbf-336a-829d-46fce6aa7e90">
+    <dcterms:identifier xml:lang="en">{"id": "f1fada1e-9027-4871-b436-564bf4848457", "value": "http://toolsofknowledge.org/OccupationType/bookkeeper"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "e721fd77-52ab-4c5a-acec-0dc93be053e6", "value": "bookkeeper"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/85aea018-c495-3b8b-b491-00d58f2f2910">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "3c75ea3f-1475-4e95-bef1-83ce9aec77fe", "value": "publisher"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "e43b009a-4aa9-4fa9-a10c-3ca4d24f52f8", "value": "http://toolsofknowledge.org/OccupationType/publisher"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0b5ce426-08a7-3b1c-96d7-41bed0eaefd8">
+    <skos:prefLabel xml:lang="en">{"id": "589e49c1-811c-4f51-9e0e-4199e9f7ed2e", "value": "mariner"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "5191a6e6-1b3a-4b55-8510-c5f7feaa6e69", "value": "http://toolsofknowledge.org/OccupationType/mariner"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f67b150a-ed1a-3816-b1d1-6355e1ae3b2d">
+    <dcterms:identifier xml:lang="en">{"id": "fcf681e8-41ea-4a07-832a-e6ca1c87c20a", "value": "http://toolsofknowledge.org/OccupationType/miniaturist"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "a430f166-8210-43c7-9067-440c3f8b597d", "value": "miniaturist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ad5c651f-7f11-32e7-a89a-8f52f1b7824d">
+    <dcterms:identifier xml:lang="en">{"id": "804cf774-6cba-4204-8e9e-f28a220af1c4", "value": "http://toolsofknowledge.org/OccupationType/bricklayer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "767ea58b-aae3-4e19-8109-e91c913d8075", "value": "bricklayer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/06c22537-50aa-3caf-8d9f-08724db199d8">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "6c38b1d1-2900-41a9-a106-4a04fd91b6f3", "value": "http://toolsofknowledge.org/OccupationType/designer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "bf49474c-6fca-4746-94ce-e88bb4ab457e", "value": "designer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9710eeb2-7f88-3273-a4ab-558792479383">
+    <dcterms:identifier xml:lang="en">{"id": "28a4799d-c66f-4117-a56f-f8064f723749", "value": "http://toolsofknowledge.org/OccupationType/gauger"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3f55ee2a-bcf4-45bb-b013-0dcccf7f9818", "value": "gauger"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/457b118a-774a-3232-9f53-f06a249eaaf6">
+    <dcterms:identifier xml:lang="en">{"id": "2eacf5c0-1ef7-4c6e-b23e-82cf48774db6", "value": "http://toolsofknowledge.org/OccupationType/optician"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "8c5ac4ee-4fee-4f7f-8b85-db0acf6eb860", "value": "optician"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/125b553b-293c-3f4b-aad0-4f43f6f4e267">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "3a3dedf1-fed2-4824-8169-74e4016540ca", "value": "brazier"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a5b8d25d-55e5-41ed-a0dd-31c5e291d4ec", "value": "http://toolsofknowledge.org/OccupationType/brazier"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/81bddb77-9f9d-3291-8e36-06fe95036ec6">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "4a6b5ebd-fd43-40a2-b87e-f73dbfdc1177", "value": "http://toolsofknowledge.org/OccupationType/file"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c2a9ee13-1781-46ce-a52b-f377e2a5a18a", "value": "file"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e9f23e35-7ca5-335c-96f8-f250ed8b2a6c">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "d264232e-c280-4bb8-8ce2-2297b1ed347e", "value": "http://toolsofknowledge.org/OccupationType/aurist"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3b9308fe-ab15-46b3-9c1c-081519fc4933", "value": "aurist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2db9f40a-50ee-39e2-b615-270c8b6b6744">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "1cf0f167-ae8e-47d3-aefa-358fe521cd7f", "value": "brightsmith"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d66d6432-3320-467e-8524-208f682d025b", "value": "http://toolsofknowledge.org/OccupationType/brightsmith"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f418a2b8-cd77-3f93-8e0c-d77cf4018aea">
+    <skos:prefLabel xml:lang="en">{"id": "179e8b12-0471-4ca9-aa13-ea3abb26fae9", "value": "plumber"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "8d490060-5a81-4e99-8e42-58d86a7665a1", "value": "http://toolsofknowledge.org/OccupationType/plumber"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dbbfe9ed-dcb5-3881-86e1-2dc5a842ffe6">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "8d34d393-3281-4a6d-8aca-17dadb991c54", "value": "http://toolsofknowledge.org/OccupationType/draper"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "bf05c311-7d1a-40ab-89f2-dec214e228c8", "value": "draper"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5b4cbec1-06d7-3f16-9671-55b40ddf86c2">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "4a2e8941-4f13-4d84-9302-11935a747879", "value": "mechanist"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "b0159a48-d076-4d81-a39e-448c048b2472", "value": "http://toolsofknowledge.org/OccupationType/mechanist"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/baacfa24-ae40-3e4b-8ff2-34e94cb8712c">
+    <skos:prefLabel xml:lang="en">{"id": "664d73ae-cd1b-400a-93ef-01f999367c29", "value": "manufacturer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "4b15bc8c-e8d6-4d1e-b7bd-d23eb8862041", "value": "http://toolsofknowledge.org/OccupationType/manufacturer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5e438a14-906a-3b28-8023-fd2f05a3da4a">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "91ca0cc2-03bb-4d78-a812-f021dc89e9d8", "value": "professor"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "4ccdbee9-7633-4ec6-b807-f020ca355b02", "value": "http://toolsofknowledge.org/OccupationType/professor"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dbe9c855-30c7-37c4-9857-8104f4ceb4a8">
+    <skos:prefLabel xml:lang="en">{"id": "6f55fa53-a61c-43f4-8f95-917b771781ff", "value": "importer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d0d72ff9-7702-4353-8b41-370e2f4e2c3e", "value": "http://toolsofknowledge.org/OccupationType/importer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6967a68b-a2e5-3098-a5fc-c65f3e27dc8e">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "c03d6cec-9fea-4e0d-ba23-3b63458d9d6f", "value": "http://toolsofknowledge.org/OccupationType/scalemaker"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "cf830f1e-433c-49ed-b9f8-d2abd39e4b03", "value": "scalemaker"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/27919689-6ef2-3fdc-8654-acb70f7e99c8">
+    <skos:prefLabel xml:lang="en">{"id": "619ee082-fad9-42bc-94e3-497548fbc01a", "value": "beater"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "070ba53a-c11b-4462-91e8-3f3d1ef35d10", "value": "http://toolsofknowledge.org/OccupationType/beater"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/211d1872-fa95-3438-a8e3-2135d5d9f1f2">
+    <dcterms:identifier xml:lang="en">{"id": "7188e921-f7f9-4f8e-a83c-2f3f68a7f997", "value": "http://toolsofknowledge.org/OccupationType/assay_master"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "568e9bcf-5918-45d2-b0db-28517f032eae", "value": "assay master"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/439aa122-019c-3785-8ff6-8b64541fee10">
+    <dcterms:identifier xml:lang="en">{"id": "d80df583-d65b-4e03-96f8-7489e8e378c6", "value": "http://toolsofknowledge.org/OccupationType/drawer"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "034cc2b1-eebb-47e9-a690-d91c1cc9cd8e", "value": "drawer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1341e617-69e9-31d4-97e7-ae59696b3f03">
+    <dcterms:identifier xml:lang="en">{"id": "803943f2-93cc-4804-8006-0a3a2aa1970c", "value": "http://toolsofknowledge.org/OccupationType/goldsmith"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "63126347-fafe-479b-9131-17ec586b314c", "value": "goldsmith"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7fefb611-e90c-3a90-b7d2-5be3559a002b">
+    <dcterms:identifier xml:lang="en">{"id": "f4bc25f0-63bd-4d07-b902-9cfd58c2c87c", "value": "http://toolsofknowledge.org/OccupationType/mathematician_military"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "ec52cf07-294c-4340-a837-f32101123fad", "value": "mathematician, military"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c37c0aa6-0c3d-3547-a345-05c648074640">
+    <dcterms:identifier xml:lang="en">{"id": "a618028b-e0c9-4600-8a3f-0417cc261217", "value": "http://toolsofknowledge.org/OccupationType/toyman"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3d40361a-d74e-4fcf-b6db-a50b8f274e18", "value": "toyman"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/cae2bd72-d7b3-3f5c-8e77-f1af8f825bec">
+    <skos:prefLabel xml:lang="en">{"id": "6bab7723-4b07-4357-be5f-7b8c7d215f42", "value": "dealer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "aa6504df-fb77-4d68-8f43-830c16da05a2", "value": "http://toolsofknowledge.org/OccupationType/dealer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3a5b88d5-7076-3bf9-880e-e87b63a3f1b6">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "d89343b0-95ff-4d02-bea5-fd4a646eee02", "value": "whitesmith"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "885ea063-fc64-4847-86a8-6b6f0d8a48f5", "value": "http://toolsofknowledge.org/OccupationType/whitesmith"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3ff4bc9b-e8f6-34da-a469-b2c4a832c458">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "a18e636c-496d-40ad-8219-e49bcde1b224", "value": "coachbuilder"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d279ba6c-fc81-4d5e-9641-bc11021f6596", "value": "http://toolsofknowledge.org/OccupationType/coachbuilder"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ec30e3ab-0875-3aa6-a0b9-7c8453d95a95">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "7980cd5d-ffd2-4422-a77e-b39705311de1", "value": "http://toolsofknowledge.org/OccupationType/cutler"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "e5ec420d-3b5f-42d1-a247-6fb12efc9485", "value": "cutler"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5104565e-b570-3559-9eb3-8fa374acd9a4">
+    <dcterms:identifier xml:lang="en">{"id": "42bfb51b-9d47-42f9-8625-d88eabfada76", "value": "http://toolsofknowledge.org/OccupationType/cartographer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "7ffbd260-cede-44ed-a159-88e918213510", "value": "cartographer"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0cf73f86-faac-3681-b119-d3f3a5f04d75">
+    <dcterms:identifier xml:lang="en">{"id": "1497c2b0-4684-4a94-9d7b-0df2dd8acf8d", "value": "http://toolsofknowledge.org/OccupationType/lampist"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "f4163b5d-ff64-4e31-a28d-cc6aeced7102", "value": "lampist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9b92245f-489e-319b-8beb-315e3fba7a21">
+    <skos:prefLabel xml:lang="en">{"id": "74fbbe38-0925-4118-b100-0c403c4a15f5", "value": "outfitter"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "82cb4849-80b4-4c90-9638-cff20bc0e103", "value": "http://toolsofknowledge.org/OccupationType/outfitter"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/50edbc8b-1005-399b-a804-5f3c1fd5d7b4">
+    <skos:prefLabel xml:lang="en">{"id": "2b1eb453-8171-4c14-9967-b85b2c5722fc", "value": "lithographer"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "7979d01e-7201-43ab-a05b-283fe822a791", "value": "http://toolsofknowledge.org/OccupationType/lithographer"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3a271ccb-7946-3176-a343-14db776aab79">
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "03f5a37f-5c38-4f30-a6e6-92a016217b1e", "value": "manager"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a4e2bde3-2715-4c7d-8b58-10f3ccdbea9e", "value": "http://toolsofknowledge.org/OccupationType/manager"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c30602c4-7199-3d08-84b0-2af099597697">
+    <skos:prefLabel xml:lang="en">{"id": "e36f33d1-96da-45aa-918c-b420d83fa520", "value": "supplier"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "62fcb404-09d7-4756-b1ab-bb2cf684d955", "value": "http://toolsofknowledge.org/OccupationType/supplier"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/31c457d0-9185-3f5d-a342-11892f66a96a">
+    <dcterms:identifier xml:lang="en">{"id": "a9de8611-3076-4613-8d54-cff6bd70b4b8", "value": "http://toolsofknowledge.org/OccupationType/enameller"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "6d62f079-5a7e-42e8-a451-2bb833e7950f", "value": "enameller"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/62c24534-d0f2-3c20-afbd-29f4d5976201">
+    <dcterms:identifier xml:lang="en">{"id": "290c1177-cfb4-492f-b1d8-3d33458c8a95", "value": "http://toolsofknowledge.org/OccupationType/dentist"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <skos:prefLabel xml:lang="en">{"id": "00a20028-1012-47e6-9b07-a9d2713c0df2", "value": "dentist"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bb58fe81-1c12-3418-b6b0-f9e2094d0f26">
+    <skos:prefLabel xml:lang="en">{"id": "cf8c91c5-648c-420a-8a86-dc5956c63a00", "value": "springer"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+    <dcterms:identifier xml:lang="en">{"id": "4beb2345-6809-4542-b857-07e8fbc8a5b2", "value": "http://toolsofknowledge.org/OccupationType/springer"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3b0f4a00-f1e2-35e4-8122-d016b4b7b2b6">
+    <skos:prefLabel xml:lang="en">{"id": "9dc72a48-3a68-4728-8497-cf04af25af33", "value": "electrician, medical"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "8a9e3ab7-4da3-4aa2-81b1-6533ada4aee0", "value": "http://toolsofknowledge.org/OccupationType/electrician_medical"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/89b7083c-990c-366e-8c86-909cff83eac6"/>
+  </skos:Concept>
+</rdf:RDF>

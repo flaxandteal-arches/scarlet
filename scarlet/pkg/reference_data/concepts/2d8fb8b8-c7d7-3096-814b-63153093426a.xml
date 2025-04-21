@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/376a5317-e7b7-3f8a-b5ae-27cf068f7183">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/2d8fb8b8-c7d7-3096-814b-63153093426a">
+        <dcterms:title xml:lang="en">{"id": "ae1a036f-babb-453e-9f73-4b9595865f94", "value": "Invention Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/376a5317-e7b7-3f8a-b5ae-27cf068f7183"/>
+        <dcterms:identifier xml:lang="en">{"id": "a6aaf409-23aa-4f68-af1c-c1baa5b2eed7", "value": "http://toolsofknowledge.org/InventingType"}</dcterms:identifier>
+        <dcterms:description xml:lang="en">{"id": "d746fd05-5d6f-455e-96c1-7295662e6e54", "value": "The different ways makers might have a claim to inventing an instrument"}</dcterms:description>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1e3b5946-1a08-32a8-aa36-3af1f1a0c684"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8d433008-31f5-32d6-a622-5412fec33716"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <dcterms:identifier xml:lang="en">{"id": "c4736b95-1604-45f7-a57d-f87844c9a630", "value": "http://toolsofknowledge.org/InventingType/Claimed"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "059a0b4d-15ab-4278-a476-339f3ee2e339", "value": "Claimed"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8d433008-31f5-32d6-a622-5412fec33716">
+    <skos:inScheme rdf:resource="http://localhost:8000/2d8fb8b8-c7d7-3096-814b-63153093426a"/>
+    <dcterms:identifier xml:lang="en">{"id": "eaa981c6-ce4f-4713-a2b7-7ee7e69a7ef5", "value": "http://toolsofknowledge.org/InventingType/Made"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "841ba15b-ef51-40e4-8a10-72bc90257026", "value": "Made"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1e3b5946-1a08-32a8-aa36-3af1f1a0c684">
+    <skos:inScheme rdf:resource="http://localhost:8000/2d8fb8b8-c7d7-3096-814b-63153093426a"/>
+    <dcterms:identifier xml:lang="en">{"id": "bc601369-3d78-4553-be5e-4aa5c5e57d50", "value": "http://toolsofknowledge.org/InventingType/SoleMaker"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "e5053c56-8e9f-420d-a710-4043eb597e33", "value": "Sole Maker"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

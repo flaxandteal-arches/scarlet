@@ -1,0 +1,53 @@
+{
+    "Confidence Type": {
+        "5a5e765a-c309-473d-a2eb-8615634ac622": "Fuzzy",
+        "4748b66d-1646-4e2d-b3ce-d90b61bdba35": "Uncertain"
+    },
+    "Date Type": {
+        "46863611-d65b-4adf-944e-24394dab676f": "Known Date",
+        "eb931a41-00cd-421c-bcdd-a2ac55d8a7be": "Occurred After",
+        "7b74ea6d-2424-461c-bcd2-7de244f0a31d": "Occurred Before"
+    },
+    "Source Types": {
+        "83a3cb41-3f4a-4eb3-a946-ff778d10d25a": "Advertisement",
+        "269d9fb2-254e-454d-a4a7-2a5811f27566": "Archival Document",
+        "603a9d46-6e37-40e8-a50b-bf8ba69027ff": "Auction Catalogue",
+        "607712f0-8751-4923-96db-e980f3d64441": "Bankruptcy Proceedings",
+        "2986eb1f-0b63-4148-a7e3-fcf0d948688f": "Baptism Record",
+        "b2e3f144-88f1-48b7-ba7e-ccb86ab519fc": "Birth Certificate",
+        "e16dcf1b-041d-43a9-905c-ce2cc553cb39": "Book",
+        "6c8560b5-d972-4076-8ef4-d7f79787370a": "Burial Record",
+        "359ac1af-8fa3-4e55-9cd7-91f528893a37": "Calendar",
+        "5e22bc5c-910c-477e-bc8a-bf159d32f305": "Catalogue",
+        "353d97d2-aa9b-46a0-84d0-e925e6c5bf93": "Census Entry",
+        "bf478819-a01c-4a31-8b6d-be12f3ba6b11": "Census Record",
+        "c3d77db2-502e-4e43-afa1-a4618e758f98": "Collection Record",
+        "2be31f82-7895-4bf1-b0d6-e39823183f61": "Death Certificate",
+        "d95ef471-4ccd-4dc2-bce8-41bd47d515a1": "Dictionary",
+        "75e00769-1de5-4111-83fc-b2f0071a1b36": "Directory",
+        "348385e0-dbac-4108-9de1-2d001840a65e": "Exhibition Catalogue",
+        "ec0fc4f2-d882-4b3d-afd7-d7ebe1ff41bf": "Gazetteer Entry",
+        "a08fcbf4-9b2a-49ca-a211-da304ea5902e": "Learned Society Record",
+        "51f43259-2b27-41f3-abb7-e75715f75f5c": "Lecture Notes",
+        "6d2542ef-28dd-453a-b452-8cb2bda97842": "Letter",
+        "e6828701-6041-49fc-b7e4-b5ca5061239f": "Livery Company Record",
+        "8bf642c3-ab99-4070-a576-5c4f0182cd12": "Map",
+        "4260c873-15e9-4be4-b1dd-f4ffdc6ff67c": "Marriage Record",
+        "982f039c-9cb3-4f19-a5f6-25adde91dc8b": "Observation Record",
+        "a3cb5a90-6283-442e-8c46-3c741971dca0": "Online Resource",
+        "3e5ca6f9-ee1a-4558-8ec5-34f775cacc0c": "Organisation Record",
+        "31910d5f-33db-43c5-907e-c8ff1a2ca0a1": "Parish Record",
+        "c63ff2f8-65dd-4f5c-b874-d09c6036eda8": "Patent",
+        "7399be81-d649-4ffa-9fbc-6103c18158af": "Periodical",
+        "835eeeee-62c6-4cf2-9d31-09a5105290dd": "Poll Book",
+        "08291528-8858-4ac6-8641-b66cf3d7dbd4": "Rate Book",
+        "633c78e1-2561-4248-b6a3-0f87ee10c7b1": "Register",
+        "1850f26c-239f-4978-84ed-468157b3381d": "Tax Return",
+        "e04d9e55-888b-46ae-a4bd-d40de4fe3728": "Trade Card",
+        "c59b58ce-03ef-470b-b09b-38c9fcea1b91": "Trial Record",
+        "1c0602de-8561-4a40-990f-4c79b1c82c1f": "Will"
+    },
+    "Resource to Resource Relationship Types": {
+        "ac41d9be-79db-4256-b368-2f4559cfbe55": "is related to"
+    }
+}

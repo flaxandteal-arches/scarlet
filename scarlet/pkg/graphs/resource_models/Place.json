@@ -1,0 +1,772 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "2d611826-5baf-45d4-8a62-a255e93534ff",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "2d611826-5baf-45d4-8a62-a255e93534ff",
+                            "constraintid": "8d487e50-6c5a-43a0-92bd-af626cac55e1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "2d611826-5baf-45d4-8a62-a255e93534ff",
+                            "constraintid": "ac9e7ae2-898a-42d7-864e-2adcd65ba97c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Place - Getty Identifier"
+                    },
+                    "nodegroup_id": "40632802-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "4c02407b-77b6-4e96-985a-05571151134e",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "4c02407b-77b6-4e96-985a-05571151134e",
+                            "constraintid": "633a9a95-3ac5-4251-a13f-53a376dced3d",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "4c02407b-77b6-4e96-985a-05571151134e",
+                            "constraintid": "f9d440e4-0d92-44d0-aba0-e26625247abb",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Location"
+                    },
+                    "nodegroup_id": "4d44169e-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "53a042f4-fa79-4055-b68c-ac1f75f684aa",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "53a042f4-fa79-4055-b68c-ac1f75f684aa",
+                            "constraintid": "fdc8f6e2-d8fb-4432-b287-9cffb541202e",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "53a042f4-fa79-4055-b68c-ac1f75f684aa",
+                            "constraintid": "0a3e49aa-f9f8-4f06-98f3-edc9ef839516",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Place Name"
+                    },
+                    "nodegroup_id": "04ca4370-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "6458d9f4-15f8-4842-aa69-81eb818ac725",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "6458d9f4-15f8-4842-aa69-81eb818ac725",
+                            "constraintid": "b60e736b-753f-42cb-a4b6-144254322a77",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "6458d9f4-15f8-4842-aa69-81eb818ac725",
+                            "constraintid": "461788ba-4e9b-4cae-94a4-007833a9cdab",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Place Documented In Source"
+                    },
+                    "nodegroup_id": "6341b14a-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "a360587b-5ccf-439e-aebd-61a8cf7f8309",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "a360587b-5ccf-439e-aebd-61a8cf7f8309",
+                            "constraintid": "4a253908-88a6-490d-a8f2-50cbc8680409",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "a360587b-5ccf-439e-aebd-61a8cf7f8309",
+                            "constraintid": "28409d10-d9c0-4e25-89f5-c8637ea42b9f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Place - Additional Notes"
+                    },
+                    "nodegroup_id": "7a2299e2-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "e1042f45-186f-469f-a873-851fff1dc093",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "e1042f45-186f-469f-a873-851fff1dc093",
+                            "constraintid": "5b32a0bf-6539-401a-9678-440fd3edac8b",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "e1042f45-186f-469f-a873-851fff1dc093",
+                            "constraintid": "13a8aee4-3170-4483-9ce2-2e6ce75c07d3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Place - Geonames Identifier"
+                    },
+                    "nodegroup_id": "135db9da-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "2d611826-5baf-45d4-8a62-a255e93534ff",
+                    "config": {
+                        "i18n_properties": [
+                            "url_label_placeholder",
+                            "url_placeholder"
+                        ],
+                        "label": "Place - Getty Identifier",
+                        "link_color": "#0055a0",
+                        "url_label_placeholder": {
+                            "en": "Enter URL Label... "
+                        },
+                        "url_placeholder": {
+                            "en": "Enter URL... "
+                        }
+                    },
+                    "id": "3c1c14b8-424d-4277-9349-cec7ad4e06bf",
+                    "label": {
+                        "en": "Place - Getty Identifier"
+                    },
+                    "node_id": "40632802-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ca0c43ff-af73-4349-bafd-53ff9f22eebd"
+                },
+                {
+                    "card_id": "6458d9f4-15f8-4842-aa69-81eb818ac725",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place Documented In Source",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "619e6bd8-707a-4f50-bd87-c82b91b7477a",
+                    "label": {
+                        "en": "Place Documented In Source"
+                    },
+                    "node_id": "6341b14a-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "4c02407b-77b6-4e96-985a-05571151134e",
+                    "config": {
+                        "basemap": "streets",
+                        "bearing": 0,
+                        "centerX": 0,
+                        "centerY": 0,
+                        "defaultValue": "",
+                        "defaultValueType": "",
+                        "featureColor": "#FF0000",
+                        "featureLineWidth": 1,
+                        "featurePointSize": 3,
+                        "geocodePlaceholder": "Search",
+                        "geocodeProvider": "10000000-0000-0000-0000-010000000000",
+                        "geocoderVisible": true,
+                        "geometryTypes": [
+                            {
+                                "id": "Point",
+                                "text": "Point"
+                            },
+                            {
+                                "id": "Line",
+                                "text": "Line"
+                            },
+                            {
+                                "id": "Polygon",
+                                "text": "Polygon"
+                            }
+                        ],
+                        "label": "Location",
+                        "maxZoom": 20,
+                        "minZoom": 0,
+                        "overlayConfigs": [],
+                        "overlayOpacity": 0,
+                        "pitch": 0,
+                        "rerender": true,
+                        "zoom": 0
+                    },
+                    "id": "93262cbc-93bd-44de-98c2-3225cb27aa0d",
+                    "label": {
+                        "en": "Location"
+                    },
+                    "node_id": "4d44169e-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000007"
+                },
+                {
+                    "card_id": "a360587b-5ccf-439e-aebd-61a8cf7f8309",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "c83e7a68-3def-44ff-8766-6c53f6d60de2",
+                    "label": {
+                        "en": "Place - Additional Notes"
+                    },
+                    "node_id": "7a2299e2-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "e1042f45-186f-469f-a873-851fff1dc093",
+                    "config": {
+                        "i18n_properties": [
+                            "url_label_placeholder",
+                            "url_placeholder"
+                        ],
+                        "label": "Place - Geonames Identifier",
+                        "link_color": "#0055a0",
+                        "url_label_placeholder": {
+                            "en": "Enter URL Label... "
+                        },
+                        "url_placeholder": {
+                            "en": "Enter URL... "
+                        }
+                    },
+                    "id": "d4c32cd1-ba01-4f41-8160-954dd2355b32",
+                    "label": {
+                        "en": "Place - Geonames Identifier"
+                    },
+                    "node_id": "135db9da-ea7b-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ca0c43ff-af73-4349-bafd-53ff9f22eebd"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                    "edgeid": "3b797aa4-53bf-4737-8eb6-2244e677cfce",
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasGettyIdentifier",
+                    "rangenode_id": "40632802-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                    "edgeid": "3db7a849-4139-4c58-a57b-fa1d8a0af828",
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#isDocumentedIn",
+                    "rangenode_id": "6341b14a-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                    "edgeid": "afb2b9a0-9c45-4ed4-8b19-da60fdf13930",
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasLocation",
+                    "rangenode_id": "4d44169e-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                    "edgeid": "b3a4c67a-d9fc-4637-91fb-af9eb01ca231",
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasGeonamesIdentifier",
+                    "rangenode_id": "135db9da-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                    "edgeid": "c41723d3-e575-44cb-8f9c-a8703967ff0b",
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "7a2299e2-ea7b-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                    "edgeid": "ff388d74-40e4-42c8-9897-884e55c986b0",
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "rangenode_id": "04ca4370-ea7b-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "6341b14a-ea7b-11ed-bf80-114c466094e0",
+                                "string_template": "<Place Documented In Source>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "04ca4370-ea7b-11ed-bf80-114c466094e0",
+                                "string_template": "\ud83d\udccd <Place Name>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "id": "cfa78a3c-7bb6-4dcd-a50b-3f014e9bf3c2"
+                }
+            ],
+            "graphid": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Place"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "04ca4370-ea7b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "135db9da-ea7b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "40632802-ea7b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4d44169e-ea7b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "6341b14a-ea7b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "7a2299e2-ea7b-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "place_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place Name",
+                    "nodegroup_id": "04ca4370-ea7b-11ed-bf80-114c466094e0",
+                    "nodeid": "04ca4370-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasName",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_-_geonames_identifier",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "url",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place - Geonames Identifier",
+                    "nodegroup_id": "135db9da-ea7b-11ed-bf80-114c466094e0",
+                    "nodeid": "135db9da-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasGeonamesIdentifier",
+                    "sortorder": 3
+                },
+                {
+                    "alias": "place_-_getty_identifier",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "url",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place - Getty Identifier",
+                    "nodegroup_id": "40632802-ea7b-11ed-bf80-114c466094e0",
+                    "nodeid": "40632802-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#anyURI",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasGettyIdentifier",
+                    "sortorder": 2
+                },
+                {
+                    "alias": "location",
+                    "config": {
+                        "addToMap": true,
+                        "advancedStyle": "",
+                        "advancedStyling": false,
+                        "clusterDistance": 20,
+                        "clusterMaxZoom": 5,
+                        "clusterMinPoints": 3,
+                        "fillColor": "rgba(130, 130, 130, 0.5)",
+                        "haloRadius": 4,
+                        "haloWeight": 4,
+                        "layerActivated": true,
+                        "layerIcon": "",
+                        "layerLegend": "",
+                        "layerName": "",
+                        "lineColor": "rgba(130, 130, 130, 0.7)",
+                        "lineHaloColor": "rgba(200, 200, 200, 0.5)",
+                        "outlineColor": "rgba(200, 200, 200, 0.7)",
+                        "outlineWeight": 2,
+                        "pointColor": "rgba(130, 130, 130, 0.7)",
+                        "pointHaloColor": "rgba(200, 200, 200, 0.5)",
+                        "radius": 2,
+                        "simplification": 0.3,
+                        "weight": 2
+                    },
+                    "datatype": "geojson-feature-collection",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Location",
+                    "nodegroup_id": "4d44169e-ea7b-11ed-bf80-114c466094e0",
+                    "nodeid": "4d44169e-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasLocation",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "place_documented_in_source",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "0adece94-7565-402a-b211-68e83ca85dd6",
+                                "name": "Source"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place Documented In Source",
+                    "nodegroup_id": "6341b14a-ea7b-11ed-bf80-114c466094e0",
+                    "nodeid": "6341b14a-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Source",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#isDocumentedIn",
+                    "sortorder": 5
+                },
+                {
+                    "alias": "place_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Place - Additional Notes",
+                    "nodegroup_id": "7a2299e2-ea7b-11ed-bf80-114c466094e0",
+                    "nodeid": "7a2299e2-ea7b-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 1
+                },
+                {
+                    "alias": "place",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Place",
+                    "nodegroup_id": null,
+                    "nodeid": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                    "parentproperty": "",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "notes": null,
+                "publicationid": "5bce40c2-05f1-11ee-a549-ff891e817ac1",
+                "published_time": "2023-06-08T06:41:08.056",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "78ff9f31-ccf2-415d-ad3b-4c1326e3a202",
+                "da2eb0c1-e7b1-47cb-8f39-700f5fc8a419",
+                "bea79143-c7cb-442a-8bf7-84dde201ad34",
+                "9207c09b-023e-42c6-9b30-051ac9279055",
+                "317b11aa-6069-4fc3-a326-c36d0fad4c69",
+                "42296fdb-0e83-45c1-b462-ac78c35b4f71",
+                "32f7e6d9-2911-40ab-8147-db6645f1422e",
+                "9ef79519-0b47-42fe-b66c-3879bfa9666b",
+                "eaa03b9b-a67c-4fa0-b474-961af4136375",
+                "78dbd0df-288f-4896-9c93-a91719f73381",
+                "0ee9c9aa-94b2-476b-bc18-b077c41418cc",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "f511f5e8-554a-4775-b7aa-c716c1d7bae5",
+                "e9619bc4-560e-4dd0-949b-87f799c96558",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "7e3950db-e847-4f90-ac8c-f2e12ddea3dd"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "place",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "8ed71388-3bdd-4e05-b9ec-19c341604480",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Place",
+                "nodegroup_id": null,
+                "nodeid": "eeda50dc-ea7a-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Place",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

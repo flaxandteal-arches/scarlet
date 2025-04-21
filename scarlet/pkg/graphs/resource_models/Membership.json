@@ -1,0 +1,1192 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "058fb276-ea83-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Membership End Date (confidence)"
+                    },
+                    "nodegroup_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "058fb278-ea83-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Membership End Date"
+                    },
+                    "nodegroup_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3db973f4-262e-4228-afa4-2dc2f50dbc2d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "3db973f4-262e-4228-afa4-2dc2f50dbc2d",
+                            "constraintid": "d0cfe49c-489f-482c-821b-87baf1f0da26",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "3db973f4-262e-4228-afa4-2dc2f50dbc2d",
+                            "constraintid": "1fb8da1b-e5ba-4741-b9af-7d2147cbb246",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Member"
+                    },
+                    "nodegroup_id": "7f4517e0-ea82-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "51b8e48f-551c-48db-8607-af5d3bd3152d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "51b8e48f-551c-48db-8607-af5d3bd3152d",
+                            "constraintid": "b32c9b96-bac8-41da-9a28-6f0066530676",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "51b8e48f-551c-48db-8607-af5d3bd3152d",
+                            "constraintid": "82919173-71cc-4b80-8e72-6d2e7816ceb0",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Member of Organisation"
+                    },
+                    "nodegroup_id": "94e31c28-ea82-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "52faef02-3b47-497f-9bba-1008726cd381",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "52faef02-3b47-497f-9bba-1008726cd381",
+                            "constraintid": "94d35a20-dd8d-428a-b09b-7a7d4cd2c56c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "52faef02-3b47-497f-9bba-1008726cd381",
+                            "constraintid": "6b3e441b-4762-47fe-9423-7139f31441f1",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Membership - Additional Notes"
+                    },
+                    "nodegroup_id": "630e9262-ea83-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ab95e8d0-ea82-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Membership Start Date (confidence)"
+                    },
+                    "nodegroup_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ab95e8d2-ea82-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Membership Start Date"
+                    },
+                    "nodegroup_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d40d4761-7edd-485d-b4c9-f9cbb4fdc886",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null
+                    },
+                    "helptitle": {
+                        "en": null
+                    },
+                    "instructions": {
+                        "en": null
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Membership Type"
+                    },
+                    "nodegroup_id": "3154b6ca-ea83-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "3db973f4-262e-4228-afa4-2dc2f50dbc2d",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Member",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "0c97aceb-f6b5-4ad5-8080-8d9f22f91ac0",
+                    "label": {
+                        "en": "Member"
+                    },
+                    "node_id": "7f4517e0-ea82-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "51b8e48f-551c-48db-8607-af5d3bd3152d",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Member of Organisation",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "85fc3e6a-dbe5-4484-b7ad-ce9593632f3f",
+                    "label": {
+                        "en": "Member of Organisation"
+                    },
+                    "node_id": "94e31c28-ea82-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "52faef02-3b47-497f-9bba-1008726cd381",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Membership - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "aac83cd1-3bb5-474f-b524-f39984b994a5",
+                    "label": {
+                        "en": "Membership - Additional Notes"
+                    },
+                    "node_id": "630e9262-ea83-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": "Represents an instance of a person having a particular type of membership of a particular organisation. If the membership type changes, a new Membership resource instance should be created."
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb280-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "058fb27e-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb281-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "058fb27f-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb282-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "058fb27c-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb283-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "058fb27b-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb284-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "058fb27a-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb285-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "058fb279-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb286-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "058fb27d-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "edgeid": "058fb287-ea83-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "058fb275-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "12b87567-36cf-44c0-a039-009948495365",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#memberOf",
+                    "rangenode_id": "94e31c28-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "223cce47-bbd2-4bba-95b1-40597a6feb9c",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasMember",
+                    "rangenode_id": "7f4517e0-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "33b20736-f2bc-494b-8b7f-a030e7dcad2e",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "rangenode_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "a479cf02-0018-4727-9a8d-9e5d11ade4ea",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "rangenode_id": "058fb277-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8da-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "ab95e8d8-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8db-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "ab95e8d9-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8dc-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "ab95e8d6-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8dd-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "ab95e8d5-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8de-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "ab95e8d4-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8df-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "ab95e8d3-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8e0-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "ab95e8d7-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "ab95e8e1-ea82-11ed-bf80-114c466094e0",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "b17cb17a-8587-4271-a9dc-41f7209db983",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "630e9262-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                    "edgeid": "e2e1c02e-b87f-4a17-b301-70e905a09330",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasMembershipType",
+                    "rangenode_id": "3154b6ca-ea83-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "94e31c28-ea82-11ed-bf80-114c466094e0",
+                                "string_template": "Member of: <Member of Organisation>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "94e31c28-ea82-11ed-bf80-114c466094e0",
+                                "string_template": "Membership of: <Member of Organisation>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "id": "b0fa0257-6c6b-447a-bd3b-11bfaef7b373"
+                }
+            ],
+            "graphid": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Membership"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "058fb277-ea83-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3154b6ca-ea83-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "630e9262-ea83-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "7f4517e0-ea82-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "94e31c28-ea82-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "membership_end_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date Confidence Assessment",
+                    "nodegroup_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date",
+                    "nodegroup_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasEndDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date Confidence Type",
+                    "nodegroup_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb279-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date Confidence Note",
+                    "nodegroup_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb27a-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date Confidence Probability Value",
+                    "nodegroup_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb27b-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "058fb275-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb27c-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date - Additional Notes",
+                    "nodegroup_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb27d-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date Value",
+                    "nodegroup_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb27e-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_end_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership End Date Type",
+                    "nodegroup_id": "058fb277-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "058fb27f-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_type",
+                    "config": {
+                        "rdmCollection": "8cb5d892-7625-4425-b001-b38ac80fcbd2"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Type",
+                    "nodegroup_id": "3154b6ca-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "3154b6ca-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#MembershipType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasMembershipType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership - Additional Notes",
+                    "nodegroup_id": "630e9262-ea83-11ed-bf80-114c466094e0",
+                    "nodeid": "630e9262-ea83-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Membership",
+                    "nodegroup_id": null,
+                    "nodeid": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Membership",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "member",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Member",
+                    "nodegroup_id": "7f4517e0-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "7f4517e0-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasMember",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "member_of_organisation",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Member of Organisation",
+                    "nodegroup_id": "94e31c28-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "94e31c28-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Organisation",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#memberOf",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date Confidence Assessment",
+                    "nodegroup_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date",
+                    "nodegroup_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasStartDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date Confidence Type",
+                    "nodegroup_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d3-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date Confidence Note",
+                    "nodegroup_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d4-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date Confidence Probability Value",
+                    "nodegroup_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d5-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "ab95e8cf-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d6-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date - Additional Notes",
+                    "nodegroup_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d7-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date Value",
+                    "nodegroup_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d8-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "membership_start_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Membership Start Date Type",
+                    "nodegroup_id": "ab95e8d1-ea82-11ed-bf80-114c466094e0",
+                    "nodeid": "ab95e8d9-ea82-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                "notes": null,
+                "publicationid": "4e3f1684-05f1-11ee-a549-ff891e817ac1",
+                "published_time": "2023-06-08T06:40:45.307",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                "78dbd0df-288f-4896-9c93-a91719f73381",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "139a6ee5-cc4f-49e1-9618-f982f0ee5198"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "membership",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "139a6ee5-cc4f-49e1-9618-f982f0ee5198",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Membership",
+                "nodegroup_id": null,
+                "nodeid": "6d16066a-ea82-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Membership",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

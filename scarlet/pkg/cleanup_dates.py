@@ -1,0 +1,16 @@
+# Dates before 1883 load incorrectly because of a glitch in the Python datetime module and how it handles timezones.
+# This script fixes them (for the data in this repository), if run like this `python manage.py shell < cleanup_dates.py` 
+# from your arches directory
+
+from arches.app.models.models import TileModel
+node_ids = ['02420820-f3e2-11ed-bf80-114c466094e0','728c33a6-fa1f-11ed-bf80-114c466094e0','5350e37e-fa1f-11ed-bf80-114c466094e0','59bff686-ea80-11ed-bf80-114c466094e0','8940f1fc-ea81-11ed-bf80-114c466094e0','183094cc-ea81-11ed-bf80-114c466094e0','ab1b8900-ea80-11ed-bf80-114c466094e0','1eb76734-ea7d-11ed-bf80-114c466094e0','c781902a-ea7c-11ed-bf80-114c466094e0','f31b7f02-fa2b-11ed-bf80-114c466094e0','276fc6e6-f89c-11ed-bf80-114c466094e0','e6278dfe-f89b-11ed-bf80-114c466094e0','64429770-fa2b-11ed-bf80-114c466094e0','3eb0ac5e-fa2b-11ed-bf80-114c466094e0','724c5c9a-fa2e-11ed-bf80-114c466094e0','4828ffb8-fa2e-11ed-bf80-114c466094e0','3d99c470-fa14-11ed-bf80-114c466094e0','117522c2-fa14-11ed-bf80-114c466094e0','29f5a210-ee64-11ed-bf80-114c466094e0','c714e5e8-ee63-11ed-bf80-114c466094e0','fe978e38-ee65-11ed-bf80-114c466094e0','c2870e50-ee65-11ed-bf80-114c466094e0','955e7174-fa1e-11ed-bf80-114c466094e0','725e4816-fa1e-11ed-bf80-114c466094e0','f174708a-f898-11ed-bf80-114c466094e0','b90afc28-f898-11ed-bf80-114c466094e0','94ba5bd4-fa2d-11ed-bf80-114c466094e0','73021e1e-fa2d-11ed-bf80-114c466094e0','13e9bd96-fa15-11ed-bf80-114c466094e0','13e9bd96-fa15-11ed-bf80-114c466094e0','058fb27e-ea83-11ed-bf80-114c466094e0','ab95e8d8-ea82-11ed-bf80-114c466094e0','7b9bd358-ea79-11ed-bf80-114c466094e0','1f4ab358-ea79-11ed-bf80-114c466094e0','3d78ee6e-ee69-11ed-bf80-114c466094e0','043f2758-ee69-11ed-bf80-114c466094e0','d641defe-f89a-11ed-bf80-114c466094e0','b7cf6fc4-fa0f-11ed-bf80-114c466094e0','f38987f0-f3f9-11ed-bf80-114c466094e0','90875dea-f3f8-11ed-bf80-114c466094e0','ed435372-fa10-11ed-bf80-114c466094e0','22ca5608-f3f9-11ed-bf80-114c466094e0','04659e48-fa10-11ed-bf80-114c466094e0','d59128cc-fa0e-11ed-bf80-114c466094e0','72c88008-f3f9-11ed-bf80-114c466094e0','a8d6acaa-fa11-11ed-bf80-114c466094e0','a8d6acab-fa11-11ed-bf80-114c466094e0','3c3fdb1a-fa13-11ed-bf80-114c466094e0','80b45eac-fa12-11ed-bf80-114c466094e0','9f79e55e-f3fa-11ed-bf80-114c466094e0','9f79e55f-f3fa-11ed-bf80-114c466094e0','be9aba60-f899-11ed-bf80-114c466094e0','88c8177a-f899-11ed-bf80-114c466094e0','ff156754-f89c-11ed-bf80-114c466094e0','3963b6cc-f89d-11ed-bf80-114c466094e0','05eed25a-fa18-11ed-bf80-114c466094e0','11f455fe-fa1b-11ed-bf80-114c466094e0','306f93a2-fa18-11ed-bf80-114c466094e0','f0572548-fa1a-11ed-bf80-114c466094e0','31b1c19a-fa1d-11ed-bf80-114c466094e0','0f9d57b8-fa1d-11ed-bf80-114c466094e0','19148922-ee67-11ed-bf80-114c466094e0','d02761ee-ee66-11ed-bf80-114c466094e0','2a90bd46-ee68-11ed-bf80-114c466094e0']
+for nid in node_ids:
+   tms = TileModel.objects.filter(data__has_key=nid)
+   for dt in tms:
+      temp_data = dt.data
+      old_date = dt.data[nid]
+      if old_date:
+         new_date = old_date[0:10] + 'T00:00:00.000-06:00'
+         temp_data[nid] = new_date
+         dt.data = temp_data
+         dt.save()

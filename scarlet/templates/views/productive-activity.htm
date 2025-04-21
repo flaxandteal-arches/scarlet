@@ -1,0 +1,136 @@
+{% extends "views/report-templates/default.htm" %}
+{% load i18n %}
+{% block report %}
+
+{% block body %}
+<!-- Associated Actors -->
+<div class="aher-report-section">
+    <h1 class="aher-report-section-title"> {% trans "Invention(s)" %}</h1>
+     <!-- Inventions Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/inventions',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Patent(s)" %}</h1>
+     <!-- Patents Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/patentings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Advertising" %}</h1>
+     <!-- Advertising Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/advertisings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Producing" %}</h1>
+     <!-- Producing Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/producings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Agenting" %}</h1>
+     <!-- Agenting Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/agentings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Selling" %}</h1>
+     <!-- Selling Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/sellings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Supplying" %}</h1>
+     <!-- Supplying Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/supplyings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Exports" %}</h1>
+     <!-- Exports Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/exportings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+    <h1 class="aher-report-section-title"> {% trans "Imports" %}</h1>
+     <!-- Imports Tab -->
+    <div class="aher-report-page">
+        <div data-bind="component: {
+            name: 'views/importings',
+            params: {
+                data: resource,
+                report: report,
+                resourceId: resourceId,
+                cards: cards,
+                reportSpecification: reportSpecification,
+            }
+        }"></div>
+    </div>
+</div>
+{% endblock body %}
+{% endblock report %}

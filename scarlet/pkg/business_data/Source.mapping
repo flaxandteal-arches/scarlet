@@ -1,0 +1,330 @@
+{
+    "resource_model_id": "0adece94-7565-402a-b211-68e83ca85dd6",
+    "resource_model_name": "Source",
+    "nodes": [
+        {
+            "arches_nodeid": "f77c9a6e-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Abbreviated Citation",
+            "file_field_name": "Abbreviated Citation",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d100f524-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Addressee",
+            "file_field_name": "Addressee",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "61bb3558-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Catalogue Record URL",
+            "file_field_name": "Catalogue Record URL",
+            "data_type": "url",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ed071974-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Citation",
+            "file_field_name": "Citation",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "05eed259-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creation Date - Additional Notes",
+            "file_field_name": "Creation Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "05eed258-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creation Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Creation Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "05eed256-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creation Date Confidence Note",
+            "file_field_name": "Creation Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "05eed257-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creation Date Confidence Probability Value",
+            "file_field_name": "Creation Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "05eed255-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creation Date Confidence Type",
+            "file_field_name": "Creation Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "05eed25b-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creation Date Type",
+            "file_field_name": "Creation Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "05eed25a-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creation Date Value",
+            "file_field_name": "Creation Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9567f5fc-fa17-11ed-bf80-114c466094e0",
+            "arches_node_name": "Creator",
+            "file_field_name": "Creator",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ccc195b2-fa17-11ed-bf80-114c466094e0",
+            "arches_node_name": "Editor",
+            "file_field_name": "Editor",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "76946d6e-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Has Catalogue Identifier",
+            "file_field_name": "Has Catalogue Identifier",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ae362e6a-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Has Part",
+            "file_field_name": "Has Part",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4fd2714e-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Held By",
+            "file_field_name": "Held By",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9128267a-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "MSS Reference",
+            "file_field_name": "MSS Reference",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9d181544-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Page Range",
+            "file_field_name": "Page Range",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "39ab0aac-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Place of Publication",
+            "file_field_name": "Place of Publication",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "11f455fd-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication End Date - Additional Notes",
+            "file_field_name": "Publication End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "11f455fc-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Publication End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "11f455fa-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication End Date Confidence Note",
+            "file_field_name": "Publication End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "11f455fb-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication End Date Confidence Probability Value",
+            "file_field_name": "Publication End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "11f455f9-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication End Date Confidence Type",
+            "file_field_name": "Publication End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "11f455ff-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication End Date Type",
+            "file_field_name": "Publication End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "11f455fe-fa1b-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication End Date Value",
+            "file_field_name": "Publication End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "306f93a1-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Single Date - Additional Notes",
+            "file_field_name": "Publication Single Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "306f93a0-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Single Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Publication Single Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "306f939e-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Single Date Confidence Note",
+            "file_field_name": "Publication Single Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "306f939f-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Single Date Confidence Probability Value",
+            "file_field_name": "Publication Single Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "306f939d-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Single Date Confidence Type",
+            "file_field_name": "Publication Single Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "306f93a3-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Single Date Type",
+            "file_field_name": "Publication Single Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "306f93a2-fa18-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Single Date Value",
+            "file_field_name": "Publication Single Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0572547-fa1a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Start Date - Additional Notes",
+            "file_field_name": "Publication Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0572546-fa1a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Publication Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0572544-fa1a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Start Date Confidence Note",
+            "file_field_name": "Publication Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0572545-fa1a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Start Date Confidence Probability Value",
+            "file_field_name": "Publication Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0572543-fa1a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Start Date Confidence Type",
+            "file_field_name": "Publication Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0572549-fa1a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Start Date Type",
+            "file_field_name": "Publication Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0572548-fa1a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publication Start Date Value",
+            "file_field_name": "Publication Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "af1d113a-fa17-11ed-bf80-114c466094e0",
+            "arches_node_name": "Publisher",
+            "file_field_name": "Publisher",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "049ac2d4-fa1c-11ed-bf80-114c466094e0",
+            "arches_node_name": "Research Note",
+            "file_field_name": "Research Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8347b1dc-fa17-11ed-bf80-114c466094e0",
+            "arches_node_name": "Source Type",
+            "file_field_name": "Source Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "0062abc0-ea7a-11ed-bf80-114c466094e0",
+            "arches_node_name": "Title",
+            "file_field_name": "Title",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e1c8c05c-fa17-11ed-bf80-114c466094e0",
+            "arches_node_name": "Translator",
+            "file_field_name": "Translator",
+            "data_type": "resource-instance-list",
+            "export": true
+        }
+    ]
+}

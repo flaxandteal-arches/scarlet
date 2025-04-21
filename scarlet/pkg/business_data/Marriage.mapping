@@ -1,0 +1,115 @@
+{
+    "resource_model_id": "f048673a-903f-4665-a334-18efabbbe981",
+    "resource_model_name": "Marriage",
+    "nodes": [
+        {
+            "arches_nodeid": "13e9bd95-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage End Date - Additional Notes",
+            "file_field_name": "Marriage End Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "13e9bd94-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage End Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Marriage End Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "13e9bd92-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage End Date Confidence Note",
+            "file_field_name": "Marriage End Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "13e9bd93-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage End Date Confidence Probability Value",
+            "file_field_name": "Marriage End Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "13e9bd91-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage End Date Confidence Type",
+            "file_field_name": "Marriage End Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "13e9bd97-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage End Date Type",
+            "file_field_name": "Marriage End Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "13e9bd96-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage End Date Value",
+            "file_field_name": "Marriage End Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e5fac48d-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage Start Date - Additional Notes",
+            "file_field_name": "Marriage Start Date - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e5fac48c-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage Start Date Confidence Assessment - Additional Notes",
+            "file_field_name": "Marriage Start Date Confidence Assessment - Additional Notes",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e5fac48a-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage Start Date Confidence Note",
+            "file_field_name": "Marriage Start Date Confidence Note",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e5fac48b-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage Start Date Confidence Probability Value",
+            "file_field_name": "Marriage Start Date Confidence Probability Value",
+            "data_type": "number",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e5fac489-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage Start Date Confidence Type",
+            "file_field_name": "Marriage Start Date Confidence Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e5fac48f-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage Start Date Type",
+            "file_field_name": "Marriage Start Date Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e5fac48e-fa14-11ed-bf80-114c466094e0",
+            "arches_node_name": "Marriage Start Date Value",
+            "file_field_name": "Marriage Start Date Value",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4b2f42ee-fa15-11ed-bf80-114c466094e0",
+            "arches_node_name": "Spouse",
+            "file_field_name": "Spouse",
+            "data_type": "resource-instance-list",
+            "export": true
+        }
+    ]
+}

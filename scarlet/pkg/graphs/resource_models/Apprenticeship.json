@@ -1,0 +1,2477 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "060d7a8f-e757-4f1a-af1a-3bb5d3b3fc08",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "060d7a8f-e757-4f1a-af1a-3bb5d3b3fc08",
+                            "constraintid": "7aa048ec-32dc-487d-83fe-51f23f72e9ba",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "060d7a8f-e757-4f1a-af1a-3bb5d3b3fc08",
+                            "constraintid": "f8dd735b-c4dc-4d23-a1ef-78b4627b3aee",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Translated"
+                    },
+                    "nodegroup_id": "09548314-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "183094c4-ea81-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Translated Date (confidence)"
+                    },
+                    "nodegroup_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "183094c6-ea81-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Translated Date"
+                    },
+                    "nodegroup_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "53af571f-c8b9-4ae0-adbe-9dd57260c89c",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "53af571f-c8b9-4ae0-adbe-9dd57260c89c",
+                            "constraintid": "90fa6844-7815-41f7-bb53-e924b2bc159c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "53af571f-c8b9-4ae0-adbe-9dd57260c89c",
+                            "constraintid": "352daaeb-e742-4882-b9cc-51b700429e37",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Turned Over"
+                    },
+                    "nodegroup_id": "9ec5ad5c-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "59bff67e-ea80-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Bound Date Date (confidence)"
+                    },
+                    "nodegroup_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "59bff680-ea80-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Bound Date"
+                    },
+                    "nodegroup_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "5cfebb55-d47f-4f69-b19b-d540c8d100eb",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "5cfebb55-d47f-4f69-b19b-d540c8d100eb",
+                            "constraintid": "54517cde-8a56-413d-9cc5-865c7c1b71c8",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "5cfebb55-d47f-4f69-b19b-d540c8d100eb",
+                            "constraintid": "7bd74148-bf71-4102-8cf4-093b53049e37",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Master"
+                    },
+                    "nodegroup_id": "0765aa16-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "8940f1f4-ea81-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Freed from Bounds Date (confidence)"
+                    },
+                    "nodegroup_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "8940f1f6-ea81-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Freed From Bounds Date"
+                    },
+                    "nodegroup_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "956becc1-3def-4b0c-a4aa-116760e3b714",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "956becc1-3def-4b0c-a4aa-116760e3b714",
+                            "constraintid": "a1581d72-505b-4b1d-8920-4a8e7798b725",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "956becc1-3def-4b0c-a4aa-116760e3b714",
+                            "constraintid": "3914e774-9a6b-4d51-b7a1-5b1ed02cc1a5",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Apprenticeship Involved Guild"
+                    },
+                    "nodegroup_id": "16b6c068-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ab1b88f8-ea80-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Turned Over Date (confidence)"
+                    },
+                    "nodegroup_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ab1b88fa-ea80-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Turned Over Date"
+                    },
+                    "nodegroup_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "ac585980-4d0d-42b3-a001-8799cec07fdf",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "ac585980-4d0d-42b3-a001-8799cec07fdf",
+                            "constraintid": "a2a28a61-e0ff-453e-8f2c-effd5a8a7802",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "ac585980-4d0d-42b3-a001-8799cec07fdf",
+                            "constraintid": "1813622d-c00d-4f29-af9e-8ce6ad1d677c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Freed From Bounds"
+                    },
+                    "nodegroup_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "b3f577f3-9c7e-4793-a26c-a1231ea29dd4",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "b3f577f3-9c7e-4793-a26c-a1231ea29dd4",
+                            "constraintid": "4e5cac30-1687-45df-a9e1-d082f900950f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "b3f577f3-9c7e-4793-a26c-a1231ea29dd4",
+                            "constraintid": "81834eb6-06ae-4ca4-829b-f5c0434369e6",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Apprenticeship - Additional Notes"
+                    },
+                    "nodegroup_id": "dfab5f1e-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "d2bdfe2d-19b1-40ec-8b12-355bef3272b5",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "d2bdfe2d-19b1-40ec-8b12-355bef3272b5",
+                            "constraintid": "e474a986-1556-4f58-989f-ba1edc9e0af2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "d2bdfe2d-19b1-40ec-8b12-355bef3272b5",
+                            "constraintid": "cc085a2b-c316-4e6d-8306-c38abd39c10f",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Bound"
+                    },
+                    "nodegroup_id": "4a121c32-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f556b2ca-c8d8-4688-8505-b14034da64ab",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f556b2ca-c8d8-4688-8505-b14034da64ab",
+                            "constraintid": "22e07cbe-24ef-43cf-b814-1ad9ce30a1f2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f556b2ca-c8d8-4688-8505-b14034da64ab",
+                            "constraintid": "13eadda9-f0c7-440f-9569-ba93558c1821",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Apprentice"
+                    },
+                    "nodegroup_id": "f365f502-ea7f-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "f6c27399-5873-4e68-928f-7a3110c7f8ab",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "f6c27399-5873-4e68-928f-7a3110c7f8ab",
+                            "constraintid": "846d4302-a456-4746-8975-16685248960c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "f6c27399-5873-4e68-928f-7a3110c7f8ab",
+                            "constraintid": "27610d5f-f0b8-46b7-a3dc-3d98e6c432bf",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Apprenticeship Money Paid By"
+                    },
+                    "nodegroup_id": "3512453c-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "b3f577f3-9c7e-4793-a26c-a1231ea29dd4",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Apprenticeship - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "118df495-adeb-493e-9581-be545351fd93",
+                    "label": {
+                        "en": "Apprenticeship - Additional Notes"
+                    },
+                    "node_id": "dfab5f1e-ea81-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "f6c27399-5873-4e68-928f-7a3110c7f8ab",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Apprenticeship Money Paid By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "35761c5b-039c-4b49-a788-7a9f2b7fa350",
+                    "label": {
+                        "en": "Apprenticeship Money Paid By"
+                    },
+                    "node_id": "3512453c-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "f556b2ca-c8d8-4688-8505-b14034da64ab",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Apprentice",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "93a11f61-04ef-4311-87e4-7665eab1c05f",
+                    "label": {
+                        "en": "Apprentice"
+                    },
+                    "node_id": "f365f502-ea7f-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "956becc1-3def-4b0c-a4aa-116760e3b714",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Apprenticeship Involved Guild",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "b9c5cca8-f7a2-462b-a784-9486672eda8d",
+                    "label": {
+                        "en": "Apprenticeship Involved Guild"
+                    },
+                    "node_id": "16b6c068-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "5cfebb55-d47f-4f69-b19b-d540c8d100eb",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Master",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "e23d63e3-d8ff-4593-85bb-a9512994d139",
+                    "label": {
+                        "en": "Master"
+                    },
+                    "node_id": "0765aa16-ea80-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "0fd645e1-058d-42aa-b07d-abcc175f28ef",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "rangenode_id": "9ec5ad5c-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094ce-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "183094cc-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094cf-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "183094cd-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094d0-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "183094ca-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094d1-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "183094c9-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094d2-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "183094c8-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094d3-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "183094c7-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094d4-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "183094cb-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "183094d5-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "183094c3-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "3756e589-8244-4f7e-b0ed-3999d596f759",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedGuild",
+                    "rangenode_id": "16b6c068-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff688-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "59bff686-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff689-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "59bff687-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff68a-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "59bff684-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff68b-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "59bff683-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff68c-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "59bff682-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff68d-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "59bff681-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff68e-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "59bff685-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "59bff68f-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "59bff67d-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "5fabef37-54a2-47f7-98bd-14a062b168c0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadMaster",
+                    "rangenode_id": "0765aa16-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "6c87dfd0-c6ef-4ad7-a85f-0d611c99d760",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "dfab5f1e-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "6fb54a2d-25dd-44b0-b5b4-af68e53ff38d",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "rangenode_id": "09548314-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "71180694-96a1-4cc3-b8a1-593d60e926d9",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "rangenode_id": "4a121c32-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "4a121c32-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "7834bb74-ca0d-4325-bdb6-2e5194292af7",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "rangenode_id": "59bff67f-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f1fe-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "8940f1fc-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f1ff-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "8940f1fd-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f200-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "8940f1fa-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f201-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "8940f1f9-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f202-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "8940f1f8-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f203-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "8940f1f7-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f204-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "8940f1fb-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "8940f205-ea81-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "8940f1f3-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8902-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "ab1b8900-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8903-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "ab1b8901-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8904-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "ab1b88fe-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8905-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "ab1b88fd-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8906-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "ab1b88fc-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8907-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "ab1b88fb-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8908-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "ab1b88ff-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "ab1b8909-ea80-11ed-bf80-114c466094e0",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "b36dbaf6-7afb-484c-a27f-54a3408bac74",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasFreedCategory",
+                    "rangenode_id": "bc501b90-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9ec5ad5c-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "c2a3d5f1-4434-4a2f-8dab-aa34be1ab21c",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadMaster",
+                    "rangenode_id": "f209b562-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "cd3aa190-6afa-4025-868b-96a8ab49ddac",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "rangenode_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "09548314-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "d792c72a-cfb1-4e2d-b5b4-dc38b447cc93",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "rangenode_id": "183094c5-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "e176ca07-9e13-40eb-9b55-a007f7e9fc47",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasFreedMode",
+                    "rangenode_id": "ce4ea208-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "e381bc87-c23d-4ab9-8d2a-6e18c7586149",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "rangenode_id": "8940f1f5-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "ea88ac2c-1153-4e50-9115-cb108004dbb9",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hadApprentice",
+                    "rangenode_id": "f365f502-ea7f-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "edgeid": "eae9c78a-6326-41c5-a877-8f7b78cf3817",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#apprenticeshipMoneyPaidBy",
+                    "rangenode_id": "3512453c-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "09548314-ea81-11ed-bf80-114c466094e0",
+                    "edgeid": "f338ba47-1a3d-4af2-839a-cfb76c3269a1",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedGuild",
+                    "rangenode_id": "4ccf806c-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9ec5ad5c-ea80-11ed-bf80-114c466094e0",
+                    "edgeid": "f8b9bafa-28c9-4549-9d21-ae506b299cf3",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "rangenode_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "0765aa16-ea80-11ed-bf80-114c466094e0",
+                                "string_template": "Apprenticed to: <Master>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "f365f502-ea7f-11ed-bf80-114c466094e0",
+                                "string_template": "\u26d3\ufe0f Apprenticeship of <Apprentice>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "id": "e7e66b16-1a85-4bba-989a-9ac3e0c5aa25"
+                }
+            ],
+            "graphid": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Apprenticeship"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "0765aa16-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "09548314-ea81-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "16b6c068-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "183094c5-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "09548314-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "3512453c-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4a121c32-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "59bff67f-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "4a121c32-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "8940f1f5-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "9ec5ad5c-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "9ec5ad5c-ea80-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "dfab5f1e-ea81-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f365f502-ea7f-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "master",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Master",
+                    "nodegroup_id": "0765aa16-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "0765aa16-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadMaster",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated",
+                    "nodegroup_id": "09548314-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "09548314-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Translated",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "apprenticeship_involved_guild",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Apprenticeship Involved Guild",
+                    "nodegroup_id": "16b6c068-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "16b6c068-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Organisation",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedGuild",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date Confidence Assessment",
+                    "nodegroup_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date",
+                    "nodegroup_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date Confidence Type",
+                    "nodegroup_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094c7-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date Confidence Note",
+                    "nodegroup_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094c8-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date Confidence Probability Value",
+                    "nodegroup_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094c9-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "183094c3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094ca-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date - Additional Notes",
+                    "nodegroup_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094cb-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date Value",
+                    "nodegroup_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094cc-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "translated_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Translated Date Type",
+                    "nodegroup_id": "183094c5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "183094cd-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "apprenticeship_money_paid_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            },
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Apprenticeship Money Paid By",
+                    "nodegroup_id": "3512453c-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "3512453c-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#apprenticeshipMoneyPaidBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound",
+                    "nodegroup_id": "4a121c32-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "4a121c32-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Bound",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "new_guild",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "New Guild",
+                    "nodegroup_id": "09548314-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "4ccf806c-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Organisation",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#involvedGuild",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date Confidence Assessment",
+                    "nodegroup_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date",
+                    "nodegroup_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date Confidence Type",
+                    "nodegroup_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff681-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date Confidence Note",
+                    "nodegroup_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff682-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date Confidence Probability Value",
+                    "nodegroup_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff683-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "59bff67d-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff684-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date - Additional Notes",
+                    "nodegroup_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff685-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date Value",
+                    "nodegroup_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff686-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "bound_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Bound Date Type",
+                    "nodegroup_id": "59bff67f-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "59bff687-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds",
+                    "nodegroup_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#FreedFromBounds",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date Confidence Assessment",
+                    "nodegroup_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date",
+                    "nodegroup_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#semsimObjectProperty",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date Confidence Type",
+                    "nodegroup_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1f7-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date Confidence Note",
+                    "nodegroup_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1f8-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date Confidence Probability Value",
+                    "nodegroup_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1f9-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "8940f1f3-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1fa-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date - Additional Notes",
+                    "nodegroup_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1fb-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date Value",
+                    "nodegroup_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1fc-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_from_bounds_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed From Bounds Date Type",
+                    "nodegroup_id": "8940f1f5-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "8940f1fd-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over",
+                    "nodegroup_id": "9ec5ad5c-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "9ec5ad5c-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#TurnedOver",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#includes",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date Confidence Assessment",
+                    "nodegroup_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date",
+                    "nodegroup_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date Confidence Type",
+                    "nodegroup_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b88fb-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date Confidence Note",
+                    "nodegroup_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b88fc-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date Confidence Probability Value",
+                    "nodegroup_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b88fd-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "ab1b88f7-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b88fe-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date - Additional Notes",
+                    "nodegroup_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b88ff-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date Value",
+                    "nodegroup_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b8900-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "turned_over_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Turned Over Date Type",
+                    "nodegroup_id": "ab1b88f9-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "ab1b8901-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_category",
+                    "config": {
+                        "rdmCollection": "2b65c482-e12f-4c86-b777-2f1cbf080bb9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed Category",
+                    "nodegroup_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "bc501b90-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#FreedCategory",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasFreedCategory",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "freed_mode",
+                    "config": {
+                        "rdmCollection": "92acb0fb-58c1-469f-90b3-1494f2501e62"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Freed Mode",
+                    "nodegroup_id": "5cc1cafc-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "ce4ea208-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#FreedMode",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasFreedMode",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "apprenticeship",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Apprenticeship",
+                    "nodegroup_id": null,
+                    "nodeid": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ApprenticeshipEvent",
+                    "parentproperty": "",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "apprenticeship_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Apprenticeship - Additional Notes",
+                    "nodegroup_id": "dfab5f1e-ea81-11ed-bf80-114c466094e0",
+                    "nodeid": "dfab5f1e-ea81-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "new_master",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "New Master",
+                    "nodegroup_id": "9ec5ad5c-ea80-11ed-bf80-114c466094e0",
+                    "nodeid": "f209b562-ea80-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadMaster",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "apprentice",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Apprentice",
+                    "nodegroup_id": "f365f502-ea7f-11ed-bf80-114c466094e0",
+                    "nodeid": "f365f502-ea7f-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Person",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hadApprentice",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                "notes": null,
+                "publicationid": "37d67ae0-05f1-11ee-a549-ff891e817ac1",
+                "published_time": "2023-06-08T06:40:07.712",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "bbd6166a-d895-4deb-90f5-a2107e3a58e1"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "apprenticeship",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "bbd6166a-d895-4deb-90f5-a2107e3a58e1",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Apprenticeship",
+                "nodegroup_id": null,
+                "nodeid": "da05ad00-ea7f-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ApprenticeshipEvent",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

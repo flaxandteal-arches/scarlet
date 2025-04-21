@@ -1,0 +1,786 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "1003f409-21a6-4794-9ace-3d499f87bc47",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "1003f409-21a6-4794-9ace-3d499f87bc47",
+                            "constraintid": "f18c9d3e-e675-4eaf-b24b-bf23af38f3cf",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "1003f409-21a6-4794-9ace-3d499f87bc47",
+                            "constraintid": "6b9f7bf1-28f2-4189-a34f-10c34427cdc2",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Took Over"
+                    },
+                    "nodegroup_id": "01fa36a0-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "2a90bd3e-ee68-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Takeover Date (confidence)"
+                    },
+                    "nodegroup_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "2a90bd40-ee68-11ed-bf80-114c466094e0",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Takeover Date"
+                    },
+                    "nodegroup_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "3f9d18fe-f41d-4d66-90dd-c5ea39b40a0d",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "3f9d18fe-f41d-4d66-90dd-c5ea39b40a0d",
+                            "constraintid": "e12451c4-f507-49eb-91c0-0e2f9ff869d3",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "3f9d18fe-f41d-4d66-90dd-c5ea39b40a0d",
+                            "constraintid": "d775715d-d540-49c8-834d-ed432565b382",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Takeover - Additional Notes"
+                    },
+                    "nodegroup_id": "6ea3665a-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "fe5103c3-6507-4065-ac7d-2b63c0ad8fa3",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [
+                        {
+                            "card_id": "fe5103c3-6507-4065-ac7d-2b63c0ad8fa3",
+                            "constraintid": "5896676f-e0cb-4366-bddb-d72a33537186",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        },
+                        {
+                            "card_id": "fe5103c3-6507-4065-ac7d-2b63c0ad8fa3",
+                            "constraintid": "6b348eaa-80bf-4d07-8ad9-da3ec8a0726c",
+                            "nodes": [],
+                            "uniquetoallinstances": false
+                        }
+                    ],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Taken Over By"
+                    },
+                    "nodegroup_id": "154f3fb6-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "3f9d18fe-f41d-4d66-90dd-c5ea39b40a0d",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Takeover - Additional Notes",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "1b261da9-0535-490e-83d9-a5559e32bc62",
+                    "label": {
+                        "en": "Takeover - Additional Notes"
+                    },
+                    "node_id": "6ea3665a-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "fe5103c3-6507-4065-ac7d-2b63c0ad8fa3",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Taken Over By",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "586c0ad8-b3e4-452c-a390-905e50a0e152",
+                    "label": {
+                        "en": "Taken Over By"
+                    },
+                    "node_id": "154f3fb6-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "1003f409-21a6-4794-9ace-3d499f87bc47",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Took Over",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "d6bd3306-21a6-4cf1-ad06-54a5a27c9e24",
+                    "label": {
+                        "en": "Took Over"
+                    },
+                    "node_id": "01fa36a0-ee68-11ed-bf80-114c466094e0",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd48-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "rangenode_id": "2a90bd46-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd49-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "rangenode_id": "2a90bd47-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd4a-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "2a90bd44-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd4b-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "rangenode_id": "2a90bd43-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd4c-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "rangenode_id": "2a90bd42-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd4d-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "rangenode_id": "2a90bd41-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd4e-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "2a90bd45-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "edgeid": "2a90bd4f-ee68-11ed-bf80-114c466094e0",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "rangenode_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b8e5c1be-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "456a8bc5-9fba-4adb-8252-6d222eb3111b",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "rangenode_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b8e5c1be-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "46856e76-8073-4c5b-b4cb-4ec0e7bb0643",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "rangenode_id": "6ea3665a-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b8e5c1be-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "9c78342d-aa34-49fb-bbd7-2e1165b87925",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#tookOver",
+                    "rangenode_id": "01fa36a0-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b8e5c1be-ee67-11ed-bf80-114c466094e0",
+                    "edgeid": "b0a28804-7746-499a-91bb-cfbc8c5a4e36",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "name": null,
+                    "ontologyproperty": "http://www.toolsofknowledge.org/SIMEOn#takenOverBy",
+                    "rangenode_id": "154f3fb6-ee68-11ed-bf80-114c466094e0"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "01fa36a0-ee68-11ed-bf80-114c466094e0",
+                                "string_template": "Took over: <Took Over>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "154f3fb6-ee68-11ed-bf80-114c466094e0",
+                                "string_template": "\ud83d\udcc8 Takeover of <Took Over> by <Taken Over By>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "id": "c03ff48e-e445-4d93-ac77-f210af3798ef"
+                }
+            ],
+            "graphid": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+            "iconclass": "",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Takeover"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "01fa36a0-ee68-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "154f3fb6-ee68-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "6ea3665a-ee68-11ed-bf80-114c466094e0",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "took_over",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Took Over",
+                    "nodegroup_id": "01fa36a0-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "01fa36a0-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Organisation",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#tookOver",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "taken_over_by",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                                "name": "Person"
+                            },
+                            {
+                                "graphid": "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                                "name": "Organisation"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Taken Over By",
+                    "nodegroup_id": "154f3fb6-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "154f3fb6-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Actor",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#takenOverBy",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_confidence_assessment",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date Confidence Assessment",
+                    "nodegroup_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceAssessment",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#confidenceAssessedIn",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date",
+                    "nodegroup_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Date",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasDate",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_confidence_type",
+                    "config": {
+                        "rdmCollection": "bd404bdb-17c5-418e-95b9-99711fcd41a9"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date Confidence Type",
+                    "nodegroup_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd41-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#ConfidenceType",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_confidence_note",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date Confidence Note",
+                    "nodegroup_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd42-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_confidence_probability_value",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "number",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date Confidence Probability Value",
+                    "nodegroup_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd43-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#decimal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasConfidenceProbabilityValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_confidence_assessment_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date Confidence Assessment - Additional Notes",
+                    "nodegroup_id": "2a90bd3d-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd44-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date - Additional Notes",
+                    "nodegroup_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd45-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_value",
+                    "config": {
+                        "dateFormat": "YYYY-MM-DD"
+                    },
+                    "datatype": "date",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date Value",
+                    "nodegroup_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd46-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasValue",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_date_type",
+                    "config": {
+                        "rdmCollection": "82e53563-607f-451f-b6e0-0bb553b1041f"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover Date Type",
+                    "nodegroup_id": "2a90bd3f-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "2a90bd47-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#Type",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasType",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover_-_additional_notes",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Takeover - Additional Notes",
+                    "nodegroup_id": "6ea3665a-ee68-11ed-bf80-114c466094e0",
+                    "nodeid": "6ea3665a-ee68-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.toolsofknowledge.org/SIMEOn#hasNote",
+                    "sortorder": 0
+                },
+                {
+                    "alias": "takeover",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Takeover",
+                    "nodegroup_id": null,
+                    "nodeid": "b8e5c1be-ee67-11ed-bf80-114c466094e0",
+                    "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#TakeOver",
+                    "parentproperty": "",
+                    "sortorder": 0
+                }
+            ],
+            "ontology_id": "da8d3931-bc44-4432-a963-448bac4f9fa2",
+            "publication": {
+                "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                "notes": null,
+                "publicationid": "e7f31ab6-1f26-11ee-9f07-2b5aee014fa8",
+                "published_time": "2023-07-10T08:37:25.575",
+                "user_id": 1
+            },
+            "relatable_resource_model_ids": [
+                "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                "16fef9f0-10e5-4f4e-bc17-d0125cf54741",
+                "df15d072-2b97-42eb-adff-a4262a0afd2b",
+                "0adece94-7565-402a-b211-68e83ca85dd6",
+                "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048"
+            ],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "takeover",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "4a4f4c04-35a5-4e8c-82d7-203e8e5dd048",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Takeover",
+                "nodegroup_id": null,
+                "nodeid": "b8e5c1be-ee67-11ed-bf80-114c466094e0",
+                "ontologyclass": "http://www.toolsofknowledge.org/SIMEOn#TakeOver",
+                "sortorder": 0
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

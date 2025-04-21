@@ -4,9 +4,10 @@ TOOLKIT_REPO = https://github.com/flaxandteal/arches-container-toolkit
 TOOLKIT_FOLDER = docker
 TOOLKIT_RELEASE = main
 ARCHES_PROJECT ?= $(shell ls -1 */__init__.py | head -n 1 | sed 's/\/.*//g')
-ARCHES_BASE = ghcr.io/flaxandteal/arches-base:coral
+ARCHES_BASE ?= ghcr.io/flaxandteal/arches-base:docker-8.0
 ARCHES_PROJECT_ROOT = $(shell pwd)/
-DOCKER_COMPOSE_COMMAND = ARCHES_PROJECT_ROOT=$(ARCHES_PROJECT_ROOT) ARCHES_BASE=$(ARCHES_BASE) ARCHES_PROJECT=$(ARCHES_PROJECT) docker-compose -p $(ARCHES_PROJECT) -f docker/docker-compose.yml
+ARCHES_ROOT ?=
+DOCKER_COMPOSE_COMMAND = ARCHES_ROOT=$(ARCHES_ROOT) ARCHES_PROJECT_ROOT=$(ARCHES_PROJECT_ROOT) ARCHES_BASE=$(ARCHES_BASE) ARCHES_PROJECT=$(ARCHES_PROJECT) docker compose -p $(ARCHES_PROJECT) -f docker/docker-compose.yml
 CMD ?=
 
 create: docker
@@ -110,7 +111,7 @@ manage: docker
 
 .PHONY: webpack
 webpack: docker
-	$(DOCKER_COMPOSE_COMMAND) run --entrypoint /bin/bash arches_worker -c '. ../ENV/bin/activate; cd $(ARCHES_PROJECT); DJANGO_MODE=DEV NODE_PATH=./media/node_modules NODE_OPTIONS=--max_old_space_size=8192 node --inspect ./media/node_modules/.bin/webpack --config webpack/webpack.config.dev.js'
+	$(DOCKER_COMPOSE_COMMAND) run --entrypoint /bin/bash arches_worker -c '. ../ENV/bin/activate; cd $(ARCHES_PROJECT)/..; DJANGO_MODE=DEV NODE_PATH=./node_modules NODE_OPTIONS=--max_old_space_size=8192 node --inspect ./node_modules/.bin/webpack --config webpack/webpack.config.dev.js'
 
 .PHONY: clean
 clean: docker

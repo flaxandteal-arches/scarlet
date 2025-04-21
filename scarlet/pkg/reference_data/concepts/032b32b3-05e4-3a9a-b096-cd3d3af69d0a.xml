@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/532e8b6f-7099-3baa-84c9-54ce96bbcb0c">
+    <skos:prefLabel xml:lang="en">{"id": "38a7a427-10bb-41d6-9282-26ffcc10f3dc", "value": "alabaster"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "5574d164-9af3-48ce-9ddf-1f1c6c0cd1d1", "value": "http://toolsofknowledge.org/MaterialType/alabaster"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e213060d-3b1d-329f-b9db-9070fa0a4a31"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f77efe2a-9062-3dc2-9036-30c63894d4cb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/07c72296-e6f9-3807-872b-17edfa573095"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9d854cd8-a5b3-3b3a-a061-6b10fc748d15"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5e276586-63d3-3e42-bd0e-966e5474bddf"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/073571ac-efb3-3279-9769-f69caeb6dd0f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/328bbe3f-fad8-3793-ae68-50e840fa5288"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/823474b8-e4ca-364f-8249-3193d8bd25ea"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0083824c-a824-3855-81ca-36e6cfa94296"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b3b8f76b-58e2-3d3c-b9e8-7a37fafa6f58"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/346f0c52-6c76-3320-90d5-c4a9dad29a8d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/15b65c2d-14d0-366b-89a0-3d9fad83a107"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5173401b-5459-3472-bcd7-35e9e3d2da8c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9557be76-b1ef-344a-ae00-5c035dec7645"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ed5c7114-b3cb-3413-91e5-d1bcc3a7f7d9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/414572e8-ab65-3795-ba42-c1c5bbf6c915"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e790c3f9-dbb3-3510-8ec0-de6786c33259"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/19af53f1-fb5b-3e12-9f6c-0358f1c19fd1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6537f8e7-0760-3fd8-a77d-fc66cc790d66"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e54aa1c5-2346-39a9-bc3d-bc3e34f740b0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/57661403-2478-31e3-9284-a95f07bdb301"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/21b7dca7-5c3e-3c37-9b07-6c3b80ef2f61"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/efc2ec7b-0973-3648-bcb4-e70a6583404b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/51882485-091a-3b46-8307-604e387a3fa3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b4bbf9ce-6b00-3994-b33f-f76095c7ccd2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/531d4032-eea7-32df-a44b-e9c3954939be"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5f21b951-2552-3524-b3e5-398a8e077f19"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d57b868f-9743-36b3-93d6-47820fbede36"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/71f74bf8-75c1-396a-ac2d-465acf35300f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d4085e90-66c0-331c-b483-a4e3e8dc3d63"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b6b7e542-ac16-3fb7-b19b-2f97c939e3d0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/68907595-4583-3a45-8795-cb7c0d8bb9fd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/270c37f0-7970-3941-9449-7350d12bd1d2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7d8f18aa-86f1-3894-b37c-333b021c8315"/>
+        <dcterms:identifier xml:lang="en">{"id": "a19164c2-3165-43f7-84a9-65a7bc91c089", "value": "http://toolsofknowledge.org/MaterialType/"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9462b069-c836-3517-82ec-2d13ac6e0b85"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/42fd09f3-80b8-3ec5-b56b-39cb743a389a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/532e8b6f-7099-3baa-84c9-54ce96bbcb0c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/40361515-5f2a-3cf8-a214-05bff8fc864b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/99f964ac-ac00-3e23-a213-a57432feb3a9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/05537be0-ab80-3d79-b1d0-5ec5c5e84f93"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/88e86a23-f469-39ee-b19a-8d515682ba5c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/fa828327-b679-3169-9d9f-8bcb09ef924a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/25b65337-5775-3ef5-bb24-e7c5a5fc5280"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3f321e43-92f3-33b2-b890-5e368c31314d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a754b488-9ef4-3cb7-92f6-c1f33ff80b78"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f6bdcf1e-c3c5-3596-b87d-eee31627b682"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/4f7b0908-52b6-352e-a8a0-da73049ffc84"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f51c912f-6805-315e-a132-473853e788dd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6ec4cf8c-38c4-3e04-8b4d-9093f19c7c2e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2512a4e5-22a8-370a-9bb0-eef902d3326e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/83ec632b-bcf9-3abd-82a8-cda96d336b9d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/679532fb-c4fe-3857-8fa4-23c16bbcc9a3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/479cce28-f6df-33ee-b217-eb108aafba54"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c9126ca0-5d92-3a6e-b662-5836ebd480d2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f2bf4b50-18c8-399b-ae4e-b6f20dc28162"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/65efbf6d-9598-3b9a-a6bf-cb36d636907e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2f21cbc8-c800-3345-9a3a-483e8edfae0f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/59e45a02-942b-3e66-8142-335f9014f796"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ad18f23d-d89f-3ea8-aab8-e98d577e83f1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/44220627-3de4-368e-8e40-e6eff1cabdfd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0d06b15a-cb27-34a7-b394-09284e848d69"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/306d0182-9256-306d-9423-cd132b8e7da0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/06e3cc50-0057-32cc-81f7-096a1426ba65"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1648b266-6d60-3faa-b2fa-a2d8c7667d54"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/123017ac-d60b-3a1d-9bb5-90e1ffb959c1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b89fb01b-a6d4-3458-9697-9b0ad60246c3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1f4544cb-7fb1-3e09-b0bd-8bd33362dcc6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9d1c05f5-07c5-377e-a53b-a2cc75f9bb60"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1fb7499c-3d42-324c-8c87-e9a0c6cbb39b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d0f80912-240c-30ee-a865-a980d241a11d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ed432dd0-d6a5-35da-9c46-93cd8f43fe73"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/13c58695-89fe-3185-bd0b-d5b55ee21d83"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/483de644-45a4-32b5-8021-917fde40920d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f199e5f9-9e3d-3af9-9d97-5a5a85c09138"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/83b8d754-91fe-36a7-b192-9e410f0d26d1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d8465216-b549-3b35-9c42-93655f847867"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3530cae7-85a5-31bf-89ff-08cf8338267c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7baf3e8d-8168-3e55-9546-40a700597beb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d1745c46-97da-388d-909c-87f1a1762e3f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/108aa52e-802f-3fda-81fa-431916d338be"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d3b6795d-2047-3cbb-9c8c-5ace8c95641e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e70f1370-eaf4-3ab6-b525-5e58be1ec1fc"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a4ce1319-0f7a-31aa-aa4a-0afe69b16617"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/198749d0-0f8c-3d92-bc0f-43b08b8972c7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1ea86d15-1cf5-3ae7-8aed-3a5424ff6ed9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b565e0c8-9c19-3b8d-ae68-94ccffe6ed34"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ac2427ac-f618-33cf-8e9d-0e187644038f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3136f757-0686-3f17-a900-c981d2caf3a6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5af937aa-56e4-3e80-83a3-30c2a231a036"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c6db9289-6ecc-3214-8586-30f1e2eebc4b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f4ab124d-a2ff-3ab8-9f24-7268d217fa1f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9e7468f5-d8d0-3847-a594-d925f4d68fc4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1c16c730-1a5e-3954-b550-06c9faa0082c"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ee2d0c8d-a71e-3c69-848d-2f42ea2522ad"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0eb71b9f-aa3a-35c8-8644-3860921526e4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7818a521-7ff2-3e59-9909-b133e3e74616"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b22c28cb-3aac-3924-b4fa-df9edfaa2aab"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/17a50ac4-176e-3f12-9bc3-148d1ffbe996"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0c01cdeb-3e5c-3a77-8fbe-a5325c7db470"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9d6f5c6d-08a3-3d8a-a982-6c85276c7238"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/470b9f8e-6041-3eb6-92fb-623c171e5d76"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/35bbef94-3404-3935-9879-1ffef3568768"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/1f5f931c-cca4-399e-8f66-95854dda2f16"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8d27e586-9501-3cf7-a000-08590727533a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2a772e4c-bc9a-3580-83da-398a9b9bb24d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ff66db25-42cd-358d-9f7f-67b99dcb0013"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a43bbb89-b8fe-318f-bccd-8163c7202ec2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e256ea41-9572-3cf9-a5f5-4bde6e0b1f8a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/032076ff-e41e-37de-9b9e-7151feb12fa2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a136e0e4-f965-3bf0-8075-fcd4a629e8e9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f791cb47-5fa2-39a8-87d4-519a850f6cf1"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/610be09f-5726-30ea-9b32-3a8b8b2dbcc8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/99c2d8f7-ac38-3b0b-91e0-18e2a4fae3a8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/7309b94f-d7f0-3b61-8490-79c8d907cb04"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/419b2134-de75-31a9-b4d6-aa624c92a44e"/>
+        <dcterms:title xml:lang="en">{"id": "f24faa6f-bee7-4580-a4d0-08ef658057e2", "value": "Material Types"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a4d350cd-de74-37db-9824-455f9cee0b3d"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/604eeda8-9c07-39e2-bb0a-82e75aba5435"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ac44575c-9259-3631-a0cc-9bc5bc909a2a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/413a03a7-b03c-3705-8247-33b582a24af9"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/20c42827-aaff-373b-9cf9-5ac33165e745"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c89e2755-24a6-3db7-97a3-7f053592f448"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d588173e-d376-372d-a394-606c01ccacfb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/21c69e12-e233-3c46-9b40-93e33518d879"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f9a6596e-7711-3bd1-96c7-b03246f225eb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5f22d7a1-f333-3a0e-8bd5-eb0bed2b5703"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/15a293ba-5b65-3b56-82a7-513efd1f9616"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/11049f7a-35b8-35c2-a8d7-78071aea41a7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/294c2104-dd1f-3fc7-91ad-77fb42a0692b"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b57463bb-1d1d-3ca5-8287-0079bae60b10"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/16f566ca-2aab-3d01-a869-45777d8b8de6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8b6f66fe-b875-3f47-aaef-177040b8ddd4"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/8d4402f2-c096-3dcb-855a-ef1a5a441332"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/446e2b29-1718-335f-8804-de675aaf27f2"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ffb96dc4-119a-3693-bcbb-2d5fa7345067"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6c54b949-6dcf-33ea-906b-4cd7bb7be733"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/859423c6-28ab-3ba4-a58a-46cd70a31b4f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2e8f1abf-4fbf-30b3-b6fd-7ff991250f25"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/378f893a-8769-3591-bbd3-93df5a570be0"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/81769a99-4513-3c37-bf6a-352d81641766"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/f48a1684-a765-3b5d-8d39-f73e9eac41bf"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/13ac1f8f-5247-3f03-a637-44941be33ab8"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/95056bf0-91d8-3e95-bf6e-5a7d49be6b7a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/114a8901-8a94-38fb-a2e0-1f772d7af96e"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2217ed47-da3b-3754-ab6b-1e32c03b4657"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/64af2866-3558-3e6c-bf79-a0b63abce53a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0818ea60-8ae5-3ae3-b41c-ff4d11a88af7"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/799dfa29-37bb-3eeb-a9d0-f791122a5b9f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6e112066-fa22-35c7-9ac4-f8491f4e8f42"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/e47958ec-0051-34be-a833-9fb30ce23e74"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/0da2dd55-8ae5-3501-bc98-dfd1309a260d"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/11049f7a-35b8-35c2-a8d7-78071aea41a7">
+    <skos:prefLabel xml:lang="en">{"id": "81d6eea9-3c02-48f9-b3d7-bb2355cea55c", "value": "copper"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "61dc4c61-69cd-435b-b636-e745d01b3c9e", "value": "http://toolsofknowledge.org/MaterialType/copper"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d57b868f-9743-36b3-93d6-47820fbede36">
+    <dcterms:identifier xml:lang="en">{"id": "d462375e-7e3b-486c-be24-09fc91e24300", "value": "http://toolsofknowledge.org/MaterialType/shagreen"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "a3eb1e39-9c4f-48f3-8b6a-e8c048ff6a09", "value": "shagreen"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/83ec632b-bcf9-3abd-82a8-cda96d336b9d">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "bb066fcd-aa09-47bb-801a-027793a17817", "value": "penicillin"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6729b1ff-6530-4f1c-aff4-58191c48ff2c", "value": "http://toolsofknowledge.org/MaterialType/penicillin"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/328bbe3f-fad8-3793-ae68-50e840fa5288">
+    <dcterms:identifier xml:lang="en">{"id": "9f3105cc-5dca-49cb-b193-7cec7f7a2063", "value": "http://toolsofknowledge.org/MaterialType/cotton"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3f23299c-3bd3-4fd7-96ee-b2bb90239d11", "value": "cotton"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2e8f1abf-4fbf-30b3-b6fd-7ff991250f25">
+    <skos:prefLabel xml:lang="en">{"id": "925bfc12-cc4e-411f-89a0-b2fac9f1df37", "value": "gum elastic"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "ee3b33e0-cd13-4ee2-9707-c2a553124c39", "value": "http://toolsofknowledge.org/MaterialType/gum_elastic"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9d6f5c6d-08a3-3d8a-a982-6c85276c7238">
+    <dcterms:identifier xml:lang="en">{"id": "0d92ca00-3f40-46d9-bc96-1761d7a98205", "value": "http://toolsofknowledge.org/MaterialType/mould"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "ac5729d9-cddb-49dd-9607-24fe4b4046d1", "value": "mould"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/21c69e12-e233-3c46-9b40-93e33518d879">
+    <skos:prefLabel xml:lang="en">{"id": "159c0f70-346d-4fdf-b753-bc21f746042b", "value": "peat"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "25f9e094-4f1a-4e26-875d-9e9de36fdfe3", "value": "http://toolsofknowledge.org/MaterialType/peat"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1f4544cb-7fb1-3e09-b0bd-8bd33362dcc6">
+    <skos:prefLabel xml:lang="en">{"id": "850ccebf-3e92-4c3d-9224-a6820506301d", "value": "satinwood"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "200b9c5c-14b6-4b48-a750-2dc21b1bf7f2", "value": "http://toolsofknowledge.org/MaterialType/satinwood"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9557be76-b1ef-344a-ae00-5c035dec7645">
+    <skos:prefLabel xml:lang="en">{"id": "ad71ca08-10e2-4473-80ab-a4780b348973", "value": "gilt"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "291a1be6-1b5d-43d1-a44f-98c64fee4260", "value": "http://toolsofknowledge.org/MaterialType/gilt"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/07c72296-e6f9-3807-872b-17edfa573095">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "426fe852-20e6-4b37-ac34-507b1b40d0d0", "value": "soapstone"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "61e974a5-fd54-4819-bad8-83c5ce9fe413", "value": "http://toolsofknowledge.org/MaterialType/soapstone"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/15b65c2d-14d0-366b-89a0-3d9fad83a107">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "73e6d27c-6495-41cc-ab33-aab506d45a84", "value": "gypsum"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "15d8fce5-f434-4fac-851f-aca476212684", "value": "http://toolsofknowledge.org/MaterialType/gypsum"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/68907595-4583-3a45-8795-cb7c0d8bb9fd">
+    <dcterms:identifier xml:lang="en">{"id": "4569d877-6958-4585-8045-4781bee93354", "value": "http://toolsofknowledge.org/MaterialType/canvas"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "4eb7ad20-179d-43f1-a890-2740ca9cf51a", "value": "canvas"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b3b8f76b-58e2-3d3c-b9e8-7a37fafa6f58">
+    <dcterms:identifier xml:lang="en">{"id": "34d1491b-1888-4bb7-8a9a-0d0fd0ff7920", "value": "http://toolsofknowledge.org/MaterialType/bamboo"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "9662108d-b069-48d0-b63e-28226d61711d", "value": "bamboo"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8b6f66fe-b875-3f47-aaef-177040b8ddd4">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "454b7694-2239-4d0e-93f6-20238a98f0a9", "value": "http://toolsofknowledge.org/MaterialType/teak"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "8a41ec7f-561c-4818-8b42-f3c7cb1d9937", "value": "teak"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f199e5f9-9e3d-3af9-9d97-5a5a85c09138">
+    <skos:prefLabel xml:lang="en">{"id": "c5010539-7263-4206-9866-98e72a5f9267", "value": "tortoiseshell"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "d5759c0f-f56f-4a78-96e1-cfdcb383cf09", "value": "http://toolsofknowledge.org/MaterialType/tortoiseshell"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/483de644-45a4-32b5-8021-917fde40920d">
+    <skos:prefLabel xml:lang="en">{"id": "5a0c08d2-af20-4a56-abc7-3ad0752374cb", "value": "solder"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "67fcbef9-c929-492c-87ac-b5c960081d38", "value": "http://toolsofknowledge.org/MaterialType/solder"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ff66db25-42cd-358d-9f7f-67b99dcb0013">
+    <dcterms:identifier xml:lang="en">{"id": "8c96ec0d-c0cd-483a-b853-321b6d2d01e6", "value": "http://toolsofknowledge.org/MaterialType/sand"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "aaa14372-70ad-4a6b-b3e8-e21be285401a", "value": "sand"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1ea86d15-1cf5-3ae7-8aed-3a5424ff6ed9">
+    <skos:prefLabel xml:lang="en">{"id": "4dbc768d-6a70-4b20-994b-0fc385234120", "value": "hardboard"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "4f075690-622f-4d12-80b5-8e40b3702371", "value": "http://toolsofknowledge.org/MaterialType/hardboard"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/114a8901-8a94-38fb-a2e0-1f772d7af96e">
+    <dcterms:identifier xml:lang="en">{"id": "464e62ce-0f39-47e9-b42c-ca001a0edde3", "value": "http://toolsofknowledge.org/MaterialType/pitch"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "96f89beb-09a4-43cf-94ee-35574fdd077c", "value": "pitch"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/59e45a02-942b-3e66-8142-335f9014f796">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "bc96f61b-378c-4c95-9ea6-c615f6e14ac8", "value": "ivory"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "73a5ddfb-f9c3-4aed-9da6-c0d3df63ccc3", "value": "http://toolsofknowledge.org/MaterialType/ivory"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/413a03a7-b03c-3705-8247-33b582a24af9">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "14122a1e-5a5f-44c1-84b8-dbf32d820c7d", "value": "pearwood"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a9829497-5db3-403a-9577-bfb5bfff160b", "value": "http://toolsofknowledge.org/MaterialType/pearwood"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/64af2866-3558-3e6c-bf79-a0b63abce53a">
+    <dcterms:identifier xml:lang="en">{"id": "02e05728-f939-411a-8005-07fbe8260b14", "value": "http://toolsofknowledge.org/MaterialType/dried_moss"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1cc9e2db-b9e5-4350-aee0-ecf8bf3f10c3", "value": "dried moss"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6c54b949-6dcf-33ea-906b-4cd7bb7be733">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "fc51ab88-0a4b-4fd2-98da-7a6b56e6fa0a", "value": "leather"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a2ef2bcf-5bc4-4bf4-a7c1-629de0119cb8", "value": "http://toolsofknowledge.org/MaterialType/leather"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7d8f18aa-86f1-3894-b37c-333b021c8315">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "dc224577-3f5a-4123-b79d-7bc4f6bb3e94", "value": "http://toolsofknowledge.org/MaterialType/lignite"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "557aeb8a-75d8-41da-a604-fb9423c319fc", "value": "lignite"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7309b94f-d7f0-3b61-8490-79c8d907cb04">
+    <skos:prefLabel xml:lang="en">{"id": "8712c2c3-67c6-4c61-9267-62a2eef62751", "value": "dowel"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d5e4fbc1-dcbe-42b5-a284-1d40e2e47a82", "value": "http://toolsofknowledge.org/MaterialType/dowel"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5af937aa-56e4-3e80-83a3-30c2a231a036">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "ac588e0a-1cc3-4439-9ca8-28d13be0b843", "value": "http://toolsofknowledge.org/MaterialType/basalt"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "a91f91ab-c043-4379-8cde-74247717de87", "value": "basalt"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/419b2134-de75-31a9-b4d6-aa624c92a44e">
+    <dcterms:identifier xml:lang="en">{"id": "32da2c1c-2796-4f52-a3e4-5b9abff05509", "value": "http://toolsofknowledge.org/MaterialType/mercury"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "f49f5594-6383-44b8-8cc9-65d27001eac9", "value": "mercury"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/88e86a23-f469-39ee-b19a-8d515682ba5c">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "104c2c6e-6031-4b95-8b86-e8ba60d03491", "value": "http://toolsofknowledge.org/MaterialType/selenite"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "eed81c51-6f1e-4498-a27b-476168d7894d", "value": "selenite"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b89fb01b-a6d4-3458-9697-9b0ad60246c3">
+    <dcterms:identifier xml:lang="en">{"id": "c30055b1-1bb9-46ee-8e62-6e057b0603ab", "value": "http://toolsofknowledge.org/MaterialType/coffinite"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3a4cce7b-5ba6-46fa-89ec-6fe688d84e13", "value": "coffinite"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/604eeda8-9c07-39e2-bb0a-82e75aba5435">
+    <skos:prefLabel xml:lang="en">{"id": "c9dbc02d-99a9-42c1-83f8-17b134269711", "value": "magnesium aluminate"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6dead090-979a-4009-9b5a-ec973d76f5fc", "value": "http://toolsofknowledge.org/MaterialType/magnesium_aluminate"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b6b7e542-ac16-3fb7-b19b-2f97c939e3d0">
+    <skos:prefLabel xml:lang="en">{"id": "9b079bae-2fcf-44ab-83f2-823aab3e9cab", "value": "ruby"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "92925bed-3ce8-4262-9630-6a192b837a51", "value": "http://toolsofknowledge.org/MaterialType/ruby"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/378f893a-8769-3591-bbd3-93df5a570be0">
+    <dcterms:identifier xml:lang="en">{"id": "b8497616-da1b-4347-9b7c-3903267f73a7", "value": "http://toolsofknowledge.org/MaterialType/pine"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "3faa1aea-34ff-4b8b-ad42-e31342803f5c", "value": "pine"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0818ea60-8ae5-3ae3-b41c-ff4d11a88af7">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "aac8074d-eb34-4016-970b-6db9fda1a9bc", "value": "http://toolsofknowledge.org/MaterialType/hair"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "bd0f91a1-6c5e-466e-a753-8408fd6407fa", "value": "hair"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0da2dd55-8ae5-3501-bc98-dfd1309a260d">
+    <dcterms:identifier xml:lang="en">{"id": "e77ce904-ee09-4475-aabf-5a4d35589bf5", "value": "http://toolsofknowledge.org/MaterialType/topaz"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "edd185e1-cfe3-41f9-9d7b-e128db3dcb09", "value": "topaz"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f2bf4b50-18c8-399b-ae4e-b6f20dc28162">
+    <dcterms:identifier xml:lang="en">{"id": "5f729942-6b45-4bf1-b5e5-7140af6a403b", "value": "http://toolsofknowledge.org/MaterialType/quartz"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "fb3277e3-9ff0-4911-83cc-105f5f99ccbd", "value": "quartz"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/17a50ac4-176e-3f12-9bc3-148d1ffbe996">
+    <skos:prefLabel xml:lang="en">{"id": "d9901ddf-1a17-418c-a20a-8ebd79d768d0", "value": "wolframite"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "cd0d6730-2e87-4cca-885d-6dc05edc9499", "value": "http://toolsofknowledge.org/MaterialType/wolframite"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0c01cdeb-3e5c-3a77-8fbe-a5325c7db470">
+    <dcterms:identifier xml:lang="en">{"id": "3f55f8f9-60d6-4080-812d-1da3e72b078e", "value": "http://toolsofknowledge.org/MaterialType/mica"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "a5e0e94c-6b10-491a-90c9-1443a8200495", "value": "mica"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6e112066-fa22-35c7-9ac4-f8491f4e8f42">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "b8d13c72-a16f-493e-b561-15cd316b2191", "value": "http://toolsofknowledge.org/MaterialType/pearl"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "fded0295-d067-420d-a0b5-26d95cecff43", "value": "pearl"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0083824c-a824-3855-81ca-36e6cfa94296">
+    <skos:prefLabel xml:lang="en">{"id": "ab65ac68-c519-42b9-b98f-4c73a19d7f0a", "value": "anthracite"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "baaec852-f227-48ad-8486-0b3cd0d27223", "value": "http://toolsofknowledge.org/MaterialType/anthracite"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/95056bf0-91d8-3e95-bf6e-5a7d49be6b7a">
+    <dcterms:identifier xml:lang="en">{"id": "2e35e9fc-8c3a-44b4-8673-190fe07bae50", "value": "http://toolsofknowledge.org/MaterialType/crystal"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "8f9a8927-94ed-4685-a681-22ba34aea7dd", "value": "crystal"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d1745c46-97da-388d-909c-87f1a1762e3f">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "4bed540b-8456-4f1e-a4d0-7d9ae8bdc251", "value": "chalk"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "b3bb90f1-24d8-4c46-b5fb-4fd5286984d9", "value": "http://toolsofknowledge.org/MaterialType/chalk"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e790c3f9-dbb3-3510-8ec0-de6786c33259">
+    <skos:prefLabel xml:lang="en">{"id": "034140ac-ef94-4b83-837c-a6474a100ab5", "value": "garnet"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "d1c0b3cd-438e-47fa-92a6-96c3f69f80b4", "value": "http://toolsofknowledge.org/MaterialType/garnet"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/16f566ca-2aab-3d01-a869-45777d8b8de6">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "73c9ff84-a49e-4f2b-b516-a0caa696b036", "value": "human hair"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "b4c0c6e7-290d-420f-b5df-fe98352e4bb3", "value": "http://toolsofknowledge.org/MaterialType/human_hair"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/531d4032-eea7-32df-a44b-e9c3954939be">
+    <dcterms:identifier xml:lang="en">{"id": "329a13a4-fd88-4a59-bf82-fbed0d1fa415", "value": "http://toolsofknowledge.org/MaterialType/aragonite"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "85c6ffca-67de-4bec-993e-124fad3be077", "value": "aragonite"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a4ce1319-0f7a-31aa-aa4a-0afe69b16617">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "64da2ff4-ada9-4433-96c7-6c89d0dfe733", "value": "calcite"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "f40a6c9c-0479-4acb-add1-2c7ddd0e6422", "value": "http://toolsofknowledge.org/MaterialType/calcite"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b57463bb-1d1d-3ca5-8287-0079bae60b10">
+    <dcterms:identifier xml:lang="en">{"id": "d3f304de-e205-4fa4-af19-3ec47245757b", "value": "http://toolsofknowledge.org/MaterialType/aluminium"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "8a6da08f-9506-4769-aea2-30113420ad61", "value": "aluminium"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b565e0c8-9c19-3b8d-ae68-94ccffe6ed34">
+    <skos:prefLabel xml:lang="en">{"id": "f638b3f1-c402-45a8-92de-e81aaf70e815", "value": "flower"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "3f73bbbd-cc0b-4b02-b00f-15ef294e56cc", "value": "http://toolsofknowledge.org/MaterialType/flower"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3f321e43-92f3-33b2-b890-5e368c31314d">
+    <skos:prefLabel xml:lang="en">{"id": "d405e6df-1961-4ef5-9b8e-2fbeef066dd1", "value": "plate"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "8c5a38f8-90d9-4886-9b4a-1708c02c4065", "value": "http://toolsofknowledge.org/MaterialType/plate"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a754b488-9ef4-3cb7-92f6-c1f33ff80b78">
+    <dcterms:identifier xml:lang="en">{"id": "10414762-d423-476a-a285-5230dc9f46e4", "value": "http://toolsofknowledge.org/MaterialType/nitre"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "48f8b608-a45e-44d9-8d5d-b8b89e5fb689", "value": "nitre"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/479cce28-f6df-33ee-b217-eb108aafba54">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "41115764-45b8-4bc3-bb3c-8ffb16eaf231", "value": "http://toolsofknowledge.org/MaterialType/pollucite"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "214a91ca-3626-435c-a909-8b2b65e7af14", "value": "pollucite"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1c16c730-1a5e-3954-b550-06c9faa0082c">
+    <dcterms:identifier xml:lang="en">{"id": "d37cc370-1154-49a1-a6dc-359de8eae6c9", "value": "http://toolsofknowledge.org/MaterialType/walnut"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "aa325b84-d41a-4cb1-93d7-d4f799d9be48", "value": "walnut"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e54aa1c5-2346-39a9-bc3d-bc3e34f740b0">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "4054ee13-e062-40fa-b84f-58af211a3ce7", "value": "cork"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "1916fb32-dcbe-4417-acee-fcd17091b3ef", "value": "http://toolsofknowledge.org/MaterialType/cork"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c9126ca0-5d92-3a6e-b662-5836ebd480d2">
+    <skos:prefLabel xml:lang="en">{"id": "2242f16b-e6b6-4147-b12b-c5f2b23b5ac8", "value": "insect"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "7e9aff25-40b9-47dc-8100-5624f29dc5aa", "value": "http://toolsofknowledge.org/MaterialType/insect"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/032076ff-e41e-37de-9b9e-7151feb12fa2">
+    <dcterms:identifier xml:lang="en">{"id": "6625bf7c-55d4-491c-999f-91034f75b1d7", "value": "http://toolsofknowledge.org/MaterialType/spodumene"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "af9a9147-b0d0-4697-9fa6-370d3f0caa58", "value": "spodumene"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/446e2b29-1718-335f-8804-de675aaf27f2">
+    <skos:prefLabel xml:lang="en">{"id": "cd1349db-d4c7-48d7-8094-ae0bcd200563", "value": "agate"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "1d455864-33c6-477d-b8a7-0b1abf49bd0e", "value": "http://toolsofknowledge.org/MaterialType/agate"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1fb7499c-3d42-324c-8c87-e9a0c6cbb39b">
+    <skos:prefLabel xml:lang="en">{"id": "a38a9809-1843-4a02-befa-20a6fd3a8e38", "value": "shell"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "4b5b48a3-e008-4cf5-82c5-0001ea948a1e", "value": "http://toolsofknowledge.org/MaterialType/shell"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/fa828327-b679-3169-9d9f-8bcb09ef924a">
+    <skos:prefLabel xml:lang="en">{"id": "5cf951c9-3e7e-4ecd-9d70-4b93f9b27089", "value": "rope"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "3a1b5df8-e28f-4b1c-9db5-d96ab9fb4c29", "value": "http://toolsofknowledge.org/MaterialType/rope"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/99c2d8f7-ac38-3b0b-91e0-18e2a4fae3a8">
+    <skos:prefLabel xml:lang="en">{"id": "ff28f98a-3984-4cc5-b1bf-1b421370add3", "value": "cane"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "193c78de-fc6b-4786-8dbd-4adadec6bfd5", "value": "http://toolsofknowledge.org/MaterialType/cane"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a136e0e4-f965-3bf0-8075-fcd4a629e8e9">
+    <dcterms:identifier xml:lang="en">{"id": "fff62f4d-a2d8-49cc-a975-080e1d47ac85", "value": "http://toolsofknowledge.org/MaterialType/gunmetal"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "4521023e-b947-4456-b528-b2cb8f69d59d", "value": "gunmetal"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/42fd09f3-80b8-3ec5-b56b-39cb743a389a">
+    <dcterms:identifier xml:lang="en">{"id": "c95b0cca-fd0e-4664-940b-326e9debe36e", "value": "http://toolsofknowledge.org/MaterialType/slate"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "231cfeec-332d-49ec-b023-98ff8d21a605", "value": "slate"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f791cb47-5fa2-39a8-87d4-519a850f6cf1">
+    <dcterms:identifier xml:lang="en">{"id": "42ac998b-75d8-4e4a-8a69-26adf9098df7", "value": "http://toolsofknowledge.org/MaterialType/lavender"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "ec204ff1-37da-4bd4-b329-e6a55692b320", "value": "lavender"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c6db9289-6ecc-3214-8586-30f1e2eebc4b">
+    <dcterms:identifier xml:lang="en">{"id": "0acf2eec-c66a-403a-a7ae-6e5031d6d21e", "value": "http://toolsofknowledge.org/MaterialType/antler"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "13435e61-c2d1-40e2-95fc-af5194a87a95", "value": "antler"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ed432dd0-d6a5-35da-9c46-93cd8f43fe73">
+    <skos:prefLabel xml:lang="en">{"id": "3cfb151a-579d-4ccc-ae36-725690b99e84", "value": "calfskin"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "1771835a-b673-4c75-a5df-ca678a44a096", "value": "http://toolsofknowledge.org/MaterialType/calfskin"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/123017ac-d60b-3a1d-9bb5-90e1ffb959c1">
+    <skos:prefLabel xml:lang="en">{"id": "946b1d46-7057-41fb-be7f-a2a758f49354", "value": "kernite"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "57620112-e23e-45bb-a68e-b04542816173", "value": "http://toolsofknowledge.org/MaterialType/kernite"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/13c58695-89fe-3185-bd0b-d5b55ee21d83">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "934b6cb4-53b9-4a0b-aeb2-c5f330ff7d49", "value": "http://toolsofknowledge.org/MaterialType/granite"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1d2ad1c0-8b06-4570-953b-c9efc2ffcc8c", "value": "granite"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a43bbb89-b8fe-318f-bccd-8163c7202ec2">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "1602958f-ca98-4d66-9ba5-17d80d3ae0e3", "value": "gum arabic"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "f9a2e156-4cbe-4c9e-8d6d-ee45405e8024", "value": "http://toolsofknowledge.org/MaterialType/gum_arabic"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5f22d7a1-f333-3a0e-8bd5-eb0bed2b5703">
+    <dcterms:identifier xml:lang="en">{"id": "2c33d065-ba67-47d9-9868-2f1beba82e9d", "value": "http://toolsofknowledge.org/MaterialType/plant"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "9a0aaae9-58cd-4d61-a64f-277d820c1b3b", "value": "plant"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/25b65337-5775-3ef5-bb24-e7c5a5fc5280">
+    <dcterms:identifier xml:lang="en">{"id": "25715621-1e02-4486-ba0d-e3b3b5ddaece", "value": "http://toolsofknowledge.org/MaterialType/mahogany"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "dd6abf8e-cc17-49ac-985f-3ab5341e3c15", "value": "mahogany"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/610be09f-5726-30ea-9b32-3a8b8b2dbcc8">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "7d442b15-7eee-494c-988b-26b3f9ea6b15", "value": "labradorite"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "640f053c-fbbd-47de-b90c-514470f59a19", "value": "http://toolsofknowledge.org/MaterialType/labradorite"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5173401b-5459-3472-bcd7-35e9e3d2da8c">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "56414837-7eb6-4f68-b4a7-d9eadb1bd793", "value": "blued"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "13a45344-21a2-4cee-8331-aff830be01c8", "value": "http://toolsofknowledge.org/MaterialType/blued"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ee2d0c8d-a71e-3c69-848d-2f42ea2522ad">
+    <dcterms:identifier xml:lang="en">{"id": "9757f750-1a56-4cb0-b5cb-df29e4eb7635", "value": "http://toolsofknowledge.org/MaterialType/whalebone"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "5e7373a3-65f2-4527-b2be-ebaf8db19b84", "value": "whalebone"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f9a6596e-7711-3bd1-96c7-b03246f225eb">
+    <skos:prefLabel xml:lang="en">{"id": "a76483b3-0f77-4868-8e9a-e1b8d53eb558", "value": "fruit"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "4b1e78c0-2cea-4f18-bd50-23cb535955d4", "value": "http://toolsofknowledge.org/MaterialType/fruit"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/859423c6-28ab-3ba4-a58a-46cd70a31b4f">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "f1d126f1-3427-44e9-a73b-3b3f97f39a21", "value": "http://toolsofknowledge.org/MaterialType/alloy"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1b141258-ea57-462b-9dca-cdbeaa1ec470", "value": "alloy"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6ec4cf8c-38c4-3e04-8b4d-9093f19c7c2e">
+    <skos:prefLabel xml:lang="en">{"id": "f3f2cf73-7fcd-4d50-9044-cfd3cc642ce8", "value": "Iceland spar"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "60b6f5a5-efa7-488a-8f36-ae5d59304bfc", "value": "http://toolsofknowledge.org/MaterialType/Iceland_spar"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/823474b8-e4ca-364f-8249-3193d8bd25ea">
+    <skos:prefLabel xml:lang="en">{"id": "feb9ffa2-1b75-4e90-ae8a-2ee4bffc2e8d", "value": "feather"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "bd067265-01ad-4fbe-9473-3e8ab81baee0", "value": "http://toolsofknowledge.org/MaterialType/feather"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ac44575c-9259-3631-a0cc-9bc5bc909a2a">
+    <dcterms:identifier xml:lang="en">{"id": "ce38f377-f28f-4875-8d65-57932211668a", "value": "http://toolsofknowledge.org/MaterialType/mother_of_pearl"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "b0aacbe4-11af-4437-9ab4-5dc89d91bb92", "value": "mother of pearl"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/65efbf6d-9598-3b9a-a6bf-cb36d636907e">
+    <dcterms:identifier xml:lang="en">{"id": "0f81924e-21d4-4cc3-a9cf-fddba8929d47", "value": "http://toolsofknowledge.org/MaterialType/coal_bituminous"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "035888b5-eeae-4839-95df-b3d78391cf14", "value": "coal, bituminous"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f77efe2a-9062-3dc2-9036-30c63894d4cb">
+    <dcterms:identifier xml:lang="en">{"id": "55c10141-040c-424f-9d04-7fe8f5dda04d", "value": "http://toolsofknowledge.org/MaterialType/beryl"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "bf509840-8715-483d-ba24-f9923f53336d", "value": "beryl"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d4085e90-66c0-331c-b483-a4e3e8dc3d63">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "f78f7070-1d45-471c-b508-ef77a9af4227", "value": "paper"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "ae06e952-f504-48e7-bf9b-97c7acd9611b", "value": "http://toolsofknowledge.org/MaterialType/paper"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6537f8e7-0760-3fd8-a77d-fc66cc790d66">
+    <dcterms:identifier xml:lang="en">{"id": "36331e3d-c937-42f5-87f4-302f43c91bc7", "value": "http://toolsofknowledge.org/MaterialType/tooth"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "49f40756-c530-482e-ba61-a22a19dd7594", "value": "tooth"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/108aa52e-802f-3fda-81fa-431916d338be">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "3f0e14c9-125c-4649-8e54-3af7af3c39d4", "value": "http://toolsofknowledge.org/MaterialType/lead"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "d608a99b-7d5a-44e2-b52e-b5cc5bc6047a", "value": "lead"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8d4402f2-c096-3dcb-855a-ef1a5a441332">
+    <dcterms:identifier xml:lang="en">{"id": "250d9c56-96b6-47c4-ba6a-0d1906148965", "value": "http://toolsofknowledge.org/MaterialType/oxidised"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "d8e5eae8-e535-4bc7-805d-e66ed37f308c", "value": "oxidised"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/99f964ac-ac00-3e23-a213-a57432feb3a9">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "b9a59f78-ba9f-435d-84a9-be40a60b415e", "value": "http://toolsofknowledge.org/MaterialType/ebony"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "e402ea1e-6d43-4b05-aaf8-062f392c4205", "value": "ebony"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c89e2755-24a6-3db7-97a3-7f053592f448">
+    <dcterms:identifier xml:lang="en">{"id": "c2b31719-04b5-450d-900a-3d5010d7535b", "value": "http://toolsofknowledge.org/MaterialType/white_metal"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "7c4dbcd3-531b-4e2c-a21a-1c18c60aa0fb", "value": "white metal"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5e276586-63d3-3e42-bd0e-966e5474bddf">
+    <dcterms:identifier xml:lang="en">{"id": "60170517-5d5b-4bfc-a362-ed3e7c52525b", "value": "http://toolsofknowledge.org/MaterialType/graphite"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "f04e93df-d005-4514-ae41-ba4ecc31b541", "value": "graphite"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e256ea41-9572-3cf9-a5f5-4bde6e0b1f8a">
+    <dcterms:identifier xml:lang="en">{"id": "c61b8fd1-969a-402e-8610-ce42209a34e8", "value": "http://toolsofknowledge.org/MaterialType/wool"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "c45ad988-3a74-41cf-be5a-f2d384a5928c", "value": "wool"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/19af53f1-fb5b-3e12-9f6c-0358f1c19fd1">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "2db80d27-6930-4dfc-a718-f724b9fa52fc", "value": "http://toolsofknowledge.org/MaterialType/coal_cannel"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "e2d52aaa-fc08-4abb-a479-616678dc31b6", "value": "coal, cannel"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ffb96dc4-119a-3693-bcbb-2d5fa7345067">
+    <skos:prefLabel xml:lang="en">{"id": "97f6ed57-6cb4-4a6f-8b4f-f128f745415b", "value": "anodised"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "e4a5b664-c07c-4789-9335-f448b6e2aa0f", "value": "http://toolsofknowledge.org/MaterialType/anodised"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f4ab124d-a2ff-3ab8-9f24-7268d217fa1f">
+    <skos:prefLabel xml:lang="en">{"id": "5c314869-ced7-43e7-8755-7bb1c0938517", "value": "beech"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "f15cfffc-d832-4993-a97c-33522f9eebe6", "value": "http://toolsofknowledge.org/MaterialType/beech"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/83b8d754-91fe-36a7-b192-9e410f0d26d1">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "e6525d9a-6ba7-4e41-906b-674cbc94898f", "value": "http://toolsofknowledge.org/MaterialType/rayskin"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "9084036d-ac9b-4938-89fd-8658c71b8555", "value": "rayskin"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2512a4e5-22a8-370a-9bb0-eef902d3326e">
+    <skos:prefLabel xml:lang="en">{"id": "85ff3263-5a3e-42e4-82f1-c5200704f5a4", "value": "Blue John"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "6cca0f12-571f-4c7a-badf-13dd62f5396e", "value": "http://toolsofknowledge.org/MaterialType/Blue_John"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/35bbef94-3404-3935-9879-1ffef3568768">
+    <skos:prefLabel xml:lang="en">{"id": "c9369a3e-3d6a-427a-b663-5c638862d41a", "value": "sponge"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "8b52fab1-f7d8-43e2-956b-79119e6a60b1", "value": "http://toolsofknowledge.org/MaterialType/sponge"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/05537be0-ab80-3d79-b1d0-5ec5c5e84f93">
+    <skos:prefLabel xml:lang="en">{"id": "84ee6d20-3417-439e-8b8e-1cfa22026466", "value": "cardboard"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "a7c0366d-7280-4455-a262-01db426944d0", "value": "http://toolsofknowledge.org/MaterialType/cardboard"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/470b9f8e-6041-3eb6-92fb-623c171e5d76">
+    <dcterms:identifier xml:lang="en">{"id": "4abf82d2-f2dd-495f-b155-20036026e1bd", "value": "http://toolsofknowledge.org/MaterialType/cotton_wool"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "a2b451cd-f4dc-4bb4-afe4-6c1c547816b3", "value": "cotton wool"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0eb71b9f-aa3a-35c8-8644-3860921526e4">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "cca8b2b1-163c-4a72-8013-fd87b5bf76dc", "value": "brass"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "d162fa82-7f8b-4900-b275-47603ec5f91b", "value": "http://toolsofknowledge.org/MaterialType/brass"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9d1c05f5-07c5-377e-a53b-a2cc75f9bb60">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "269ef89e-1559-4ceb-a199-f189de8e125d", "value": "http://toolsofknowledge.org/MaterialType/bell_metal"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "2cbc9db4-bd60-4a41-9f3b-a52a41e5a442", "value": "bell metal"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1f5f931c-cca4-399e-8f66-95854dda2f16">
+    <skos:prefLabel xml:lang="en">{"id": "6cfdae99-7c91-4c41-a09c-d8b336c8dd1d", "value": "chipboard"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "e6941572-c02a-4a15-a50c-769890b78a31", "value": "http://toolsofknowledge.org/MaterialType/chipboard"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e47958ec-0051-34be-a833-9fb30ce23e74">
+    <dcterms:identifier xml:lang="en">{"id": "220a308a-fd24-46b8-bb87-db6766abbcae", "value": "http://toolsofknowledge.org/MaterialType/rubber"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "6b6de55a-33b0-4caf-a2f1-0e22fb7abe03", "value": "rubber"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e213060d-3b1d-329f-b9db-9070fa0a4a31">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "8e81cd47-bc45-4119-837a-2d7f4009ce09", "value": "seeds"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "ba48935e-e4ce-432f-a3c2-3165c7fcbdff", "value": "http://toolsofknowledge.org/MaterialType/seeds"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/71f74bf8-75c1-396a-ac2d-465acf35300f">
+    <skos:prefLabel xml:lang="en">{"id": "b73863d3-9cd8-4eeb-b0a2-e6fc24f73dac", "value": "iron"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "3864b4ef-136f-457a-b50f-d4ba7eb1d5e7", "value": "http://toolsofknowledge.org/MaterialType/iron"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/57661403-2478-31e3-9284-a95f07bdb301">
+    <skos:prefLabel xml:lang="en">{"id": "66a963b5-0df6-4ee2-9aac-2aea7c32a4a8", "value": "stainless"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "b221fb32-379c-48df-8dea-27d51f331200", "value": "http://toolsofknowledge.org/MaterialType/stainless"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/346f0c52-6c76-3320-90d5-c4a9dad29a8d">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "66eed216-66fd-4e7b-a5e6-d627fbd7162f", "value": "tourmaline"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "50483321-392b-4bbb-9b22-8e7d637f32ae", "value": "http://toolsofknowledge.org/MaterialType/tourmaline"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/21b7dca7-5c3e-3c37-9b07-6c3b80ef2f61">
+    <dcterms:identifier xml:lang="en">{"id": "f6c2b144-8aab-4589-85c0-afe7cded7a4f", "value": "http://toolsofknowledge.org/MaterialType/Bactung_metal"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "996c2931-5cdb-4e3d-8a11-2de5275b0a3e", "value": "Bactung metal"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/1648b266-6d60-3faa-b2fa-a2d8c7667d54">
+    <skos:prefLabel xml:lang="en">{"id": "7620789b-ac03-435e-b379-8d1110bdf555", "value": "wax"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "9fab862f-8f97-49ac-9d14-f3f3a6790bc8", "value": "http://toolsofknowledge.org/MaterialType/wax"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9d854cd8-a5b3-3b3a-a061-6b10fc748d15">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "f774c14e-59b3-4eb9-924f-1cf85bf0c5a6", "value": "http://toolsofknowledge.org/MaterialType/fluorspar"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "c7415786-afed-4e3c-bec2-6cc860813bb3", "value": "fluorspar"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a4d350cd-de74-37db-9824-455f9cee0b3d">
+    <skos:prefLabel xml:lang="en">{"id": "361da718-e1c9-48b3-82cd-20ca1e45a5fa", "value": "fruitwood"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "08013dd6-933c-4e57-95d0-036253d18f62", "value": "http://toolsofknowledge.org/MaterialType/fruitwood"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d8465216-b549-3b35-9c42-93655f847867">
+    <skos:prefLabel xml:lang="en">{"id": "d3ee5aa1-459a-48fd-83dd-6924a84a4841", "value": "hide"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "963fa356-3ad8-4ebb-8d0c-03ec75270853", "value": "http://toolsofknowledge.org/MaterialType/hide"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/51882485-091a-3b46-8307-604e387a3fa3">
+    <skos:prefLabel xml:lang="en">{"id": "75fb8791-721b-4e51-958f-936fbb9d91eb", "value": "base metal"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "661b3ae9-7fd3-4e9d-b165-483428e94848", "value": "http://toolsofknowledge.org/MaterialType/base_metal"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ad18f23d-d89f-3ea8-aab8-e98d577e83f1">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "bac40152-3ed2-45d8-a91b-0ca41a2e0215", "value": "vellum"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "193147eb-0fc5-4ff9-bd08-175f9a97ad86", "value": "http://toolsofknowledge.org/MaterialType/vellum"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f48a1684-a765-3b5d-8d39-f73e9eac41bf">
+    <skos:prefLabel xml:lang="en">{"id": "b3711b65-ce9d-44b1-8b25-3431e4b7d830", "value": "chrome"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "3fd0c51c-10a1-4e05-9b96-18cf53e1b487", "value": "http://toolsofknowledge.org/MaterialType/chrome"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/06e3cc50-0057-32cc-81f7-096a1426ba65">
+    <dcterms:identifier xml:lang="en">{"id": "3ecbe678-1ab2-498e-b1d9-2080e8d2f956", "value": "http://toolsofknowledge.org/MaterialType/feldspar"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "5c31a225-a6c5-4ba5-b941-95a92d3b8ba3", "value": "feldspar"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/40361515-5f2a-3cf8-a214-05bff8fc864b">
+    <skos:prefLabel xml:lang="en">{"id": "4680df0a-4c71-4b24-aad3-f56f3ca1e84e", "value": "oak"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "1eaf9d43-d9b7-4d74-aa1b-6abc24045878", "value": "http://toolsofknowledge.org/MaterialType/oak"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/4f7b0908-52b6-352e-a8a0-da73049ffc84">
+    <skos:prefLabel xml:lang="en">{"id": "5a3096e9-9955-4684-be61-3094abdea000", "value": "steel"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6b183f53-74b5-45ea-82e4-f50ae3e24c66", "value": "http://toolsofknowledge.org/MaterialType/steel"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f51c912f-6805-315e-a132-473853e788dd">
+    <skos:prefLabel xml:lang="en">{"id": "de7eecf9-ae77-4228-8248-7c43b3b26ee5", "value": "maple"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "9a75a5d8-3e4a-4b59-8ab1-4316a8f277a5", "value": "http://toolsofknowledge.org/MaterialType/maple"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/efc2ec7b-0973-3648-bcb4-e70a6583404b">
+    <dcterms:identifier xml:lang="en">{"id": "81797cea-04d2-47bf-9140-fe9f798011cc", "value": "http://toolsofknowledge.org/MaterialType/bone"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "7c59ed60-b9fb-4cd9-ab62-6ef65f54e928", "value": "bone"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/13ac1f8f-5247-3f03-a637-44941be33ab8">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "2913082c-76a1-4452-a7e0-4b286c828568", "value": "http://toolsofknowledge.org/MaterialType/amber"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "dee1fa89-957b-48cd-9a84-291fb172d5fe", "value": "amber"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/81769a99-4513-3c37-bf6a-352d81641766">
+    <dcterms:identifier xml:lang="en">{"id": "196ae992-f2a9-4c20-a73d-89f2c96d85d6", "value": "http://toolsofknowledge.org/MaterialType/fish_skin"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "ded5b9c6-3abd-449b-a767-4a79d8cdc966", "value": "fish skin"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/799dfa29-37bb-3eeb-a9d0-f791122a5b9f">
+    <skos:prefLabel xml:lang="en">{"id": "9b58d9f2-5578-473d-9a43-e7eb96ecfa4e", "value": "hardwood"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "1c1f5e6e-5ea4-4573-a26a-0830b117f87a", "value": "http://toolsofknowledge.org/MaterialType/hardwood"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5f21b951-2552-3524-b3e5-398a8e077f19">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "bfb4bcfb-c511-413f-9919-15f22919a9e0", "value": "http://toolsofknowledge.org/MaterialType/lodestone"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "d5010d5f-5e8f-4080-980c-59bd69596aa9", "value": "lodestone"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/198749d0-0f8c-3d92-bc0f-43b08b8972c7">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "e8f0f819-788e-4b54-8068-2af92a750bf3", "value": "clay"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "9de88a1d-0003-436f-b3e0-3835f96b9f1d", "value": "http://toolsofknowledge.org/MaterialType/clay"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d588173e-d376-372d-a394-606c01ccacfb">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "97c72309-6a93-4f00-86c4-7b05d240be7d", "value": "gold"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "c005dd98-4e4e-4d14-ac70-1278f8b4115d", "value": "http://toolsofknowledge.org/MaterialType/gold"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/e70f1370-eaf4-3ab6-b525-5e58be1ec1fc">
+    <skos:prefLabel xml:lang="en">{"id": "9cc86485-b0b8-4c19-a2ae-807243937478", "value": "bronze"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "b61a43be-2123-49c2-a1b2-718659eb6140", "value": "http://toolsofknowledge.org/MaterialType/bronze"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/20c42827-aaff-373b-9cf9-5ac33165e745">
+    <dcterms:identifier xml:lang="en">{"id": "574d297e-d2e7-401f-b740-82fb7bd65dcc", "value": "http://toolsofknowledge.org/MaterialType/bristle"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "a6e02c21-feed-46ef-b1f8-a072f7ac7d0e", "value": "bristle"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7baf3e8d-8168-3e55-9546-40a700597beb">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "8431b7bf-7e52-44d9-80fd-8269ebeb80a4", "value": "red mineral"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "c7a609ca-8726-44be-bfb9-fd776d4e2cf1", "value": "http://toolsofknowledge.org/MaterialType/red_mineral"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/8d27e586-9501-3cf7-a000-08590727533a">
+    <skos:prefLabel xml:lang="en">{"id": "ceee1cef-c9e0-432d-b113-11aa23e7af94", "value": "linen"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "710bfbe5-8c49-439a-af17-06577cec3600", "value": "http://toolsofknowledge.org/MaterialType/linen"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d0f80912-240c-30ee-a865-a980d241a11d">
+    <dcterms:identifier xml:lang="en">{"id": "f263dfdd-7e55-4603-ab68-b37616da84a5", "value": "http://toolsofknowledge.org/MaterialType/borax"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "8ec6b9b5-fed9-40d3-b9b5-a0ccfa986178", "value": "borax"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/679532fb-c4fe-3857-8fa4-23c16bbcc9a3">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "be1bd8b0-29c3-4029-a9df-de7ad1e600c5", "value": "limestone"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "94421ba6-71c1-4eab-bcfa-9a3b4c32a5c9", "value": "http://toolsofknowledge.org/MaterialType/limestone"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/44220627-3de4-368e-8e40-e6eff1cabdfd">
+    <skos:prefLabel xml:lang="en">{"id": "ba2ec36d-8589-49ee-bc62-af0d006f4f5b", "value": "hessian"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "8c2d3518-4bf2-4481-b12b-448d3d9ee3cd", "value": "http://toolsofknowledge.org/MaterialType/hessian"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2217ed47-da3b-3754-ab6b-1e32c03b4657">
+    <skos:prefLabel xml:lang="en">{"id": "f9da3c18-2f51-4beb-87f3-2559e3561e90", "value": "sapphire"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "0b375260-9803-426c-b1c4-9656aef522dd", "value": "http://toolsofknowledge.org/MaterialType/sapphire"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/270c37f0-7970-3941-9449-7350d12bd1d2">
+    <dcterms:identifier xml:lang="en">{"id": "1dfc6e1c-430a-42f6-a75c-473b4666202a", "value": "http://toolsofknowledge.org/MaterialType/cast"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "e7288161-8dbf-4a2b-984c-39b4b147211e", "value": "cast"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b22c28cb-3aac-3924-b4fa-df9edfaa2aab">
+    <dcterms:identifier xml:lang="en">{"id": "a076ed6c-c5c8-4c68-aadc-a5c7cc1946d4", "value": "http://toolsofknowledge.org/MaterialType/pigskin"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "bd099012-a0b7-42f1-a0df-4b06a6207408", "value": "pigskin"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f6bdcf1e-c3c5-3596-b87d-eee31627b682">
+    <skos:prefLabel xml:lang="en">{"id": "86734e9c-d06c-4729-b0c1-90555fc36bba", "value": "rosewood"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "c26f0566-777c-49e0-86c0-3fda2c4dc018", "value": "http://toolsofknowledge.org/MaterialType/rosewood"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3530cae7-85a5-31bf-89ff-08cf8338267c">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "3bbc7502-59c2-4a2c-880a-3bbdb6a13263", "value": "http://toolsofknowledge.org/MaterialType/horn"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "1ca96b95-5fb6-450b-8402-a9cc5155d3b0", "value": "horn"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d3b6795d-2047-3cbb-9c8c-5ace8c95641e">
+    <skos:prefLabel xml:lang="en">{"id": "3afbb5fe-b560-4aed-b0c2-7550bd91ddd7", "value": "marble"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "f21008b8-05ec-4d96-84ff-4ebdd770269c", "value": "http://toolsofknowledge.org/MaterialType/marble"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ac2427ac-f618-33cf-8e9d-0e187644038f">
+    <skos:prefLabel xml:lang="en">{"id": "0ab71c60-7e3c-439e-9602-0089bf1a61f8", "value": "silver"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "0c7a1119-1949-402d-bea4-080b11ce07f7", "value": "http://toolsofknowledge.org/MaterialType/silver"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/15a293ba-5b65-3b56-82a7-513efd1f9616">
+    <skos:prefLabel xml:lang="en">{"id": "d5bad86c-3e40-4612-8b0e-1a49d2ed187e", "value": "suede"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "c0c04f4e-002c-4857-8b0a-35f284f0d81b", "value": "http://toolsofknowledge.org/MaterialType/suede"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/0d06b15a-cb27-34a7-b394-09284e848d69">
+    <dcterms:identifier xml:lang="en">{"id": "cbd3cd73-f44b-4b71-b6bb-095547dfc942", "value": "http://toolsofknowledge.org/MaterialType/resin"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "5c0156a8-ec92-4f36-87a7-ba21c83ae0c6", "value": "resin"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3136f757-0686-3f17-a900-c981d2caf3a6">
+    <skos:prefLabel xml:lang="en">{"id": "a88acbf3-df94-4ad9-9855-b57fc78ac5f0", "value": "phosphor"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "f8c8515f-17ca-4105-9be5-4e3191a3f734", "value": "http://toolsofknowledge.org/MaterialType/phosphor"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/7818a521-7ff2-3e59-9909-b133e3e74616">
+    <skos:prefLabel xml:lang="en">{"id": "ea0cf028-7858-4191-9e65-12dca3f0652a", "value": "fossils"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "20cd4c9c-cd2f-43e4-9b86-4f9ed134e8ce", "value": "http://toolsofknowledge.org/MaterialType/fossils"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9e7468f5-d8d0-3847-a594-d925f4d68fc4">
+    <skos:prefLabel xml:lang="en">{"id": "3fc83c9f-6575-423f-84a4-395b78fb7b9a", "value": "lignum vitae"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "d819de6d-a8e0-42c3-bded-58892829af9e", "value": "http://toolsofknowledge.org/MaterialType/lignum_vitae"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2f21cbc8-c800-3345-9a3a-483e8edfae0f">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "a36f5814-fe04-4cff-9973-a48d89deeb49", "value": "ebonised wood"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "e4402cc9-7a75-4f46-b59d-478f6423345b", "value": "http://toolsofknowledge.org/MaterialType/ebonised_wood"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b4bbf9ce-6b00-3994-b33f-f76095c7ccd2">
+    <dcterms:identifier xml:lang="en">{"id": "aad02098-128f-4f75-a1a4-83f9af565ef6", "value": "http://toolsofknowledge.org/MaterialType/leaf"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "3eebc94e-b018-452b-8c93-b18a55f3be48", "value": "leaf"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/306d0182-9256-306d-9423-cd132b8e7da0">
+    <dcterms:identifier xml:lang="en">{"id": "b8542273-a160-42c1-b655-7f42911b8008", "value": "http://toolsofknowledge.org/MaterialType/flint"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "1180661a-41d6-4a78-8217-35e4da1038e5", "value": "flint"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/294c2104-dd1f-3fc7-91ad-77fb42a0692b">
+    <dcterms:identifier xml:lang="en">{"id": "dab5469a-42f8-49cb-8fe5-0bf19c49d3c6", "value": "http://toolsofknowledge.org/MaterialType/red_crystal"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "d8654684-ce8f-4e77-aa0f-1c5f9cf2b302", "value": "red crystal"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/414572e8-ab65-3795-ba42-c1c5bbf6c915">
+    <dcterms:identifier xml:lang="en">{"id": "8fb50ce8-e057-4b79-a836-1b0d481b0458", "value": "http://toolsofknowledge.org/MaterialType/skin"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "253d072c-6567-4b77-818f-f4162f6e174b", "value": "skin"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ed5c7114-b3cb-3413-91e5-d1bcc3a7f7d9">
+    <skos:prefLabel xml:lang="en">{"id": "36cc4756-024f-45eb-8532-fcbed2b5380f", "value": "boxwood"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <dcterms:identifier xml:lang="en">{"id": "2911f4e3-9014-4348-b12f-b8e393b7c16a", "value": "http://toolsofknowledge.org/MaterialType/boxwood"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/073571ac-efb3-3279-9769-f69caeb6dd0f">
+    <skos:prefLabel xml:lang="en">{"id": "dfbba4eb-26e4-478b-bef3-d457819038e2", "value": "black metal"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "df742517-b420-4384-aa29-036c7f1b5154", "value": "http://toolsofknowledge.org/MaterialType/black_metal"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9462b069-c836-3517-82ec-2d13ac6e0b85">
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "40bbd27d-3415-45f1-ba40-db545278c6d4", "value": "silk"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "5c389af7-28ac-4c3c-9162-5120f45cf3b1", "value": "http://toolsofknowledge.org/MaterialType/silk"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2a772e4c-bc9a-3580-83da-398a9b9bb24d">
+    <dcterms:identifier xml:lang="en">{"id": "0c55088d-8aef-4c47-a035-436ddc6a1f59", "value": "http://toolsofknowledge.org/MaterialType/bronzed"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/032b32b3-05e4-3a9a-b096-cd3d3af69d0a"/>
+    <skos:prefLabel xml:lang="en">{"id": "b3b66c99-51ca-473a-a4ba-c946fed26f0c", "value": "bronzed"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

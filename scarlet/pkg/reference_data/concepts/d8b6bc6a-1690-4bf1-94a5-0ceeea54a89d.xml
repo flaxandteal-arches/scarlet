@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/bb779ade-3d25-48af-a8ec-ec3fe6e69ddf">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5831efcf-7b33-44a3-a93f-55ccf96379ca">
+        <skos:prefLabel xml:lang="en">{"id": "96cc8215-ce3c-4da8-8db6-9b694598c128", "value": "Charitable Support"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/d8b6bc6a-1690-4bf1-94a5-0ceeea54a89d"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/d8b6bc6a-1690-4bf1-94a5-0ceeea54a89d">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/405fc241-b97c-40f2-a359-3bbf3db390cd"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/bb779ade-3d25-48af-a8ec-ec3fe6e69ddf"/>
+        <dcterms:title xml:lang="en">{"id": "e0fc66a9-043d-4b14-8092-442f8c43d87b", "value": "Freed Mode"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/521d4fd2-4b67-4c95-9659-ec864ed94ae8"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/71fb84ad-05ad-42bc-8b80-a09e5dee7df7">
+        <skos:inScheme rdf:resource="http://localhost:8000/d8b6bc6a-1690-4bf1-94a5-0ceeea54a89d"/>
+        <skos:prefLabel xml:lang="en">{"id": "a9125a79-a131-495c-a8da-276d0d146936", "value": "Reduced Fees"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "803ff382-dd82-492c-9e10-178c43ddf419", "value": "Purchase"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/521d4fd2-4b67-4c95-9659-ec864ed94ae8">
+    <skos:inScheme rdf:resource="http://localhost:8000/d8b6bc6a-1690-4bf1-94a5-0ceeea54a89d"/>
+    <skos:prefLabel xml:lang="en">{"id": "0a193277-13d0-426d-a6bc-b674c4c2406c", "value": "Examination"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/405fc241-b97c-40f2-a359-3bbf3db390cd">
+    <skos:inScheme rdf:resource="http://localhost:8000/d8b6bc6a-1690-4bf1-94a5-0ceeea54a89d"/>
+    <skos:prefLabel xml:lang="en">{"id": "dd8457a7-0007-4409-81ec-76b47cd4fae2", "value": "Patrimony"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
